@@ -1,46 +1,11 @@
-<?xml version="1.0"?>
-<liturgia>
-<ligne id="0">
-<style>liturgie_titre</style>
-<la>Antiphona finale ad Beatam Mariam Virginem</la>
-<fr>Antienne finale &#xE0; la Bienheureuse Vierge Marie</fr>
-</ligne>
-<ligne id="1">
-<la>Salve, Reg&#xED;na, mater miseric&#xF3;rdi&#xE6;;</la><fr>Salut, &#xF4; Reine, m&#xE8;re de la mis&#xE9;ricorde,</fr></ligne>
-<ligne id="2">
-<la>&#xD;
-vita, dulc&#xE9;do et spes nostra, salve.</la><fr>&#xD;
-vie, douceur et notre esp&#xE9;rance, salut&#xA0;!</fr></ligne>
-<ligne id="3">
-<la>&#xD;
-Ad te clam&#xE1;mus, &#xE9;xsules f&#xED;lii Ev&#xE6;.</la><fr>&#xD;
-Enfants d&#x92;'&#xC8;ve exil&#xE9;s, nous crions vers vous.</fr></ligne>
-<ligne id="4">
-<la>&#xD;
-Ad te suspir&#xE1;mus, gem&#xE9;ntes et flentes</la><fr>&#xD;
-Vers vous, nous soupirons parmi les cris et les pleurs</fr></ligne>
-<ligne id="5">
-<la>&#xD;
-in hac lacrim&#xE1;rum valle.</la><fr>&#xD;
-de cette vall&#xE9;e de larmes.</fr></ligne>
-<ligne id="6">
-<la>&#xD;
-Eia ergo, advoc&#xE1;ta nostra,</la><fr>&#xD;
-O vous notre avocate,</fr></ligne>
-<ligne id="7">
-<la>&#xD;
-illos tuos miseric&#xF3;rdes &#xF3;culos ad nos conv&#xE9;rte.</la><fr>&#xD;
-tournez vers nous votre regard plein de mis&#xE9;ricorde.</fr></ligne>
-<ligne id="8">
-<la>&#xD;
-Et Iesum, bened&#xED;ctum fructum ventris tui,</la><fr>&#xD;
-Et J&#xE9;sus, le fruit b&#xE9;ni de vos entrailles,</fr></ligne>
-<ligne id="9">
-<la>&#xD;
-nobis post hoc exs&#xED;lium ost&#xE9;nde.</la><fr>&#xD;
-Montrez-Le nous &#xE0; l'&#x92;issue de cet exil.</fr></ligne>
-<ligne id="10">
-<la>&#xD;
-O clemens, o pia, o dulcis Virgo Mar&#xED;a.</la><fr>&#xD;
-O cl&#xE9;mente, &#xF4; bonne, &#xF4; douce vierge Marie.</fr></ligne>
-</liturgia>
+<?xml version="1.0" encoding="UTF-8"?>
+<liturgia><ligne id="0"><la>Antiphona finale ad Beatam Mariam Virginem</la><fr>Antienne finale à la Bienheureuse Vierge Marie</fr></ligne><ligne id="1"><la>Salve, Regína, mater misericórdiæ;</la><fr>Salut, ô Reine, mère de la miséricorde,</fr></ligne><ligne id="2"><la>
+vita, dulcédo et spes nostra, salve.</la><fr>vie, douceur et notre espérance, salut !</fr></ligne><ligne id="3"><la>
+Ad te clamámus, éxsules fílii Evæ.</la><fr>Enfants d'Ève exilés, nous crions vers vous.</fr></ligne><ligne id="4"><la>
+Ad te suspirámus, geméntes et flentes</la><fr>Vers vous, nous soupirons parmi les cris et les pleurs</fr></ligne><ligne id="5"><la>
+in hac lacrimárum valle.</la><fr>de cette vallée de larmes.</fr></ligne><ligne id="6"><la>
+Eia ergo, advocáta nostra,</la><fr>O vous notre avocate,</fr></ligne><ligne id="7"><la>
+illos tuos misericórdes óculos ad nos convérte.</la><fr>tournez vers nous votre regard plein de miséricorde.</fr></ligne><ligne id="8"><la>
+Et Iesum, benedíctum fructum ventris tui,</la><fr>Et Jésus, le fruit béni de vos entrailles,</fr></ligne><ligne id="9"><la>
+nobis post hoc exsílium osténde.</la><fr>Montrez-Le nous à l'issue de cet exil.</fr></ligne><ligne id="10"><la>
+O clemens, o pia, o dulcis Virgo María.</la><fr>O clémente, ô bonne, ô douce vierge Marie.</fr></ligne></liturgia>
