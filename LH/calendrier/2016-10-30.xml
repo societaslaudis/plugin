@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXI per annum</la></hebdomada>
+<intitule><la>Dominica XXXI per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>0,65</phase_lunaire>
+<age_lunaire>28</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_XXXI_per_annum</Llec1>
+<Lrep1>R1_Dominica_XXXI_per_annum</Lrep1>
+<Llec2>L2_Dominica_XXXI_per_annum</Llec2>
+<Lrep2>R2_Dominica_XXXI_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ <ant1>AN_Mirabilis_in_altis</ant1>
+ <ps1>ps92</ps1>
+ <ant2>AN_Laudabilis_es_Domine</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Laudate_Dominum_de</ant3>
+ <ps3>ps148</ps3>
+ <LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> 
+<benedictus>AN_Hodie_salus_domui</benedictus>
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_De_tribulatione_invocavi</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Dextera_Domini_fecit</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Rom_8_15-16</LB_3>
+
+<RB_3>VERS_Apud_te_Domine</RB_3>
+
+<LB_6>LB_Rom_8,_22-23</LB_6>
+
+<RB_6>VERS_In_aeternum</RB_6>
+
+<LB_9/>
+
+<RB_9/>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica XXXI per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+
+<magnificat>AN_Venit_Filius_hominis</magnificat>
+
+<vepres_preces>perannum_31</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Misereris_omnium</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_et_misericors_Deus_de_cuius</COL>			
+	
+<LEC1>Sg11,22-12,2</LEC1>	
+	
+<PS1>GR_Suscepimus</PS1>
+	
+<LEC2>2Th1,11-2,2</LEC2>
+	
+<PS2>AL_O_quam_bonus</PS2>
+	
+<SEQ/>
+	
+<EV>Lc19,1-10</EV>
+	
+<OF>OF_Benedic_anima_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Notas_mihi_fecisti</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bse Bienvenue Bojani</intitule>
+ <biographiecourte>D'une famille illustre, elle se sanctifia par la pri&#xE8;re et le service des pauvres, comme tertiaire dominicaine (&#x2020;1292)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 30 octobre</para><para>1. &#xC0; Syracuse en Sicile, peut-&#xEA;tre au IIe si&#xE8;cle saint Marcien, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>2. Comm&#xE9;moraison de saint S&#xE9;rapion, &#xE9;v&#xEA;que d&#x2019;Antioche, qui s&#x2019;illustra par son &#xE9;rudition et sa doctrine, et laissa &#xE0; sa mort, vers 211, une renomm&#xE9;e de saintet&#xE9; non moins &#xE9;clatante. </para><para>3. &#xC0; Alexandrie, au IIIe si&#xE8;cle, sainte Eutropie, martyre, qui, ayant refus&#xE9; de renier le Christ, fut tortur&#xE9;e atrocement jusqu&#x2019;&#xE0; rendre l&#x2019;&#xE2;me. </para><para>4. &#xC0; Tanger en Maur&#xE9;tanie, l&#x2019;an&#xA0;298, la passion de saint Marcel le centurion. Le jour anniversaire de l&#x2019;empereur, alors que tous sacrifiaient, il jeta devant les enseignes son ceinturon militaire, ses armes et sa vie m&#xEA;me, en d&#xE9;clarant qu&#x2019;il &#xE9;tait chr&#xE9;tien et qu&#x2019;il ne lui &#xE9;tait plus possible d&#x2019;ob&#xE9;ir comme il convient au serment des soldats, mais &#xE0; J&#xE9;sus Christ seul&#xA0;; aussi acheva-t-il son martyre par la d&#xE9;capitation. </para><para>5. &#xC0; Le&#xF3;n en Espagne, vers 303, les saints martyrs Claude, Luperque et Victorius, mis &#xE0; mort pour le nom du Christ dans la pers&#xE9;cution de Diocl&#xE9;tien. </para><para>6. &#xC0; Cumes en Campanie, l&#x2019;an&#xA0;303, saint Maxime, martyr. </para><para>7. &#xC0; Capoue, &#xE9;galement en Campanie, vers 540, saint Germain, &#xE9;v&#xEA;que, dont le pape saint Gr&#xE9;goire le Grand a parl&#xE9; dans ses &#xE9;crits. </para><para>8. &#xC0; Potenza en Lucanie, l&#x2019;an&#xA0;1112, saint G&#xE9;rard, &#xE9;v&#xEA;que. </para><para>9*. &#xC0; Cividale dans le Frioul, en 1292, la bienheureuse Bienvenue Boiani, vierge, s&#x153;ur de la P&#xE9;nitence de Saint-Dominique, qui se donna tout enti&#xE8;re &#xE0; la pri&#xE8;re et aux aust&#xE9;rit&#xE9;s. </para><para>10*. &#xC0; Winchester en Angleterre, l&#x2019;an&#xA0;1583, le bienheureux Jean Slade, martyr. Parce qu&#x2019;il avait refus&#xE9; de reconna&#xEE;tre la supr&#xE9;matie de la reine &#xC9;lisabeth I&#xE8;re dans le domaine spirituel, il fut pendu au gibet et affreusement d&#xE9;membr&#xE9;. </para><para>11*. &#xC0; Limerick en Irlande, l&#x2019;an&#xA0;1651, la passion du bienheureux T&#xE9;rence-Albert O&#x2019;Brien, &#xE9;v&#xEA;que et martyr, de l&#x2019;Ordre des Pr&#xEA;cheurs. &#xC0; la t&#xEA;te de l&#x2019;&#xC9;glise de Hemly, il se d&#xE9;pensa pour soigner les gens atteints de la peste, mais, arr&#xEA;t&#xE9; par des soldats, sous le r&#xE9;gime du Protecteur Cromwell, il fut conduit au gibet en haine du sacerdoce et de la foi catholique. </para><para>12*. &#xC0; Acri en Calabre, l&#x2019;an&#xA0;1799, le bienheureux Ange, pr&#xEA;tre capucin, qui parcourut infatigablement le royaume de Naples en pr&#xEA;chant la parole de Dieu dans un langage accessible aux gens simples. </para><para>13*. &#xC0; Angers, en 1793, le bienheureux Jean-Michel Langevin, pr&#xEA;tre et martyr. Alors que la terreur r&#xE9;gnait en France, sous la R&#xE9;volution, il fut guillotin&#xE9; &#xE0; cause de son sacerdoce, premier d&#x2019;une troupe d&#x2019;une centaine d&#x2019;hommes et de femmes qui demeur&#xE8;rent unanimes dans la foi du Christ et t&#xE9;moign&#xE8;rent fermement et sans peur jusqu&#x2019;&#xE0; la mort. </para><para>14*. Au camp de travail de Dolinka pr&#xE8;s de Karaganda dans le Kazakhstan, en 1963, le bienheureux Alexis Zaryckyj, pr&#xEA;tre de Lwow et martyr, qui fut d&#xE9;port&#xE9;, sous le r&#xE9;gime sovi&#xE9;tique ath&#xE9;e, et mourut pour la foi. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

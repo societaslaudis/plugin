@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXIV per annum</la></hebdomada>
+<intitule><la>In Praesentatione B. Mariae Virginis</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>54,91</phase_lunaire>
+<age_lunaire>21</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Festivitatem_beatae_Mariae</invitatoire>
+<HYMNUS_lectures>hy_Dies_irae_dies_illa</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1>AN_Inclina_ad_me</antL1>
+<psL1>ps30I</psL1>
+<antL2>AN_Illumina_faciem_tuam</antL2>
+<psL2>ps30II</psL2>
+<antL3>AN_Benedictus_Dominus_quoniam</antL3>
+<psL3>ps30III</psL3>
+<LVers>VERS_Dirige_me</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_In_Praesentatione_B._Mariae_Virginis</Llec1>
+<Lrep1>R1_In_Praesentatione_B._Mariae_Virginis</Lrep1>
+<Llec2>L2_In_Praesentatione_B._Mariae_Virginis</Llec2>
+<Lrep2>R2_In_Praesentatione_B._Mariae_Virginis</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_O_gloriosa_domina</HYMNUS_laudes>
+ <ant1>AN_Quando_veniam_et</ant1>
+ <ps1>ps41</ps1>
+ <ant2>AN_Ostende_nobis_Domine</ant2>
+ <ps2>AT15</ps2>
+ <ant3>AN_Benedictus_es_Domine</ant3>
+ <ps3>ps18A</ps3>
+ <LB_matin>LB_Cf._Is_61_10</LB_matin> 
+ <RB_matin>RB_Elegit_eam_Dominus_Et</RB_matin> 
+<benedictus>AN_Beata_es_Maria</benedictus>
+<laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Sanctissimae_venerantibus_Virginis_Mariae_memoriam_gloriosam</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Beati_qui_audiunt</ant4>
+
+<ps4>ps118VI</ps4>
+
+<ant5>AN_Meus_cibus_est</ant5>
+
+<ps5>ps39I</ps5>
+
+<ant6>AN_Pauper_sum_ego;</ant6>
+
+<ps6>ps39II</ps6>
+
+<LB_3>LB_Ier_31_33</LB_3>
+
+<RB_3>VERS_Cor_mundum</RB_3>
+
+<LB_6>LB_Ier_32_40</LB_6>
+
+<RB_6>VERS_In_Deo</RB_6>
+
+<LB_9>LB_Ez_34_31</LB_9>
+
+<RB_9>VERS_Dominus_regit</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la>IN PR&#xC6;SENTATIONE BEAT&#xC6; MARI&#xC6; VIRGINIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Mole_gravati_criminum</HYMNUS_vepres>
+
+<ant7>AN_Speciosus_forma_prae</ant7>
+
+<ps7>ps44I</ps7>
+
+<ant8>AN_Ecce_Sponsus_venit</ant8>
+
+<ps8>ps44II</ps8>
+
+<ant9>AN_Proposuit_Deus_in</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Gal_4_4-5</LB_soir>
+
+<RB_soir>RB_Ave_Maria_gratia_plena;_</RB_soir>
+
+<magnificat>AN_Beata_Dei_Genetrix</magnificat>
+
+<vepres_preces>perannum_22</vepres_preces>
+
+<oratio_vepres>COL_Sanctissimae_venerantibus_Virginis_Mariae_memoriam_gloriosam</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Vultum_tuum</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Sanctissimae_venerantibus_Virginis_Mariae_memoriam_gloriosam</COL>			
+	
+<LEC1>Za2,14-17</LEC1>	
+	
+<PS1>GR_Concupivit_rex</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Adorabo</PS2>
+	
+<SEQ/>
+	
+<EV>Mt12,46-50</EV>
+	
+<OF>OF_Afferentur_post_eam</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Diffusa_est_gratia</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>1964 : Proclamation de Marie &#xAB; M&#xE8;re de l'Eglise &#xBB; par Paul VI au milieu du Concile Vatican II </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e de soutien mat&#xE9;riel aux religieuses clo&#xEE;tr&#xE9;es</intitule></journeesdediees>
+
+<biographie>
+ <intitule>Pr&#xE9;sentation de la Bienheureuse Vierge Marie</intitule>
+ <biographiecourte>Marie aurait v&#xE9;cu au Temple d&#xE8;s l'&#xE2;ge de 3 ans, jusqu'&#xE0; son mariage, devenant ainsi le mod&#xE8;le de tous les religieux</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 21 novembre</para><para>1. M&#xE9;moire de la Pr&#xE9;sentation de la Vierge Marie. Au lendemain de la d&#xE9;dicace de la basilique Sainte-Marie-la-Neuve pr&#xE8;s du mur du Temple de J&#xE9;rusalem, l&#x2019;&#xC9;glise c&#xE9;l&#xE8;bre la cons&#xE9;cration que fit d&#x2019;elle-m&#xEA;me &#xE0; Dieu d&#xE8;s son enfance la future m&#xE8;re de Dieu, sous l&#x2019;action de l&#x2019;Esprit Saint, dont la gr&#xE2;ce l&#x2019;avait combl&#xE9;e d&#xE8;s sa conception immacul&#xE9;e.</para><para>2. Comm&#xE9;moraison de saint Rufus, que l&#x2019;Ap&#xF4;tre saint Paul, &#xE9;crivant aux Romains, d&#xE9;clare choisi par le Seigneur. </para><para>3. &#xC0; Parenzo en Istrie, saint Maur, &#xE9;v&#xEA;que et martyr, vers 300.</para><para>4. &#xC0; C&#xE9;sar&#xE9;e de Palestine, en 306, saint Agapios, martyr. D&#xE9;j&#xE0; soumis plus d&#x2019;une fois &#xE0; des tortures, mais toujours diff&#xE9;r&#xE9; pour de plus hauts combats, il fut livr&#xE9; dans les jeux de l&#x2019;amphith&#xE9;&#xE2;tre devant l&#x2019;empereur Maxime lui-m&#xEA;me, en l&#x2019;honneur de son anniversaire, pour &#xEA;tre d&#xE9;vor&#xE9; par des ours et le lendemain, alors qu&#x2019;il respirait encore, on lui attacha des pierres aux pieds et on le jeta &#xE0; la mer. </para><para>5. &#xC0; Rome, pr&#xE8;s de saint Pierre, en 498, saint G&#xE9;lase Ier, pape, c&#xE9;l&#xE8;bre par sa doctrine et sa saintet&#xE9;. Pour que l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise n&#x2019;ait pas &#xE0; souffrir de l&#x2019;autorit&#xE9; imp&#xE9;riale, il illustra la premi&#xE8;re &#xE0; fond les propri&#xE9;t&#xE9;s des deux pouvoirs et leur libert&#xE9; r&#xE9;ciproque&#xA0;; avec une extr&#xEA;me charit&#xE9;, pouss&#xE9;e par les besoins des indigents, pour pouvoir soulager les pauvres, il mourut dans la plus grande pauvret&#xE9;. </para><para>6. &#xC0; C&#xE9;s&#xE8;ne en Flaminie, vers 924, saint Maur, &#xE9;v&#xEA;que.</para><para>7*. &#xC0; Rome, en 1902, la bienheureuse Marie de J&#xE9;sus Bon Pasteur (Fran&#xE7;oise de Siedlinska), vierge. Apr&#xE8;s son d&#xE9;part de Pologne, &#xE0; cause des difficult&#xE9;s que connaissait le pays, elle fonda &#xE0; Rome l&#x2019;Institut des S&#x153;urs de la Sainte Famille de Nazareth pour venir en aide aux &#xE9;migr&#xE9;s de sa patrie.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada III Adventus</la></hebdomada>
+<intitule><la>S. Luciae, virginis et martyris</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>98,26</phase_lunaire>
+<age_lunaire>13</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1>AN_Exsurgit_Deus_et</antL1>
+<psL1>ps67I</psL1>
+<antL2>AN_Deus_noster_Deus</antL2>
+<psL2>ps67II</psL2>
+<antL3>AN_Regna_terrae_cantate</antL3>
+<psL3>ps67III</psL3>
+<LVers>VERS_Audiam_quid</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Luciae_virginis_et_martyris</Llec1>
+<Lrep1>R1_S._Luciae_virginis_et_martyris</Lrep1>
+<Llec2>L2_S._Luciae_virginis_et_martyris</Llec2>
+<Lrep2>R2_S._Luciae_virginis_et_martyris</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Martyr_Dei</HYMNUS_laudes>
+ <ant1>AN_Benedixisti_Domine_terram</ant1>
+ <ps1>ps84</ps1>
+ <ant2>AN_Anima_mea_desideravit</ant2>
+ <ps2>AT20</ps2>
+ <ant3>AN_Illumina_Domine_vultum</ant3>
+ <ps3>ps66</ps3>
+ <LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ <RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin> 
+<benedictus>AN_Ego_humilis_ancilla</benedictus>
+<laudes_preces>perannum_33</laudes_preces><oratio_laudes>COL_Intercessio_nos_quaesumus_Domine_sanctae_Luciae</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps118XIII</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps73I</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps73II</ps6>
+
+<LB_3>LB_Ier_23_5</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Ier_23_6</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Cf.Ez_34_15-16</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la>S. LUCI&#xC6;, VIRGINIS ET MARTYRIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Deus_tuorum_militum</HYMNUS_vepres>
+
+<ant7>AN_Dominus_in_circuitu</ant7>
+
+<ps7>ps124</ps7>
+
+<ant8>AN_Nisi_efficiamini_sicut</ant8>
+
+<ps8>ps130</ps8>
+
+<ant9>AN_Fecisti_nos_Domine</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+
+<RB_soir>RB_Probasti_nos_Deus_Et</RB_soir>
+
+<magnificat>AN_In_tua_patientia</magnificat>
+
+<vepres_preces>perannum_33</vepres_preces>
+
+<oratio_vepres>COL_Intercessio_nos_quaesumus_Domine_sanctae_Luciae</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio/>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Dilexisti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Intercessio_nos_quaesumus_Domine_sanctae_Luciae</COL>			
+	
+<LEC1>2Co10,17-11,2</LEC1>	
+	
+<PS1>GR_Dilexisti</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Diffusa_est_gratia</PS2>
+	
+<SEQ/>
+	
+<EV>Mt25,1-13</EV>
+	
+<OF>OF_Afferentur_proximae</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Principes</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Lucie, vierge et martyre</intitule>
+ <biographiecourte>Vierge et martyre &#xE0; Syracuse. V&#xE9;n&#xE9;r&#xE9;e sp&#xE9;cialement dans les pays nordiques (&#x2020;304)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 13 d&#xE9;cembre</para><para>1. M&#xE9;moire de sainte Lucie, vierge et martyre &#xE0; Syracuse en Sicile, vers&#xA0;300. Tant qu&#x2019;elle v&#xE9;cut, elle garda sa lampe allum&#xE9;e pour aller au-devant de l&#x2019;&#xC9;poux et, conduite &#xE0; la mort pour le Christ, elle m&#xE9;rita d&#x2019;entrer avec lui dans la salle des noces et de poss&#xE9;der la lumi&#xE8;re qui n&#x2019;a pas de fin. </para><para>2. &#xC0; Porto pr&#xE8;s de Rome, saint Ariston, martyr.</para><para>3. Dans l&#x2019;&#xEE;le de Sulci, pr&#xE8;s de la Sardaigne, saint Antioche, martyr. </para><para>4. En Arm&#xE9;nie, les saints martyrs Eustrate, Auxence, Eug&#xE8;ne, Mardaire et Oreste. </para><para>5. Dans le Ponthieu, au nord de la Gaule, vers 668, saint Josse, pr&#xEA;tre et ermite. Fils de Jutha&#xEB;l, roi de Domnon&#xE9;e en Bretagne, et fr&#xE8;re de saint Judica&#xEB;l, pour ne pas &#xEA;tre contraint de succ&#xE9;der &#xE0; son p&#xE8;re, il quitta sa patrie et se retira pour mener en divers endroits la vie &#xE9;r&#xE9;mitique. </para><para>6. &#xC0; Cambrai, vers 870, saint Aubert, &#xE9;v&#xEA;que, qui favorisa la vie monastique. </para><para>7. En Alsace, vers 720, sainte Odile, vierge, premi&#xE8;re abbesse du monast&#xE8;re d&#x2019;Hohenbourg, construit par son p&#xE8;re, le duc Adalric. </para><para>8*. &#xC0; Naples, en 1562, le bienheureux Jean Marinoni, pr&#xEA;tre de l&#x2019;Ordre des Th&#xE9;atins, qui s&#x2019;employa avec saint Ga&#xE9;tan &#xE0; la r&#xE9;forme du clerg&#xE9; et au salut des &#xE2;mes, et qui favorisa les Monts de pi&#xE9;t&#xE9; pour aider les pauvres. </para><para>9. Au monast&#xE8;re de la Visitation de Moulins, en 1641, la naissance au ciel de sainte Jeanne-Fran&#xE7;oise Fr&#xE9;miot de Chantal, dont la m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e le 12 ao&#xFB;t. </para><para>10*. &#xC0; Fermo dans les Marches, en 1671, le bienheureux Antoine Grassi, pr&#xEA;tre de l&#x2019;Oratoire. Humble et pacifique, il poussa beaucoup ses confr&#xE8;res, par son exemple, &#xE0; l&#x2019;observance de la R&#xE8;gle. </para><para>11. &#xC0; Tjyen-Tiyou en Cor&#xE9;e, l&#x2019;an&#xA0;1866, saint Pierre Cho Hwa-so, martyr, p&#xE8;re de famille et cinq compagnons. Le mandarin ayant cherch&#xE9;, par des promesses et des tortures, &#xE0; leur faire abandonner la religion chr&#xE9;tienne, ils r&#xE9;sist&#xE8;rent jusqu&#x2019;&#xE0; la d&#xE9;capitation. </para><para>**. En Italie, en 1921, la bienheureuse Maria Maddalena della Passione (Costanza Starace), fondatrice des S&#x153;urs Compassionistes Servites de Marie. &#xA0;(b&#xE9;atifi&#xE9;e le 15 avril 2007 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

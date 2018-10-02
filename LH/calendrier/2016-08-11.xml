@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la></hebdomada>
+<intitule><la>S. Clarae, virginis</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>51,45</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Intuere_Domine_et</antL1>
+<psL1>ps88IV</psL1>
+<antL2>AN_Ego_sum_radix</antL2>
+<psL2>ps88V</psL2>
+<antL3>AN_Anni_nostri_sicut</antL3>
+<psL3>ps89</psL3>
+<LVers>VERS_Domine_apud</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Clarae_virginis</Llec1>
+<Lrep1>R1_S._Clarae_virginis</Lrep1>
+<Llec2>L2_S._Clarae_virginis</Llec2>
+<Lrep2>R2_S._Clarae_virginis</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aptata_virgo_lampade</HYMNUS_laudes>
+ <ant1>AN_Gloriosa_dicta_sunt</ant1>
+ <ps1>ps86</ps1>
+ <ant2>AN_Dominus_in_fortitudine</ant2>
+ <ps2>AT25</ps2>
+ <ant3>AN_Exaltate_Dominum_Deum</ant3>
+ <ps3>ps98</ps3>
+ <LB_matin>LB_Cant_8_7</LB_matin> 
+ <RB_matin>RB_Tibi_dixit_cor_meum_</RB_matin> 
+<benedictus>AN_Ecce_prudens_virgo</benedictus>
+<laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Deus_qui_beatam_Claram_ad_paupertatis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Suscipe_me_Domine</ant4>
+
+<ps4>ps118XV</ps4>
+
+<ant5>AN_Adiuva_nos_Deus</ant5>
+
+<ps5>ps78</ps5>
+
+<ant6>AN_Deus_virtutum_respice</ant6>
+
+<ps6>ps79</ps6>
+
+<LB_3>LB_Sap_19_22</LB_3>
+
+<RB_3>VERS_Tu_es</RB_3>
+
+<LB_6>LB_Deut_4_7</LB_6>
+
+<RB_6>VERS_Prope_est</RB_6>
+
+<LB_9>LB_Est_10_3f</LB_9>
+
+<RB_9>VERS_Confitebor_tibi</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>S. CLAR&#xC6;, VIRGINIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_corona_virginum</HYMNUS_vepres>
+
+<ant7>AN_Sancti_tui_exsultent</ant7>
+
+<ps7>ps131I</ps7>
+
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+
+<ps8>ps131II</ps8>
+
+<ant9>AN_Dedit_ei_Dominus</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_1_Cor_7_32_b._34_a</LB_soir>
+
+<RB_soir>RB_Afferentur_Regi_virgines_In</RB_soir>
+
+<magnificat>AN_Veni_sponsa_Christi</magnificat>
+
+<vepres_preces>perannum_35</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_beatam_Claram_ad_paupertatis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Dilexisti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_beatam_Claram_ad_paupertatis</COL>			
+	
+<LEC1>Ph3,8-14</LEC1>	
+	
+<PS1>GR_Specie_tua</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Adducentur</PS2>
+	
+<SEQ/>
+	
+<EV>Mt19,27-29</EV>
+	
+<OF>OF_Filiae_regum</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Quinque_prudentes_virgines</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Claire, vierge</intitule>
+ <biographiecourte>Disciple de St Fran&#xE7;ois, elle choisit comme lui la pauvret&#xE9;. Fondatrice de l'Ordre dit des Clarisses (&#x2020;1253)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 ao&#xFB;t.</para><para>M&#xE9;moire de sainte Claire, endormie dans le Seigneur en 1253. &#xC9;prise de l&#x2019;id&#xE9;al de saint Fran&#xE7;ois, elle d&#xE9;laissa la s&#xE9;curit&#xE9; familiale pour suivre Dame pauvret&#xE9;. Elle obtint &#xE9;galement, pour l&#x2019;Ordre qu&#x2019;elle fondait au couvent de Saint-Damien d&#x2019;Assise, le privil&#xE8;ge de ne rien poss&#xE9;der, pour se suffire de l&#x2019;Unique N&#xE9;cessaire.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Comane dans le Pont, au IIIe si&#xE8;cle, saint Alexandre, &#xE9;v&#xEA;que, surnomm&#xE9; le Charbonnier. De philosophe, il devint habile dans la science &#xE9;minente de l&#x2019;humilit&#xE9; chr&#xE9;tienne. &#xC9;lev&#xE9; par saint Gr&#xE9;goire le Thaumaturge sur le si&#xE8;ge de cette &#xC9;glise, il s&#x2019;y rendit c&#xE9;l&#xE8;bre non seulement par sa pr&#xE9;dication, mais encore par son martyre accompli dans les flammes.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; Martyr &#xE0; Rome, au cimeti&#xE8;re &#x201C;Aux deux lauriers&#x201D;, sur la voie Labicana, saint Tirbutii. Le pape  a c&#xE9;l&#xE9;br&#xE9; ses louanges.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, comm&#xE9;moraison de sainte Suzanne. Sous son nom, c&#xE9;l&#xE9;br&#xE9; dans les fastes antiques comme celui d&#x2019;une martyre, fut d&#xE9;di&#xE9;e &#xE0; Dieu, au VIe si&#xE8;cle, la basilique du titre de Gaius, pr&#xE8;s des thermes de Diocl&#xE9;tien</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; . &#xC0; Assise en Ombrie, saint Rufin, consid&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>6*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; B&#xE9;n&#xE9;vent en Campanie, au IVe si&#xE8;cle, saint Cassien, &#xE9;v&#xEA;que.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; &#xC9;vreux, peut-&#xEA;tre au Ve si&#xE8;cle, saint Taurin, v&#xE9;n&#xE9;r&#xE9; comme premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>8*&#xA0; &#xA0; &#xA0; &#xA0; En Irlande, au Ve si&#xE8;cle, sainte Attracta, abbesse, dont on dit qu&#x2019;elle re&#xE7;ut la voile des vierges des mains de saint Patrice.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; Dans le district de Val&#xE9;ria pr&#xE8;s de Rome, avant 571, saint Equitius, abb&#xE9;. Comme l&#x2019;&#xE9;crit le pape saint Gr&#xE9;goire le Grand, sa grande saintet&#xE9; lui valut de devenir le p&#xE8;re de plusieurs monast&#xE8;res et, partout o&#xF9; il allait, il ouvrait &#xE0; tous la source des saintes &#xC9;critures.</para><para>10.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cambrai, vers 625, saint G&#xE9;ry, &#xE9;v&#xEA;que, remarquable par sa pi&#xE9;t&#xE9; et sa charit&#xE9; envers les pauvres. Il avait &#xE9;t&#xE9; ordonn&#xE9; diacre par l&#x2019;&#xE9;v&#xEA;que de Tr&#xE8;ves Magn&#xE9;ric et, &#xE9;lu &#xE9;v&#xEA;que de Cambrai, il eut un &#xE9;piscopat de trente-neuf ans.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arles en Provence, l&#x2019;an&#xA0;632, sainte Rusticole, abbesse, qui dirigea saintement ses moniales pendant pr&#xE8;s de soixante ans.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des bienheureux martyrs Jean Sandys et &#xC9;tienne Rowsham, pr&#xEA;tres, ainsi que Guillaume Lampley, tailleur, qui subirent les m&#xEA;mes supplices pour la foi catholique &#xE0; Gloucester en 1586, &#xE0; des jours divers, mais inconnus, sous la reine &#xC9;lisabeth I&#xE8;re.</para><para>13*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean-Georges Rehm, pr&#xEA;tre dominicain (P&#xE8;re Thomas). Sous la R&#xE9;volution fran&#xE7;aise, d&#xE9;tenu &#xE0; cause de son sacerdoce, dans des conditions inhumaines, sur un bateau n&#xE9;grier, il ranima la confiance de ses compagnons de captivit&#xE9; &#xE9;cras&#xE9;s par le malheur, jusqu&#x2019;&#xE0; ce qu&#x2019;il f&#xFB;t emport&#xE9; par le typhus.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936,&#xA0;les bienheureux martyrs&#xA0;: &#xE0; Agullent, dans la r&#xE9;gion de Valence, Rapha&#xEB;l Alonso Gutierrez et Charles Diaz Gandia, p&#xE8;res de famille.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, &#xE0; Prat de Compte pr&#xE8;s de Tarragone, dans la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile, en 1936, le bienheureux martyr&#xA0;: Michel Domingo Cendra, religieux sal&#xE9;sien.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; Aux confins du Tibet, en 1949, le bienheureux Maurice Tornay, pr&#xEA;tre et martyr. Chanoine r&#xE9;gulier du Grand Saint-Bernard, il alla annoncer l&#x2019;&#xC9;vangile en Chine et au Tibet, et fut massacr&#xE9; par des ennemis du nom chr&#xE9;tien.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Milan, en 1879, le bienheureux Luigi Biraghi, pr&#xEA;tre, fondateur de l&#x2019;Institut des S&#x153;urs Marcellines. (b&#xE9;atifi&#xE9; le 30 avril 2006 par Beno&#xEE;t XVI) </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

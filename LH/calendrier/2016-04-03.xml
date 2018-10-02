@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Dominica II Paschae </la></hebdomada>
+<intitule><la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>25,57</phase_lunaire>
+<age_lunaire>24</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+<antL1>AN_Domine_Deus_meus</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+<psL3>ps103III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Llec1>
+<Lrep1>R1_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Lrep1>
+<Llec2>L2_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Llec2>
+<Lrep2>R2_DOMINICA_IN_OCTAVA_PASCHA_SEU_DE_SACRA_MISERICORDIA</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Surrexit_Christus_et</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Redemptor_noster_surrexit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_ap10.40-43</LB_matin> 
+ <RB_matin>RB_Haec_dies_quam_fecit_Dominus</RB_matin> 
+<benedictus>AN_Mitte_manum</benedictus>
+<laudes_preces>pascha_21</laudes_preces><oratio_laudes>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Christus_surrexit_a</ant4>
+
+<ps4>ps22</ps4>
+
+<ant5>AN_Traditus_est_propter</ant5>
+
+<ps5>ps75I</ps5>
+
+<ant6>AN_Si_consurrexistis_cum</ant6>
+
+<ps6>ps75II</ps6>
+
+<LB_3>LB_1_Cor_15_3b-5</LB_3>
+
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+
+<LB_6>LB_Eph_2_4-6</LB_6>
+
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+
+<LB_9>LB_Rom_6_4</LB_9>
+
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+
+<oratio_3>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_3>
+
+<oratio_6>COL_Deus_misericordiae_sempiternae_qui_in_ipso </oratio_6>
+
+<oratio_9>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_9>
+
+<intitule_soir><la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Venite_et_videte</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Hebr_10_12-14</LB_soir>
+
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus</RB_soir>
+
+<magnificat>AN_Quia_vidisti_me</magnificat>
+
+<vepres_preces>pascha_21</vepres_preces>
+
+<oratio_vepres>COL_Deus_misericordiae_sempiternae_qui_in_ipso</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Iesu_redemptor</HYMNUS_complies>
+
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Quasi_modo</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_misericordiae_sempiternae_qui_in_ipso</COL>			
+	
+<LEC1>Ac5,12-16</LEC1>	
+	
+<PS1>AL_In_die_resurrectionis</PS1>
+	
+<LEC2>Ap1,9-11a.12-13.17-19</LEC2>
+	
+<PS2>AL_Post_dies_octo</PS2>
+	
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+	
+<EV>Jn20,19-31</EV>
+	
+<OF>OF_Angelus_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Mitte_manum_tuam_et_cognosce</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Louis Scrosoppi</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de nombreuses &#x153;uvres de bienfaisance et de la congr&#xE9;gation des S&#x153;urs de la Providence (&#x2020;1884)  </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 avril</para><para>1. &#xC0; Rome, en 128, saint Sixte Ier, pape, qui, au temps de l&#x2019;empereur Adrien, gouverna l&#x2019;&#xC9;glise de Rome, le sixi&#xE8;me apr&#xE8;s saint Pierre.</para><para>2. &#xC0; Tomes en Scythie, au d&#xE9;but du IVe si&#xE8;cle, les saints martyrs Chrestus et Pappus. </para><para>3. &#xC0; Tyr en Ph&#xE9;nicie, l&#x2019;an&#xA0;306, saint Ulpien, martyr. Adolescent, pendant la pers&#xE9;cution de Maximin Daia, il fut cousu dans un sac avec un aspic et un chien, puis jet&#xE9; &#xE0; la mer. </para><para>4. &#xC0; Naples, l&#x2019;an&#xA0;432, saint Jean, &#xE9;v&#xEA;que, qui mourut la nuit sainte de P&#xE2;ques, en c&#xE9;l&#xE9;brant les saints myst&#xE8;res, et fut mis au tombeau le jour solennel de la R&#xE9;surrection du Seigneur, accompagn&#xE9; de la foule des fid&#xE8;les et des n&#xE9;ophytes. </para><para>5. Au monast&#xE8;re de M&#xE9;dice en Bithynie, l&#x2019;an&#xA0;824, saint Nic&#xE9;tas, higoum&#xE8;ne, qui, sous l&#x2019;empereur L&#xE9;on l&#x2019;Isaurien souffrit la prison et l&#x2019;exil pour le culte des saintes images. </para><para>6. &#xC0; Constantinople, en 886, saint Joseph, surnomm&#xE9; l&#x2019;Hymnographe, pr&#xEA;tre et moine. Quand s&#xE9;vissaient les d&#xE9;tracteurs des saintes images, il fut envoy&#xE9; &#xE0; Rome pour demander la protection du Si&#xE8;ge apostolique, mais, sans pouvoir remplir sa mission, il dut endurer bien des souffrances. Enfin il re&#xE7;ut la garde des vases sacr&#xE9;s de l&#x2019;&#xE9;glise Sainte-Sophie. </para><para>7. &#xC0; Chichester en Angleterre, l&#x2019;an&#xA0;1253, saint Richard, &#xE9;v&#xEA;que, qui fut priv&#xE9; par le roi Henri III de son temporel, oblig&#xE9; de loger dans une maison d&#x2019;emprunt et de manger &#xE0; la table d&#x2019;autrui, mais, malgr&#xE9; ces entraves, il visita &#xE0; pied ses paroisses, veilla &#xE0; la dignit&#xE9; du culte et aux m&#x153;urs des pr&#xEA;tres et, quand son temporel lui fut restitu&#xE9;, distribua de larges aum&#xF4;nes aux pauvres. </para><para>8*. Pr&#xE8;s de Polizzi en Sicile, l&#x2019;an&#xA0;1260, le bienheureux Gandolphe Sacchi de Binascho, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui v&#xE9;cut en grande aust&#xE9;rit&#xE9; dans la solitude, sauf pour aller pr&#xEA;cher la parole de Dieu aux populations des alentours. </para><para>9*. &#xC0; Penna San Giovanni dans les Marches, vers 1270, le bienheureux Jean, pr&#xEA;tre, un des premiers compagnons de saint Fran&#xE7;ois, qui l&#x2019;envoya dans la r&#xE9;gion de Narbonne, o&#xF9; il d&#xE9;veloppa la forme de vie &#xE9;vang&#xE9;lique. </para><para>10*. &#xC0; Lancastre en Angleterre, l&#x2019;an&#xA0;1601, les bienheureux Robert Middleton de la Compagnie de J&#xE9;sus, et Thurstan Hunt, pr&#xEA;tres et martyrs. Le second essaya de d&#xE9;livrer le premier en chemin, et fut lui-m&#xEA;me arr&#xEA;t&#xE9;. Tous deux furent condamn&#xE9;s &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, en raison de leur sacerdoce, et conduits aux supplices de la potence. </para><para>11. &#xC0; Udine en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1884, Saint Louis Scrosoppi, pr&#xEA;tre de l&#x2019;Oratoire, qui fonda les S&#x153;urs de la Divine Providence pour la formation des jeunes filles dans un esprit chr&#xE9;tien.</para><para>12*. Au camp de concentration d&#x2019;Auschwitz (Oswiecim), pr&#xE8;s de Cracovie en Pologne, l&#x2019;an&#xA0;1942, le bienheureux Pierre-&#xC9;douard Dankowski, pr&#xEA;tre et martyr. Intern&#xE9; &#xE0; cause de son minist&#xE8;re, sous le r&#xE9;gime nazi qui occupait le pays, il succomba aux tortures, le vendredi de la Passion du Seigneur. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

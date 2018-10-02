@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Rose</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada III Adventus</la></hebdomada>
+<intitule><la>Dominica III Adventus</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>86,45</phase_lunaire>
+<age_lunaire>11</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_III_Adventus</Llec1>
+<Lrep1>R1_Dominica_III_Adventus</Lrep1>
+<Llec2>L2_Dominica_III_Adventus</Llec2>
+<Lrep2>R2_Dominica_III_Adventus</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ <ant1>AN_Veniet_Dominus_et</ant1>
+ <ps1>ps92</ps1>
+ <ant2>AN_Montes_et_omnes</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Dabo_in_Sion</ant3>
+ <ps3>ps148</ps3>
+ <LB_matin>LB_Rom_13_11-12</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin> 
+<benedictus>AN_Ioannes_cum_audisset</benedictus>
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_conspicis_populum_tuum_nativitatis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_De_tribulatione_invocavi</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Dextera_Domini_fecit</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Rom_8_15-16</LB_3>
+
+<RB_3>VERS_Apud_te_Domine</RB_3>
+
+<LB_6>LB_Rom_8,_22-23</LB_6>
+
+<RB_6>VERS_In_aeternum</RB_6>
+
+<LB_9/>
+
+<RB_9/>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica III Adventus</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+
+<magnificat>AN_Tu_es_qui</magnificat>
+
+<vepres_preces>perannum_31</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_conspicis_populum_tuum_nativitatis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Gaudete_in_Domino</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_conspicis_populum_tuum_nativitatis</COL>			
+	
+<LEC1>Is35,1-6.10</LEC1>	
+	
+<PS1>GR_Qui_sedes_Domine</PS1>
+	
+<LEC2>Jc5,7-10</LEC2>
+	
+<PS2>AL_Excita_Domine</PS2>
+	
+<SEQ/>
+	
+<EV>Mt11,2-11</EV>
+	
+<OF>OF_Benedixisti</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dicite_pusillanimes</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Allumer la 3&#xE8;me des quatre bougies de l'Avent - B&#xE9;n&#xE9;diction des repr&#xE9;sentations de l'enfant J&#xE9;sus des cr&#xE8;ches familiales</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Damase 1er, pape</intitule>
+ <biographiecourte>Pape, il d&#xE9;fendit la foi en la Sainte Trinit&#xE9;, chargea St J&#xE9;r&#xF4;me de la traduction de la Bible et d&#xE9;veloppa la liturgie (&#x2020;384)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Damase Ier, pape. Dans une p&#xE9;riode difficile, il r&#xE9;unit de nombreux synodes pour d&#xE9;fendre la foi de Nic&#xE9;e contre les schismes et les h&#xE9;r&#xE9;sies, il confia &#xE0; saint J&#xE9;r&#xF4;me la traduction latine des livres saints, embellit avec pi&#xE9;t&#xE9; les tombes des martyrs et les d&#xE9;cora d&#x2019;&#xE9;loges versifi&#xE9;s. Lui-m&#xEA;me, mort en 384, avait fait graver d&#x2019;avance sur sa tombe, au cimeti&#xE8;re de Calliste, un acte de foi&#xA0;: &#x201C;Celui qui marche sur les eaux... fera se dresser Damase de ses cendres&#x201D;.</para><para>2. &#xC0; Amiens, les saints martyrs Victoric, Fuscien martyrs</para><para>3. &#xC0; Plaisance en &#xC9;milie, l&#x2019;an&#xA0;420, saint Savin, &#xE9;v&#xEA;que, qui appela les foules &#xE0; la foi du Christ, &#xE9;tablit des lieux d&#x2019;asile pour les vierges et d&#xE9;fendit de mani&#xE8;re in&#xE9;branlable la v&#xE9;rit&#xE9; de Nic&#xE9;e. </para><para>4. &#xC0; Constantinople, en 493, saint Daniel, pr&#xEA;tre, surnomm&#xE9; le Stylite. Apr&#xE8;s avoir v&#xE9;cu dans un monast&#xE8;re et support&#xE9; de nombreux travaux, il se tint en haut d&#x2019;une colonne &#xE0; la mani&#xE8;re et &#xE0; l&#x2019;exemple de saint Sim&#xE9;on le Stylite et y demeura pendant trente-trois ans et trois mois jusqu&#x2019;&#xE0; sa mort, sans se laisser briser par la violence du froid, de la chaleur ou des vents. </para><para>5*. &#xC0; l&#x2019;abbaye d&#x2019;Himmerode pr&#xE8;s de Tr&#xE8;ves en Allemagne, l&#x2019;an&#xA0;1179, le bienheureux David, moine, que saint Bernard re&#xE7;ut &#xE0; Clairvaux malgr&#xE9; sa sant&#xE9; fragile, qu&#x2019;il envoya ensuite avec d&#x2019;autres fr&#xE8;res en Allemagne pour fonder un nouveau monast&#xE8;re, o&#xF9; nuit et jour il &#xE9;tait occup&#xE9; &#xE0; la pri&#xE8;re et aux bonnes &#x153;uvres. </para><para>6*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1291, le bienheureux Franco Lippi, ermite de l&#x2019;Ordre du Carmel, qui, apr&#xE8;s une vie violente de chef de bandits, se convertit totalement et devint c&#xE9;l&#xE8;bre par l&#x2019;extr&#xEA;me rigueur de sa p&#xE9;nitence. </para><para>7*. Au dioc&#xE8;se de Camerino dans les Marches, en 1373, le bienheureux Hugolin Magalotti, qui, apr&#xE8;s la mort de son p&#xE8;re, livra ses biens aux pauvres et v&#xE9;cut en ermite p&#xE9;nitent et tertiaire de Saint-Fran&#xE7;ois. </para><para>8*. &#xC0; Sant&#x2019; Angelo in Vado, &#xE9;galement dans les Marches, en 1455, le bienheureux J&#xE9;r&#xF4;me Ranuzzi, pr&#xEA;tre de l&#x2019;Ordre des Servites de Marie, qui parvint &#xE0; la science des saints dans la solitude et le silence. </para><para>9*. &#xC0; Nagasaki au Japon, en 1632, les bienheureux martyrs Martin Lumbreras Peralta et Melchior Sanchez P&#xE9;rez, pr&#xEA;tres augustins, qui, &#xE0; peine entr&#xE9;s dans cette ville, furent arr&#xEA;t&#xE9;s, jet&#xE9;s dans une cellule obscure et enfin br&#xFB;l&#xE9;s vifs. </para><para>10*. &#xC0; Londres, en 1643, le bienheureux Arthur Bell, pr&#xEA;tre franciscain et martyr. Condamn&#xE9; &#xE0; mort sous le roi Charles Ier uniquement &#xE0; cause de son sacerdoce, il subit les supplices du gibet &#xE0; Tyburn. </para><para>11*. &#xC0; Burjassot pr&#xE8;s de Valence en Espagne, l&#x2019;an&#xA0;1936, la bienheureuse Marie-Pilar Villalonga Villalba, vierge et martyre, fusill&#xE9;e en haine de l&#x2019;&#xC9;glise dans la pers&#xE9;cution d&#xE9;clench&#xE9;e au cours de la guerre civile.</para><para>12. &#xC0; La Aldehuela dans la r&#xE9;gion de Madrid, en 1974, sainte Marie des Merveilles de J&#xE9;sus (Maria Miravillas Pidal), vierge carm&#xE9;lite, qui fonda un grand nombre de monast&#xE8;res en Espagne et en Inde, unissant une vie contemplative &#xE0; une vie active de charit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XV per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>49,22</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_magnum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1>AN_Exsurgit_Deus_et</antL1>
+<psL1>ps67I</psL1>
+<antL2>AN_Deus_noster_Deus</antL2>
+<psL2>ps67II</psL2>
+<antL3>AN_Regna_terrae_cantate</antL3>
+<psL3>ps67III</psL3>
+<LVers>VERS_Audiam_quid</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_15-3</Llec1>
+<Lrep1>R1_perannum_15-3</Lrep1>
+<Llec2>L2_perannum_15-3</Llec2>
+<Lrep2>R2_perannum_15-3</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Pergrata_mundo_nuntiat</HYMNUS_laudes>
+ <ant1>AN_Benedixisti_Domine_terram</ant1>
+ <ps1>ps84</ps1>
+ <ant2>AN_Anima_mea_desideravit</ant2>
+ <ps2>AT20</ps2>
+ <ant3>AN_Illumina_Domine_vultum</ant3>
+ <ps3>ps66</ps3>
+ <LB_matin>LB_1_Io_4_14-15</LB_matin> 
+ <RB_matin>RB_Deus_meus_adiutor_meus</RB_matin> 
+<benedictus>AN_Erexit_nobis_Dominus</benedictus>
+<laudes_preces>perannum_33</laudes_preces><oratio_laudes>COL_Deus_omnipotens_cuius_est_bona_rerum</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Plenitudo_legis_est</ant4>
+
+<ps4>ps118XIII</ps4>
+
+<ant5>AN_Memor_esto_congregationis</ant5>
+
+<ps5>ps73I</ps5>
+
+<ant6>AN_Exsurge_Domine_et</ant6>
+
+<ps6>ps73II</ps6>
+
+<LB_3>LB_Ier_22_3</LB_3>
+
+<RB_3>VERS_Dominus_iudicabit</RB_3>
+
+<LB_6>LB_Deut_15_7-8</LB_6>
+
+<RB_6>VERS_Desiderium_pauperum</RB_6>
+
+<LB_9>LB_Prov_22_22-23</LB_9>
+
+<RB_9>VERS_Liberabit_Dominus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Telluris_ingens_conditor</HYMNUS_vepres>
+
+<ant7>AN_Dominus_in_circuitu</ant7>
+
+<ps7>ps124</ps7>
+
+<ant8>AN_Nisi_efficiamini_sicut</ant8>
+
+<ps8>ps130</ps8>
+
+<ant9>AN_Fecisti_nos_Domine</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Rom_12_9-12</LB_soir>
+
+<RB_soir>RB_In_aeternum_Domine</RB_soir>
+
+<magnificat>AN_Exsultet_spiritus_meus</magnificat>
+
+<vepres_preces>perannum_33</vepres_preces>
+
+<oratio_vepres>COL_Ascendat_ad_clementiam_tuam_nostra_Domine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio/>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Ego_autem_cum_iustitia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_errantibus_ut_in_viam</COL>			
+	
+<LEC1>Is7,1-9</LEC1>	
+	
+<PS1>GR_Custodi_me</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Te_decet_hymnus</PS2>
+	
+<SEQ/>
+	
+<EV>Mt11,20-24</EV>
+	
+<OF>OF_Ad_te_Domine_levavi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Qui_manducat</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Louis et Z&#xE9;lie Martin - JPII</intitule>
+ <biographiecourte>Parents de Sainte Th&#xE9;r&#xE8;se de l'Enfant-J&#xE9;sus</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 12 juillet.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Aquil&#xE9;e dans la r&#xE9;gion v&#xE9;n&#xE8;te, au IIIe si&#xE8;cle, les saints martyrs Fortunat et Hermagoras.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, vers 304, les saints Nabor et F&#xE9;lix, soldats originaires de Maur&#xE9;tanie, ils furent, dit-on, mis &#xE0; mort &#xE0; Lodi et inhum&#xE9;s &#xE0; Milan</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fano dans le Picenum en Italie, au IVe si&#xE8;cle, saint Paternien, &#xE9;v&#xEA;que.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lyon, Saint Viventiole, Ev&#xEA;que, qui &#xE9;tait &#xE9;col&#xE2;tre au monast&#xE8;re de Saint-Oyend, quand il fut promu &#xE0; l&#x2019;&#xE9;piscopat&#xA0;; il convoqua clercs et la&#xEF;cs au concile d&#x2019;&#xC9;paone, pour que le peuple puisse conna&#xEE;tre les canons promulgu&#xE9;s par les &#xE9;v&#xEA;ques</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Passignano en Toscane, l&#x2019;an&#xA0;1073, saint Jean Gualbert, abb&#xE9;. Soldat de Florence, il pardonna, pour l&#x2019;amour du Christ crucifi&#xE9;, &#xE0; l&#x2019;assassin de son fr&#xE8;re, puis re&#xE7;ut l&#x2019;habit monastique, mais, d&#xE9;sireux de mener une vie plus aust&#xE8;re, il jeta les fondations d&#x2019;une nouvelle famille religieuse &#xE0; Vallombreuse</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cava en Campanie, l&#x2019;an&#xA0;1079, saint L&#xE9;on Ier, abb&#xE9;, qui pourvut, en travaillant de ses mains, au soulagement des pauvres, qu&#x2019;il prot&#xE9;geait aupr&#xE8;s des seigneurs.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Londres, en 1541, le bienheureux David Gunstan, martyr. Chevalier de l&#x2019;Ordre de Saint-Jean de J&#xE9;rusalem, il refusa de reconna&#xEE;tre &#xE0; Henri VIII le pouvoir spirituel, ce qui lui valut d&#x2019;&#xEA;tre pendu au gibet de Southwark.</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Londres, en 1598, saint Jean Jones, pr&#xEA;tre franciscain et martyr. N&#xE9; au pays de Galles, il se fit religieux en France, et fut condamn&#xE9; &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, parce que, pr&#xEA;tre, il &#xE9;tait entr&#xE9; en Angleterre, et il subit le supplice de la pendaison.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nagasaki au Japon, en 1626, les bienheureux Matthias Araki et sept compagnons&#xA0;: les bienheureux Pierre Arakiyori Chobioye et Suzanne, sa femme - Jean Tanaka et Catherine, sa femme - Jean Nagai Naisen, Monique, sa femme, et leur jeune enfant, Louis, martyrs.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orange en Provence, l&#x2019;an&#xA0;1794, les bienheureuses vierges et martyres Madeleine-Th&#xE9;r&#xE8;se Tallien, et Marie Cluse (S&#x153;ur Marthe du Bon Ange), sacramentines de Boll&#xE8;ne, Marguerite de Justamont (S&#x153;ur Marie de Saint-Henri), cistercienne d&#x2019;Avignon, et Jeanne-Marie de Romillon (S&#x153;ur Saint-Bernard), ursuline de Boll&#xE8;ne, guillotin&#xE9;es sous la R&#xE9;volution fran&#xE7;aise pour leur fid&#xE9;lit&#xE9; &#xE0; la vie religieuse.</para><para>12.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nam Dinh au Tonkin, en 1838, saint Cl&#xE9;ment-Ignace Delgado Cebrian, &#xE9;v&#xEA;que et martyr. Apr&#xE8;s cinquante ans pass&#xE9;s &#xE0; annoncer l&#x2019;&#xC9;vangile, il fut arr&#xEA;t&#xE9;, sur l&#x2019;ordre de l&#x2019;empereur Minh Mang, enferm&#xE9; dans une cage et soumis aux railleries de la foule. Il tint bon dans sa fid&#xE9;lit&#xE9; au Christ et mourut</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; Au Tonkin, dans la province de Ninh Binh, en 1842, sainte Agn&#xE8;s L&#xEA; Thi Than (D&#xEA;), martyre. M&#xE8;re de famille, elle avait cach&#xE9; un pr&#xEA;tre sous son toit, ce qui lui valut, sous l&#x2019;empereur Thieu Tri, d&#x2019;&#xEA;tre tra&#xEE;n&#xE9;e violemment pour fouler la croix, et frapp&#xE9;e de tant de coup de verge qu&#x2019;elle mourut peu apr&#xE8;s en prison.</para><para>14.&#xA0; &#xA0; &#xA0; &#xA0; En Annam, dans la province de Ngh&#xE9; An, en 1842, saint Pierre Khanh, pr&#xEA;tre et martyr. Reconnu comme chr&#xE9;tien dans un bureau de douane, il fut retenu six mois en prison, pouss&#xE9; en vain &#xE0; abjurer, et enfin, sur l&#x2019;ordre de l&#x2019;empereur Thieu Tri, d&#xE9;capit&#xE9;.</para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lisieux les bienheureux Louis Martin (1823 -1894) et Z&#xE9;lie Gu&#xE9;rin &#xA0;(1831-1877) parents de Ste Th&#xE9;r&#xE8;se de l&#x2019;enfant J&#xE9;sus. (b&#xE9;atifi&#xE9;s par Benoit XVI le 19 octobre 2008)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

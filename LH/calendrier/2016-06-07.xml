@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada X per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>4,82</phase_lunaire>
+<age_lunaire>2</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Deum_magnum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1/>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2/>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3/>
+<LVers>VERS_Bonitatem_et</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_10-3</Llec1>
+<Lrep1>R1_perannum_10-3</Lrep1>
+<Llec2>L2_perannum_10-3</Llec2>
+<Lrep2>R2_perannum_10-3</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aeterne_lucis_conditor</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps42</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps64</ps3>
+ <LB_matin>LB_1_Th_5_4-5</LB_matin> 
+ <RB_matin>RB_Vocem_meam_audi_Domine</RB_matin> 
+<benedictus>AN_De_manu_omnium</benedictus>
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Domine_Iesu_Christe_lux_vera_qui</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_In_loco_peregrinationis</ant4>
+
+<ps4>ps118VII</ps4>
+
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+
+<ps5>ps52</ps5>
+
+<ant6>AN_Deus_adiuvat_me</ant6>
+
+<ps6>ps53</ps6>
+
+<LB_3>LB_1_Cor_12_4-6</LB_3>
+
+<RB_3>VERS_Prope_timentes</RB_3>
+
+<LB_6>LB_1_Cor_12_12-13</LB_6>
+
+<RB_6>VERS_Pater_sancte</RB_6>
+
+<LB_9>LB_1_Cor_12_24_b._25-26</LB_9>
+
+<RB_9>VERS_Domine_Deus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps48I</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps48II</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Rom_3_23-25a</LB_soir>
+
+<RB_soir>RB_Adimplebis_me_laetitia</RB_soir>
+
+<magnificat>AN_Fac_nobiscum_Domine</magnificat>
+
+<vepres_preces>perannum_23</vepres_preces>
+
+<oratio_vepres>COL_Domine_Deus_cuius_est_dies_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Dominus_illuminatio_mea</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_a_quo_bona_cuncta_procedunt</COL>			
+	
+<LEC1>1R17,7-16</LEC1>	
+	
+<PS1>GR_Benedicam_Dominum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Deus_qui_sedes</PS2>
+	
+<SEQ/>
+	
+<EV>Mt5,13-16</EV>
+	
+<OF>OF_Illumina_oculos_meos</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dominus_firmamentum_meum</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bse Marie-Th&#xE9;r&#xE8;se de Soubiran</intitule>
+ <biographiecourte>N&#xE9;e &#xE0; Castelnaudary, religieuse, fondatrice de la congr&#xE9;gation Marie-Auxiliatrice, victime de la jalousie d'une s&#x153;ur (&#x2020;1889)  </biographiecourte>
+ <canonisebeatifie>Pie XII</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 juin</para><para>1*. En Irlande, au VIe si&#xE8;cle, saint Colman, &#xE9;v&#xEA;que et abb&#xE9; du monast&#xE8;re de Dromore qu&#x2019;il avait construit. Il accomplit un travail admirable dans la r&#xE9;gion de Down. </para><para>2. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;854, les saints martyrs Pierre, pr&#xEA;tre, Wallabonse, diacre, Wistremond, Habence et J&#xE9;r&#xE9;mie, moines, qui furent d&#xE9;capit&#xE9;s dans la pers&#xE9;cution des Maures. </para><para>3. &#xC0; Newminster en Northumbrie, l&#x2019;an&#xA0;1159, saint Robert, abb&#xE9;. &#xC0; la recherche d&#x2019;une vie de pauvret&#xE9; et de pri&#xE8;re, il fonda, &#xE0; la t&#xEA;te de douze moines, ce monast&#xE8;re cistercien, qui, en peu de temps, essaima en trois filiales. </para><para>4*. &#xC0; Anvers dans le Brabant, en 1626, la bienheureuse Anne de Saint-Barth&#xE9;lemy, vierge, moniale de l&#x2019;Ordre des Carm&#xE9;lites d&#xE9;chauss&#xE9;es. Disciple et secr&#xE9;taire de sainte Th&#xE9;r&#xE8;se de J&#xE9;sus, dot&#xE9;e de gr&#xE2;ces mystiques, elle diffusa et r&#xE9;nova sans rel&#xE2;che l&#x2019;Ordre en France. </para><para>5. &#xC0; Plaisance en &#xC9;milie, l&#x2019;an&#xA0;1846 le tr&#xE9;pas de saint Antoine-Marie Gianelli, &#xE9;v&#xEA;que de Bobbio. Fondateur de la Congr&#xE9;gation des S&#x153;urs de Sainte-Marie du Jardin, il fut un exemple remarquable de vigilance pour les indigents et le salut des &#xE2;mes, ainsi que pour la promotion de la saintet&#xE9; dans le clerg&#xE9;. </para><para>6*. &#xC0; Paris, en 1889, la bienheureuse Marie-Th&#xE9;r&#xE8;se de Soubiran La Louvi&#xE8;re, vierge. Pour la plus grande gloire de Dieu, elle fonda la Soci&#xE9;t&#xE9; de Marie Auxiliatrice, mais chass&#xE9;e de son Institut, elle passa le reste de sa vie dans la plus grande humilit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

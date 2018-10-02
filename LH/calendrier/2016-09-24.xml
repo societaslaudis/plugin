@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXV per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>44,90</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_25-7</Llec1>
+<Lrep1>R1_perannum_25-7</Lrep1>
+<Llec2>L2_perannum_25-7</Llec2>
+<Lrep2>R2_perannum_25-7</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ <ant1>AN_Praevenerunt_oculi_mei</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Fortitudo_mea_et</ant2>
+ <ps2>AT1</ps2>
+ <ant3>AN_Laudate_Dominum_omnes</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ <RB_matin>RB_Clamavi_ad_te_Domine</RB_matin> 
+<benedictus>AN_Illumina_Domine_sedentes</benedictus>
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Deduc_me_Domine</ant4>
+
+<ps4>ps118V</ps4>
+
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Inquire_pacem_et</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+
+<RB_3>VERS_Deus_meus</RB_3>
+
+<LB_6>LB_Ier_17_9-10</LB_6>
+
+<RB_6>VERS_Ab_occultis</RB_6>
+
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+
+<RB_9>VERS_Quam_magnificata</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica XXVI per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+
+<ps7>ps118XIV</ps7>
+
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+
+<ps8>ps15</ps8>
+
+<ant9>AN_In_nomine_Iesu</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+
+<RB_soir>RB_A_solis_ortu</RB_soir>
+
+<magnificat>AN_Factum_est_ut</magnificat>
+
+<vepres_preces>perannum_17</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Salus_populi</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_sacrae_legis_omnia_constituta</COL>			
+	
+<LEC1>Qo11,9-12,8</LEC1>	
+	
+<PS1>GR_Dirigatur</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Confitemini_et_invocate</PS2>
+	
+<SEQ/>
+	
+<EV>Lc9,43-45</EV>
+	
+<OF>OF_Si_ambulavero</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Tu_mandasti</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Antoine Martin Slomyek</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que slov&#xE8;ne, il &#x153;uvra pour l'&#x153;cum&#xE9;nisme et la reconnaissance de la culture de son pays (&#x2020;1862) </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 septembre</para><para>1. &#xC0; Milan, au IIe si&#xE8;cle, saint Anatole, qu&#x2019;on croit avoir &#xE9;t&#xE9; le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>2. &#xC0; Saulieu au pays d&#x2019;Autun, les saints martyrs Andoche, Thyrse et F&#xE9;lix. </para><para>3. Chez les Arvernes, au Ve si&#xE8;cle, saint Rustique, &#xE9;v&#xEA;que. D&#xE9;j&#xE0; pr&#xEA;tre dans cette cit&#xE9;, il re&#xE7;ut l&#x2019;honneur de l&#x2019;&#xE9;piscopat, &#xE0; la joie du peuple. </para><para>4. &#xC0; Lyon, apr&#xE8;s 526, saint Loup, &#xE9;v&#xEA;que, qui auparavant avait v&#xE9;cu en anachor&#xE8;te. </para><para>5*. &#xC0; Marseille, en 1043, saint Isarn, abb&#xE9; de Saint-Victor. Aust&#xE8;re pour lui-m&#xEA;me, bienveillant et pacifique pour les autres, il restaura la vie r&#xE9;guli&#xE8;re dans son monast&#xE8;re. </para><para>6. En Hongrie, l&#x2019;an&#xA0;1046, saint G&#xE9;rard Sagredo, &#xE9;v&#xEA;que de Csanad et martyr. Originaire de Venise et moine b&#xE9;n&#xE9;dictin en route pour la Terre Sainte, il devint le pr&#xE9;cepteur du jeune prince &#xC9;meric, fils du roi de Hongrie saint &#xC9;tienne et, dans une r&#xE9;volte des Hongrois, mourut lapid&#xE9;, non loin du Danube. </para><para>7*. &#xC0; Girone en Catalogne, l&#x2019;an&#xA0;1341, le bienheureux Dalmace Moner, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui aimait la solitude et le silence. </para><para>8*. &#xC0; York en Angleterre, l&#x2019;an&#xA0;1589, les bienheureux martyrs Guillaume Spencer, pr&#xEA;tre, et Robert Hardesty. Condamn&#xE9;s &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, l&#x2019;un parce qu&#x2019;il &#xE9;tait pr&#xEA;tre, l&#x2019;autre parce qu&#x2019;il l&#x2019;avait re&#xE7;u chez lui, ils subirent ensemble le supplice de la pendaison. </para><para>9. &#xC0; Nagasaki au Japon, en 1637, saint Antoine Gonzalez, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs et martyr. Envoy&#xE9; au Japon avec cinq compagnons et mis dans les fers peu de temps apr&#xE8;s, il subit deux fois le supplice de l&#x2019;eau et, pris de fi&#xE8;vre, pr&#xE9;c&#xE9;da les autres dans la mort, sous le chef supr&#xEA;me Tokugawa Yemitsu. </para><para>10. &#xC0; San Severino dans les Marches, en 1721, saint Pacifique, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, c&#xE9;l&#xE8;bre par ses pratiques de p&#xE9;nitence, son amour de la solitude et sa pri&#xE8;re devant le Saint-Sacrement. </para><para>11*. &#xC0; Lavant en Slov&#xE9;nie, l&#x2019;an&#xA0;1862, le bienheureux Antoine-Martin Slomsek &#xE9;v&#xEA;que, qui prit le plus grand soin de la vie chr&#xE9;tienne des domestiques et de la formation du clerg&#xE9; et appliqua toutes ses forces en faveur de l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise. </para><para>12*. &#xC0; Rome, en 1926, la bienheureuse Colombe (Jeanne Gabriel), abbesse, qui fut &#xE0; la t&#xEA;te du monast&#xE8;re de Lviv, mais, calomni&#xE9;e injustement, gagna Rome, o&#xF9;, vivant avec joie dans la pauvret&#xE9;, elle fonda la Congr&#xE9;gation des S&#x153;urs b&#xE9;n&#xE9;dictines de la Charit&#xE9;, ainsi que l&#x2019;&#x153;uvre sociale appel&#xE9;e &#x201C;la Maison de famille&#x201D; pour les jeunes ouvri&#xE8;res pauvres ou &#xE9;loign&#xE9;es de leur famille. </para><para>13*. En Espagne, dans la r&#xE9;gion de Valence, en 1936, le bienheureux martyr Joseph-Raymond-Pascal Ferrer Botella, pr&#xEA;tre</para><para>14*. En Espagne, &#xE0; Abalat de la Ribera&#xA0;; le bienheureux Joseph-Marie Fernandiz Hernandez, pr&#xEA;tre, &#xE0; Rotola y Corbera&#xA0;</para><para>15*. En Espagne, la bienheureuse Incarnation Gil Valls, vierge, &#xE0; Olleria&#xA0;</para><para>16*. EnEspagne, le bienheureux Joseph-Raymond Ferragud Girb&#xE8;s, p&#xE8;re de famille, &#xE0; Alzira, victime de la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

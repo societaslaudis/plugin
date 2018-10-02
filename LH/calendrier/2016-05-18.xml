@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada VII per annum</la></hebdomada>
+<intitule><la>S. Ioannis I, papae et martyris</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>86,99</phase_lunaire>
+<age_lunaire>11</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Adoremus_Dominum_quoniam</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1>AN_Misericordia_et_veritas</antL1>
+<psL1>ps88I</psL1>
+<antL2>AN_Filius_Dei_factus</antL2>
+<psL2>ps88II</psL2>
+<antL3>AN_Semel_iuravi_David</antL3>
+<psL3>ps88III</psL3>
+<LVers>VERS_Declaratio_sermonum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_7-4</Llec1>
+<Lrep1>R1_perannum_7-4</Lrep1>
+<Llec2>L2_perannum_7-4</Llec2>
+<Lrep2>R2_perannum_7-4</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Nox_et_tenebrae_et_nubila</HYMNUS_laudes>
+ <ant1>AN_Laetifica_animam_servi</ant1>
+ <ps1>ps85</ps1>
+ <ant2>AN_Beatus_vir_qui</ant2>
+ <ps2>AT22</ps2>
+ <ant3>AN_Iubilate_in_conspectu</ant3>
+ <ps3>ps97</ps3>
+ <LB_matin>LB_Iob_1_21;_2_10b</LB_matin> 
+ <RB_matin>RB_Inclina_cor_meum_Deus</RB_matin> 
+<benedictus>AN_Fac_nobiscum_misericordiam</benedictus>
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Exaudi_nos_Deus_salutaris_noster_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Qui_sequitur_me</ant4>
+
+<ps4>ps118XIV</ps4>
+
+<ant5>AN_Ego_egenus_et</ant5>
+
+<ps5>ps69</ps5>
+
+<ant6>AN_Non_secundum_visionem</ant6>
+
+<ps6>ps74</ps6>
+
+<LB_3>LB_1_Cor_13_4-7</LB_3>
+
+<RB_3>VERS_Exsultent_et</RB_3>
+
+<LB_6>LB_1_Cor_13_8-9._13</LB_6>
+
+<RB_6>VERS_Fiat_misericordia</RB_6>
+
+<LB_9>LB_Col_3_14-15</LB_9>
+
+<RB_9>VERS_Mansueti_hereditabunt</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Caeli_Deus_sanctissime</HYMNUS_vepres>
+
+<ant7>AN_Qui_seminant_in</ant7>
+
+<ps7>ps125</ps7>
+
+<ant8>AN_Dominus_aedificet_nobis</ant8>
+
+<ps8>ps126</ps8>
+
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Eph_3_20-21</LB_soir>
+
+<RB_soir>RB_Redime_me_Domine</RB_soir>
+
+<magnificat>AN_Fecit_mihi_magna</magnificat>
+
+<vepres_preces>perannum_34</vepres_preces>
+
+<oratio_vepres>COL_Vox_clamantis_Ecclesiae_ad_aures_Domine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Domine_in_tua_misericordia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</COL>			
+	
+<LEC1>Jc4,13-17</LEC1>	
+	
+<PS1>GR_Ego_dixi_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Verba_mea </PS2>
+	
+<SEQ/>
+	
+<EV>Mc9,38-40</EV>
+	
+<OF>OF_Intende_voci</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Narrabo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Quatre temps d'&#xE9;t&#xE9;</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean 1er, pape et martyr.</intitule>
+ <biographiecourte>Pape, victime du roi arien Th&#xE9;odoric, emprisonn&#xE9;, il mourut de faim en 526</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 18 mai</para><para>1. M&#xE9;moire de saint Jean Ier, pape et martyr. Envoy&#xE9; &#xE0; Constantinople aupr&#xE8;s de l&#x2019;empereur Justin par le roi arien Th&#xE9;odoric, il fut le premier des &#xE9;v&#xEA;ques de Rome &#xE0; c&#xE9;l&#xE9;brer solennellement la messe de P&#xE2;ques dans l&#x2019;&#xE9;glise de Sainte Sophie&#xA0;; &#xE0; son retour, il fut suspect&#xE9; par le roi Th&#xE9;odoric et indignement jet&#xE9; en prison &#xE0; Ravenne, o&#xF9; la faim et la soif le firent bient&#xF4;t succomber glorieusement en 520. </para><para>2. &#xC0; Salone en Dalmatie, l&#x2019;an&#xA0;299, saint F&#xE9;lix, martyr, victime de la pers&#xE9;cution de Diocl&#xE9;tien. </para><para>3. &#xC0; Alexandrie, vers 303, la passion de saint Dioscore, martyr. Fils de lecteur de la cit&#xE9; de Cynopolis, il fut arr&#xEA;t&#xE9;, interrog&#xE9; et, pour avoir refus&#xE9; de sacrifier aux dieux, apr&#xE8;s des tourments nombreux et vari&#xE9;s, fut d&#xE9;capit&#xE9;, achevant ainsi son martyre. </para><para>4. &#xC0; Alexandrie &#xE9;galement, vers la m&#xEA;me &#xE9;poque, les saints martyrs Potamon, Ortaise, S&#xE9;rapion, pr&#xEA;tres, et leurs compagnons. </para><para>5. &#xC0; Ancyre en Galatie, vers 303, les saints martyrs Th&#xE9;odule et Th&#xE9;cuse, sa tante paternelle, Alexandra, Claudie, Phaina, Euphrasie, Matrone et Julitte, vierges. Celles-ci, livr&#xE9;es d&#x2019;abord par le gouverneur &#xE0; la prostitution, furent ensuite plong&#xE9;es dans un &#xE9;tang, chacune avec une pierre au cou. Th&#xE9;odote fut &#xE0; son tour tortur&#xE9;e et d&#xE9;capit&#xE9;e.</para><para>6*. Au pays d&#x2019;Argovie chez les Suisses, au XIIe si&#xE8;cle, le bienheureux Burchard, pr&#xEA;tre. Cur&#xE9; de la paroisse de Beinwill, il se donna assid&#xFB;ment au service pastoral du troupeau qui lui &#xE9;tait confi&#xE9;. </para><para>7. &#xC0; Upsal en Su&#xE8;de, l&#x2019;an&#xA0;1161, saint &#xC9;ric IX, roi et martyr. Il s&#x2019;employa &#xE0; gouverner le peuple dans son royaume avec sagesse et &#xE0; prot&#xE9;ger les droits des femmes, il envoya saint Henri comme &#xE9;v&#xEA;que en Finlande pour y propager la foi du Christ et enfin, attaqu&#xE9; par les Danois alors qu&#x2019;il assistait &#xE0; la messe, il tomba sous les coups de ses ennemis. </para><para>8*. &#xC0; Toulouse, en 1369, le bienheureux Guillaume, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. </para><para>9. &#xC0; Rome, en 1587, saint F&#xE9;lix de Cantalice, religieux capucin, d&#x2019;une aust&#xE9;rit&#xE9; et d&#x2019;une simplicit&#xE9; admirables. Pendant quarante ans, il exer&#xE7;a l&#x2019;office de qu&#xEA;teur, semant autour de lui la paix et la charit&#xE9;. </para><para>10*. &#xC0; Tr&#xE8;ves en Rh&#xE9;nanie, l&#x2019;an&#xA0;1918, la bienheureuse Blandine (Marie-Madeleine Merten), vierge ursuline, qui joignit &#xE0; la vie contemplative la charge de la formation humaine et chr&#xE9;tienne des jeunes filles et des adolescentes. </para><para>11*. &#xC0; Hartheim, pr&#xE8;s de Linz en Autriche, l&#x2019;an&#xA0;1942, les bienheureux martyrs Stanislas Kubski, pr&#xEA;tre de Gniezno, et Martin Oprzadek, pr&#xEA;tre franciscain. Le premier, arr&#xEA;t&#xE9; d&#xE8;s le d&#xE9;but de la guerre par l&#x2019;occupant nazi de la Pologne, en raison de son activit&#xE9; apostolique, fut d&#xE9;port&#xE9; d&#x2019;abord aux carri&#xE8;res de Buchenwald, puis au camp de concentration de Dachau. Avec le second, d&#xE9;port&#xE9; au m&#xEA;me camp, il &#xE9;tait charg&#xE9; du convoi des invalides &#xE0; la mort. Tous deux furent conduits en m&#xEA;me temps &#xE0; la chambre &#xE0; gaz. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

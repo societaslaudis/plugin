@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada II Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>99,94</phase_lunaire>
+<age_lunaire>15</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1/>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2/>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3/>
+<LVers>VERS_Bonitatem_et</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_23</Llec1>
+<Lrep1>R1_quadragesima_23</Lrep1>
+<Llec2>L2_quadragesima_23</Llec2>
+<Lrep2>R2_quadragesima_23</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps42</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps64</ps3>
+ <LB_matin>LB_Ioel_2_12-13</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Unus_est_magister</benedictus>
+<laudes_preces>quadragesima_23</laudes_preces><oratio_laudes>COL_Custodi_Domine_quaesumus_Ecclesiam_tuam_propitiatione</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118VII</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps52</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps53</ps6>
+
+<LB_3>LB_Ioel_2_17</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Ier_3_25b</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Is_58_1-2a</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Custodi_Domine_quaesumus_Ecclesiam_tuam_propitiatione </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps48I</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps48II</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Iac_2_14._17._18b</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Omnes_vos_fratres</magnificat>
+
+<vepres_preces>quadragesima_23</vepres_preces>
+
+<oratio_vepres>COL_Domine_Deus_cuius_est_dies_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Exsurge_quare_obdormis</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Is1,10-20</LEC1>	
+	
+<PS1>GR_Iacta_cogitatum_tuum</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Mt23,1-12</EV>
+	
+<OF>OF_Miserere_mihi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Narrabo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Allemagne. Wangen/Wigratzbad. Apparition de Marie M&#xE8;re Immacul&#xE9;e de la Victoire &#xE0; C&#xE4;cilia Geyer (1938), culte autoris&#xE9;  </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Polycarpe, &#xE9;v&#xEA;que et martyr</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Smyrne, disciple de St Jean, athl&#xE8;te de la foi, mort martyr  en 155</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 23 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Polycarpe, &#xE9;v&#xEA;que et martyr, disciple de saint Jean et le dernier t&#xE9;moin de l&#x2019;&#xE2;ge apostolique. &#xC0; l&#x2019;&#xE2;ge de quatre-vingt-six ans, l&#x2019;an&#xA0;167, sous les empereurs Marc Antoine et Lucius Aur&#xE8;le Commode, dans l&#x2019;amphith&#xE9;&#xE2;tre de Smyrne, devant le proconsul et tout le peuple, il fut livr&#xE9; aux flammes, et sur le b&#xFB;cher rendit gr&#xE2;ce &#xE0; Dieu le P&#xE8;re qui l&#x2019;avait jug&#xE9; digne d&#x2019;&#xEA;tre compt&#xE9; au nombre des martyrs et de participer &#xE0; la coupe du Christ. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sirmium en Pannonie, vers 307, saint S&#xE9;r&#xE8;ne ou S&#xE9;n&#xE8;re, martyr. Jardinier, il fut d&#xE9;nonc&#xE9; par une femme d&#x2019;officier, &#xE0; qui il avait reproch&#xE9; des intentions coupables&#xA0;; arr&#xEA;t&#xE9; sur l&#x2019;ordre du juge, il confessa qu&#x2019;il &#xE9;tait chr&#xE9;tien et, comme il refusait de sacrifier aux dieux, il eut la t&#xEA;te tranch&#xE9;e. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Wenlock en Angleterre, vers 722, sainte Milburge, vierge. Fille du roi de Mercie, elle introduisit la vie monastique dans les domaines de son p&#xE8;re, en faisant construire un couvent, dont elle fut la seconde abbesse. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Mayence en Franconie, l&#x2019;an&#xA0;1011, saint Willigis, &#xE9;v&#xEA;que, dont le z&#xE8;le pastoral fut remarquable. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Style en Calabre, vers 1127, saint Jean, qui fut admis chez les moines grecs vivant sous la R&#xE8;gle de saint Basile et m&#xE9;rita le surnom de Th&#xE9;riste ou Moissonneur, parce que, pouss&#xE9; par une grande charit&#xE9; pour les pauvres, il avait l&#x2019;habitude de pr&#xEA;ter son aide aux moissonneurs. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bilbao au Pays basque espagnol, en 1900, la bienheureuse Rapha&#xEB;lle Ybarra de Villalonga. M&#xE8;re de sept enfants, elle &#xE9;mit les v&#x153;ux de religion avec le consentement de son mari et fonda l&#x2019;Institut des S&#x153;urs des Anges gardiens pour prot&#xE9;ger les jeunes filles et les diriger sur la voie des commandements du Seigneur.</para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rochefort, en 1795, le bienheureux Nicolas Tabouillot, pr&#xEA;tre de Verdun et martyr. Cur&#xE9; de paroisse quand survint la R&#xE9;volution fran&#xE7;aise, il fut arr&#xEA;t&#xE9; &#xE0; cause de son sacerdoce, d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier et enfin consum&#xE9; par la maladie dans l&#x2019;h&#xF4;pital de la ville. </para><para>8*. &#xC0; Rome, en 1911, la bienheureuse Jos&#xE9;phine (Judith-Ad&#xE9;la&#xEF;de Vannini) qui fonda la Congr&#xE9;gation des Filles de Saint-Camille pour le service des malades. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Poznan en Pologne, l&#x2019;an&#xA0;1942, le bienheureux Louis Mzyk, pr&#xEA;tre de la Soci&#xE9;t&#xE9; du Verbe divin et martyr. Quand sa patrie fut occup&#xE9;e militairement et soumise au r&#xE9;gime nazi, il fut d&#xE9;tenu dans une forteresse, soumis &#xE0; la torture, et enfin massacr&#xE9; par un des chefs de la forteresse.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1945, le bienheureux &#xC9;tienne Frelichowski, pr&#xEA;tre et martyr. Dans les m&#xEA;mes circonstances, il fut d&#xE9;port&#xE9; dans diverses prisons, mais ne fl&#xE9;chit jamais de la foi ni de ses devoirs de pasteur. Il subit de longues &#xE9;preuves et succomba &#xE0; la maladie contract&#xE9;e en assistant des cod&#xE9;tenus malades. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

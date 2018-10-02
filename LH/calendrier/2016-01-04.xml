@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Nativitatis</la></tempus>
+<hebdomada><la>Hebdomada II post Nativitatem</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>33,99</phase_lunaire>
+<age_lunaire>23</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christus_apparuit_nobis</invitatoire>
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1>AN_Inclina_ad_me</antL1>
+<psL1>ps30I</psL1>
+<antL2>AN_Illumina_faciem_tuam</antL2>
+<psL2>ps30II</psL2>
+<antL3>AN_Benedictus_Dominus_quoniam</antL3>
+<psL3>ps30III</psL3>
+<LVers>VERS_Dirige_me</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_nativitatis_0104</Llec1>
+<Lrep1>R1_nativitatis_0104</Lrep1>
+<Llec2>L2_nativitatis_0104</Llec2>
+<Lrep2>R2_nativitatis_0104</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Quicumque_Christum_quaeritis</HYMNUS_laudes>
+ <ant1>AN_Quando_veniam_et</ant1>
+ <ps1>ps41</ps1>
+ <ant2>AN_Ostende_nobis_Domine</ant2>
+ <ps2>AT15</ps2>
+ <ant3>AN_Benedictus_es_Domine</ant3>
+ <ps3>ps18A</ps3>
+ <LB_matin>LB_Is_9_5</LB_matin> 
+ <RB_matin>RB_Adorabunt_eum_Omnes_reges</RB_matin> 
+<benedictus>AN_Ab_Oriente_venerunt_magi</benedictus>
+<laudes_preces>epiphania_2</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Mysterium_quod_absconditum</ant4>
+
+<ps4>ps118VI</ps4>
+
+<ant5>AN_Veniens_Christus_evangelizavit</ant5>
+
+<ps5>ps39I</ps5>
+
+<ant6>AN_Ecce_dedi_te</ant6>
+
+<ps6>ps39II</ps6>
+
+<LB_3>LB_Deut_4_7</LB_3>
+
+<RB_3>VERS_In_terris_visus_est_Et</RB_3>
+
+<LB_6>LB_Is_12_5-6</LB_6>
+
+<RB_6>VERS_Videbunt_gentes_iustum</RB_6>
+
+<LB_9>LB_Cf.Tob14,6-7</LB_9>
+
+<RB_9>VERS_Benedicite_gentes_Deum_nostrum_Et</RB_9>
+
+<oratio_3>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis</oratio_3>
+
+<oratio_6>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis </oratio_6>
+
+<oratio_9>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Hostis_Herodes_impie</HYMNUS_vepres>
+
+<ant7>AN_Speciosus_forma_prae</ant7>
+
+<ps7>ps44I</ps7>
+
+<ant8>AN_Ecce_Sponsus_venit</ant8>
+
+<ps8>ps44II</ps8>
+
+<ant9>AN_Proposuit_Deus_in</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Cf._2_Petr_1_3-4</LB_soir>
+
+<RB_soir>RB_Benedicentur_in_ipso_Omnes</RB_soir>
+
+<magnificat>AN_Videntes_stellam_magi</magnificat>
+
+<vepres_preces>epiphania_2</vepres_preces>
+
+<oratio_vepres>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Ecce_advenit</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Corda_nostra_quaesumus_Domine_tuae_maiestatis</COL>			
+	
+<LEC1>1Jn3,22-4,6</LEC1>	
+	
+<PS1>GR_Omnes_de_Saba_venient</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Vidimus_stellam</PS2>
+	
+<SEQ/>
+	
+<EV>Mt4,12-17.23-25</EV>
+	
+<OF>OF_Reges_Tharsis</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Vidimus_stellam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Ang&#xE8;le de Foligno</intitule>
+ <biographiecourte>M&#xE8;re de famille du tiers ordre franciscain, elle fut favoris&#xE9;e de gr&#xE2;ces exceptionnelles (&#x2020;1309)   </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 janvier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; En M&#xE9;sie, au IVe si&#xE8;cle, les saints Herm&#xE8;s et Caius, martyrs, l&#x2019;un &#xE0; R&#xE9;tiaria, l&#x2019;autre &#xE0; Bologne. </para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Saint Abrunculi, &#xE9;v&#xEA;que en Aquitaine</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Dijon, en 540, le tr&#xE9;pas de saint Gr&#xE9;goire, qui, apr&#xE8;s avoir rempli pendant longtemps la fonction de comte du pays d&#x2019;Autun, fut ordonn&#xE9; &#xE9;v&#xEA;que de Langres, qu&#x2019;il gouverna pendant trente-trois ans avec une grande aust&#xE9;rit&#xE9; de vie, de longues veilles en pri&#xE8;re et une tendre charit&#xE9; envers tous. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Uz&#xE8;s, en 591, saint Ferr&#xE9;ol, &#xE9;v&#xEA;que, qui &#xE9;crivit une r&#xE8;gle pour les moines. Il fut condamn&#xE9; &#xE0; l&#x2019;exil par jalousie, mais reconnu, au bout de trois ans, comme un v&#xE9;ritable homme de Dieu, il fut rendu &#xE0; son peuple, &#xE0; la joie de tous. </para><para>5*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Meldis Saint Rigom&#xE9;ri, &#xE9;v&#xEA;que</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Reims, vers 743, saint Rigobert, &#xE9;v&#xEA;que, qui, contrairement aux canons, fut chass&#xE9; de son si&#xE8;ge par son filleul Charles Martel, duc des Francs, et termina sa vie dans la retraite et la pri&#xE8;re dans son domaine de Gernicourt. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bruay-en-Artois, vers 745, sainte Phara&#xEF;lde, veuve, qui, mari&#xE9;e, dit-on, contre son gr&#xE9; &#xE0; un homme violent, mena, apr&#xE8;s la mort de son mari, une vie de pri&#xE8;re et d&#x2019;aust&#xE9;rit&#xE9; jusqu&#x2019;&#xE0; sa vieillesse. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Foligno en Ombrie, l&#x2019;an&#xA0;1310, sainte Ang&#xE8;le qui, apr&#xE8;s la mort de son &#xE9;poux et de ses fils, suivit les traces de saint Fran&#xE7;ois, se consacra enti&#xE8;rement &#xE0; Dieu&#xA0;; et confia au livre de sa vie les hautes exp&#xE9;riences de sa vie mystique. (Canonis&#xE9;e par F le 9 octobre&#xA0;2013)</para><para>9*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Santa Crocex sull Arno en Toscane, en 1310, la bienheureuse Christiane Menabuoi, vierge, qui fonda l&#xE0; un monast&#xE8;re sous la R&#xE8;gle de saint Augustin. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Durham en Angleterre, l&#x2019;an&#xA0;1570, le bienheureux Thomas Plumtree, pr&#xEA;tre et martyr, qui, sous le r&#xE8;gne d&#x2019;&#xC9;lisabeth I&#xE8;re, fut condamn&#xE9; &#xE0; mort pour avoir c&#xE9;l&#xE9;br&#xE9; la messe en public. Amen&#xE9; devant la potence, il d&#xE9;clara avec force pr&#xE9;f&#xE9;rer la corde &#xE0; la vie sauve en reniant la foi catholique. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Emmestsbourg, dans le Maryland aux &#xC9;tats-Unis d&#x2019;Am&#xE9;rique, en 1821, sainte &#xC9;lisabeth-Anne Setton qui, devenue veuve, fit profession de foi catholique et d&#xE9;ploya son activit&#xE9; &#xE0; l&#x2019;instruction des jeunes filles et &#xE0; l&#x2019;&#xE9;ducation des enfants pauvres, avec la Congr&#xE9;gation des S&#x153;urs de la Charit&#xE9; de Saint-Joseph qu&#x2019;elle avait fond&#xE9;e. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Madrid, en 1940, le bienheureux Emmanuel Gonzal&#xE8;z Garcia, &#xE9;v&#xEA;que. Admirable pasteur selon le c&#x153;ur du Seigneur, il propagea avec le plus grand z&#xE8;le le culte de l&#x2019;Eucharistie et fonda la Congr&#xE9;gation des S&#x153;urs Missionnaires de Nazareth. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

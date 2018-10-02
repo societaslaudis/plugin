@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada III per annum</la></hebdomada>
+<intitule><la>Dominica III per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>99,99</phase_lunaire>
+<age_lunaire>14</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_III_per_annum</Llec1>
+<Lrep1>R1_Dominica_III_per_annum</Lrep1>
+<Llec2>L2_Dominica_III_per_annum</Llec2>
+<Lrep2>R2_Dominica_III_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ <ant1>AN_Mirabilis_in_altis</ant1>
+ <ps1>ps92</ps1>
+ <ant2>AN_Laudabilis_es_Domine</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Laudate_Dominum_de</ant3>
+ <ps3>ps148</ps3>
+ <LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> 
+<benedictus>AN_Spiritus_Domini_super</benedictus>
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_De_tribulatione_invocavi</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Dextera_Domini_fecit</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Rom_8_15-16</LB_3>
+
+<RB_3>VERS_Apud_te_Domine</RB_3>
+
+<LB_6>LB_Rom_8,_22-23</LB_6>
+
+<RB_6>VERS_In_aeternum</RB_6>
+
+<LB_9/>
+
+<RB_9/>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica III per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+
+<magnificat>AN_Cum_plicuisset_librum</magnificat>
+
+<vepres_preces>perannum_31</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Adorate_Deum</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros</COL>			
+	
+<LEC1>Ne8,2-4a.5-6.8-10</LEC1>	
+	
+<PS1>GR_Timebunt_gentes</PS1>
+	
+<LEC2>1Co12,12-30</LEC2>
+	
+<PS2>AL_Dominus_regnavit_exsultet</PS2>
+	
+<SEQ/>
+	
+<EV>Lc1,1-4;4,14-21</EV>
+	
+<OF>OF_Dextera_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Comedite_pinguia</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Fran&#xE7;ois de Sales, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise.</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Gen&#xE8;ve et docteur de l'&#xC9;glise, il proposa &#xE0; tous la voie &#xE0; la saintet&#xE9; (&#x2020;1623)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Fran&#xE7;ois de Sales, &#xE9;v&#xEA;que de Gen&#xE8;ve et docteur de l&#x2019;&#xC9;glise. Vrai pasteur d&#x2019;&#xE2;mes, il amena &#xE0; la communion catholique un grand nombre de fr&#xE8;res qui en &#xE9;taient s&#xE9;par&#xE9;s, il enseigna aux chr&#xE9;tiens par ses &#xE9;crits la d&#xE9;votion et l&#x2019;amour de Dieu et, avec sainte Jeanne de Chantal, il fonda l&#x2019;Ordre de la Visitation. Alors qu&#x2019;il demeurait &#xE0; Lyon dans l&#x2019;humilit&#xE9;, il rendit son &#xE2;me &#xE0; Dieu le 28 d&#xE9;cembre 1622 et fut mis au tombeau en ce jour &#xE0; Annecy en 1623. </para><para>2.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Foligno en Ombrie, saint F&#xE9;licien, qui est tenu pour le premier &#xE9;v&#xEA;que de cette r&#xE9;gion. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Au pays de Troyes, saint Sabinien, martyr. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antioche de Syrie, l&#x2019;an&#xA0;250, la passion de saint Babylas, &#xE9;v&#xEA;que. Durant la pers&#xE9;cution de D&#xE8;ce, il glorifia Dieu &#xE0; plusieurs reprises par ses souffrances et ses tourments, puis termina sa noble vie dans les fers, avec lesquels il voulut que son corps f&#xFB;t enseveli. Avec lui, dit-on, souffrirent aussi trois enfants, savoir&#xA0;: Urbain, Prilidien et &#xC9;polone, qu&#x2019;il avait form&#xE9;s dans la foi du Christ. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cingoli dans le Picenum, au Ve si&#xE8;cle, saint Exup&#xE9;rance, &#xE9;v&#xEA;que. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Binaco dans le Pi&#xE9;mont, en 1515, la bienheureuse Paule Gambara Costa, veuve. Membre du Tiers-Ordre de Saint Fran&#xE7;ois, elle supporta avec patience un mari violent, le conduisit &#xE0; la conversion et exer&#xE7;a toujours de mani&#xE8;re remarquable la charit&#xE9; envers les pauvres. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1679, les bienheureux Guillaume Ireland, pr&#xEA;tre j&#xE9;suite, et Jean Grove, son domestique. Accus&#xE9;s faussement du crime de trahison sous le roi Charles II, ils subirent le martyre pour le Christ &#xE0; Tyburn. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sainville dans le pays chartrain, en 1744, la bienheureuse Marie Poussepin, vierge. Pour venir en aide aux pasteurs d&#x2019;&#xE2;mes, pour la formation des jeunes filles et les secours &#xE0; porter aux pauvres et aux malades, elle fonda la Congr&#xE9;gation des S&#x153;urs dominicaines de la Pr&#xE9;sentation de la Sainte Vierge. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pratulin dans la r&#xE9;gion de Siedlce en Pologne, l&#x2019;an&#xA0;1874, les bienheureux martyrs Vincent Lewoniuk et douze compagnons, qui ne se laiss&#xE8;rent &#xE9;branler ni par les menaces ni par les s&#xE9;ductions, ne voulurent pas se s&#xE9;parer de l&#x2019;&#xC9;glise catholique et enfin, apr&#xE8;s avoir refus&#xE9; de livrer les cl&#xE9;s de l&#x2019;&#xE9;glise paroissiale, furent tu&#xE9;s ou bless&#xE9;s &#xE0; mort, sans d&#xE9;fense.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, en 1948, le bienheureux Timoth&#xE9;e Giaccardo, pr&#xEA;tre. Membre de la Pieuse Soci&#xE9;t&#xE9; de Saint-Paul, il forma un grand nombre de disciples pour l&#x2019;annonce de l&#x2019;&#xC9;vangile dans le monde en utilisant les moyens opportuns de communication sociale. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

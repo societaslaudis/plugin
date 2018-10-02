@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XIX per annum</la></hebdomada>
+<intitule><la>Dominica XIX per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>16,44</phase_lunaire>
+<age_lunaire>3</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_XIX_per_annum</Llec1>
+<Lrep1>R1_Dominica_XIX_per_annum</Lrep1>
+<Llec2>L2_Dominica_XIX_per_annum</Llec2>
+<Lrep2>R2_Dominica_XIX_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ <ant1>AN_Mirabilis_in_altis</ant1>
+ <ps1>ps92</ps1>
+ <ant2>AN_Laudabilis_es_Domine</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Laudate_Dominum_de</ant3>
+ <ps3>ps148</ps3>
+ <LB_matin>LB_Ez_37,12b-14</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> 
+<benedictus>AN_Beati_illi_servi</benedictus>
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_De_tribulatione_invocavi</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Dextera_Domini_fecit</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Rom_8_15-16</LB_3>
+
+<RB_3>VERS_Apud_te_Domine</RB_3>
+
+<LB_6>LB_Rom_8,_22-23</LB_6>
+
+<RB_6>VERS_In_aeternum</RB_6>
+
+<LB_9/>
+
+<RB_9/>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica XIX per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Dixit_Dominus_Domino</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Memoriam_fecit_mirabilium</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Petr1,3-5</LB_soir>
+
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+
+<magnificat>AN_Sint_lumbi_vestri</magnificat>
+
+<vepres_preces>perannum_31</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Respice_Domine</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine</COL>			
+	
+<LEC1>Sg18,6-9</LEC1>	
+	
+<PS1>GR_Beata_gens</PS1>
+	
+<LEC2>He11,1-2.8-19</LEC2>
+	
+<PS2>AL_Domine_refugium</PS2>
+	
+<SEQ/>
+	
+<EV>Lc12,32-48</EV>
+	
+<OF>OF_In_te_speravi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Beatus_servus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Chartres, M&#xE9;moire de la relique de N.D </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Sixte II, pape, et ses compagnons, martyrs</intitule>
+ <biographiecourte>St Sixte II, pape et ses compagnons, martyrs lors d'une c&#xE9;l&#xE9;bration dans le cimetii&#xE8;re de Callliste en 258</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Ga&#xE9;tan, pr&#xEA;tre</intitule>
+ <biographiecourte>Il se consacra aux &#x153;uvres de charit&#xE9;</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 ao&#xFB;t.</para><para>M&#xE9;moire des saints Sixte II, pape, et ses diacres, martyrs en 258. Le pape , en effet, c&#xE9;l&#xE9;brait les saints myst&#xE8;res et enseignait &#xE0; ses fr&#xE8;res les commandements divins au cimeti&#xE8;re de Calliste, lorsqu&#x2019;il fut arr&#xEA;t&#xE9; par des soldats, en vertu d&#x2019;un rescrit de l&#x2019;empereur Val&#xE9;rien, et d&#xE9;capit&#xE9; sur le champ avec quatre diacres. Le m&#xEA;me jour, deux autres diacres, Agapit et F&#xE9;licissime, furent &#xE9;galement d&#xE9;capit&#xE9;s au cimeti&#xE8;re de Pr&#xE9;textat, o&#xF9; ils furent inhum&#xE9;s.</para><para>M&#xE9;moire de saint Ga&#xE9;tan de Thienne, pr&#xEA;tre, qui se consacra aux &#x153;uvres de charit&#xE9;, en particulier aux souffrants de maladie incurable, encouragea des associations pour la formation chr&#xE9;tienne des la&#xEF;cs et, pour la r&#xE9;forme de l&#x2019;&#xC9;glise, fonda une soci&#xE9;t&#xE9; de clercs r&#xE9;guliers, en engageant ses disciples &#xE0; vivre &#xE0; la mani&#xE8;re des premiers Ap&#xF4;tres. Il mourut &#xE0; Naples en 1547.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Augsbourg, cit&#xE9; des Vind&#xE9;liciens, en 304, sainte Afre, martyre dont on rapporte qu&#x2019;elle avait v&#xE9;cu dans le p&#xE9;ch&#xE9;, mais que, convertie au Christ et avant m&#xEA;me d&#x2019;&#xEA;tre baptis&#xE9;e, elle fut livr&#xE9;e aux flammes pour avoir confess&#xE9; le Christ.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arezzo en Toscane, au IVe si&#xE8;cle, saint Donat, second &#xE9;v&#xEA;que de la cit&#xE9;, dont le pape saint  loue la vertu et la force.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ch&#xE2;lons-en-Champagne, au IVe si&#xE8;cle, saint Donatien, &#xE9;v&#xEA;que</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rouen vers 420, saint Victrice, &#xE9;v&#xEA;que. &#xC9;tant soldat, sous Julien l&#x2019;Apostat, il quitta le baudrier pour servir le Christ, endura de nombreux tourments inflig&#xE9;s par son tribun et fut condamn&#xE9; &#xE0; la peine capitale. Mais il s&#x2019;&#xE9;chappa et retrouva la libert&#xE9;, devint &#xE9;v&#xEA;que et conduisit &#xE0; la foi du Christ les Morins et les Nerviens, peuples jusqu&#x2019;alors indompt&#xE9;s</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Besan&#xE7;on, apr&#xE8;s 656, saint Donat, &#xE9;v&#xEA;que, qui r&#xE9;digea, pour les vierges consacr&#xE9;es, une R&#xE8;gle &#xE0; partir des prescriptions des saints Beno&#xEE;t, Colomban et C&#xE9;saire.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Venise, vers 1248, le tr&#xE9;pas du bienheureux Jourdain Forzat&#xE9;, abb&#xE9;, qui b&#xE2;tit &#xE0; Padoue le monast&#xE8;re double de Sainte-Justine et, pour la d&#xE9;fense de la cit&#xE9;, subit la prison et l&#x2019;exil.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Messine en Sicile, vers 1307, saint Albert des Abb&#xE9;s, pr&#xEA;tre carme, qui, par sa pr&#xE9;dication, op&#xE9;ra de nombreuses conversions de Juifs au Christ, et ravitailla miraculeusement la ville bloqu&#xE9;e par le duc de Calabre</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Messine en Sicile, vers 1307, saint Albert des Abb&#xE9;s, pr&#xEA;tre carme, qui, par sa pr&#xE9;dication, op&#xE9;ra de nombreuses conversions de Juifs au Christ, et ravitailla miraculeusement la ville bloqu&#xE9;e par le duc de Calabre.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; L&#x2019;Aquila dans les Abruzzes, en 1504, le bienheureux Vincent, franciscain, humble fr&#xE8;re lai dot&#xE9; de l&#x2019;esprit proph&#xE9;tique.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gondar en &#xC9;thiopie, l&#x2019;an&#xA0;1638, les bienheureux Agathange de Vend&#xF4;me (Fran&#xE7;ois Nourry) et Cassien de Nantes (Gonzalve Vaz Lopez-Netto), pr&#xEA;tres capucins et martyrs, qui s&#x2019;efforc&#xE8;rent de r&#xE9;concilier avec l&#x2019;&#xC9;glise catholique les chr&#xE9;tiens s&#xE9;par&#xE9;s, en Syrie, en &#xC9;gypte et en &#xC9;thiopie, mais, sur l&#x2019;ordre du souverain d&#x2019;&#xC9;thiopie, furent pendus avec leur propre corde et lapid&#xE9;s.</para><para>13.*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lancaster en Angleterre, l&#x2019;an&#xA0;1646, les bienheureux Martin de Saint-F&#xE9;lix (Jean Woodcock), &#xC9;douard Bamber et Thomas Whitaker, pr&#xEA;tres et martyrs. Parce qu&#x2019;ils &#xE9;taient entr&#xE9;s en Angleterre alors qu&#x2019;ils &#xE9;taient pr&#xEA;tres, ils furent condamn&#xE9;s &#xE0; la mort par pendaison sous le roi Charles Ier.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; York en 1679, le bienheureux Nicolas Postgate, pr&#xEA;tre et martyr. Pour avoir exerc&#xE9; en cachette son minist&#xE8;re parmi les pauvres, pendant environ cinquante ans, il fut condamn&#xE9; &#xE0; la pendaison sous le roi Charles II</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gorka Duchowna, pr&#xE8;s de Poznam en Pologne, l&#x2019;an&#xA0;1871, le bienheureux Edmond Bojanowski qui mit son activit&#xE9; et tout son z&#xE8;le &#xE0; former les pauvres et les gens de la campagne selon les pr&#xE9;ceptes de l&#x2019;&#xC9;vangile et fonda la Congr&#xE9;gation des Servantes de l&#x2019;Immacul&#xE9;e Conception de la M&#xE8;re de Dieu.</para><para>16.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cordona au Mexique, en 1927, saint Michel de la Mora, pr&#xEA;tre et martyr. Dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise, il fut arr&#xEA;t&#xE9; dans une ferme et fusill&#xE9; dans une &#xE9;table.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

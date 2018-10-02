@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada II Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>84,07</phase_lunaire>
+<age_lunaire>18</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps135I</psL1>
+<antL2/>
+<psL2>ps135II</psL2>
+<antL3/>
+<psL3>ps135III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_27</Llec1>
+<Lrep1>R1_quadragesima_27</Lrep1>
+<Llec2>L2_quadragesima_27</Llec2>
+<Lrep2>R2_quadragesima_27</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ <ps1>ps91</ps1>
+ <ant2>AN_Date_magnificentiam_Deo</ant2>
+ <ps2>AT2</ps2>
+ <ant3>AN_Quam_admirabile_est</ant3>
+ <ps3>ps8</ps3>
+ <LB_matin>LB_Is_1_16-18</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Pater_peccavi_in</benedictus>
+<laudes_preces>quadragesima_27</laudes_preces><oratio_laudes>COL_Deus_qui_nos_gloriosis_remediis_in</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118XI</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps60</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps63</ps6>
+
+<LB_3>LB_Ap_3_19-20</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Is_44_21-22</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Gal_6_7b-8</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+
+<ant7>AN_Paenitemini_et_credite</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Sacrificabo_hostiam_laudis</ant8>
+
+<ps8>ps115</ps8>
+
+<ant9>AN_Nemo_tollit_a_me</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_2Cor6,1-4a</LB_soir>
+
+<RB_soir>RB_Att&#xE9;nde_Domine_et_miserere</RB_soir>
+
+<magnificat>AN_Dico_vobis_Nisi_paenitentiam_egeritis</magnificat>
+
+<vepres_preces>quadragesima_27</vepres_preces>
+
+<oratio_vepres>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Intret_oratio_mea</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_nos_gloriosis_remediis_in</COL>			
+	
+<LEC1>Mt7,14-20</LEC1>	
+	
+<PS1>GR_Bonum_est_confiteri</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Lc15,1-32</EV>
+	
+<OF>OF_Illumina_oculos_meos</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Oportet_te</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Gabriel ND des sept douleurs</intitule>
+ <biographiecourte>Passioniste, mort &#xE0; 24 ans en 1862</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints Julien et Eunus, martyrs &#xE0; Alexandrie en 250. Julien &#xE9;tait tellement afflig&#xE9; de la goutte qu&#x2019;il ne pouvait ni marcher ni se tenir debout&#xA0;; lors de la pers&#xE9;cution de D&#xE8;ce, deux serviteurs le port&#xE8;rent sur une chaise pour le pr&#xE9;senter devant le juge. L&#x2019;un d&#x2019;eux renia sa foi, mais l&#x2019;autre, nomm&#xE9; Eunus, pers&#xE9;v&#xE9;ra avec son ma&#xEE;tre &#xE0; confesser le Christ. Julien et Eunus, plac&#xE9;s sur des chameaux, furent promen&#xE9;s par toute la ville, d&#xE9;chir&#xE9;s &#xE0; coups de fouet, jet&#xE9;s enfin dans un brasier, o&#xF9; ils furent consum&#xE9;s &#xE0; la vue de tout le peuple. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint B&#xE9;sam, martyr &#xE9;galement &#xE0; Alexandrie, en 250. Il &#xE9;tait soldat et s&#x2019;&#xE9;tait efforc&#xE9; de r&#xE9;primer ceux qui insultaient les saints martyrs&#xA0;; il fut d&#xE9;f&#xE9;r&#xE9; au juge et, pers&#xE9;v&#xE9;rant dans la foi, il fut d&#xE9;capit&#xE9;. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Sur le territoire de Rouen, au IVe si&#xE8;cle, sainte Honorine, vierge et martyre. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lyon, vers 640, saint Galmier, sous-diacre, vrai serviteur de Dieu. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Constantinople, en 741, les saints Basile et Procope, moines, qui, au temps de l&#x2019;empereur L&#xE9;on III l&#x2019;Isaurien, combattirent vigoureusement pour le culte des saintes images. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Narets en Arm&#xE9;nie, vers&#xA0;1005, saint Gr&#xE9;goire, moine, docteur des Arm&#xE9;niens, illustre par sa doctrine, ses &#xE9;crits et sa connaissance mystique.</para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Messine en Sicile, l&#x2019;an&#xA0;1140, saint Luc, abb&#xE9; du monast&#xE8;re du Saint-Sauveur, sous la r&#xE8;gle de saint Basile.</para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres, en 1601, sainte Anne Line, veuve et martyre. N&#xE9;e de parents calvinistes, qui la d&#xE9;sh&#xE9;rit&#xE8;rent et la chass&#xE8;rent de chez eux quand elle devint catholique, elle &#xE9;pousa Roger Line, qui mourut en exil &#xE0; cause de la foi catholique. Apr&#xE8;s sa mort, elle fournit un h&#xE9;bergement &#xE0; des pr&#xEA;tres &#xE0; Londres, et pour cela, fut pendue &#xE0; Tyburn, sous la reine &#xC9;lisabeth I&#xE8;re. Avec elle subit le m&#xEA;me supplice les bienheureux pr&#xEA;tres et martryrs Marc Barkworth, b&#xE9;n&#xE9;dictin, et Roger Felcock, de la Compagnie de J&#xE9;sus, qui furent mis en pi&#xE8;ces alors qu&#x2019;ils respiraient encore. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Londres &#xE9;galement, en 1603, le bienheureux Guillaume Richardson, pr&#xEA;tre et martyr. Ordonn&#xE9; pr&#xEA;tre &#xE0; S&#xE9;ville en Espagne, il fut pendu au gibet de Tyburn, parce qu&#x2019;il &#xE9;tait entr&#xE9; comme pr&#xEA;tre en Angleterre, et fut le dernier martyr sous le r&#xE8;gne d&#x2019;&#xC9;lisabeth I&#xE8;re. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sencelles dans l&#x2019;&#xEE;le Majorque, en 1855, la bienheureuse Fran&#xE7;oise-Anne de la Vierge des Douleurs (Fran&#xE7;oise-Anne Cirer Carbonell), vierge, qui, ne sachant ni lire ni &#xE9;crire, mais port&#xE9;e par un grand z&#xE8;le, se d&#xE9;voua aux &#x153;uvres d&#x2019;apostolat et de charit&#xE9; et fonda l&#x2019;Institut des S&#x153;urs de la Charit&#xE9;. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Isola del Gran Sasso dans les Abruzzes, en 1862, saint Gabriel de la Vierge des Douleurs (Fran&#xE7;ois Possenti), acolyte, qui, &#xE0; l&#x2019;&#xE2;ge de dix-huit ans, renon&#xE7;a aux attraits du monde et entra dans la Congr&#xE9;gation de la Passion, o&#xF9;, apr&#xE8;s cinq ans, atteint de tuberculose il v&#xE9;cut sa derni&#xE8;re ann&#xE9;e dans une union &#xE0; Dieu tr&#xE8;s profonde et une charit&#xE9; fraternelle des plus d&#xE9;licates.</para><para>12*. &#xC0; Marseille, en 1884, la bienheureuse Marie de J&#xE9;sus (Marie Deluil Martiny), vierge, qui fonda la Congr&#xE9;gation des Filles du C&#x153;ur de J&#xE9;sus et fut bless&#xE9;e &#xE0; mort par un jardinier pris de folie, achevant ainsi par l&#x2019;effusion de son sang une vie intimement unie &#xE0; la Passion du Christ. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pasto en Colombie, l&#x2019;an&#xA0;1943, la bienheureuse Marie de la Charit&#xE9; du Saint-Esprit (Marie-Jos&#xE8;phe-Caroline Brader), vierge, qui mit le plus grand soin &#xE0; joindre &#xE0; une vie contemplative une activit&#xE9; missionnaire, et pour cela fonda la Congr&#xE9;gation des S&#x153;urs franciscaines de Marie Immacul&#xE9;e pour la promotion du peuple gr&#xE2;ce &#xE0; une formation chr&#xE9;tienne. </para><para>** &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone, en Espagne, en 1871, le bienheureux Josep Tous Soler Pr&#xEA;tre Capucin Fondateur des Soeurs Capucines de la M&#xE8;re du Divin Pasteur (b&#xE9;atifi&#xE9; le 25 avril 2010 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada IX per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>1,88</phase_lunaire>
+<age_lunaire>28</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_9-7</Llec1>
+<Lrep1>R1_perannum_9-7</Lrep1>
+<Llec2>L2_perannum_9-7</Llec2>
+<Lrep2>R2_perannum_9-7</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ <ant1>AN_Praevenerunt_oculi_mei</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Fortitudo_mea_et</ant2>
+ <ps2>AT1</ps2>
+ <ant3>AN_Laudate_Dominum_omnes</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ <RB_matin>RB_Clamavi_ad_te_Domine</RB_matin> 
+<benedictus>AN_Illumina_Domine_sedentes</benedictus>
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Deduc_me_Domine</ant4>
+
+<ps4>ps118V</ps4>
+
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Inquire_pacem_et</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+
+<RB_3>VERS_Deus_meus</RB_3>
+
+<LB_6>LB_Ier_17_9-10</LB_6>
+
+<RB_6>VERS_Ab_occultis</RB_6>
+
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+
+<RB_9>VERS_Quam_magnificata</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica X per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+
+<ps7>ps118XIV</ps7>
+
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+
+<ps8>ps15</ps8>
+
+<ant9>AN_In_nomine_Iesu</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+
+<RB_soir>RB_A_solis_ortu</RB_soir>
+
+<magnificat>AN_Cum_vidisset_Dominus</magnificat>
+
+<vepres_preces>perannum_17</vepres_preces>
+
+<oratio_vepres>COL_Deus_a_quo_bona_cuncta_procedunt</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Respice_in_me</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_cuius_providentia_in_sui_dispositione</COL>			
+	
+<LEC1>2Tm4,1-8</LEC1>	
+	
+<PS1>GR_Iacta_cogitatum_tuum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Deus_iudex_iustus</PS2>
+	
+<SEQ/>
+	
+<EV>Mc12,38-44</EV>
+	
+<OF>OF_Sperent_in_te</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Amen_dico_vobis_Quidquid</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Clotilde</intitule>
+ <biographiecourte>Reine de France, par sa pri&#xE8;re elle convertit son &#xE9;poux Clovis (&#x2020;545 &#xE0; Tours)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 juin</para><para>(En France&#xA0;: M&#xE9;moire de sainte Clotilde, &#xE9;loge du 3 juin, n&#xA0;4).</para><para>1. &#xC0; Sabarie en Pannonie, l&#x2019;an&#xA0;309, la passion de saint Quirin, &#xE9;v&#xEA;que de Siscia [Siszeck] en Illyrie et martyr. Sous l&#x2019;empereur Gallien, pour la foi du Christ, il fut jet&#xE9; dans le fleuve avec une grosse pierre au cou. </para><para>2. &#xC0; Constantinople, vers 325, saint M&#xE9;trophane, &#xE9;v&#xEA;que de Byzance, qui consacra au Seigneur la nouvelle Rome.</para><para>3. Comm&#xE9;moraison de saint Optat, &#xE9;v&#xEA;que de Mil&#xE8;ve en Numidie, au IVe si&#xE8;cle, qui opposa dans ses &#xE9;crits, &#xE0; la folie des donatistes, l&#x2019;universalit&#xE9; de l&#x2019;&#xC9;glise et l&#x2019;unit&#xE9; intime n&#xE9;cessaire entre chr&#xE9;tiens. </para><para>4*. En Cornouailles, au VIe si&#xE8;cle, saint P&#xE9;troc, abb&#xE9;, qui vint du pays de Galles et fonda plusieurs monast&#xE8;res. </para><para>5*. &#xC0; Serviliano dans les Marches, au VIIIe si&#xE8;cle, saint Gautier, abb&#xE9; du monast&#xE8;re du lieu. </para><para>6*. En Sardaigne, au XIIe si&#xE8;cle, les saints Nicolas et Trano, ermites. </para><para>7*. &#xC0; Sassari en Sicile, l&#x2019;an&#xA0;1482, le bienheureux Pacifique de Cerano, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui s&#x2019;en alla vers le Seigneur en pr&#xEA;chant pour la d&#xE9;fense des chr&#xE9;tiens.</para><para>8. &#xC0; Agnone dans les Abruzzes, en 1608, saint Fran&#xE7;ois Caracciolo, pr&#xEA;tre, qui, enflamm&#xE9; d&#x2019;amour pour Dieu et son prochain, fonda la Congr&#xE9;gation des Clercs R&#xE9;guliers Mineurs, voulant qu&#x2019;ils unissent la vie contemplative &#xE0; l&#x2019;exercice du minist&#xE8;re pastoral. </para><para>9*. &#xC0; Lecce dans les Pouilles, en 1925, le saint Philippe Smaldone, pr&#xEA;tre, qui se donna avec un z&#xE8;le ardent au soin des sourds et des aveugles indigents, ainsi qu&#x2019;&#xE0; leur formation humaine et chr&#xE9;tienne, et fonda la Congr&#xE9;gation des S&#x153;urs Sal&#xE9;siennes des Sacr&#xE9;s C&#x153;urs. (canonis&#xE9; le 15 octobre 2006 par Beno&#xEE;t XVI)</para><para>10*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, les bienheureux martyrs Antoine Zawistowski, pr&#xEA;tre de Lublin, et Stanislas Starowieyski, p&#xE8;re de famille, pr&#xE9;sident de l&#x2019;action catholique dioc&#xE9;saine, qui succomb&#xE8;rent aux brutalit&#xE9;s et aux privations subies en captivit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

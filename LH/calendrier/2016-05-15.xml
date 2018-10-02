@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la></hebdomada>
+<intitule><la>Dominica Pentecostes</la></intitule>
+<rang><la>Sollemnitas</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>62,74</phase_lunaire>
+<age_lunaire>8</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Alleluia_Spiritus_Domini</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_Pentecostes</Llec1>
+<Lrep1>R1_Dominica_Pentecostes</Lrep1>
+<Llec2>L2_Dominica_Pentecostes</Llec2>
+<Lrep2>R2_Dominica_Pentecostes</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Beata_nobis_gaudia</HYMNUS_laudes>
+ <ant1>AN_Mirabilis_in_altis</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Laudabilis_es_Domine</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Laudate_Dominum_de</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Act_5_30-32</LB_matin> 
+ <RB_matin>RB_Repleti_sunt_omnes_Spiritu_Sancto</RB_matin> 
+<benedictus>AN_Accipite_Spiritum_Sanctum</benedictus>
+<laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_Christus_astra_ascenderat</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Spiritus_Sanctus_procedens</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Auge_in_nobis</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Non_enim_vos</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_1_Cor_12_13</LB_3>
+
+<RB_3>VERS_Spiritus_Paraclitus_alleluia_Docebit</RB_3>
+
+<LB_6>LB_Tit_3_5b-7</LB_6>
+
+<RB_6>VERS_Spiritus_Sanctus_docebit_vos_alleluia</RB_6>
+
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+
+<RB_9>VERS_Loquebantur_variis_linguis_Apostoli_alleluia</RB_9>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica Pentecostes</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Spiritus_Domini_replevit</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Confirma_hoc_Deus</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Repleti_sunt_omnes</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Eph_4_3-6</LB_soir>
+
+<RB_soir>RB_Spiritus_Domini_replevit_orbem_terrarum</RB_soir>
+
+<magnificat>AN_Hodie_completi_sunt</magnificat>
+
+<vepres_preces>perannum_31</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN/>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</COL>			
+	
+<LEC1/>	
+	
+<PS1/>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV/>
+	
+<OF/>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO/>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Notre Dame du Port (Clermont-Ferrand) </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Apr&#xE8;s Pentec&#xF4;te, le cierge pascal est plac&#xE9; aupr&#xE8;s des fonts baptismaux</intitule>
+ <intitule>Apr&#xE8;s Pentec&#xF4;te, le cierge pascal est plac&#xE9; aupr&#xE8;s des fonts baptismaux</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Michel Garico&#xEF;ts</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de l'institut missionnaire des p&#xE8;res de Betharram (&#x2020;1863) </biographiecourte>
+ <canonisebeatifie>Pie XII</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para> Dimanche de Pentec&#xF4;te </para><para>Le jour de la Pentec&#xF4;te, qui conclut les cinquante jours de P&#xE2;ques, est aujourd&#x2019;hui comm&#xE9;mor&#xE9;e, ainsi que l&#x2019;effusion de l&#x2019;Esprit Saint sur les disciples &#xE0; J&#xE9;rusalem, d&#x2019;abord sur l&#x2019;&#xC9;glise et les premi&#xE8;res missions apostoliques, puis sur toutes les tribus, langues peuples et nations.</para><para>
+            Le 15 mai</para><para>1. &#xC0; Lampsaque dans l&#x2019;Hellespont, peut-&#xEA;tre en 251, la passion des saints martyrs Pierre, Andr&#xE9;, Paul et Denise.</para><para>2. En Auvergne, probablement vers 260, les saints martyrs Cassius et Victorin, qui auraient &#xE9;t&#xE9; mis &#xE0; mort sous Chrocus, chef pa&#xEF;en des Alamans. </para><para>3. En Sardaigne, peut-&#xEA;tre au IVe si&#xE8;cle, saint Simplice, pr&#xEA;tre. </para><para>4*. &#xC0; Larissa en Thessalie, au IVe si&#xE8;cle, saint Achille, surnomm&#xE9; le Thaumaturge, &#xE9;v&#xEA;que, qui participa au premier Concile &#x153;cum&#xE9;nique de Nic&#xE9;e et, avec un z&#xE8;le admirable signal&#xE9; par toutes les vertus, &#xE9;vang&#xE9;lisa la population pa&#xEF;enne. </para><para>5*. &#xC0; Autun, au IVe si&#xE8;cle, saint Rh&#xE9;tice, &#xE9;v&#xEA;que, que saint Augustin appelle un homme de Dieu, un pr&#xE9;lat de grande autorit&#xE9; dans l&#x2019;&#xC9;glise, et saint J&#xE9;r&#xF4;me, un excellent commentateur de l&#x2019;&#xC9;criture sainte. </para><para>6. En &#xC9;thiopie, vers 535, saint Cabeb ou Elesbaan, roi. Il combattit les ennemis du Christ, qui avaient caus&#xE9; le martyre des chr&#xE9;tiens de N&#xE9;gran&#xE8;se et, au temps de l&#x2019;empereur Justin, il envoya, dit-on, &#xE0; J&#xE9;rusalem son diad&#xE8;me royal et, menant la vie monastique, comme il en avait fait le v&#x153;u, il s&#x2019;endormit dans le Seigneur. </para><para>7. &#xC0; Septempeda dans le Picenum, peut-&#xEA;tre au VIe si&#xE8;cle, saint S&#xE9;verin, &#xE9;v&#xEA;que, dont la ville prit ensuite le nom. </para><para>8*. &#xC0; Bingen, sur le Rhin pr&#xE8;s de Mayence, au IXe si&#xE8;cle, saint Rupert, duc, qui construisit plusieurs &#xE9;glises et h&#xF4;pitaux pour les pauvres et les malades. Apr&#xE8;s un p&#xE8;lerinage aux tombeaux des Ap&#xF4;tres, il se r&#xE9;solut &#xE0; vivre dans la retraite et s&#x2019;endormit dans le Seigneur, &#xE2;g&#xE9; seulement de dix-neuf ans.</para><para>9. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;855, saint Witesinde, martyr. La peur des Maures lui avait fait abandonner la foi chr&#xE9;tienne, mais quand, peu apr&#xE8;s, il refusa de pratiquer leur religion en public, il fut mis &#xE0; mort. </para><para>10. &#xC0; Madrid, vers 1130, saint Isidore, le laboureur. Avec son &#xE9;pouse, la bienheureuse Turibia, il travailla la terre avec ardeur et recueillit avec patience davantage les fruits du ciel que ceux de la terre, offrant le mod&#xE8;le d&#x2019;un paysan chr&#xE9;tien tr&#xE8;s pieux. </para><para>11*. &#xC0; Aix-en-Provence, en 1450, le bienheureux Andr&#xE9; Abellon, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui restaura la discipline r&#xE9;guli&#xE8;re dans les couvents o&#xF9; il fut envoy&#xE9; et o&#xF9; il montra de la g&#xE9;n&#xE9;rosit&#xE9; pour les autres et de l&#x2019;aust&#xE9;rit&#xE9; pour lui-m&#xEA;me. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Pologne, en 1650, la bienheureuse Sofia Czeska Maciejowska veuve, elle se mit au service des n&#xE9;cessiteux et elle fonda la premi&#xE8;re &#xE9;cole pour filles pour les pr&#xE9;parer &#xE0; une vie ind&#xE9;pendante. Elle &#xA0;fonda la Congr&#xE9;gation des Vierges de la Pr&#xE9;sentation. &#xA0;(b&#xE9;atifi&#xE9;e le 15 juin 2013 par le pape Fran&#xE7;ois) &#xA0; &#xA0; &#xA0;15 mai &#xA0;(f&#xEA;te pape) &#xA0; &#xA0; &#xA0; &#xA0;DCD 1 Avril</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la></hebdomada>
+<intitule><la>Dominica XXVIII per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>46,91</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1/>
+<antL2/>
+<psL2/>
+<antL3/>
+<psL3/>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_XXVIII_per_annum</Llec1>
+<Lrep1>R1_Dominica_XXVIII_per_annum</Lrep1>
+<Llec2>L2_Dominica_XXVIII_per_annum</Llec2>
+<Lrep2>R2_Dominica_XXVIII_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ <ant1>AN_Confitemini_Domino_quoniam</ant1>
+ <ps1>ps117</ps1>
+ <ant2>AN_Alleluia_benedicite_omnia</ant2>
+ <ps2>AT40</ps2>
+ <ant3>AN_Omnis_spiritus_laudet</ant3>
+ <ps3>ps150</ps3>
+ <LB_matin>LB_2_Tim_2_8._11-13</LB_matin> 
+ <RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin> 
+<benedictus>AN_Unus_ex_illis</benedictus>
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+
+<ps4>ps22</ps4>
+
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+
+<ps5>ps75I</ps5>
+
+<ant6>AN_Vovete_et_munera</ant6>
+
+<ps6>ps75II</ps6>
+
+<LB_3>LB_1_Cor_6_19-20</LB_3>
+
+<RB_3>VERS_Concupiscit_et_deficit</RB_3>
+
+<LB_6>LB_Deut_10_12</LB_6>
+
+<RB_6>VERS_Domine_quis_habitabit</RB_6>
+
+<LB_9>LB_Cant_8_6b-7a</LB_9>
+
+<RB_9>VERS_Diligam te, Domine</RB_9>
+
+<oratio_3/>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica XXVIII per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+
+<ant7>AN_In_splendoribus_sanctis</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Beati_qui_esuriunt_et</ant8>
+
+<ps8>ps111</ps8>
+
+<ant9>AN_Laudem_dicite_Deo</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Hebr_12_22-24</LB_soir>
+
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+
+<magnificat>AN_Non_sunt_inventi</magnificat>
+
+<vepres_preces>perannum_41</vepres_preces>
+
+<oratio_vepres>COL_Tua_nos_quaesumus_Domine_gratia_semper</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Si_iniquitates</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Tua_nos_quaesumus_Domine_gratia_semper</COL>			
+	
+<LEC1>1RV5,14-17</LEC1>	
+	
+<PS1>GR_Ecce_quam_bonum</PS1>
+	
+<LEC2>2Tm2,8-13</LEC2>
+	
+<PS2>AL_Qui_timent_Dominum</PS2>
+	
+<SEQ/>
+	
+<EV>Lc17,11-19</EV>
+	
+<OF>OF_Recordare_mei</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Aufer_a_me</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Saint Abraham, patriarche</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Denis, &#xE9;v&#xEA;que, et ses compagnons, martyrs</intitule>
+ <biographiecourte>Il fut d&#xE9;capit&#xE9;  avec deux compagnons sur la colline de Montmartre vers 250</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St  Jean L&#xE9;onardi, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur des Clercs de la M&#xE8;re de Dieu&#xA0;(+ 1609)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 9 octobre</para><para>1. M&#xE9;moire de saint Denis, &#xE9;v&#xEA;que, et de ses compagnons, martyrs. Selon la tradition, saint Denis fut envoy&#xE9; en Gaule avec six autres compagnons par le pape de Rome vers 250, et, devenu premier &#xE9;v&#xEA;que des Parisiens, il subit le martyre avec le pr&#xEA;tre Rustique et le diacre &#xC9;leuth&#xE8;re, sans doute sous la pers&#xE9;cution de Val&#xE9;rien, en 258. </para><para>2. M&#xE9;moire de saint Jean L&#xE9;onardi, pr&#xEA;tre. Apr&#xE8;s avoir &#xE9;t&#xE9; aide-pharmacien &#xE0; Lucques en Toscane, il re&#xE7;ut le sacerdoce et, &#xE0; partir de l&#xE0;, pour enseigner aux enfants la doctrine chr&#xE9;tienne, restaurer la vie apostolique du clerg&#xE9; et propager la foi chr&#xE9;tienne, il fonda un Ordre de Clercs r&#xE9;guliers, appel&#xE9; ensuite de la M&#xE8;re de Dieu, ce qui lui causa bien des tribulations, puis il jeta &#xE0; Rome les bases du S&#xE9;minaire de la Propagation de la foi, et il mourut en 1609, victime de sa charit&#xE9; lors d&#x2019;une &#xE9;pid&#xE9;mie de peste.</para><para>3. Comm&#xE9;moraison de saint Abraham, patriarche et p&#xE8;re des croyants. Vers 1850 avant le Christ, &#xE0; l&#x2019;appel de Dieu, il quitta Our en Chald&#xE9;e, sa patrie, et parcourut la terre que Dieu lui avait promise, &#xE0; lui et &#xE0; sa descendance. Il manifesta sa foi totale en Dieu, esp&#xE9;rant contre toute esp&#xE9;rance, ne refusant pas m&#xEA;me d&#x2019;offrir en sacrifice son fils unique Isaac que Dieu lui avait donn&#xE9; dans sa vieillesse par sa femme Sara, jusqu&#x2019;alors st&#xE9;rile. </para><para>4. &#xC0; Laodic&#xE9;e en Syrie, la passion des saints Diodore, Diom&#xE8;de et Didyme.</para><para>5. Sur la voie Claudienne, sur le territoire de Parme, au d&#xE9;but du IVe si&#xE8;cle, saint Domnin martyr. </para><para>6. &#xC0; Antioche de Syrie, au IVe si&#xE8;cle, sainte Publia. Apr&#xE8;s la mort de son mari, elle entra dans un monast&#xE8;re. Au passage de Julien l&#x2019;Apostat, elle chanta avec ses vierges le verset du psaume&#xA0;: &#x201C;les idoles des pa&#xEF;ens, or et argent&#xA0;; qu&#x2019;ils deviennent comme elles, tous ceux qui les font&#x201D;. Sur l&#x2019;ordre de l&#x2019;empereur, elle fut soufflet&#xE9;e et gravement punie. </para><para>7*. Au pays de Bigorre, sur les pentes des Pyr&#xE9;n&#xE9;es, au Ve si&#xE8;cle, saint Savin, ermite, qui, apr&#xE8;s trois ans de vie monastique &#xE0; Ligug&#xE9;, passa treize ans dans la solitude. </para><para>8*. &#xC0; Tiferno en Ombrie, l&#x2019;an&#xA0;610, saint Domnin, ermite.</para><para>9. En Hannonie, entre 681 et 685, saint Ghislain, qui mena la vie monastique dans un couvent qu&#x2019;il avait construit. </para><para>10. Au Mont-Cassin dans le Latium, vers 834, saint Deusdedit, abb&#xE9;, qui fut mis dans un cachot par le tyran Sicard et, accabl&#xE9; par la faim et les mauvais traitements, y rendit son &#xE2;me &#xE0; Dieu. </para><para>11*. &#xC0; Brennov en Boh&#xEA;me, l&#x2019;an&#xA0;1045, la mise au tombeau de saint Gunther, ermite, qui, apr&#xE8;s une jeunesse d&#xE9;sordonn&#xE9;e, se retira d&#x2019;abord dans l&#x2019;obscurit&#xE9; de la vie monastique, puis dans les solitudes &#xE9;loign&#xE9;es des for&#xEA;ts entre la Bavi&#xE8;re et la Boh&#xEA;me, et l&#xE0; il v&#xE9;cut et mourut, aussi uni &#xE0; Dieu que s&#xE9;par&#xE9; des hommes.</para><para>12*. Au monast&#xE8;re de Montsalvy en Rouergue, l&#x2019;an&#xA0;1110, saint Bernard de Rodez, abb&#xE9; de chanoines r&#xE9;guliers. </para><para>13. &#xC0; Valence en Espagne, l&#x2019;an&#xA0;1601, Saint Louis Bertrand, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui enseigna l&#x2019;&#xC9;vangile du Christ &#xE0; divers peuples indig&#xE8;nes d&#x2019;Am&#xE9;rique du Sud et les d&#xE9;fendit contre leurs oppresseurs. </para><para>14. &#xC0; Turon dans les Asturies, en 1937, saint martyr Innocent de l&#x2019;Immacul&#xE9;e (Emmanuel Canoura Arnau), pr&#xEA;tre de la Congr&#xE9;gation de la Passion, et huit compagnons, fr&#xE8;res des &#xC9;coles chr&#xE9;tiennes, qui furent massacr&#xE9;s en haine de la foi dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Angleterre, en 1890, le bienheureux Jhon Henry Newman, cardinal, th&#xE9;ologien et christologue. Pr&#xEA;tre anglican il se converti au catholicisme en 1845. (b&#xE9;atifi&#xE9; le 19 septembre 2010 par Beno&#xEE;t XVI) F&#xEA;t&#xE9; le jour de sa conversion le 9 octobre, d&#xE9;c&#xE9;d&#xE9; le 11 ao&#xFB;t &#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

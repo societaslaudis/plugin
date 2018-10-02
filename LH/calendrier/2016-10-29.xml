@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXX per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>3,08</phase_lunaire>
+<age_lunaire>27</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps135I</psL1>
+<antL2/>
+<psL2>ps135II</psL2>
+<antL3/>
+<psL3>ps135III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_30-7</Llec1>
+<Lrep1>R1_perannum_30-7</Lrep1>
+<Llec2>L2_perannum_30-7</Llec2>
+<Lrep2>R2_perannum_30-7</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ <ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ <ps1>ps91</ps1>
+ <ant2>AN_Date_magnificentiam_Deo</ant2>
+ <ps2>AT2</ps2>
+ <ant3>AN_Quam_admirabile_est</ant3>
+ <ps3>ps8</ps3>
+ <LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ <RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin> 
+<benedictus>AN_Dirige_Domine_pedes</benedictus>
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Caelum_et_terra</ant4>
+
+<ps4>ps118XI</ps4>
+
+<ant5>AN_Tu_Domine_spes</ant5>
+
+<ps5>ps60</ps5>
+
+<ant6>AN_A_timore_inimici</ant6>
+
+<ps6>ps63</ps6>
+
+<LB_3>LB_Deut_8_5b-6</LB_3>
+
+<RB_3>VERS_Timor_Domini</RB_3>
+
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+
+<RB_6>VERS_Deduc_me</RB_6>
+
+<LB_9>LB_Ier_6_16</LB_9>
+
+<RB_9>VERS_Hereditas_mea</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica XXXI per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+
+<ant7>AN_A_solis_ortu</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+
+<ps8>ps115</ps8>
+
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+
+<magnificat>AN_Zachaee_festinans_descende</magnificat>
+
+<vepres_preces>perannum_27</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_de_cuius</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Laetetur_cor</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</COL>			
+	
+<LEC1>Ph1,18-26</LEC1>	
+	
+<PS1>GR_Unam_petii</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Lauda_Ierusalem</PS2>
+	
+<SEQ/>
+	
+<EV>Lc14,1-11</EV>
+	
+<OF>OF_Domine_vivifica_me</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Laetabimur</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Ga&#xE9;tan Errico, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre &#xE0; Naples, lors d'une vision de St Alphonse de Liguori, il fonda une congr&#xE9;gation missionnaire (&#x2020;1860)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 octobre</para><para>1. &#xC0; Carthage, saint F&#xE9;licien, martyr, vers le IIIe si&#xE8;cle. </para><para>2. Comm&#xE9;moraison de saint Narcisse, &#xE9;v&#xEA;que de J&#xE9;rusalem, dont il faut louer la saintet&#xE9;, l&#x2019;endurance et la foi. Il fut d&#x2019;accord avec le pape saint Victor sur le temps de la c&#xE9;l&#xE9;bration de la P&#xE2;que chr&#xE9;tienne, affirmant que le myst&#xE8;re de la R&#xE9;surrection du Seigneur ne devait &#xEA;tre c&#xE9;l&#xE9;br&#xE9; un autre jour que le dimanche et s&#x2019;en alla avec bonheur aupr&#xE8;s du Seigneur &#xE0; l&#x2019;&#xE2;ge de cent treize ans. </para><para>3. &#xC0; Verceil en Ligurie, apr&#xE8;s 397, saint Honorat, &#xE9;v&#xEA;que. Disciple de saint Eus&#xE8;be dans sa communaut&#xE9; de clercs et son compagnon en prison, il fut &#xE0; la t&#xEA;te de cette &#xC9;glise le second apr&#xE8;s son ma&#xEE;tre, il enseigna son peuple dans la vraie foi et m&#xE9;rita de donner le viatique &#xE0; saint Ambroise mourant. </para><para>4. &#xC0; Sidon en Ph&#xE9;nicie, au d&#xE9;but du IVe si&#xE8;cle, saint Z&#xE9;nobe, pr&#xEA;tre. Quand s&#xE9;vit cruellement la pers&#xE9;cution de Diocl&#xE9;tien, il exhorta les autres au martyre, dont il fut lui-m&#xEA;me couronn&#xE9;. </para><para>5. &#xC0; &#xC9;desse en Syrie, l&#x2019;an&#xA0;366, saint Abraham, anachor&#xE8;te, dont saint &#xC9;phrem a rapport&#xE9; les actions. </para><para>6. Sur le territoire de Vienne en Gaule, vers 575, saint Th&#xE9;odore, abb&#xE9;. Disciple de saint C&#xE9;saire d&#x2019;Arles, il fonda des cellules pour les moines, fut &#xE9;tabli par l&#x2019;&#xE9;v&#xEA;que comme intercesseur aupr&#xE8;s de Dieu et pr&#xEA;tre charg&#xE9; de la p&#xE9;nitence pour tout le peuple de la cit&#xE9;. </para><para>7*. &#xC0; Killmaduagh en Irlande, vers&#xA0;632, saint Colman, &#xE9;v&#xEA;que. Moine ordonn&#xE9; &#xE9;v&#xEA;que malgr&#xE9; lui, il v&#xE9;cut avec un seul disciple de l&#xE9;gumes et d&#x2019;eau, puis fonda un monast&#xE8;re &#xE0; Killmaduagh, qui le v&#xE9;n&#xE8;re comme son premier &#xE9;v&#xEA;que. </para><para>8*. Dans le Cambr&#xE9;sis, au VIIIe si&#xE8;cle, saint Dodon, abb&#xE9;, qui gouverna le monast&#xE8;re de Waller en Fagne, auquel il fit don de ses biens, mais se retira bient&#xF4;t dans un ermitage. </para><para>9*. &#xC0; Secondigliano pr&#xE8;s de Naples, en 1860, le saint Ga&#xE9;tan Errico, pr&#xEA;tre, qui favorisa de tout son pouvoir les retraites spirituelles et l&#x2019;adoration eucharistique pour gagner les &#xE2;mes au Christ, et qui fonda dans ce but la Congr&#xE9;gation des Missionnaires des Saints C&#x153;urs de J&#xE9;sus et Marie. (canonis&#xE9; le 12 octobre 2008 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

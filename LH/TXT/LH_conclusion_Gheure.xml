@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liturgia><ligne id="0"><la>Dóminus vobíscum.</la><fr>Le Seigneur soit avec vous.</fr></ligne><ligne id="1"><la>
+R/. Et cum spíritu tuo.</la><fr>R/. Et avec votre esprit.</fr></ligne><ligne id="2">
+	<la>
+Benedícat vos omnípotens Deus, Pater, et Fílius, et Spíritus Sanctus.</la>
+<fr>Que vous bénisse Dieu tout puissant, le Père, le Fils et le Saint Esprit.</fr>
+</ligne>
+<ligne id="3">
+	<la>R/. Amen.</la>
+	<fr>R/. Amen.</fr>
+</ligne>
+
+<ligne id="4"><style>rubrique</style>
+	<la>Vel alia formula benedictionis, sicut in Missa.</la>
+	<fr>Ou une autre formule de bénédiction, comme à la Messe.</fr>
+</ligne>
+
+<ligne id="5"><style>rubrique</style>
+	<la>Et si fit dimissio, sequitur invitatio:</la>
+	<fr>Et si on fait un renvoi, on ajoute l'invitation :</fr>
+</ligne>
+
+<ligne id="6">
+	<la>V/. Ite in pace. </la>
+	<fr>V/. Allez en paix.</fr>
+</ligne>
+
+<ligne id="7">
+	<la>R/. Deo grátias. </la>
+	<fr>R/. Rendons grâces  Dieu.</fr>
+</ligne>
+</liturgia>

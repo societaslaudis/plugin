@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXIV per annum</la></hebdomada>
+<intitule><la>Ss. Andreae Dung Lac, presbyteri, et sociorum, martyrum</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>25,91</phase_lunaire>
+<age_lunaire>24</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Dies_irae_dies_illa</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+<antL1>AN_Salvasti_nos_Domine</antL1>
+<psL1>ps43I</psL1>
+<antL2>AN_Parce_Domine_et</antL2>
+<psL2>ps43II</psL2>
+<antL3>AN_Exsurge_Domine_et</antL3>
+<psL3>ps43III</psL3>
+<LVers>VERS_Domine_ad</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Ss._Andreae_Dung_Lac_presbyteri_et_sociorum_martyrum</Llec1>
+<Lrep1>R1_Ss._Andreae_Dung_Lac_presbyteri_et_sociorum_martyrum</Lrep1>
+<Llec2>L2_Ss._Andreae_Dung_Lac_presbyteri_et_sociorum_martyrum</Llec2>
+<Lrep2>R2_Ss._Andreae_Dung_Lac_presbyteri_et_sociorum_martyrum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterna_Christi_munera</HYMNUS_laudes>
+ <ant1>AN_Excita_Domine_potentiam</ant1>
+ <ps1>ps79</ps1>
+ <ant2>AN_Magnifice_fecit_Dominus</ant2>
+ <ps2>AT19</ps2>
+ <ant3>AN_Exsultate_Deo_adiutori</ant3>
+ <ps3>ps80</ps3>
+ <LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ <RB_matin>RB_Iusti_autem_In_perpetuum</RB_matin> 
+<benedictus>AN_Beati_qui_persecutionem</benedictus>
+<laudes_preces>perannum_25</laudes_preces><oratio_laudes>COL_Deus_omnis_paternitatis_fons_et_origo</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Bonum_mihi_lex</ant4>
+
+<ps4>ps118IX</ps4>
+
+<ant5>AN_In_Deo_speravi</ant5>
+
+<ps5>ps55</ps5>
+
+<ant6>AN_Magnificata_est_usque</ant6>
+
+<ps6>ps56</ps6>
+
+<LB_3>LB_Gal_5_13-14</LB_3>
+
+<RB_3>VERS_Domine_viam</RB_3>
+
+<LB_6>LB_Gal_5_16-17</LB_6>
+
+<RB_6>VERS_Bonus_es</RB_6>
+
+<LB_9>LB_Gal_5_22._23a._25</LB_9>
+
+<RB_9>VERS_Notam_fac</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>SS. ANDRAE DUNG LAC, PREBYTERI ET SOCIORUM, MARTYRUM</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sanctorum_meritis_inclita_gaudia</HYMNUS_vepres>
+
+<ant7>AN_Posui_te_in</ant7>
+
+<ps7>ps71I</ps7>
+
+<ant8>AN_Salvos_faciet_Dominus</ant8>
+
+<ps8>ps71II</ps8>
+
+<ant9>AN_Nunc_facta_est</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+
+<RB_soir>RB_Laetamini_in_Domino_Et</RB_soir>
+
+<magnificat>AN_Gaudent_in_caelis</magnificat>
+
+<vepres_preces>perannum_25</vepres_preces>
+
+<oratio_vepres>COL_Deus_omnis_paternitatis_fons_et_origo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Iusti_epulentur</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_omnis_paternitatis_fons_et_origo</COL>			
+	
+<LEC1>Ap18,1-19,9</LEC1>	
+	
+<PS1>GR_Gloriosus_Deus</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Iustorum_animae</PS2>
+	
+<SEQ/>
+	
+<EV>Lc21,20-28</EV>
+	
+<OF>OF_Anima_nostra</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dico_autem_vobis</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St-Andr&#xE9; Dung-Lac, pr&#xEA;tre et ses compagnons martyrs</intitule>
+ <biographiecourte>Et ses 117 compagnons martyrs au Vietnam. Andr&#xE9;, pr&#xEA;tre, annon&#xE7;a l'&#xE9;vangile au p&#xE9;ril de sa vie. Mort martyr &#xE0; Hano&#xEF; en 1839</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 novembre</para><para>1. M&#xE9;moire de saint Andr&#xE9; Dung Lac, pr&#xEA;tre, et ses compagnons, martyrs. Une c&#xE9;l&#xE9;bration commune honore cent-dix-sept martyrs mis &#xE0; mort entre 1745 et 1862 dans diverses r&#xE9;gions du Viet Nam ns </para><para>2. Comm&#xE9;moraison de saint Chrysogone, martyr &#xE0; Aquil&#xE9;e en V&#xE9;n&#xE9;tie, au jour anniversaire de la d&#xE9;dicace de l&#x2019;&#xE9;glise du titre qui porte son nom &#xE0; Rome. </para><para>3. &#xC0; Amelia en Ombrie, sainte Firmine, martyre. </para><para>4. &#xC0; Milan vers 356, saint Protais, &#xE9;v&#xEA;que, qui d&#xE9;fendit la cause de saint Athanase devant l&#x2019;empereur Constant et si&#xE9;gea au concile de Sardique. </para><para>5. Dans la place forte de Blaye sur le territoire de Bordeaux, vers 380, saint Romain, pr&#xEA;tre.</para><para>6*. &#xC0; Cluain (Cloyne) en Irlande vers 606, saint Colman, premier &#xE9;v&#xEA;que du lieu, qui fut barde &#xE0; la cour de Cashel avant de devenir chr&#xE9;tien, gr&#xE2;ce &#xE0; saint Brendan, &#xE0; l&#x2019;&#xE2;ge de cinquante ans.</para><para>7. Au pays arverne, apr&#xE8;s 532, saint Pour&#xE7;ain, abb&#xE9;. Esclave dans sa jeunesse, il trouva refuge et libert&#xE9; dans un monast&#xE8;re, o&#xF9; il devint moine, puis abb&#xE9; et mourut tr&#xE8;s &#xE2;g&#xE9;, ext&#xE9;nu&#xE9; par les je&#xFB;nes. </para><para>8. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;854, les saintes Flora et Marie, vierges et martyres, qui, durant la pers&#xE9;cution des Maures, furent jet&#xE9;es en prison en m&#xEA;me temps que saint Euloge et p&#xE9;rirent par l&#x2019;&#xE9;p&#xE9;e.</para><para>9. &#xC0; Reims, en 1192, la passion de saint Albert de Louvain, &#xE9;v&#xEA;que de Li&#xE8;ge et martyr. Envoy&#xE9; en exil pour sa d&#xE9;fense des libert&#xE9;s de l&#x2019;&#xC9;glise, il fut, la m&#xEA;me ann&#xE9;e, ordonn&#xE9; &#xE9;v&#xEA;que et tu&#xE9; dans la m&#xEA;me ville. </para><para>10*. Au monast&#xE8;re de Cava en Campanie, l&#x2019;an&#xA0;1252, le bienheureux Balsame, abb&#xE9;, qui remplit sa charge avec sagesse et prudence parmi les troubles et les conflits de son temps. </para><para>11. &#xC0; Dong Hoi en Annam, l&#x2019;an&#xA0;1838, les saints martyrs Pierre Dumoulin-Borie, &#xE9;v&#xEA;que, de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris, Pierre Vo Dang Khoa et Vincent Nguy&#xEA;n Th&#xEA; Di&#xEA;m, pr&#xEA;tres. L&#x2019;&#xE9;v&#xEA;que fut d&#xE9;capit&#xE9; et les pr&#xEA;tres &#xE9;trangl&#xE9;s sur l&#x2019;ordre de l&#x2019;empereur Minh Mang. </para><para>12*. &#xC0; Milan, en 1891, la bienheureuse Marie-Anne Sala, vierge de la Congr&#xE9;gation des S&#x153;urs de Sainte-Marceline, qui s&#x2019;occupa enti&#xE8;rement de la formation des jeunes filles et se r&#xE9;v&#xE9;la ma&#xEE;tresse de science, soutenue par la foi et la pi&#xE9;t&#xE9;. </para><para>13*. &#xC0; Picadero de Paterna dans la r&#xE9;gion de Valence en Espagne, en 1936, la bienheureuse martyre Nic&#xE9;ta Plaja Xifra et ses onze compagnes, vierges et martyres, Carm&#xE9;lites de la Charit&#xE9;, victimes de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nagasaki, en 1639, les bienheureux Peter Kibe Kasui, j&#xE9;suite et 187 compagnons martyrs (b&#xE9;atifi&#xE9;s par Benoit XVI le 24 novembre 2008) D&#xE9;c&#xE9;d&#xE9; le 5 f&#xE9;vrier, f&#xEA;t&#xE9; le 24 novembre.(martyrs du Japon)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada III per annum</la></hebdomada>
+<intitule><la>S. Angelae Merici, virginis</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>91,52</phase_lunaire>
+<age_lunaire>17</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Adoremus_Dominum_quoniam</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1>AN_Misericordia_et_veritas</antL1>
+<psL1>ps88I</psL1>
+<antL2>AN_Filius_Dei_factus</antL2>
+<psL2>ps88II</psL2>
+<antL3>AN_Semel_iuravi_David</antL3>
+<psL3>ps88III</psL3>
+<LVers>VERS_Declaratio_sermonum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_3-4</Llec1>
+<Lrep1>R1_perannum_3-4</Lrep1>
+<Llec2>L2_perannum_3-4</Llec2>
+<Lrep2>R2_perannum_3-4</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Nox_et_tenebrae_et_nubila</HYMNUS_laudes>
+ <ant1>AN_Laetifica_animam_servi</ant1>
+ <ps1>ps85</ps1>
+ <ant2>AN_Beatus_vir_qui</ant2>
+ <ps2>AT22</ps2>
+ <ant3>AN_Iubilate_in_conspectu</ant3>
+ <ps3>ps97</ps3>
+ <LB_matin>LB_Iob_1_21;_2_10b</LB_matin> 
+ <RB_matin>RB_Inclina_cor_meum_Deus</RB_matin> 
+<benedictus>AN_Fac_nobiscum_misericordiam</benedictus>
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Exaudi_nos_Deus_salutaris_noster_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Qui_sequitur_me</ant4>
+
+<ps4>ps118XIV</ps4>
+
+<ant5>AN_Ego_egenus_et</ant5>
+
+<ps5>ps69</ps5>
+
+<ant6>AN_Non_secundum_visionem</ant6>
+
+<ps6>ps74</ps6>
+
+<LB_3>LB_1_Cor_13_4-7</LB_3>
+
+<RB_3>VERS_Exsultent_et</RB_3>
+
+<LB_6>LB_1_Cor_13_8-9._13</LB_6>
+
+<RB_6>VERS_Fiat_misericordia</RB_6>
+
+<LB_9>LB_Col_3_14-15</LB_9>
+
+<RB_9>VERS_Mansueti_hereditabunt</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Caeli_Deus_sanctissime</HYMNUS_vepres>
+
+<ant7>AN_Qui_seminant_in</ant7>
+
+<ps7>ps125</ps7>
+
+<ant8>AN_Dominus_aedificet_nobis</ant8>
+
+<ps8>ps126</ps8>
+
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Eph_3_20-21</LB_soir>
+
+<RB_soir>RB_Redime_me_Domine</RB_soir>
+
+<magnificat>AN_Fecit_mihi_magna</magnificat>
+
+<vepres_preces>perannum_34</vepres_preces>
+
+<oratio_vepres>COL_Vox_clamantis_Ecclesiae_ad_aures_Domine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Adorate_Deum</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</COL>			
+	
+<LEC1>2S7,1-17</LEC1>	
+	
+<PS1>GR_Timebunt_gentes</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Dominus_regnavit_exsultet</PS2>
+	
+<SEQ/>
+	
+<EV>Mc4,1-20</EV>
+	
+<OF>OF_Dextera_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Mirabantur_omnes</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Ang&#xE8;le Merici, vierge.</intitule>
+ <biographiecourte>Religieuse, fondatrice de l'institut des Ursulines, premier ordre f&#xE9;minin enseignant (&#x2020;1540)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de sainte Ang&#xE8;le Merici, vierge. Elle prit d&#x2019;abord l&#x2019;habit du Tiers-Ordre de Saint Fran&#xE7;ois et elle r&#xE9;unit des jeunes filles pour les former aux &#x153;uvres de charit&#xE9;&#xA0;; puis, sous le nom de saint Ursule, elle fonda un Ordre f&#xE9;minin, avec pour objectif de pratiquer la vie de perfection dans le monde et d&#x2019;instruire les adolescentes dans les voies du Seigneur. Elle mourut, cinq ans apr&#xE8;s sa fondation, en 1540, &#xE0; Brescia en Lombardie. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sora dans le Latium, saint Julien, martyr.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Au Mans, saint Julien, qui est tenu pour le premier &#xE9;v&#xEA;que de la ville, au IIIe si&#xE8;cle.</para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Mariana en Corse, comm&#xE9;moraison de sainte D&#xE9;vote, vierge et martyre.</para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Au pays de Sisteron, vers 650, saint Marius, abb&#xE9; du monast&#xE8;re de Bodon.</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, pr&#xE8;s de Saint Pierre, en 672, la mise au tombeau de saint Vitalien, pape, qui veilla avec un z&#xE8;le particulier au salut des Angles. </para><para>7*. &#xC0; Tournus en Bourgogne, l&#x2019;an&#xA0;1022, le tr&#xE9;pas de saint Thierry, &#xE9;v&#xEA;que d&#x2019;Orl&#xE9;ans, qui quitta cette vie en faisant route vers les tombes des Ap&#xF4;tres. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chartres, en 1077, le tr&#xE9;pas de saint Gilduin, diacre de Dol de Bretagne. Encore jeune homme, il fut &#xE9;lu &#xE9;v&#xEA;que de Dol, mais il se rendit aupr&#xE8;s du pape saint Gr&#xE9;goire VII pour repousser un tel honneur dont il se croyait indigne. En revenant de Rome, il fut saisi par la fi&#xE8;vre aux confins du pays chartrain et termina l&#xE0; son p&#xE8;lerinage terrestre. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Th&#xE9;rouanne chez les Morins, en 1130, le bienheureux Jean, &#xE9;v&#xEA;que. Il &#xE9;tait chanoine r&#xE9;gulier quand il re&#xE7;ut le si&#xE8;ge de cette cit&#xE9; et pendant plus de trente ans il lutta contre les simoniaques et fonda huit monast&#xE8;res de moines et de chanoines r&#xE9;guliers. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ripa San Vitale pr&#xE8;s de C&#xF4;me en Lombardie, l&#x2019;an&#xA0;1217, le bienheureux Manfred Settala, pr&#xEA;tre et ermite.</para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, en 1794, la bienheureuse Rosalie du Verdier de la Sorini&#xE8;re, vierge du monast&#xE8;re du Calvaire de cette ville, et martyre. Sous la R&#xE9;volution fran&#xE7;aise, elle fut guillotin&#xE9;e en haine de la religion chr&#xE9;tienne. </para><para>12. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Mengo en Ouganda, l&#x2019;an&#xA0;1887, la passion de saint Jean-Marie, surnomm&#xE9; Muzei, c&#x2019;est-&#xE0;-dire Ancien, &#xE0; cause de la maturit&#xE9; de son esprit. Familier du roi Mwenga, devenu chr&#xE9;tien, il ne voulut pas &#xE9;chapper &#xE0; la pers&#xE9;cution, mais il se pr&#xE9;senta de lui-m&#xEA;me devant le premier ministre du roi et fit sa profession de foi au Christ. Aussi tomba-t-il d&#xE9;capit&#xE9;, derni&#xE8;re victime de cette pers&#xE9;cution. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Gilet dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1896, saint Henri de Osso y Cervello, pr&#xEA;tre, qui fonda la Soci&#xE9;t&#xE9; de Sainte-Th&#xE9;r&#xE8;se pour promouvoir la formation des jeunes filles. Par la suite, &#xE9;cart&#xE9; de sa fondation, il passa les derni&#xE8;res ann&#xE9;es de sa vie dans le couvent des franciscains de la ville. </para><para>14*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Kauna en Lituanie, l&#x2019;an&#xA0;1910, le bienheureux Georges Matulaitis, &#xE9;v&#xEA;que de Vilna et ensuite d&#xE9;l&#xE9;gu&#xE9; apostolique en Lituanie, qui fonda la Congr&#xE9;gation des Clercs de Marie et celle des Pauvres S&#x153;urs de l&#x2019;Immacul&#xE9;e Conception de la Vierge Marie.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Allemagne, en 1862, le bienheureux Paul Josef Nardini, pr&#xEA;tre dioc&#xE9;sain, fondateur de la Congr&#xE9;gation des S&#x153;urs Franciscaines de la Sainte-Famille. (b&#xE9;atifi&#xE9; le 22 octobre 2006 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

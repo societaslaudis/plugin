@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la></hebdomada>
+<intitule><la>S. Ioannis Pauli II, papae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>60,16</phase_lunaire>
+<age_lunaire>21</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_29-7</Llec1>
+<Lrep1>R1_perannum_29-7</Lrep1>
+<Llec2>L2_perannum_29-7</Llec2>
+<Lrep2>R2_perannum_29-7</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ <ant1>AN_Praevenerunt_oculi_mei</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Fortitudo_mea_et</ant2>
+ <ps2>AT1</ps2>
+ <ant3>AN_Laudate_Dominum_omnes</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_2_Petr_1_10-11</LB_matin> 
+ <RB_matin>RB_Clamavi_ad_te_Domine</RB_matin> 
+<benedictus>AN_Illumina_Domine_sedentes</benedictus>
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Deduc_me_Domine</ant4>
+
+<ps4>ps118V</ps4>
+
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Inquire_pacem_et</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+
+<RB_3>VERS_Deus_meus</RB_3>
+
+<LB_6>LB_Ier_17_9-10</LB_6>
+
+<RB_6>VERS_Ab_occultis</RB_6>
+
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+
+<RB_9>VERS_Quam_magnificata</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica XXX per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+
+<ant7>AN_A_solis_ortu</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+
+<ps8>ps115</ps8>
+
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+
+<magnificat>AN_Stans_a_longe</magnificat>
+
+<vepres_preces>perannum_17</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_da_nobis_fidei</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Ego_clamavi</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</COL>			
+	
+<LEC1>Ep4,7-16</LEC1>	
+	
+<PS1>GR_Salvum_fac_populum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Lauda_anima_mea</PS2>
+	
+<SEQ/>
+	
+<EV>Lc13,1-9</EV>
+	
+<OF>OF_Meditabor</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Domine Dominus_noster</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean-Paul II, pape</intitule>
+ <biographiecourte>Pape 1978-2005</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 22 octobre</para><para>1. Comm&#xE9;moraison de saint Marc, &#xE9;v&#xEA;que de J&#xE9;rusalem au IIe si&#xE8;cle. Il fut le premier d&#x2019;origine pa&#xEF;enne &#xE0; recevoir la direction de l&#x2019;&#xC9;glise de la Cit&#xE9; sainte que la terreur avait dispers&#xE9;e et qu&#x2019;il commen&#xE7;a &#xE0; regrouper par sa foi et son z&#xE8;le. </para><para>2. &#xC0; Hi&#xE9;ropolis en Phrygie, au IIIe si&#xE8;cle, saint Abercius, &#xE9;v&#xEA;que. Disciple du Christ bon Pasteur, la foi le conduisit dans diverses r&#xE9;gions et le nourrit d&#x2019;une nourriture mystique. </para><para>3. &#xC0; Andrinople en Thrace, l&#x2019;an&#xA0;303, les saints martyrs Philippe, &#xE9;v&#xEA;que d&#x2019;H&#xE9;racl&#xE9;e, et Herm&#xE8;s, diacre. Le premier, au d&#xE9;but de la pers&#xE9;cution de Diocl&#xE9;tien, re&#xE7;ut du gouverneur Justin l&#x2019;ordre de fermer l&#x2019;&#xE9;glise et de lui pr&#xE9;senter tous les vases et les livres saints. Il lui r&#xE9;pondit qu&#x2019;il ne convenait pas &#xE0; l&#x2019;&#xE9;v&#xEA;que de les donner, ni au gouverneur de les recevoir. Il fut alors incarc&#xE9;r&#xE9; et flagell&#xE9; avec son diacre, puis tous deux furent br&#xFB;l&#xE9;s vifs. </para><para>4. &#xC0; Rouen, au IVe si&#xE8;cle, saint Mallon, &#xE9;v&#xEA;que, qui annon&#xE7;a, croit-on, la foi chr&#xE9;tienne dans cette ville et y &#xE9;tablit son si&#xE8;ge &#xE9;piscopal. </para><para>5*. Sur le territoire de Besan&#xE7;on, au IVe si&#xE8;cle, la passion de saint Vallier, diacre de l&#x2019;&#xC9;glise de Langres, tu&#xE9; par des pa&#xEF;ens. </para><para>6*. Dans la r&#xE9;gion de Ch&#xE2;lons-en-Champagne, vers 584, la passion de saint Louvent, abb&#xE9; de Saint-Privat pr&#xE8;s de Mende, qui fl&#xE9;trit, dans ses pr&#xE9;dications, les scandales de la cour d&#x2019;Austrasie, subit injustement beaucoup de s&#xE9;vices de la part du comte de la cit&#xE9;, Innocent, et fut finalement d&#xE9;capit&#xE9;.</para><para>7*. &#xC0; Auch en Aquitaine, au VIIe si&#xE8;cle, saint L&#xE9;otade, &#xE9;v&#xEA;que. </para><para>8*. Au monast&#xE8;re de Bercetto en Lombardie, vers 720, saint Mod&#xE9;ran, abb&#xE9;, qui fut auparavant &#xE9;v&#xEA;que de Rennes, et s&#x2019;illustra par son amour de la solitude et sa d&#xE9;votion pour les lieux saints. </para><para>9*. Sur le territoire de Nantes, en 845, saint Beno&#xEE;t, qui v&#xE9;cut en solitaire &#xE0; Mass&#xE9;rac. </para><para>10. &#xC0; Huesca en Aragon, l&#x2019;an&#xA0;851, les saintes Nunilon et Alodie, vierges et martyres. N&#xE9;es d&#x2019;un p&#xE8;re musulman, mais &#xE9;lev&#xE9;es par leur m&#xE8;re dans la foi chr&#xE9;tienne, elles refus&#xE8;rent d&#x2019;abandonner la foi du Christ et, apr&#xE8;s une longue captivit&#xE9;, en vertu d&#x2019;un &#xE9;dit de l&#x2019;&#xE9;mir de Cordoue, Abd-ar- Rhaman II, elles furent tu&#xE9;es d&#x2019;un coup de sabre. </para><para>11. &#xC0; Fiesole en Toscane, vers 875, saint Donat Scot, &#xE9;v&#xEA;que, d&#x2019;une grande &#xE9;rudition et pi&#xE9;t&#xE9;. Venu d&#x2019;Irlande, en route vers Rome, il fut donn&#xE9;, par indication divine, au peuple de cette cit&#xE9; comme un excellent pasteur. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; Saint Jean-Paul II Pape Polonais (263 &#xE8;me) de 1978 &#xE0; 2005, ap&#xF4;tre de la mis&#xE9;ricorde, et initiateur des journ&#xE9;es mondiales des jeunes b&#xE9;atifi&#xE9; le 1er mai 2011 et canonis&#xE9; le 27 avril 2014. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

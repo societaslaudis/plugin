@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXIII per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>99,30</phase_lunaire>
+<age_lunaire>13</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Praeoccupemus_faciem_Domini</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Salvum_me_fac</antL1>
+<psL1>ps6</psL1>
+<antL2>AN_Factus_est</antL2>
+<psL2>ps9AI</psL2>
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+<psL3>ps09II</psL3>
+<LVers>VERS_Da_mihi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_33-2</Llec1>
+<Lrep1>R1_perannum_33-2</Lrep1>
+<Llec2>L2_perannum_33-2</Llec2>
+<Lrep2>R2_perannum_33-2</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Splendor_paternae_gloriae</HYMNUS_laudes>
+ <ant1>AN_Ad_te_orabo</ant1>
+ <ps1>ps5</ps1>
+ <ant2>AN_Laudamus_nomen_tuum</ant2>
+ <ps2>AT4</ps2>
+ <ant3>AN_Adorate_Dominum_in</ant3>
+ <ps3>ps28</ps3>
+ <LB_matin>LB_2Th3.10b-13</LB_matin> 
+ <RB_matin>RB_Benedictus_Dominus_A</RB_matin> 
+<benedictus>AN_Benedictus_Dominus_Deus</benedictus>
+<laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Lex_Domini_laetificat</ant4>
+
+<ps4>ps18B</ps4>
+
+<ant5>AN_Exsurget_Dominus_iudicare</ant5>
+
+<ps5>ps7I</ps5>
+
+<ant6>AN_Deus_iudex_iustus</ant6>
+
+<ps6>ps7II</ps6>
+
+<LB_3>LB_Rom_13_8._10</LB_3>
+
+<RB_3>VERS_Adiutor_meus_esto_ne_me</RB_3>
+
+<LB_6>LB_Iac_1_19b-20._26</LB_6>
+
+<RB_6>VERS_Benedicam_Dominum_in_omni_tempore</RB_6>
+
+<LB_9>LB_1_Petr_1_17b._18a._19</LB_9>
+
+<RB_9>VERS_Redime_me_Domine_et_miserere</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Immense_caeli_conditor</HYMNUS_vepres>
+
+<ant7>AN_Oculi_Domini_in</ant7>
+
+<ps7>ps10</ps7>
+
+<ant8>AN_Beati_mundo_corde</ant8>
+
+<ps8>ps14</ps8>
+
+<ant9>AN_In_Filio_suo</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Col_1_9b-11</LB_soir>
+
+<RB_soir>RB_Sana_animam_meam</RB_soir>
+
+<magnificat>AN_Magnificat_anima_mea</magnificat>
+
+<vepres_preces>perannum_12</vepres_preces>
+
+<oratio_vepres>COL_Magnificet_te_Domine_haec_nostrae_servitutis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Dicit_Dominus_Ego</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Da_nobis_quaesumus_Domine_Deus_noster</COL>			
+	
+<LEC1>Ap1,1-2,5</LEC1>	
+	
+<PS1>GR_Liberasti_nos</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_De_profundis</PS2>
+	
+<SEQ/>
+	
+<EV>Lc18,35-43</EV>
+	
+<OF>OF_De_profundis</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Amen_dico_vobis_Quidquid</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Nicolas Tavelic, religieux</intitule>
+ <biographiecourte>Et ses 3 compagnons franciscains, martyrs volontaires &#xE0; J&#xE9;rusalem en 1391</biographiecourte>
+ <canonisebeatifie>P VI</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 novembre</para><para>1. &#xC0; H&#xE9;racl&#xE9;e en Thrace, saint Th&#xE9;odote, pr&#xEA;tre et martyr. </para><para>2. &#xC0; Gangres en Paphlagonie, au IVe si&#xE8;cle, saint Hypace, &#xE9;v&#xEA;que et martyr, qui succomba sous les pierres lanc&#xE9;es par les h&#xE9;r&#xE9;tiques novatiens sur son chemin. </para><para>3. &#xC0; Avignon, peut-&#xEA;tre au IVe si&#xE8;cle, saint Ruf, que l&#x2019;on estime avoir &#xE9;t&#xE9; le premier &#xE0; diriger la communaut&#xE9; chr&#xE9;tienne de ce lieu. </para><para>4*. Dans l&#x2019;&#xEE;le de Bardsey au sud du pays de Galles, au VIe si&#xE8;cle, saint Dubrice, &#xE9;v&#xEA;que et abb&#xE9;, consid&#xE9;r&#xE9; comme un des fondateurs du monachisme au pays de Galles. </para><para>5*. &#xC0; Tra&#xF9; ou Trogir en Dalmatie, l&#x2019;an&#xA0;1170, saint Jean, &#xE9;v&#xEA;que. Apr&#xE8;s avoir &#xE9;t&#xE9; ermite au monast&#xE8;re camaldule d&#x2019;Osorin, il re&#xE7;ut la charge de l&#x2019;&#xE9;piscopat et d&#xE9;fendit avec succ&#xE8;s la cit&#xE9; de la destruction du roi Coloman. </para><para>6. &#xC0; Eu en Normandie, l&#x2019;an&#xA0;1180, le tr&#xE9;pas de saint Laurent O&#x2019;Toole, &#xE9;v&#xEA;que de Dublin. Dans les circonstances difficiles de son temps, il d&#xE9;fendit avec &#xE9;nergie la discipline de l&#x2019;&#xC9;glise et s&#x2019;appliqua &#xE0; r&#xE9;tablir la concorde entre les princes. En allant au-devant du roi Henri II d&#x2019;Angleterre, il obtint lui-m&#xEA;me les joies de la paix &#xE9;ternelle. </para><para>7*. Au monast&#xE8;re Sainte-Marie de Gualdo Mazocca pr&#xE8;s de Campobasso dans les Abruzzes, en 1170, le bienheureux Jean de Tupharia, ermite. </para><para>8*. Au Jardin de Sainte-Marie en Frise, l&#x2019;an&#xA0;1230, saint Siard, abb&#xE9; pr&#xE9;montr&#xE9;, remarquable par son ob&#xE9;issance &#xE0; la R&#xE8;gle et sa g&#xE9;n&#xE9;rosit&#xE9; envers les pauvres. </para><para>9*. &#xC0; Alger, en 1240, saint S&#xE9;rapion, le premier membre de l&#x2019;Ordre de la Merci qui m&#xE9;rita de recevoir la couronne du martyre pour la d&#xE9;livrance des captifs et la pr&#xE9;dication de la foi chr&#xE9;tienne en pays infid&#xE8;le. </para><para>10. &#xC0; J&#xE9;rusalem, en 1301, les saints martyrs Nicolas Tavelic, D&#xE9;odat Aribert, &#xC9;tienne de Cuneo et Pierre de Narbonne, pr&#xEA;tres de l&#x2019;Ordre des Mineurs&#xA0;; ayant pr&#xEA;ch&#xE9; librement la religion chr&#xE9;tienne sur la place devant les Sarrasins, ils confess&#xE8;rent avec constance le Christ Fils de Dieu et furent br&#xFB;l&#xE9;s vifs. </para><para>11*. &#xC0; Caccamo en Sicile, l&#x2019;an&#xA0;1511, le bienheureux Jean Liccio, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. Remarquable par sa charit&#xE9; infatigable envers le prochain, son ardeur &#xE0; propager la pri&#xE8;re du Rosaire, son z&#xE8;le pour la discipline r&#xE9;guli&#xE8;re&#xA0;; il s&#x2019;endormit dans le Seigneur &#xE0; l&#x2019;&#xE2;ge de cent onze ans. </para><para>12. &#xC0; Binh Dinh en Cochinchine, l&#x2019;an&#xA0;1861, saint &#xC9;tienne-Th&#xE9;odore Cu&#xE9;not, &#xE9;v&#xEA;que et martyr. Membre de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris, il passa plus de vingt-cinq ans dans les travaux apostoliques et, quand se d&#xE9;cha&#xEE;na la pers&#xE9;cution de l&#x2019;empereur Tu Duc, il fut jet&#xE9; dans une &#xE9;table &#xE0; &#xE9;l&#xE9;phants et mourut, &#xE9;puis&#xE9; par les &#xE9;preuves. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Pologne, en 1872, la bienheureuse Maria Luisa Merkert, cofondatrice et premi&#xE8;re sup&#xE9;rieure de la congr&#xE9;gation de Sainte Elisabeth. (b&#xE9;atifi&#xE9;e le 30 septembre 2007 par Beno&#xEE;t XVI)</para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1889, la bienheureuse Maria Teresa di gesu (Maria Scrilli), religieuse, fondatrice de l&#x2019;Institut de Notre Dame du Carmel. (b&#xE9;atifi&#xE9;e le 8 octobre 2006 par beno&#xEE;t XVI).</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

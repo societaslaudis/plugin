@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada III Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>58,96</phase_lunaire>
+<age_lunaire>21</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1>AN_Exsurgit_Deus_et</antL1>
+<psL1>ps67I</psL1>
+<antL2>AN_Deus_noster_Deus</antL2>
+<psL2>ps67II</psL2>
+<antL3>AN_Regna_terrae_cantate</antL3>
+<psL3>ps67III</psL3>
+<LVers>VERS_Audiam_quid</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_33</Llec1>
+<Lrep1>R1_quadragesima_33</Lrep1>
+<Llec2>L2_quadragesima_33</Llec2>
+<Lrep2>R2_quadragesima_33</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Innocens_manibus_et</ant1>
+ <ps1>ps84</ps1>
+ <ant2>AN_Exaltate_Regem_saeculorum</ant2>
+ <ps2>AT20</ps2>
+ <ant3>AN_Rectos_decet_collaudatio.</ant3>
+ <ps3>ps66</ps3>
+ <LB_matin>LB_Ioel_2_12-13</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Non_dico_tibi</benedictus>
+<laudes_preces>quadragesima_33</laudes_preces><oratio_laudes>COL_Gratia_tua_ne_nos_quaesumus_Domine</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118XIII</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps73I</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps73II</ps6>
+
+<LB_3>LB_Ioel_2_17</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Ier_3_25b</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Is_58_1-2a</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Tribuit_Dominus_victoriam</ant7>
+
+<ps7>ps124</ps7>
+
+<ant8>AN_Cantabimus_et_psallemus</ant8>
+
+<ps8>ps130</ps8>
+
+<ant9>AN_Fecisti_nos_Domine</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Iac_2_14._17._18b</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Sic_et_Pater</magnificat>
+
+<vepres_preces>quadragesima_33</vepres_preces>
+
+<oratio_vepres>COL_Gratia_tua_ne_nos_quaesumus_Domine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio/>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Ego clamavi</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Gratia_tua_ne_nos_quaesumus_Domine</COL>			
+	
+<LEC1>Da3,25-43</LEC1>	
+	
+<PS1>GR_Ab_occultis_meis</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Mt18,21-35</EV>
+	
+<OF>OF_Sicut_in_holocausto</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Domine_quis_habitabit</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Aubin, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Originaire de Vannes, &#xE9;v&#xEA;que d&#x2019;Angers, d&#xE9;fenseur de la morale (&#x2020;550)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 1er mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, pr&#xE8;s de saint Paul sur la voie d&#x2019;Ostie, en 492, la mise au tombeau du pape saint F&#xE9;lix III, qui fut l&#x2019;a&#xEF;eul du pape saint Gr&#xE9;goire le Grand.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, vers 550, saint Aubin, &#xE9;v&#xEA;que. D&#x2019;une grande aust&#xE9;rit&#xE9;, il stigmatisa avec &#xE9;nergie les mariages incestueux, fr&#xE9;quents chez les nobles, et promut le troisi&#xE8;me concile d&#x2019;Orl&#xE9;ans pour la r&#xE9;novation d&#x2019; l&#x2019;&#xC9;glise en Gaule.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; M&#xE9;n&#xE9;vie au pays de Galles, vers 601, saint David, &#xE9;v&#xEA;que. &#xC0; l&#x2019;imitation des exemples et des coutumes des P&#xE8;res orientaux, il fonda un monast&#xE8;re, d&#x2019;o&#xF9; sortirent un grand nombre de moines, qui &#xE9;vang&#xE9;lis&#xE8;rent le pays de Galles, l&#x2019;Irlande, les Cornouailles et l&#x2019;Armorique. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Dans le Maine, vers 680, saint Siviard, abb&#xE9; d&#x2019;Anisole. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Dans une &#xEE;le du Rhin en Saxe, l&#x2019;an&#xA0;713, saint Switbert, &#xE9;v&#xEA;que. D&#x2019;abord moine en Northumbrie d&#x2019;Angleterre, il devint le compagnon de mission de saint Willibrord, puis, ordonn&#xE9; &#xE9;v&#xEA;que par saint Wilfrid, il revint sur le continent pr&#xEA;cher l&#x2019;&#xC9;vangile aux Bataves, aux Frisons et &#xE0; d&#x2019;autres peuples germains et mourut pieusement dans le monast&#xE8;re qu&#x2019;il avait fond&#xE9; dans sa vieillesse. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Au Pays basque, au IXe si&#xE8;cle, saint L&#xE9;on, &#xE9;v&#xEA;que et martyr. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; En Sicile, vers 900, saint L&#xE9;on Luc, abb&#xE9; de Corl&#xE9;on, qui suivit la R&#xE8;gle de saint Basile et brilla par sa vie &#xE9;r&#xE9;mitique et c&#xE9;nobitique. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; la Celle Neuve en Galice, l&#x2019;an&#xA0;977, saint Rudesinde, &#xE9;v&#xEA;que et abb&#xE9;. &#xC0; la t&#xEA;te de l&#x2019;&#xC9;glise de Dume, il eut soin de promouvoir ou de restaurer la vie monastique dans la province, puis, s&#x2019;&#xE9;tant d&#xE9;mis de sa charge &#xE9;piscopale, il prit l&#x2019;habit monastique dans le monast&#xE8;re de la Celle Neuve, dont il devint ensuite l&#x2019;abb&#xE9;. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Taggia en Ligurie, l&#x2019;an&#xA0;1484, comm&#xE9;moraison du bienheureux Christophe de Milan, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, appliqu&#xE9; au culte divin et &#xE0; la sainte th&#xE9;ologie. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; l&#x2019;abbaye de Bassano en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1670, la bienheureuse Jeanne-Marie Bonomo, abbesse de l&#x2019;Ordre de saint Beno&#xEE;t, remplie de dons mystiques, qui participa dans son &#xE2;me et dans son corps aux douleurs de la passion du Seigneur. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Xilinxian dans la province chinoise de Guangxi, en 1856, sainte Agn&#xE8;s Cao Kuiying, veuve et martyre. Mari&#xE9;e d&#x2019;abord &#xE0; un paysan violent, &#xE0; la mort de celui-ci, elle se consacra, sur mandat de l&#x2019;&#xE9;v&#xEA;que, &#xE0; enseigner la doctrine chr&#xE9;tienne, ce qui lui valut d&#x2019;&#xEA;tre arr&#xEA;t&#xE9;e, condamn&#xE9;e au supplice de la cage et finalement fusill&#xE9;e.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXI per annum</la></hebdomada>
+<intitule><la>S. Caroli Borromeo, episcopi</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>14,80</phase_lunaire>
+<age_lunaire>3</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1>AN_Laboravi_clamans_dum</antL1>
+<psL1>ps68I</psL1>
+<antL2>AN_Dederunt_in_escam</antL2>
+<psL2>ps68II</psL2>
+<antL3>AN_Quaerite_Dominum_et</antL3>
+<psL3>ps68III</psL3>
+<LVers>VERS_Dominus_vias</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Caroli_Borromeo_episcopi</Llec1>
+<Lrep1>R1_S._Caroli_Borromeo_episcopi</Lrep1>
+<Llec2>L2_S._Caroli_Borromeo_episcopi</Llec2>
+<Lrep2>R2_S._Caroli_Borromeo_episcopi</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ <ant1>AN_Tibi_soli_peccavi</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Cognovimus_Domine_iniquitates</ant2>
+ <ps2>AT34</ps2>
+ <ant3>AN_Dominus_ipse_est</ant3>
+ <ps3>ps99</ps3>
+ <LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ <RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> 
+<benedictus>AN_Non_vos_estis</benedictus>
+<laudes_preces>perannum_36</laudes_preces><oratio_laudes>COL_Custodi_quaesumus_Domine_in_populo_tuo</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Vidimus_eum_despectum</ant4>
+
+<ps4>ps21I</ps4>
+
+<ant5>AN_Dividentes_vestimenta_Iesu</ant5>
+
+<ps5>ps21II</ps5>
+
+<ant6>AN_Adorabunt_in_conspectu</ant6>
+
+<ps6>ps21III</ps6>
+
+<LB_3>LB_Rom_1_16b-17</LB_3>
+
+<RB_3>VERS_In_Domino</RB_3>
+
+<LB_6>LB_Rom_3_21-22a</LB_6>
+
+<RB_6>VERS_Iustitiae_Domini</RB_6>
+
+<LB_9>LB_Eph_2_8-9</LB_9>
+
+<RB_9>VERS_Cognoscatur_Domine</RB_9>
+
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+
+<intitule_soir><la>S. CAROLI BORROMEO, EPISCOPI</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Vir_celse_forma_fulgida</HYMNUS_vepres>
+
+<ant7>AN_Magnus_est_Dominus</ant7>
+
+<ps7>ps134I</ps7>
+
+<ant8>AN_Domus_Israel_benedicite</ant8>
+
+<ps8>ps134II</ps8>
+
+<ant9>AN_Omnes_gentes_venient</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+
+<magnificat>AN_Iste_est_fidelis</magnificat>
+
+<vepres_preces>perannum_36</vepres_preces>
+
+<oratio_vepres>COL_Custodi_quaesumus_Domine_in_populo_tuo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Statuit_ei_Dominus</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Custodi_quaesumus_Domine_in_populo_tuo</COL>			
+	
+<LEC1>Rm12,3-13</LEC1>	
+	
+<PS1>GR_Ecce_sacerdos</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Tu_es_sacerdos</PS2>
+	
+<SEQ/>
+	
+<EV>Jn10,11-16</EV>
+	
+<OF>OF_Inveni_David</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Fidelis_servus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Charles Borrom&#xE9;e, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Archev&#xEA;que de Milan, d'une charit&#xE9; exemplaire, il r&#xE9;pandit dans son dioc&#xE8;se la contre-r&#xE9;forme (&#x2020;1584)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 4 novembre</para><para>1. M&#xE9;moire de saint Charles Borrom&#xE9;e, &#xE9;v&#xEA;que. Nomm&#xE9; par son oncle, le pape Pie IV, cardinal et archev&#xEA;que de Milan, il se montra sur ce si&#xE8;ge un vrai pasteur, attentif aux besoins de l&#x2019;&#xC9;glise de son temps. Pour la formation de son clerg&#xE9;, il r&#xE9;unit des synodes et fonda des s&#xE9;minaires&#xA0;; pour favoriser la vie chr&#xE9;tienne, il visita plusieurs fois tout son troupeau et les dioc&#xE8;ses suffragants et prit beaucoup de dispositions pour le salut des &#xE2;mes. Il s&#x2019;en alla la veille de ce jour &#xE0; la patrie du ciel, en 1584. </para><para>2. &#xC0; Bologne en &#xC9;milie, les saints Vital et Agricole, martyrs. Selon le r&#xE9;cit de saint Ambroise, Vital qui &#xE9;tait l&#x2019;esclave d&#x2019;Agricola, fut aussi son compagnon de martyre et partagea son sort. Il subit tous les genres de supplices au point qu&#x2019;il n&#x2019;avait plus sur son corps un endroit sans blessure&#xA0;; Agricola, que le supplice de son esclave ne sut effrayer, imita son martyre en &#xE9;tant crucifi&#xE9;. </para><para>3. &#xC0; Myre en Lycie, les saints martyrs Nicandre, &#xE9;v&#xEA;que, et Herm&#xE8;s, pr&#xEA;tre, au IVe si&#xE8;cle. </para><para>4. Comm&#xE9;moraison de saint Pi&#xE9;rius, pr&#xEA;tre d&#x2019;Alexandrie. Illustre comme philosophe, mais plus encore par l&#x2019;int&#xE9;grit&#xE9; de sa vie et sa pauvret&#xE9; volontaire, il enseigna parfaitement au peuple les divines &#xC9;critures, alors que saint Th&#xE9;onas gouvernait l&#x2019;&#xC9;glise d&#x2019;Alexandrie et, apr&#xE8;s la pers&#xE9;cution, il s&#x2019;endormit dans la paix au d&#xE9;but du IVe si&#xE8;cle. </para><para>5. &#xC0; Rodez, au Ve si&#xE8;cle, saint Amand &#xE9;v&#xEA;que, qui fut, croit-on, le premier &#xE9;v&#xEA;que de cette cit&#xE9;. </para><para>6*. Dans la r&#xE9;gion de Maastricht dans le Brabant, peut-&#xEA;tre au VIIe si&#xE8;cle, saint Perp&#xE8;te, &#xE9;v&#xEA;que. </para><para>7. &#xC0; Tr&#xE8;ves en Rh&#xE9;nanie, apr&#xE8;s 649, sainte Modeste, abbesse. Consacr&#xE9;e &#xE0; Dieu d&#xE8;s son enfance, elle devint la premi&#xE8;re abbesse du monast&#xE8;re d&#x2019;&#xD6;hren dans la cit&#xE9; et fut li&#xE9;e &#xE0; sainte Gertrude de Nivelles dans une extr&#xEA;me familiarit&#xE9; avec Dieu. </para><para>8. &#xC0; Albe-Royale en Pannonie, l&#x2019;an&#xA0;1031, la mise au tombeau de saint Emeric ou Henri, fils de saint &#xC9;tienne, roi de Hongrie, mort pr&#xE9;matur&#xE9;ment. </para><para>9*. &#xC0; Padoue en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1251, la bienheureuse H&#xE9;l&#xE8;ne Enselmini, vierge clarisse, qui supporta avec une patience admirable de multiples douleurs, jusqu&#x2019;&#xE0; la perte de la parole. </para><para>10*. &#xC0; Cerfroid sur le territoire de Meaux, au XIIe ou XIIIe si&#xE8;cle, saint F&#xE9;lix de Valois, ermite, qui aurait &#xE9;t&#xE9; le compagnon de saint Jean de Matha dans la fondation des l&#x2019;Ordre de la Tr&#xE8;s Sainte Trinit&#xE9; pour la r&#xE9;demption des captifs. </para><para>11*. Dans le pays nantais, en 1485, la bienheureuse Fran&#xE7;oise d&#x2019;Amboise, duchesse de Bretagne, qui fonda &#xE0; Vannes le premier carmel f&#xE9;minin de France et, une fois veuve, s&#x2019;y retira, simple servante du Christ. Elle mourut pieusement, en 1485, aux Cou&#xEB;ts pr&#xE8;s de Nantes, o&#xF9; le couvent de Vannes avait &#xE9;t&#xE9; transf&#xE9;r&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada III Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>68,58</phase_lunaire>
+<age_lunaire>9</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps106I</psL1>
+<antL2/>
+<psL2>ps106II</psL2>
+<antL3/>
+<psL3>ps106III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_37</Llec1>
+<Lrep1>R1_pascha_37</Lrep1>
+<Llec2>L2_pascha_37</Llec2>
+<Lrep2>R2_pascha_37</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Verba_quae_ego</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Adificasti_templum_et</ant2>
+ <ps2>AT10</ps2>
+ <ant3>AN_Ego_sum_via</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_Rom_14_7-9</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Dixit_Simon_Petrus</benedictus>
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_qui_credentes_in_te_fonte</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118XVI</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_Rom_5_10-11</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Deus_qui_credentes_in_te_fonte</oratio_3>
+
+<oratio_6>COL_Deus_qui_credentes_in_te_fonte </oratio_6>
+
+<oratio_9>COL_Deus_qui_credentes_in_te_fonte</oratio_9>
+
+<intitule_soir><la>Dominica IV Paschae</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Pax_Christi_exsultet</ant7>
+
+<ps7>ps121</ps7>
+
+<ant8>AN_Redemisti_nos_Deo</ant8>
+
+<ps8>ps129</ps8>
+
+<ant9>AN_Nonne_haec_oportuit</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Oves_meae_vocem</magnificat>
+
+<vepres_preces>perannum_37</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Iubilate_Deo</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac9,31-42</LEC1>	
+	
+<PS1>AL_Spiritus_est_qui_vivificat</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn6,60-69</EV>
+	
+<OF>OF_Lauda_anima_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Cantate_Domino</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Via lucis </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Beno&#xEE;t-Joseph Labre</intitule>
+ <biographiecourte>P&#xE8;lerin perp&#xE9;tuel, homme de pri&#xE8;re et de charit&#xE9;, il mourut &#xE0; Rome en 1783</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 avril</para><para>1. &#xC0; Corinthe, au IIIe ou au IVe si&#xE8;cle, les saints martyrs L&#xE9;onide et sept compagnes, qui, apr&#xE8;s avoir endur&#xE9; divers supplices, furent noy&#xE9;s dans la mer. </para><para>2. &#xC0; Saragosse en Espagne, comm&#xE9;moraison de saint martyr Optat et dix-sept compagnons, qui, au d&#xE9;but du IVe si&#xE8;cle, durant la pers&#xE9;cution de Diocl&#xE9;tien, furent cruellement tourment&#xE9;s, tous ensemble, et mis &#xE0; mort. Le po&#xE8;te Prudence a d&#xE9;crit en vers leur glorieux martyr.</para><para>3. &#xC0; Saragosse, en Espagne, Saint Engrace, vierge et martyr, subit des tourments cruels et vari&#xE9;s, mais surv&#xE9;cut, portant dans son corps les traces de ses plaies.</para><para>4. On comm&#xE9;more avec eux les saints martyrs Ca&#xEF;us et Cr&#xE9;mence, victimes de la m&#xEA;me pers&#xE9;cution, ainsi que sainte Engrace, vierge, qui subit des tourments cruels et vari&#xE9;s, mais surv&#xE9;cut, portant dans son corps les traces de ses plaies. </para><para>5. &#xC0; Astorga, au royaume des Su&#xE8;ves en Espagne, au Ve si&#xE8;cle, saint Turibio, &#xE9;v&#xEA;que, qui, avec l&#x2019;aide du pape saint L&#xE9;on le Grand, se mit en devoir de s&#x2019;opposer avec force &#xE0; la secte des priscillianistes qui se d&#xE9;veloppait en Espagne. </para><para>6. &#xC0; Braga au Portugal, vers 668, saint Fructueux, &#xE9;v&#xEA;que, qui fut d&#x2019;abord moine et fondateur de monast&#xE8;res, puis &#xE9;v&#xEA;que et abb&#xE9; de Dume, enfin &#xE9;tabli par les P&#xE8;res du dixi&#xE8;me Concile de Tol&#xE8;de &#xE9;v&#xEA;que m&#xE9;tropolitain de Braga&#xA0;; il gouverna avec prudence son &#xC9;glise en m&#xEA;me temps que ses monast&#xE8;res. </para><para>7*. En &#xC9;cosse, l&#x2019;an&#xA0;1116, saint Magnus, martyr. Fils d&#x2019;un viking, prince des Orcades, il fut d&#x2019;abord pirate, mais embrassa bient&#xF4;t la foi chr&#xE9;tienne. &#xC9;chappant &#xE0; l&#x2019;emprise du roi de Norv&#xE8;ge et &#xE0; ses raids sur les c&#xF4;tes, il v&#xE9;cut comme un p&#xE9;nitent, puis, devenu &#xE0; son tour prince des Orcades, il partagea le pouvoir avec son cousin Haakon, mais, celui-ci se saisit de lui, d&#xE9;sarm&#xE9;, dans une &#xE9;glise et le fit tra&#xEE;treusement assassiner. </para><para>8*. &#xC0; Sebourg dans le Hainaut, vers 1186, saint Druon (Drogon). &#xC0; la recherche d&#x2019;une vie simple et solitaire, comme berger de troupeaux puis comme p&#xE8;lerin, il v&#xE9;cut pour Dieu seul.</para><para>9*. &#xC0; Broni en Lombardie, l&#x2019;an&#xA0;1249, saint Contard, p&#xE8;lerin, qui choisit de vivre dans la plus grande pauvret&#xE9; et, faisant route vers Compostelle, fut arr&#xEA;t&#xE9; en ce lieu par la maladie et y mourut. </para><para>10*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1305, le bienheureux Joachim, religieux de l&#x2019;Ordre des Servites de Marie.</para><para>11. &#xC0; Rome, en 1783, saint Beno&#xEE;t-Joseph Labre. N&#xE9; &#xE0; Ameth au dioc&#xE8;se de Boulogne, attir&#xE9; d&#xE8;s son enfance par le d&#xE9;sir d&#x2019;une vie aust&#xE8;re, mais malheureux dans ses essais de vie monastique, il entreprit des p&#xE8;lerinages p&#xE9;nibles aux sanctuaires les plus r&#xE9;put&#xE9;s, v&#xEA;tu seulement d&#x2019;un habit grossier et en loques, se nourrissant de ce qu&#x2019;il mendiait et donnant partout des exemples de pi&#xE9;t&#xE9; et de p&#xE9;nitence. Il fit de Rome la derni&#xE8;re &#xE9;tape de son parcours et mourut, un mercredi saint, pr&#xE8;s de l&#x2019;&#xE9;glise Sainte-Marie des Monts, o&#xF9; il priait assid&#xFB;ment. </para><para>12*. &#xC0; Avrill&#xE9; pr&#xE8;s d&#x2019;Angers, en 1794, les bienheureux martyrs Pierre Del&#xE9;pine, Jean M&#xE9;nard et vingt-quatre compagnes. Presque tous de la campagne, ils furent fusill&#xE9;s, sous la R&#xE9;volution fran&#xE7;aise, pour leur attachement &#xE0; la foi catholique. </para><para>13. &#xC0; Nevers, en 1879, sainte Bernadette Soubirous, vierge. N&#xE9;e &#xE0; Lourdes d&#x2019;une famille tr&#xE8;s pauvre, elle ressentit, toute jeune fille, la pr&#xE9;sence de la Vierge Marie immacul&#xE9;e dans la grotte de Massabielle, et par la suite, ayant pris l&#x2019;habit de religieuse, elle mena &#xE0; Nevers une vie humble et cach&#xE9;e. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XI per annum</la></hebdomada>
+<intitule><la>S. Antonii de Padova, presbyteri et Ecclesiae doctoris</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>56,22</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
+<LVers>VERS_Audi_popule</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Antonii_de_Padova_presbyteri_et_Ecclesiae_doctoris</Llec1>
+<Lrep1>R1_S._Antonii_de_Padova_presbyteri_et_Ecclesiae_doctoris</Lrep1>
+<Llec2>L2_S._Antonii_de_Padova_presbyteri_et_Ecclesiae_doctoris</Llec2>
+<Lrep2>R2_S._Antonii_de_Padova_presbyteri_et_Ecclesiae_doctoris</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+ <ant1>AN_Beati_qui_habitant</ant1>
+ <ps1>ps83</ps1>
+ <ant2>AN_Venite_et_ascendamus</ant2>
+ <ps2>AT17</ps2>
+ <ant3>AN_Cantate_Domino_benedicite</ant3>
+ <ps3>ps95</ps3>
+ <LB_matin>LB_Sap_7_13-14</LB_matin> 
+ <RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> 
+<benedictus>AN_Qui_docti_fuerint</benedictus>
+<laudes_preces>perannum_32</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_populo_tuo</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Mandata_tua_exquisivi</ant4>
+
+<ps4>ps118XII</ps4>
+
+<ant5>AN_Domine_spes_mea</ant5>
+
+<ps5>ps70I</ps5>
+
+<ant6>AN_Usque_in_senectam</ant6>
+
+<ps6>ps70II</ps6>
+
+<LB_3>LB_2_Cor_13_11</LB_3>
+
+<RB_3>VERS_Oculi_Domini</RB_3>
+
+<LB_6>LB_Rom_6_22</LB_6>
+
+<RB_6>VERS_Deus_tu</RB_6>
+
+<LB_9>LB_Col_1_21-22</LB_9>
+
+<RB_9>VERS_Psallite_Domino</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la>S. ANTONII DE PADOVA, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Aterne_sol_qui_lumine</HYMNUS_vepres>
+
+<ant7>AN_Oculi_nostri_semper</ant7>
+
+<ps7>ps122</ps7>
+
+<ant8>AN_Adiutorium_nostrum_in</ant8>
+
+<ps8>ps123</ps8>
+
+<ant9>AN_In_Filio_suo</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Iac_3_17-18</LB_soir>
+
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+
+<magnificat>AN_O_doctor_optime</magnificat>
+
+<vepres_preces>perannum_32</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_populo_tuo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Os_iusti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_populo_tuo</COL>			
+	
+<LEC1>Is61,1-3a</LEC1>	
+	
+<PS1>GR_Iustus_ut_palma</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Amavit_eum</PS2>
+	
+<SEQ/>
+	
+<EV>Lc10,1-9</EV>
+	
+<OF>OF_Veritas_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Beatus_servus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Antoine de Padoue, pr&#xEA;tre et docteur de l'&#xC9;glise.</intitule>
+ <biographiecourte>N&#xE9; &#xE0; Lisbonne, pr&#xE9;dicateur franciscain dans le sud de la France et en Italie, docteur de l'&#xC9;glise, mort en 1231</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 13 juin</para><para>1. M&#xE9;moire de saint Antoine, pr&#xEA;tre et docteur de l&#x2019;&#xC9;glise. N&#xE9; &#xE0; Lisbonne, il &#xE9;tait chanoine r&#xE9;gulier lorsqu&#x2019;il entra dans l&#x2019;Ordre des Mineurs, r&#xE9;cemment fond&#xE9;. Il pensait aller chez les peuples d&#x2019;Afrique pour propager la foi, mais c&#x2019;est en Italie et dans le midi de la France qu&#x2019;il exer&#xE7;a avec beaucoup de fruit le minist&#xE8;re de la pr&#xE9;dication, en attirant un grand nombre &#xE0; la vraie doctrine. Il &#xE9;crivit des sermons p&#xE9;n&#xE9;tr&#xE9;s de doctrine et de douceur et, sur l&#x2019;ordre de saint Fran&#xE7;ois, enseigna &#xE0; ses fr&#xE8;res la th&#xE9;ologie &#xE0; Padoue, o&#xF9; il mourut en 1231.</para><para>2. Au septi&#xE8;me mille de Rome, sur la voie Adr&#xE9;atine, sainte F&#xE9;licula, martyre. </para><para>3. &#xC0; Alexandrie, en 312, saint Achillas, &#xE9;v&#xEA;que, remarquable par son &#xE9;rudition, sa foi, sa vie et ses m&#x153;urs. </para><para>4. &#xC0; Leucosie dans l&#x2019;&#xEE;le de Chypre, vers 370, saint Triphylle, &#xE9;v&#xEA;que, ardent d&#xE9;fenseur de l&#x2019;orthodoxie nic&#xE9;enne, l&#x2019;homme le plus &#xE9;loquent de son temps et merveilleux commentateur du Cantique des cantiques, au dire de saint J&#xE9;r&#xF4;me. </para><para>5. Dans les Abruzzes, vers 600, saint C&#xE9;th&#xE9;e ou P&#xE9;r&#xE9;grin, &#xE9;v&#xEA;que d&#x2019;Amiterno. Quand les Lombards ravag&#xE8;rent la r&#xE9;gion, il fut pr&#xE9;cipit&#xE9; dans un fleuve, sous la fausse accusation de trahison. </para><para>6. &#xC0; Alexandrie, vers 607, saint Euloge, &#xE9;v&#xEA;que, illustre par sa science, au temps de saint Gr&#xE9;goire le Grand qui lui envoya plusieurs lettres et &#xE9;crivit de lui&#xA0;:&#x201D; Il n&#x2019;est pas loin de moi, car il ne fait qu&#x2019;un avec moi&#x201D;. </para><para>7*. Dans le Limousin, au VIIe si&#xE8;cle, saint Psalmode, ermite. </para><para>8*. Aux confins du Lyonnais, en 680, saint Rambert, martyr. Issu d&#x2019;une famille illustre, et dot&#xE9; de nobles vertus, il encourut la haine d&#x2019;&#xC9;bro&#xEF;n, maire du palais, qui l&#x2019;envoya en exil et finalement le fit ex&#xE9;cuter. </para><para>9*. Dans la vall&#xE9;e de Larboust dans les Pyr&#xE9;n&#xE9;es, au VIIIe si&#xE8;cle, saint Aventin, ermite et martyr, qui aurait &#xE9;t&#xE9; tu&#xE9; par les Maures. </para><para>10*. &#xC0; Cordoue en Andalousie, vers 852, saint Fandile, moine pr&#xEA;tre et martyr, qui, durant la pers&#xE9;cution des Maures, sous le califat de Mohamed Ier, fut d&#xE9;capit&#xE9; pour la foi du Christ.</para><para>11*. Au monast&#xE8;re de Clairvaux en Bourgogne, l&#x2019;an&#xA0;1138, le bienheureux G&#xE9;rard, moine, fr&#xE8;re de saint Bernard. Il n&#x2019;&#xE9;tait pas un lettr&#xE9;, mais il montra dans le domaine spirituel beaucoup de comp&#xE9;tence et de sagacit&#xE9;. </para><para>12. Pr&#xE8;s de Hu&#xE9; en Annam, l&#x2019;an&#xA0;1839, les saints martyrs Augustin Phan Viet Huy et Nicolas Bui Viet Th&#xE9;. Soldats, arr&#xEA;t&#xE9;s comme chr&#xE9;tiens et vaincus par la peur, ils foul&#xE8;rent aux pieds la croix, mais, voulant laver aussit&#xF4;t leur faute, ils demand&#xE8;rent &#xE0; l&#x2019;empereur Minh Mang d&#x2019;&#xEA;tre jug&#xE9;s de nouveau en tant que chr&#xE9;tiens. Ils furent alors condamn&#xE9;s &#xE0; &#xEA;tre d&#xE9;membr&#xE9;s vivants sur un bateau et parvinrent ainsi aux joies &#xE9;ternelles. </para><para>13*. &#xC0; Naumowicze, pr&#xE8;s de Grodno en Pologne, l&#x2019;an&#xA0;1943, la bienheureuse Marie-Anne Biernacka, m&#xE8;re de famille et martyre. Sous le r&#xE9;gime d&#x2019;occupation nazi, elle s&#x2019;offrit d&#x2019;elle-m&#xEA;me &#xE0; la Gestapo &#xE0; la place de sa belle-s&#x153;ur enceinte qui &#xE9;tait recherch&#xE9;e, et fut aussit&#xF4;t fusill&#xE9;e. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

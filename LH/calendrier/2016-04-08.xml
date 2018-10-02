@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada II Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>0,49</phase_lunaire>
+<age_lunaire>0</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+<antL1>AN_Ne_in_ira</antL1>
+<psL1>ps37I</psL1>
+<antL2>AN_Domine_ante_te</antL2>
+<psL2>ps37II</psL2>
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+<psL3>ps37III</psL3>
+<LVers>VERS_Oculi_mei</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_26</Llec1>
+<Lrep1>R1_pascha_26</Lrep1>
+<Llec2>L2_pascha_26</Llec2>
+<Lrep2>R2_pascha_26</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Confide_fili_remittuntur</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Egressus_es_Domine</ant2>
+ <ps2>AT43</ps2>
+ <ant3>AN_Lauda_Deum_tuum_Sion_qui_posuit</ant3>
+ <ps3>ps147</ps3>
+ <LB_matin>LB_Act_5_30-32</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Accepit_Iesus_panes</benedictus>
+<laudes_preces>pascha_26</laudes_preces><oratio_laudes>COL_Deus_qui_pro_nobis_Filium_tuum</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118X</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps58</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps59</ps6>
+
+<LB_3>LB_Act_2_32._36</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_Gal_3_27-28</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_1_Cor_5_7-8</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Deus_qui_pro_nobis_Filium_tuum</oratio_3>
+
+<oratio_6>COL_Deus_qui_pro_nobis_Filium_tuum </oratio_6>
+
+<oratio_9>COL_Deus_qui_pro_nobis_Filium_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_De_angustiis_inferni</ant7>
+
+<ps7>ps114</ps7>
+
+<ant8>AN_Quasi_pupillam_oculi</ant8>
+
+<ps8>ps120</ps8>
+
+<ant9>AN_Fortitudo_mea_et</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_Hebr_5_8-10</LB_soir>
+
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Crucem_sanctam_subiit</magnificat>
+
+<vepres_preces>pascha_26</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_pro_nobis_Filium_tuum</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Deus_dum_egredereris</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac5,34-42</LEC1>	
+	
+<PS1>AL_In_die_resurrectionis</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn6,1-15</EV>
+	
+<OF>OF_Angelus_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Mitte_manum_tuam_et_cognosce</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Julie Billiart ,religieuse</intitule>
+ <biographiecourte>Fondatrice d'un ordre enseignant&#xA0;: les S&#x153;urs de Notre Dame (&#x2020;1816)</biographiecourte>
+ <canonisebeatifie>Paul VI</canonisebeatifie>
+ <patronage/>
+ <intitule>Bse Constance</intitule>
+ <biographiecourte>M&#xE8;re de Saint &#xC9;lisabeth du Portuga ; mena une vie de pri&#xE8;res et s'occupa d'oeuv&#xE9;s charitables. Elle mourut &#xE0; Barcelone. (&#x2020;1302)   </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 avril</para><para>1. Comm&#xE9;moraison de saint Agabus, proph&#xE8;te, qui, au t&#xE9;moignage des Actes des Ap&#xF4;tres, annon&#xE7;a qu&#x2019;il y aurait une grande famine sur toute la terre et, inspir&#xE9; par l&#x2019;Esprit, pr&#xE9;dit &#xE0; saint Paul, par une action symbolique, les tourments qui l&#x2019;attendaient de la part des pa&#xEF;ens. </para><para>2. Comm&#xE9;moraison des saints H&#xE9;rodion, Asyncrite et Phl&#xE9;gon, que saint Paul salue dans sa lettre aux Romains. </para><para>3. Comm&#xE9;moraison de saint Denis, &#xE9;v&#xEA;que de Corinthe, vers 180. Par sa connaissance admirable de la parole de Dieu, il instruisit non seulement les fid&#xE8;les de sa cit&#xE9;, mais encore, par ses lettres, les &#xE9;v&#xEA;ques des autres villes et des autres provinces. </para><para>4. &#xC0; Antioche de Syrie, les saints martyrs Timoth&#xE9;e, Diog&#xE8;ne, Macaire et Maxime. </para><para>5. &#xC0; Alexandrie, vers 265, saint Denis, &#xE9;v&#xEA;que, personnage d&#x2019;une profonde &#xE9;rudition. C&#xE9;l&#xE8;bre pour avoir souvent confess&#xE9; la foi, riche en m&#xE9;rites &#xE0; cause de la diversit&#xE9; de ses souffrances et de ses tourments, il s&#x2019;endormit, plein de jours, en confesseur de la foi, au temps des empereurs Val&#xE9;rien et Gallien. </para><para>6. &#xC0; C&#xF4;me en Ligurie, l&#x2019;an&#xA0;449, saint Amance, &#xE9;v&#xEA;que, qui fut le troisi&#xE8;me &#xE0; si&#xE9;ger sur la cath&#xE8;dre de cette &#xC9;glise et &#xE9;difia la basilique des Ap&#xF4;tres. </para><para>7*. &#xC0; Orvieto en Toscane, l&#x2019;an&#xA0;1291, le bienheureux Cl&#xE9;ment d&#x2019;Osimo, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui gouverna et d&#xE9;veloppa efficacement l&#x2019;Ordre et adapta avec sagesse sa l&#xE9;gislation. </para><para>8*. &#xC0; Alcala en Espagne, l&#x2019;an&#xA0;1606, le bienheureux Julien de Saint-Augustin, religieux. Repouss&#xE9; apr&#xE8;s plusieurs essais de vie religieuse, il fut enfin accept&#xE9; chez les Fr&#xE8;res Mineurs et, tenu pour fou pour Dieu &#xE0; cause de sa recherche excessive de p&#xE9;nitence, il pr&#xEA;cha le Christ davantage par l&#x2019;exemple de ses vertus que par ses discours. </para><para>9. &#xC0; Namur en Belgique, l&#x2019;an&#xA0;1816, sainte Julie Billiart, vierge, qui suscita l&#x2019;Institut des S&#x153;urs de Notre-Dame, pour l&#x2019;&#xE9;ducation chr&#xE9;tienne des jeunes filles et propagea beaucoup la d&#xE9;votion au Sacr&#xE9;-C&#x153;ur de J&#xE9;sus. </para><para>10*. &#xC0; Alassio en Ligurie, l&#x2019;an&#xA0;1893, le bienheureux Auguste Czartoryski, pr&#xEA;tre sal&#xE9;sien, que sa mauvaise sant&#xE9; n&#x2019;emp&#xEA;cha nullement de suivre avec courage l&#x2019;appel de Dieu. </para><para>11*. &#xC0; Belmonte pr&#xE8;s de Cuenca en Espagne, l&#x2019;an&#xA0;1927, le bienheureux Dominique du Saint-Sacrement (Dominique Iturrate), pr&#xEA;tre de l&#x2019;Ordre de la Sainte Trinit&#xE9;, qui veilla de toutes ses forces &#xE0; faire progresser le salut des &#xE2;mes et &#xE0; &#xE9;tendre la gloire de la Trinit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada V Paschae</la></hebdomada>
+<intitule><la>Dominica V Paschae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>97,01</phase_lunaire>
+<age_lunaire>16</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Lignum_vitae_in</antL1>
+<psL1>ps1</psL1>
+<antL2>AN_Ego_constitui_Regem</antL2>
+<psL2>ps2</psL2>
+<antL3>AN_Tu_Domine_protector</antL3>
+<psL3>ps3</psL3>
+<LVers>VERS_Verbum_Christi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_V_Paschae</Llec1>
+<Lrep1>R1_Dominica_V_Paschae</Lrep1>
+<Llec2>L2_Dominica_V_Paschae</Llec2>
+<Lrep2>R2_Dominica_V_Paschae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Qui_sitit_accipiet</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Adorate_Dominum_qui</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Exsultabunt_sancti_in</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_ap10.40-43</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi_alleluia</RB_matin> 
+<benedictus>AN_Mandatum_novum_do</benedictus>
+<laudes_preces>pascha_51</laudes_preces><oratio_laudes>COL_Deus_per_quem_nobis_et_redemptio</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Cf.1Cor15,3b-5</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_Eph2,4-6</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_Rom6,4</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Deus_per_quem_nobis_et_redemptio</oratio_3>
+
+<oratio_6>COL_Deus_per_quem_nobis_et_redemptio </oratio_6>
+
+<oratio_9>COL_Deus_per_quem_nobis_et_redemptio</oratio_9>
+
+<intitule_soir><la>Dominica V Paschae</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Surrexit_Dominus_et_sedet</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Eripuit_nos_de_potestate</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Alleluia_regnavit_Dominus_noster</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>Hebr10,12-14</LB_soir>
+
+<RB_soir>RB_Surrexit_Dominus_vere</RB_soir>
+
+<magnificat>AN_In_hoc_cognoscent</magnificat>
+
+<vepres_preces>pascha_51</vepres_preces>
+
+<oratio_vepres>COL_Deus_per_quem_nobis_et_redemptio</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Cantate_Domino</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_per_quem_nobis_et_redemptio</COL>			
+	
+<LEC1>Ac14,21b-27</LEC1>	
+	
+<PS1>AL_Dextera_Dei</PS1>
+	
+<LEC2>Ap21,1-5a</LEC2>
+	
+<PS2>AL_Christus_resurgens</PS2>
+	
+<SEQ/>
+	
+<EV>Jn13,31-33a.34-35</EV>
+	
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Ego_sum_vitis_vera</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Ste Marie Cl&#xE9;ophas et les autres saintes femmes disciples du Christ</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Fid&#xE8;le de Sigmaringen, pr&#xEA;tre et martyr</intitule>
+ <biographiecourte>Capucin, surnomm&#xE9; "ange de la paix&#xA0;" martyr en Suisse en 1622</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 avril</para><para>1. M&#xE9;moire de saint Fid&#xE8;le de Sigmaringen, pr&#xEA;tre et martyr. N&#xE9; &#xE0; Sigmaringen, Marc Roy, fut avocat &#xE0; Colmar avant d&#x2019;entrer chez les capucins de Fribourg-en-Brisgau, o&#xF9; il re&#xE7;ut le nom de Fid&#xE8;le. Menant une vie aust&#xE8;re dans les veilles et la pri&#xE8;re, assidu &#xE0; pr&#xEA;cher la parole de Dieu, il fut envoy&#xE9; au pays des Grisons, en Suisse, pour y affermir la v&#xE9;rit&#xE9; catholique, pour laquelle il fut massacr&#xE9; &#xE0; Scewis, en 1622, par un groupe de soldats fanatiques. </para><para>2. &#xC0; J&#xE9;rusalem, comm&#xE9;moraison des saintes femmes Marie de Cl&#xE9;ophas et Salom&#xE9;, qui, avec Marie-Madeleine, vinrent de grand matin au tombeau du Seigneur, pour embaumer son corps, et entendirent les premi&#xE8;res l&#x2019;annonce de sa r&#xE9;surrection. </para><para>3. &#xC0; Lyon, en 178, saint Alexandre, martyr. Deux jours apr&#xE8;s la passion de son ami saint &#xC9;pipode, il fut retir&#xE9; de sa prison, d&#xE9;chir&#xE9; sur tout le corps et enfin attach&#xE9; en croix, o&#xF9; il rendit l&#x2019;esprit. </para><para>4. &#xC0; Nicom&#xE9;die en Bithynie, l&#x2019;an&#xA0;303, saint Anthime, &#xE9;v&#xEA;que et martyr. Durant la pers&#xE9;cution de Diocl&#xE9;tien, il eut la t&#xEA;te tranch&#xE9;e pour avoir confess&#xE9; le nom du Christ et obtint ainsi la gloire du martyre. Presque tout son troupeau le suivit&#xA0;: par sentence du juge, les uns furent d&#xE9;capit&#xE9;s, d&#x2019;autres livr&#xE9;s aux flammes, d&#x2019;autres mis sur des barques pour &#xEA;tre noy&#xE9;s dans la mer. </para><para>5. &#xC0; Elvire en Espagne, au IVe si&#xE8;cle, saint Gr&#xE9;goire, &#xE9;v&#xEA;que, dont saint J&#xE9;r&#xF4;me a lou&#xE9; l&#x2019;ouvrage intitul&#xE9; &#x201C;De la foi&#x201D;. </para><para>6*. Dans le Bl&#xE9;sois, au VIe si&#xE8;cle, saint Di&#xE9;, diacre et abb&#xE9;, qui, apr&#xE8;s une vie d&#x2019;anachor&#xE8;te, fut &#xE0; la t&#xEA;te de disciples qui s&#x2019;&#xE9;taient r&#xE9;unis autour de lui. </para><para>7. &#xC0; Cantorb&#xE9;ry en Angleterre, l&#x2019;an&#xA0;624, saint Mellit, &#xE9;v&#xEA;que. Abb&#xE9; &#xE0; Rome, il fut envoy&#xE9; en Angleterre par le pape saint Gr&#xE9;goire le Grand avec d&#x2019;autres moines pour renforcer l&#x2019;action de saint Augustin, qui l&#x2019;ordonna &#xE9;v&#xEA;que des Saxons de l&#x2019;est avec son si&#xE8;ge &#xE0; Londres, et apr&#xE8;s bien des tribulations, il acc&#xE9;da au si&#xE8;ge de Cantorb&#xE9;ry. </para><para>8. En Northumbrie d&#x2019;Angleterre, l&#x2019;an&#xA0;709, saint Wilfrid, &#xE9;v&#xEA;que. Pendant quarante-cinq ans d&#x2019;&#xE9;piscopat, il travailla avec ardeur, et non sans peine. Contraint plusieurs fois de c&#xE9;der &#xE0; d&#x2019;autres son si&#xE8;ge d&#x2019;York, il se retira soit parmi les moines de Ripon, dont il avait &#xE9;t&#xE9; abb&#xE9;, soit parmi ceux de Hexham, une de ses fondations. Il mourut &#xE0; Oundle, une autre de ses fondations, et fut inhum&#xE9; &#xE0; Ripon. </para><para>9. Dans l&#x2019;&#xEE;le d&#x2019;Iona en &#xC9;cosse, l&#x2019;an&#xA0;729, saint Egbert, pr&#xEA;tre. Moine de Lindisfarne, il d&#xE9;pensa son z&#xE8;le &#xE0; annoncer l&#x2019;&#xC9;vangile aux pa&#xEF;ens de la Frise et aux Saxons et, &#xE0; un &#xE2;ge avanc&#xE9;, il fut accueilli par les moines d&#x2019;Iona qu&#x2019;il convainquit d&#x2019;accepter l&#x2019;usage romain pour le calcul de la date de P&#xE2;ques et, le jour de P&#xE2;ques, apr&#xE8;s avoir c&#xE9;l&#xE9;br&#xE9; la messe, il alla terminer la f&#xEA;te dans le ciel. </para><para>10*. &#xC0; Mortain en Normandie, l&#x2019;an&#xA0;1103, saint Guillaume Firmat, ermite. Chanoine de Tours et m&#xE9;decin, apr&#xE8;s un p&#xE8;lerinage &#xE0; J&#xE9;rusalem, il mena en divers endroits une vie de solitaire. </para><para>11. &#xC0; Angers, en 1868, sainte Marie de Sainte-Euphrasie (Rose-Virginie Pelletier), vierge, qui fonda l&#x2019;Institut des S&#x153;urs du Bon Pasteur, pour accueillir par piti&#xE9; des femmes qui avaient eu une vie d&#xE9;r&#xE9;gl&#xE9;e, appel&#xE9;es les Madeleines. </para><para>12. &#xC0; Dinan en Bretagne, l&#x2019;an&#xA0;1914, saint Beno&#xEE;t (Ange Menni), pr&#xEA;tre de l&#x2019;Ordre de Saint-Jean-de-Dieu, qui fonda la Congr&#xE9;gation des S&#x153;urs Hospitali&#xE8;res du C&#x153;ur de J&#xE9;sus. </para><para>13*. &#xC0; Rome, en 1957, la bienheureuse Marie-&#xC9;lisabeth Hesselblad, vierge. N&#xE9;e en Su&#xE8;de, apr&#xE8;s une longue p&#xE9;riode pass&#xE9;e &#xE0; travailler dans un h&#xF4;pital, elle restaura l&#x2019;Ordre du Tr&#xE8;s Saint Sauveur, fond&#xE9; par sainte Brigitte, et porta toute son attention &#xE0; la contemplation, &#xE0; la charit&#xE9; envers les pauvres et &#xE0; l&#x2019;unit&#xE9; des chr&#xE9;tiens. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

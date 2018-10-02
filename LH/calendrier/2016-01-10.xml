@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Nativitatis</la></tempus>
+<hebdomada><la>Hebdomada III post Nativitatem</la></hebdomada>
+<intitule><la>In Baptismate Domini</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>0,02</phase_lunaire>
+<age_lunaire>29</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Filium_dilectum</invitatoire>
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+<antL1>AN_Domine_Deus_meus</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+<psL3>ps103III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_In_Baptismate_Domini</Llec1>
+<Lrep1>R1_In_Baptismate_Domini</Lrep1>
+<Llec2>L2_In_Baptismate_Domini</Llec2>
+<Lrep2>R2_In_Baptismate_Domini</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iesus_refulsit_omnium</HYMNUS_laudes>
+ <ant1>AN_Baptizat_miles_Regem</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Fontes_aquarum_sanctificati</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Te_qui_in</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Is_61_1-2a</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi_Qui_apparu&#xED;sti</RB_matin> 
+<benedictus>AN_Baptizatur_Christus_et</benedictus>
+<laudes_preces>IN_BAPTISMATE_DOMINI</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Ioannes_prohibebat_Iesum</ant4>
+
+<ps4>ps22</ps4>
+
+<ant5>AN_Respondens_autem_Iesus</ant5>
+
+<ps5>ps75I</ps5>
+
+<ant6>AN_Testimonium_perhibuit_Ioannes</ant6>
+
+<ps6>ps75II</ps6>
+
+<LB_3>LB_Is_11_1-3a</LB_3>
+
+<RB_3>VERS_Illum_oportet_crescere_Me_autem</RB_3>
+
+<LB_6>LB_Is_42_1</LB_6>
+
+<RB_6>VERS_Ecce_servus_meus_suscipiam_eum</RB_6>
+
+<LB_9>LB_Is_49_6</LB_9>
+
+<RB_9>VERS_Ponam_spiritum_meum_super_eum</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_qui_Christum_in </oratio_6>
+
+<oratio_9>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_9>
+
+<intitule_soir><la>In Baptismate Domini</la></intitule_soir>
+
+<rang_soir><la>Festum</la></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Implente_munus_debitum</HYMNUS_vepres>
+
+<ant7>AN_Vox_de_caelis</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Caput_draconis_Salvator</ant8>
+
+<ps8>ps111</ps8>
+
+<ant9>AN_Magnum_mysterium_declaratur</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_Act_10_37-38</LB_soir>
+
+<RB_soir>RB_Hic_est_qui_venit_</RB_soir>
+
+<magnificat>AN_Christus_Iesus_dilexit</magnificat>
+
+<vepres_preces>IN_BAPTISMATE_DOMINI</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Dilexisti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_Christum_in</COL>			
+	
+<LEC1>Is42,1-4.6-7</LEC1>	
+	
+<PS1>GR_Dilexisti</PS1>
+	
+<LEC2>Act10,34-38</LEC2>
+	
+<PS2>AL_Inveni_David</PS2>
+	
+<SEQ/>
+	
+<EV>Lc3,15-16.21-22</EV>
+	
+<OF>OF_Benedictus_qui_venit</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Omnes_qui_in_Christo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Gr&#xE9;goire de Nysse</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, p&#xE8;re de l'&#xC9;glise, un des grands ma&#xEE;tres spirituels de tous les temps (&#x2020;710)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 janvier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, au cimeti&#xE8;re de Callixte sur la voie Appienne, en 314, saint Miltiade, pape. Originaire d&#x2019;Afrique, il fit l&#x2019;exp&#xE9;rience de la paix rendue &#xE0; l&#x2019;&#xC9;glise par l&#x2019;empereur Constantin, mais, violemment attaqu&#xE9; par les partisans de Donat, il s&#x2019;appliqua avec prudence &#xE0; r&#xE9;tablir la concorde. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Th&#xE9;ba&#xEF;de, au IVe si&#xE8;cle, saint Paul, ermite, un des premiers &#xE0; mener la vie monastique.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nysse en Cappadoce, peu avant 400, saint Gr&#xE9;goire, &#xE9;v&#xEA;que, fr&#xE8;re de saint Basile le Grand, remarquable par sa vie et sa doctrine. Il fut exil&#xE9; hors de sa ville sous l&#x2019;empereur arien Valens pour avoir confess&#xE9; la foi orthodoxe. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; J&#xE9;rusalem, en 417, saint Jean, &#xE9;v&#xEA;que, qui, au temps des controverses sur la doctrine orthodoxe, se d&#xE9;pensa beaucoup pour la foi catholique et la paix de l&#x2019;&#xC9;glise. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Die dans la r&#xE9;gion de Vienne, vers 463, saint P&#xE9;trone, &#xE9;v&#xEA;que, qui mena d&#x2019;abord la vie monastique dans l&#x2019;&#xEE;le de L&#xE9;rins. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Constantinople, vers 471, saint Marcien, pr&#xEA;tre, qui s&#x2019;appliqua &#xE0; orner les &#xE9;glises et &#xE0; venir en aide aux pauvres. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Limoges, au VIe si&#xE8;cle, saint Val&#xE8;re, qui choisit la vie de solitaire. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; M&#xE9;lit&#xE8;ne en Arm&#xE9;nie, vers 602, saint Domitien, &#xE9;v&#xEA;que, qui se consacra &#xE0; la conversion des Perses.</para><para>9. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome pr&#xE8;s de saint Pierre, en 681, la mise au tombeau de saint Agathon, pape, qui d&#xE9;fendit l&#x2019;int&#xE9;grit&#xE9; de la foi contre les monoth&#xE9;lites et promut l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise en plusieurs synodes. </para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Viviers dans la vall&#xE9;e du Rh&#xF4;ne, vers 740, saint Arconte, &#xE9;v&#xEA;que. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cuxa dans les Pyr&#xE9;n&#xE9;es, vers&#xA0;987, saint Pierre Urs&#xE9;ol, qui, de doge de Venise, embrassa la vie monastique, brilla par sa pi&#xE9;t&#xE9; et son aust&#xE9;rit&#xE9; et termina sa vie dans un ermitage, pr&#xE8;s du monast&#xE8;re.</para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Cava en Campanie, l&#x2019;an&#xA0;1194, le bienheureux Benincasa, abb&#xE9;, qui envoya une centaine de moines au monast&#xE8;re d&#xE9;sert&#xE9; de Monreale, en Sicile, pour le repeupler. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bourges, en 1209, saint Guillaume, &#xE9;v&#xEA;que. Br&#xFB;lant du d&#xE9;sir de la solitude et de la m&#xE9;ditation, il devint moine cistercien &#xE0; Pontigny, puis abb&#xE9; de Ch&#xE2;lis, enfin promu &#xE0; l&#x2019;&#xE9;v&#xEA;ch&#xE9; de Bourges, il ne rel&#xE2;cha en rien l&#x2019;aust&#xE9;rit&#xE9; de sa vie ni ne changea d&#x2019;habit et se distingua par sa charit&#xE9; &#xE0; l&#x2019;&#xE9;gard du clerg&#xE9;, des captifs et des mis&#xE9;reux. </para><para>14*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Amaranthe au Portugal, en 1259, le bienheureux Gonzalve, pr&#xEA;tre de Braga, qui entra dans l&#x2019;Ordre des Pr&#xEA;cheurs apr&#xE8;s un long p&#xE8;lerinage en Terre Sainte. Il v&#xE9;cut ensuite en ermite, fit construire un pont de pierre et fit profiter ses voisins de sa pri&#xE8;re et sa pr&#xE9;dication </para><para>15*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arezzo en Toscane, l&#x2019;an&#xA0;1276, le tr&#xE9;pas du bienheureux Gr&#xE9;goire X, pape, qui, d&#x2019;abord archidiacre de Li&#xE8;ge, fut &#xE9;lev&#xE9; au si&#xE8;ge de Pierre. Il travailla &#xE0; r&#xE9;tablir la communion avec les Grecs, et convoqua le second concile de Lyon pour r&#xE9;tablir l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise et reconqu&#xE9;rir la Terre Sainte. </para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lorenzana en Lucanie, l&#x2019;an 1518, le bienheureux &#xC9;gide, Bernardino Egidio di Bello. religieux de l&#x2019;Ordre des Mineurs, qui v&#xE9;cut en reclus dans une grotte </para><para>17*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Arequipa au P&#xE9;rou, en 1686, la bienheureuse Anne des Anges Monteagudo, vierge, moniale de l&#x2019;Ordre des Pr&#xEA;cheurs, qui se consacra avec affabilit&#xE9; au bien de toute sa cit&#xE9; par ses dons de conseil et de proph&#xE9;tie. </para><para>18. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; P&#xE9;rouse en Ombrie, l&#x2019;an&#xA0;1914, la sainte Fran&#xE7;oise de Sales (L&#xE9;onie Aviat), vierge, qui se d&#xE9;voua avec amour maternel et efficacit&#xE9; pour fournir du travail aux jeunes et fonda les Oblates de Saint Fran&#xE7;ois de Sales. </para><para>19*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Madrid, en 1918, la bienheureuse Maria-Dolor&#xE8;s (Maria Rodriguez Sapena), vierge, qui donna un t&#xE9;moignage admirable de charit&#xE9; en allant au plus pr&#xE8;s des personnes de la plus basse condition dans la soci&#xE9;t&#xE9; de son temps, surtout dans les faubourgs des grandes villes, et qui suscita l&#x2019;Institut des Dames cat&#xE9;chistes pour l&#x2019;annonce de l&#x2019;&#xC9;vangile aux pauvres et aux ouvriers, en m&#xEA;me temps qu&#x2019;&#xE0; leur promotion sociale. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

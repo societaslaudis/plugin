@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXIV per annum</la></hebdomada>
+<intitule><la>S. Caeciliae, virginis et martyris</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>44,65</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Dies_irae_dies_illa</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1/>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2/>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3/>
+<LVers>VERS_Bonitatem_et</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Caeciliae_virginis_et_martyris</Llec1>
+<Lrep1>R1_S._Caeciliae_virginis_et_martyris</Lrep1>
+<Llec2>L2_S._Caeciliae_virginis_et_martyris</Llec2>
+<Lrep2>R2_S._Caeciliae_virginis_et_martyris</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_O_castitatis_signifer</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps42</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps64</ps3>
+ <LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ <RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin> 
+<benedictus>AN_Dum_aurora_finem</benedictus>
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Supplicationibus_nostris_Domine_adesto_propitius_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_In_loco_peregrinationis</ant4>
+
+<ps4>ps118VII</ps4>
+
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+
+<ps5>ps52</ps5>
+
+<ant6>AN_Deus_adiuvat_me</ant6>
+
+<ps6>ps53</ps6>
+
+<LB_3>LB_1_Cor_12_4-6</LB_3>
+
+<RB_3>VERS_Prope_timentes</RB_3>
+
+<LB_6>LB_1_Cor_12_12-13</LB_6>
+
+<RB_6>VERS_Pater_sancte</RB_6>
+
+<LB_9>LB_1_Cor_12_24_b._25-26</LB_9>
+
+<RB_9>VERS_Domine_Deus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la>S. C&#xC6;CILI&#xC6;, VIRGINIS ET MARTYRIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Virginis_Proles_opifexque_Matris</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps48I</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps48II</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+
+<RB_soir>RB_Probasti_nos_Deus_Et</RB_soir>
+
+<magnificat>AN_Virgo_Caecilia_semper</magnificat>
+
+<vepres_preces>perannum_23</vepres_preces>
+
+<oratio_vepres>COL_Supplicationibus_nostris_Domine_adesto_propitius_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Loquebar</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Supplicationibus_nostris_Domine_adesto_propitius_et</COL>			
+	
+<LEC1>Os2,16b.17b.21-22</LEC1>	
+	
+<PS1>GR_Audi_filia</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Quinque_prudentes_virgines</PS2>
+	
+<SEQ/>
+	
+<EV>Mt25,1-13</EV>
+	
+<OF>OF_Afferentur_proximae</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Confundantur_superbi</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste C&#xE9;cile, vierge et martyre</intitule>
+ <biographiecourte>Membre d'une importante famille romaine, elle mourut martyre</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 22 novembre</para><para>1. M&#xE9;moire de sainte C&#xE9;cile, vierge et martyre. Depuis l&#x2019;antiquit&#xE9;, &#xE0; Rome, un titre d&#x2019;&#xE9;glise au Transt&#xE9;v&#xE8;re porte son nom, sa tombe est v&#xE9;n&#xE9;r&#xE9;e au cimeti&#xE8;re de Calliste sur la voie Appienne et son culte s&#x2019;est r&#xE9;pandu dans toute l&#x2019;&#xC9;glise gr&#xE2;ce au r&#xE9;cit de sa Passion, montrant en elle un exemple parfait de femme chr&#xE9;tienne qui a embrass&#xE9; la virginit&#xE9; et subi le martyre pour l&#x2019;amour du Christ. </para><para>2. Comm&#xE9;moraison de saint Phil&#xE9;mon de Colosses, dont la foi et la charit&#xE9; dans le Christ J&#xE9;sus ont fait la joie de l&#x2019;Ap&#xF4;tre saint Paul, et qui est v&#xE9;n&#xE9;r&#xE9; en m&#xEA;me temps que sainte Apphia, son &#xE9;pouse. </para><para>3. &#xC0; Arbel en Perse, l&#x2019;an&#xA0;345, saint Ananie, martyr. &#xC0; l&#x2019;&#xE9;poque de la pers&#xE9;cution du roi Sapor II, sur l&#x2019;ordre de l&#x2019;archimage Arsisag, il fut arr&#xEA;t&#xE9; et par trois fois rou&#xE9;es de coups de b&#xE2;ton avec une telle cruaut&#xE9; que les bourreaux, jugeant qu&#x2019;il &#xE9;tait d&#xE9;j&#xE0; mort, le laiss&#xE8;rent gisant sur la place. La nuit suivante, des chr&#xE9;tiens le port&#xE8;rent dans sa maison, o&#xF9; il rendit l&#x2019;&#xE2;me. </para><para>4. &#xC0; Milan vers 470, saint B&#xE9;nigne, &#xE9;v&#xEA;que, qui gouverna avec une fermet&#xE9; et un d&#xE9;vouement sans faille, l&#x2019;&#xC9;glise qui lui &#xE9;tait confi&#xE9;e, &#xE0; une &#xE9;poque troubl&#xE9;e par les invasions barbares. </para><para>5. &#xC0; Autun, avant 533, saint Pragmatius, &#xE9;v&#xEA;que. </para><para>6*. &#xC0; Mujuk-Deresi en Arm&#xE9;nie, l&#x2019;an&#xA0;1895, le bienheureux Sauveur Lilli, pr&#xEA;tre franciscain, et sept compagnons arm&#xE9;niens, martyrs. Somm&#xE9;s, par des soldats ottomans, de renier le Christ, ils refus&#xE8;rent de trahir leur foi et furent transperc&#xE9;s de coups de lances. </para><para>7*. &#xC0; Triora en Ligurie, l&#x2019;an&#xA0;1901, le tr&#xE9;pas du bienheureux Thomas Reggio, &#xE9;v&#xEA;que de G&#xEA;nes. Unissant une vie aust&#xE8;re admirable &#xE0; des mani&#xE8;res tr&#xE8;s douces, il obtint la concorde dans sa cit&#xE9; et subvint aux indigents de toutes les mani&#xE8;res, en prenant soin en particulier des diff&#xE9;rentes classes sociales. </para><para>8. Pr&#xE8;s de Teocaltitlan au Mexique, en 1927, saint Pierre Esqueda Ramirez, pr&#xEA;tre et martyr. Durant la pers&#xE9;cution mexicaine, il continua son minist&#xE8;re en cachette, mais, d&#xE9;couvert par hasard, il fut tortur&#xE9; plusieurs jours et enfin fusill&#xE9;. </para><para>9*. &#xC0; Paterna, dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, les bienheureux martyrs &#xC9;lie (Julien Torrijo Sanchez) et Bertand (Fran&#xE7;ois Lahoz Moliner), fr&#xE8;res des &#xC9;coles chr&#xE9;tiennes, victimes de la pers&#xE9;cution religieuse au cours de la guerre civile. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

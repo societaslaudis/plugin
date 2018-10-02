@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada VII per annum</la></hebdomada>
+<intitule><la>S. Bernardini Senensis, presbyteri</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>96,82</phase_lunaire>
+<age_lunaire>13</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1>AN_Laboravi_clamans_dum</antL1>
+<psL1>ps68I</psL1>
+<antL2>AN_Dederunt_in_escam</antL2>
+<psL2>ps68II</psL2>
+<antL3>AN_Quaerite_Dominum_et</antL3>
+<psL3>ps68III</psL3>
+<LVers>VERS_Dominus_vias</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_7-6</Llec1>
+<Lrep1>R1_perannum_7-6</Lrep1>
+<Llec2>L2_perannum_7-6</Llec2>
+<Lrep2>R2_perannum_7-6</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ <ant1>AN_Tibi_soli_peccavi</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Cognovimus_Domine_iniquitates</ant2>
+ <ps2>AT34</ps2>
+ <ant3>AN_Dominus_ipse_est</ant3>
+ <ps3>ps99</ps3>
+ <LB_matin>LB_2_Cor_12_9b-10</LB_matin> 
+ <RB_matin>RB_Auditam_fac_mihi_mane</RB_matin> 
+<benedictus>AN_Visitavit_et_fecit</benedictus>
+<laudes_preces>perannum_36</laudes_preces><oratio_laudes>COL_Illabere_sensibus_nostris_omnipotens_Pater_ut</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Vidimus_eum_despectum</ant4>
+
+<ps4>ps21I</ps4>
+
+<ant5>AN_Dividentes_vestimenta_Iesu</ant5>
+
+<ps5>ps21II</ps5>
+
+<ant6>AN_Adorabunt_in_conspectu</ant6>
+
+<ps6>ps21III</ps6>
+
+<LB_3>LB_Rom_1_16b-17</LB_3>
+
+<RB_3>VERS_In_Domino</RB_3>
+
+<LB_6>LB_Rom_3_21-22a</LB_6>
+
+<RB_6>VERS_Iustitiae_Domini</RB_6>
+
+<LB_9>LB_Eph_2_8-9</LB_9>
+
+<RB_9>VERS_Cognoscatur_Domine</RB_9>
+
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+
+<ant7>AN_Magnus_est_Dominus</ant7>
+
+<ps7>ps134I</ps7>
+
+<ant8>AN_Domus_Israel_benedicite</ant8>
+
+<ps8>ps134II</ps8>
+
+<ant9>AN_Omnes_gentes_venient</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_Iac_1_2-4</LB_soir>
+
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+
+<vepres_preces>perannum_36</vepres_preces>
+
+<oratio_vepres>COL_Domine_sancte_Pater_qui_Christum_Filium</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Domine_in_tua_misericordia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</COL>			
+	
+<LEC1>Jc5,9-12</LEC1>	
+	
+<PS1>GR_Ego_dixi_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Verba_mea </PS2>
+	
+<SEQ/>
+	
+<EV>Mc10,1-12</EV>
+	
+<OF>OF_Intende_voci</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Narrabo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Quatre temps d'&#xE9;t&#xE9;</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Bernardin de Sienne, pr&#xEA;tre.</intitule>
+ <biographiecourte>Pr&#xE9;dicateur franciscain, il parcourut toute l'Italie, r&#xE9;pandant la d&#xE9;votion du nom de J&#xE9;sus (&#x2020;1444)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 mai</para><para>1. M&#xE9;moire de saint Bernardin de Sienne, pr&#xEA;tre de l&#x2019;Ordre des Mineurs. Par sa parole et son exemple, &#xE0; travers bourgs et villes d&#x2019;Italie, il annon&#xE7;a l&#x2019;&#xC9;vangile au peuple, diffusa la d&#xE9;votion au saint nom de J&#xE9;sus et poursuivit inlassablement sa mission de pr&#xE9;dicateur avec de grands r&#xE9;sultats jusqu&#x2019;&#xE0; son dernier jour &#xE0; L&#x2019;Aquila dans les Abruzzes, en 1444. </para><para>2. Comm&#xE9;moraison de sainte Lydie, la marchande de pourpre de Thyatire, qui, &#xE0; Philippes de Mac&#xE9;doine, fut la premi&#xE8;re dans cette ville &#xE0; croire &#xE0; l&#x2019;&#xC9;vangile, apr&#xE8;s la pr&#xE9;dication de l&#x2019;Ap&#xF4;tre saint Paul. </para><para>3. &#xC0; Ostie, aux bouches du Tibre, saint Aur&#xE9;e, martyre. </para><para>4. &#xC0; N&#xEE;mes, saint Baudile, martyr. </para><para>5. &#xC0; &#xC9;g&#xE9;e en Cilicie, saint Thalal&#xE9;e, martyr.</para><para>6*. &#xC0; Cagliari en Sardaigne, l&#x2019;an&#xA0;370, saint Lucifer, &#xE9;v&#xEA;que. D&#xE9;fenseur intr&#xE9;pide de la foi de Nic&#xE9;e, il eut beaucoup &#xE0; souffrir et fut envoy&#xE9; en exil par l&#x2019;empereur Constant. Revenu enfin &#xE0; son &#xC9;glise, il mourut confesseur de la foi. </para><para>7*. &#xC0; Toulouse, vers 400, saint Hilaire, &#xE9;v&#xEA;que, qui construisit une petite basilique de bois sur le tombeau de son pr&#xE9;d&#xE9;cesseur, saint Saturnin. </para><para>8. &#xC0; Bourges, vers 624, saint Outrille (Austr&#xE9;gisile), &#xE9;v&#xEA;que, qui se montra ministre de la charit&#xE9;, surtout pour les pauvres, les orphelins, les malades et les condamn&#xE9;s &#xE0; mort. </para><para>9. &#xC0; Brescia en Lombardie, au VIIe si&#xE8;cle, saint Anastase, &#xE9;v&#xEA;que. </para><para>10. &#xC0; Pavie, &#xE9;galement en Lombardie, vers 744, saint Th&#xE9;odore, &#xE9;v&#xEA;que, qui, durant la guerre entre les Francs et les Lombards, dut s&#x2019;exiler.</para><para>11*. &#xC0; Castaneto en Toscane, au XIIe si&#xE8;cle, le bienheureux Guy de Gherardesca, ermite. </para><para>12*. &#xC0; P&#xE9;rouse en Ombrie, l&#x2019;an&#xA0;1501, la bienheureuse Colombe ou Ang&#xE8;le, vierge, s&#x153;ur de la P&#xE9;nitence de Saint-Dominique, qui s&#x2019;appliqua &#xE0; promouvoir la paix dans la cit&#xE9; divis&#xE9;e par les factions. </para><para>13. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, saint Protais Chong Kuk-bo, martyr. Quand se d&#xE9;cha&#xEE;na la pers&#xE9;cution, il abandonna la foi, mais se reprit, se d&#xE9;clara chr&#xE9;tien et, en prison, dans les tortures, il professa sa foi jusqu&#x2019;&#xE0; la mort. </para><para>14*. &#xC0; Botticino Sera, pr&#xE8;s de Brescia en Lombardie, l&#x2019;an&#xA0;1912, saint Archange Tadini, pr&#xEA;tre, qui eut &#xE0; c&#x153;ur de d&#xE9;fendre les droits et la dignit&#xE9; des ouvriers et fonda la Congr&#xE9;gation des S&#x153;urs ouvri&#xE8;res de la sainte maison de Nazareth, avec le souci premier de la justice sociale. (canonis&#xE9; le 26 avril 2009 par Beno&#xEE;t XVI))</para><para>&#xA0;15*. A Milan en Lombardie, Bienheureux Louis Talamoni, pr&#xEA;tre, Italie </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Hollande, en 1903, la bienheureuse Josepha Hendrina Stenmanns co-fondatrice allemande des s&#x153;urs missionnaires servantes du Saint Esprit (b&#xE9;atifi&#xE9;e par Beno&#xEE;t XVI le 29 juin 2008).</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Argentine, en 1932, la bienheureuse Mar&#xED;a Crescencia P&#xE9;rez religieuse de la congr&#xE9;gation des filles de la Vierge du Jardin. (b&#xE9;atifi&#xE9;e le 17 novembre 2012 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

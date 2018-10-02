@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXI per annum</la></hebdomada>
+<intitule><la>S. Monicae</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>30,77</phase_lunaire>
+<age_lunaire>24</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Monicae</Llec1>
+<Lrep1>R1_S._Monicae</Lrep1>
+<Llec2>L2_S._Monicae</Llec2>
+<Lrep2>R2_S._Monicae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Nobilem_Christi_famulam_diserta</HYMNUS_laudes>
+ <ant1>AN_Praevenerunt_oculi_mei</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Fortitudo_mea_et</ant2>
+ <ps2>AT1</ps2>
+ <ant3>AN_Laudate_Dominum_omnes</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_Rom_12_1-2</LB_matin> 
+ <RB_matin>RB_Adiuvabit_eam_Deus_vultu</RB_matin> 
+<benedictus>AN_Exaudisti_eam_Domine</benedictus>
+<laudes_preces>sanctarum mulierum</laudes_preces><oratio_laudes>COL_Deus_maerentium_consolator_qui_beatae_Monicae</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Deduc_me_Domine</ant4>
+
+<ps4>ps118V</ps4>
+
+<ant5>AN_Inquirentes_Dominum_non</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Inquire_pacem_et</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_1_Reg_8_60-61</LB_3>
+
+<RB_3>VERS_Deus_meus</RB_3>
+
+<LB_6>LB_Ier_17_9-10</LB_6>
+
+<RB_6>VERS_Ab_occultis</RB_6>
+
+<LB_9>LB_Sap_7_27a;_8_1</LB_9>
+
+<RB_9>VERS_Quam_magnificata</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica XXII per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Rerum_Deus_fons_omnium</HYMNUS_vepres>
+
+<ant7>AN_Lucerna_pedibus_meis</ant7>
+
+<ps7>ps118XIV</ps7>
+
+<ant8>AN_Adimplebis_me_laetitia</ant8>
+
+<ps8>ps15</ps8>
+
+<ant9>AN_In_nomine_Iesu</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Col_1_2b-6a</LB_soir>
+
+<RB_soir>RB_A_solis_ortu</RB_soir>
+
+<magnificat>AN_Cum_vocatus_fueris</magnificat>
+
+<vepres_preces>sanctarum mulierum</vepres_preces>
+
+<oratio_vepres>COL_Deus_virtutum_cuius_est_totum_quod</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Cognovi_Domine</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_maerentium_consolator_qui_beatae_Monicae</COL>			
+	
+<LEC1>Sir26,1-4.16-21</LEC1>	
+	
+<PS1>GR_Diffusa_est_gratia</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Specie_tua</PS2>
+	
+<SEQ/>
+	
+<EV>Lc7,11-17</EV>
+	
+<OF>OF_Diffusa_est_gratia</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dilexisti_iustitiam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Monique</intitule>
+ <biographiecourte>M&#xE8;re de St Augustin, par ses pri&#xE8;res et sa patience a converti sa famille (&#x2020;387)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

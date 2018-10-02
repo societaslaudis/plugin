@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXVII per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>3,22</phase_lunaire>
+<age_lunaire>1</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Praeoccupemus_faciem_Domini</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
+<LVers>VERS_Audi_popule</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_27-2</Llec1>
+<Lrep1>R1_perannum_27-2</Lrep1>
+<Llec2>L2_perannum_27-2</Llec2>
+<Lrep2>R2_perannum_27-2</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Splendor_paternae_gloriae</HYMNUS_laudes>
+ <ant1>AN_Beati_qui_habitant</ant1>
+ <ps1>ps83</ps1>
+ <ant2>AN_Venite_et_ascendamus</ant2>
+ <ps2>AT17</ps2>
+ <ant3>AN_Cantate_Domino_benedicite</ant3>
+ <ps3>ps95</ps3>
+ <LB_matin>LB_Iac_2_12-13</LB_matin> 
+ <RB_matin>RB_Benedictus_Dominus_A</RB_matin> 
+<benedictus>AN_Benedictus_Dominus_Deus</benedictus>
+<laudes_preces>perannum_32</laudes_preces><oratio_laudes>COL_Dirigere_et_sanctificare_regere_et_gubernare</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Mandata_tua_exquisivi</ant4>
+
+<ps4>ps118XII</ps4>
+
+<ant5>AN_Domine_spes_mea</ant5>
+
+<ps5>ps70I</ps5>
+
+<ant6>AN_Usque_in_senectam</ant6>
+
+<ps6>ps70II</ps6>
+
+<LB_3>LB_2_Cor_13_11</LB_3>
+
+<RB_3>VERS_Oculi_Domini</RB_3>
+
+<LB_6>LB_Rom_6_22</LB_6>
+
+<RB_6>VERS_Deus_tu</RB_6>
+
+<LB_9>LB_Col_1_21-22</LB_9>
+
+<RB_9>VERS_Psallite_Domino</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Immense_caeli_conditor</HYMNUS_vepres>
+
+<ant7>AN_Oculi_nostri_semper</ant7>
+
+<ps7>ps122</ps7>
+
+<ant8>AN_Adiutorium_nostrum_in</ant8>
+
+<ps8>ps123</ps8>
+
+<ant9>AN_In_Filio_suo</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Iac_4_11-12</LB_soir>
+
+<RB_soir>RB_Sana_animam_meam</RB_soir>
+
+<magnificat>AN_Magnificat_anima_mea</magnificat>
+
+<vepres_preces>perannum_32</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_lumen_indeficiens_merito_praedicaris</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_In_voluntate_tua</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_abundantia_pietatis</COL>			
+	
+<LEC1>Ga1,6-12</LEC1>	
+	
+<PS1>GR_Domine_refugium</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_In_exitu_Israel</PS2>
+	
+<SEQ/>
+	
+<EV>Lc10,25-37</EV>
+	
+<OF>OF_Vir_erat</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_In_salutari_tuo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Apparition de Notre-Dame des 3 &#xC9;pis &#xE0; Thierry Dietrich et le Forgeron Schoer&#xE9; (1491) </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Ambrosio Francisco Ferro</intitule>
+ <biographiecourte>Et ses fid&#xE8;les massacr&#xE9;s par une troupe de Hollandais calvinistes en 1645. Ils ont le titre de protomartyrs du Br&#xE9;sil </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 octobre</para><para>1. Comm&#xE9;moraison de saint Denys l&#x2019;Ar&#xE9;opagite, qui donna son adh&#xE9;sion au Christ apr&#xE8;s le discours de l&#x2019;Ap&#xF4;tre saint Paul devant l&#x2019;Ar&#xE9;opage et fut &#xE9;tabli premier &#xE9;v&#xEA;que des Ath&#xE9;niens. </para><para>2. &#xC0; Rome, au cimeti&#xE8;re de Pontien sur la voie de Porto, sainte Candide, martyre. </para><para>3. &#xC0; Alexandrie, comm&#xE9;moraison des saints Fauste, Ca&#xEF;us, Pierre, Paul, Eus&#xE8;be, Ch&#xE9;r&#xE9;mon, Lucius et deux autres. D&#x2019;abord sous D&#xE8;ce, puis sous Val&#xE9;rien, au IIIe si&#xE8;cle, sur l&#x2019;ordre du gouverneur &#xC9;milien, ils endur&#xE8;rent bien des souffrances, avec l&#x2019;&#xE9;v&#xEA;que saint Denis, et furent confesseurs de la foi. Parmi eux, Fauste m&#xE9;rita m&#xEA;me la palme du martyre sous le r&#xE8;gne de Diocl&#xE9;tien, au d&#xE9;but du IVe si&#xE8;cle. </para><para>4. Comm&#xE9;moraison de saint H&#xE9;sychius, moine &#xE0; Ma&#xEF;ouma en Palestine, qui fut disciple de saint Hilarion et son compagnon dans ses p&#xE9;r&#xE9;grinations. </para><para>5. Comm&#xE9;moraison de saint Maximien, &#xE9;v&#xEA;que de Baga&#xEF; en Numidie, qui subit de graves s&#xE9;vices &#xE0; plusieurs reprises de la part des h&#xE9;r&#xE9;tiques et, &#xE0; la fin, fut pr&#xE9;cipit&#xE9; d&#x2019;une haute tour et laiss&#xE9; pour mort, mais recueilli peu apr&#xE8;s par des passants et ayant retrouv&#xE9; la sant&#xE9;, il ne cessa pas de d&#xE9;fendre la foi catholique jusqu&#x2019;&#xE0; sa mort, vers 410.</para><para>6*. &#xC0; Toulon, apr&#xE8;s 543, saint Cyprien, &#xE9;v&#xEA;que. Disciple de saint C&#xE9;saire d&#x2019;Arles, il d&#xE9;fendit dans plusieurs conciles la doctrine catholique sur la gr&#xE2;ce, soutenant que personne ne peut, par soi-m&#xEA;me, faire le moindre progr&#xE8;s dans la connaissance des r&#xE9;alit&#xE9;s divines s&#x2019;il n&#x2019;est appel&#xE9; d&#xE8;s le d&#xE9;but par une gr&#xE2;ce pr&#xE9;venante de Dieu. </para><para>7. Chez les Saxons, en 695, les deux saints martyrs Ewald, surnomm&#xE9;s l&#x2019;un le Noir, l&#x2019;autre le Blanc. Pr&#xEA;tres n&#xE9;s en Angleterre et form&#xE9;s par l&#x2019;exemple de saint Willibrord et d&#x2019;autres, ils pass&#xE8;rent chez les Saxons et, alors qu&#x2019;ils avaient commenc&#xE9; &#xE0; leur annoncer le Christ, ils furent saisis par les pa&#xEF;ens et massacr&#xE9;s. </para><para>8*. &#xC0; de Metten en Bavi&#xE8;re, l&#x2019;an&#xA0;802, le bienheureux Utto, fondateur et premier abb&#xE9; du monast&#xE8;re de ce lieu. </para><para>9. Au pays de Namur, en 959, saint G&#xE9;rard, premier abb&#xE9; du monast&#xE8;re de Brogne, qu&#x2019;il avait construit. Il travailla &#xE0; restaurer la discipline monastique en Flandre et en Lotharingie, et ramena plusieurs monast&#xE8;res &#xE0; l&#x2019;observance primitive de la R&#xE8;gle. </para><para>10*. Au monast&#xE8;re de Disentis, chez les Suisses, en 1160, le bienheureux Adalgott, abb&#xE9;, auparavant moine &#xE0; Einsiedeln. Disciple de saint Bernard &#xE0; Clairvaux, il eut &#xE0; c&#x153;ur de veiller &#xE0; la discipline monastique. </para><para>11*. Sur le bord de l&#x2019;Urua&#xE7;u, pr&#xE8;s de Natal au Br&#xE9;sil, en 1645, les bienheureux Ambroise-Fran&#xE7;ois Ferro, pr&#xEA;tre, et vingt-sept compagnons, martyrs, victimes de l&#x2019;oppression exerc&#xE9;e contre la foi catholique. </para><para>12*. &#xC0; Madrid, en 1936, le bienheureux Crescence Garcia Pobo, pr&#xEA;tre du Tiers-Ordre de Saint-Fran&#xE7;ois et martyr, victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise pendant la guerre civile.</para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Roumanie, en 1953, le bienheureux Szilard Ignac Bogdanffly, &#xE9;v&#xEA;que martyr mort en prison. (b&#xE9;atifi&#xE9; le 30 octobre 2010 par Beno&#xEE;t XVI) &#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Infra octavam Paschae</la></hebdomada>
+<intitule><la>Feria VI infra octavam Paschae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>45,91</phase_lunaire>
+<age_lunaire>22</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1>AN_Exsurge_Domine_in</antL1>
+<psL1>ps34I</psL1>
+<antL2>AN_Iudica_causam_meam;</antL2>
+<psL2>ps34II</psL2>
+<antL3>AN_Lingua_mea_tota</antL3>
+<psL3>ps34III</psL3>
+<LVers>VERS_Fili_mi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_VI_infra_octavam_Paschae</Llec1>
+<Lrep1>R1_Feria_VI_infra_octavam_Paschae</Lrep1>
+<Llec2>L2_Feria_VI_infra_octavam_Paschae</Llec2>
+<Lrep2>R2_Feria_VI_infra_octavam_Paschae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Surrexit_Christus_et</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Redemptor_noster_surrexit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Act_5_30-32</LB_matin> 
+ <RB_matin>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_matin> 
+<benedictus>AN_Hoc_iam_tertio</benedictus>
+<laudes_preces>pascha_16</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Christus_surrexit_a</ant4>
+
+<ps4>ps118IV</ps4>
+
+<ant5>AN_Traditus_est_propter</ant5>
+
+<ps5>ps25</ps5>
+
+<ant6>AN_Si_consurrexistis_cum</ant6>
+
+<ps6>ps27</ps6>
+
+<LB_3>LB_Act_2_32._36</LB_3>
+
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+
+<LB_6>LB_Gal_3_27-28</LB_6>
+
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+
+<LB_9>LB_1_Cor_5_7-8</LB_9>
+
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum </oratio_6>
+
+<oratio_9>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Venite_et_videte</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Hebr_5_8-10</LB_soir>
+
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_soir>
+
+<magnificat>AN_Dixit_discipulus_ille</magnificat>
+
+<vepres_preces>pascha_16</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Iesu_redemptor</HYMNUS_complies>
+
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Eduxit_eos</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum</COL>			
+	
+<LEC1>Ac4,1-12</LEC1>	
+	
+<PS1>GR_Haec_dies_Benedictus</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Dicite_in_gentibus</PS2>
+	
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+	
+<EV>Jn21,1-14</EV>
+	
+<OF>OF_Erit_vobis</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Data_est_mihi</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Apr&#xE8;s le miracle de Czestochova, le roi Casimir consacre la Pologne &#xE0; Marie  </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Hugues de Grenoble</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que pendant plus de cinquante ans, guide de St Bruno (&#x2020;1132)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 1er avril</para><para>1. &#xC0; Rome, comm&#xE9;moraison de saint Venance, &#xE9;v&#xEA;que, et d&#x2019;autres martyrs de Dalmatie et d&#x2019;Istrie&#xA0;: Anastase, Maure, Paulinien, Telius, Ast&#xE8;rius, Septimius, Antiochien et Ga&#xEF;en, que l&#x2019;&#xC9;glise honore d&#x2019;une commune louange. </para><para>2. &#xC0; Thessalonique en Mac&#xE9;doine, les saintes Agap&#xE8; et Chionia, vierges et martyres. En 305, sous l&#x2019;empereur Diocl&#xE9;tien, parce qu&#x2019;elles refusaient de manger des viandes sacrifi&#xE9;es aux idoles, elles furent condamn&#xE9;es &#xE0; &#xEA;tre br&#xFB;l&#xE9;es vives par le gouverneur Duc&#xE9;tius.</para><para>3. En Palestine, sainte Marie l&#x2019;&#xC9;gyptienne. Selon la tradition, Marie, c&#xE9;l&#xE8;bre p&#xE9;cheresse d&#x2019;Alexandrie, se repentit &#xE0; J&#xE9;rusalem, &#xE0; la f&#xEA;te de l&#x2019;Exaltation de la Sainte Croix et mena, d&#xE8;s lors, au-del&#xE0; du Jourdain, une vie solitaire et p&#xE9;nitente. </para><para>4. &#xC0; Leuconay pr&#xE8;s d&#x2019;Amiens, au VIIe si&#xE8;cle, saint Val&#xE9;ry, pr&#xEA;tre, qui attira un grand nombre de disciples &#xE0; la vie &#xE9;r&#xE9;mitique.</para><para>5. &#xC0; Ardpatrick, dans le Munster en Irlande, l&#x2019;an&#xA0;1129, le tr&#xE9;pas de saint Celse, &#xE9;v&#xEA;que d&#x2019;Armagh, qui fit grandement progresser la restauration de l&#x2019;&#xC9;glise dans ce pays.</para><para>6. &#xC0; Grenoble, en 1132, saint Hugues, &#xE9;v&#xEA;que, qui travailla &#xE0; r&#xE9;former les m&#x153;urs du clerg&#xE9; et du peuple et, au cours de son &#xE9;piscopat, ardemment d&#xE9;sireux de solitude, conduisit saint Bruno et ses compagnons dans le d&#xE9;sert de la Chartreuse, et dirigea avec soin son &#xC9;glise en lui donnant l&#x2019;exemple, pendant pr&#xE8;s de cinquante ans. </para><para>7*. Au monast&#xE8;re cistercien de Bonnevaux dans le Dauphin&#xE9;, en 1194, le bienheureux Hugues, abb&#xE9;, neveu du pr&#xE9;c&#xE9;dent, qui, &#xE0; force de charit&#xE9; et de prudence, r&#xE9;concilia le pape Alexandre III et l&#x2019;empereur Fr&#xE9;d&#xE9;ric Ier. </para><para>8*. &#xC0; Caithness en &#xC9;cosse, vers 1245, saint Gilbert, &#xE9;v&#xEA;que, qui construisit sa cath&#xE9;drale &#xE0; Dornoch, ainsi que plusieurs hospices pour les pauvres&#xA0;; et, en mourant, recommanda ce qu&#x2019;il avait observ&#xE9; lui-m&#xEA;me toute sa vie, c&#x2019;est-&#xE0;-dire&#xA0;: ne faire tort &#xE0; personne, supporter avec patience les ch&#xE2;timents divins et n&#x2019;&#xEA;tre cause de scandale pour personne.</para><para>9*. &#xC0; York en Angleterre, l&#x2019;an&#xA0;1598, le bienheureux Jean Bretton, martyr. P&#xE8;re de famille, il fut plusieurs fois r&#xE9;primand&#xE9;, sous la reine &#xC9;lisabeth I&#xE8;re, pour sa fid&#xE9;lit&#xE9; constante &#xE0; l&#x2019;&#xC9;glise romaine et enfin, accus&#xE9; faussement de trahison, il mourut &#xE9;trangl&#xE9;. </para><para>10*. &#xC0; Brescia en Lombardie, l&#x2019;an&#xA0;1848, le bienheureux Louis Pavoni, pr&#xEA;tre, qui donna tous ses soins &#xE0; la formation des jeunes les plus pauvres, en cherchant &#xE0; leur inculquer la morale et &#xE0; les orienter vers des m&#xE9;tiers. Il fonda aussi la Congr&#xE9;gation des Fils de Marie Immacul&#xE9;e. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

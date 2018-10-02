@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XVIII per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>0,00</phase_lunaire>
+<age_lunaire>0</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Iubilate_Deo_omnis</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christ_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1/>
+<psL1>ps38I</psL1>
+<antL2/>
+<psL2>ps38II</psL2>
+<antL3/>
+<psL3>ps51</psL3>
+<LVers>VERS_Sustinuit_anima</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_18-4</Llec1>
+<Lrep1>R1_perannum_18-4</Lrep1>
+<Llec2>L2_perannum_18-4</Llec2>
+<Lrep2>R2_perannum_18-4</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Fulgentis_auctor_aetheris</HYMNUS_laudes>
+ <ant1>AN_Deus_in_sancto</ant1>
+ <ps1>ps76</ps1>
+ <ant2>AN_Exsultavit_cor_meum</ant2>
+ <ps2>AT3</ps2>
+ <ant3>AN_Dominus_regnavit_exsultet</ant3>
+ <ps3>ps96</ps3>
+ <LB_matin>LB_Rom_8_35._37</LB_matin> 
+ <RB_matin>RB_Benedicam_Dominum_In_omni</RB_matin> 
+<benedictus>AN_Liberati__serviamus</benedictus>
+<laudes_preces>perannum_24</laudes_preces><oratio_laudes>COL_Emitte_quaesumus_Domine_in_corda_nostra</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Cogitavi_vias_meas</ant4>
+
+<ps4>ps118VIII</ps4>
+
+<ant5>AN_Timor_et_tremor</ant5>
+
+<ps5>ps54I</ps5>
+
+<ant6>AN_Ad_Deum_clamabo</ant6>
+
+<ps6>ps54II</ps6>
+
+<LB_3>LB_Deut_1_16-17a</LB_3>
+
+<RB_3>VERS_Iustus_Dominus</RB_3>
+
+<LB_6>LB_Is_55_8-9</LB_6>
+
+<RB_6>VERS_Domine_Deus</RB_6>
+
+<LB_9>LB_I_Sam_16_7b</LB_9>
+
+<RB_9>VERS_Proba_me</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sol_ecce_lentus_occidens</HYMNUS_vepres>
+
+<ant7>AN_Exspectemus_beatam_spem</ant7>
+
+<ps7>ps61</ps7>
+
+<ant8>AN_Illuminet_vultum_suum</ant8>
+
+<ps8>ps66</ps8>
+
+<ant9>AN_In_ipso_condita</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_1_Petr_5_5b-7</LB_soir>
+
+<RB_soir>RB_Custodi_nos_Domine</RB_soir>
+
+<magnificat>AN_Fac_Deus_potentiam</magnificat>
+
+<vepres_preces>perannum_24</vepres_preces>
+
+<oratio_vepres>COL_Deus_cuius_sanctum_est_nomen_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Deus_in_adiutorium</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Adesto_Domine_famulis_tuis_et_perpetuam</COL>			
+	
+<LEC1>Jr31,1-7</LEC1>	
+	
+<PS1>GR_Benedicam_Dominum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Domine_Deus_salutis_meae</PS2>
+	
+<SEQ/>
+	
+<EV>Mt15,21-28</EV>
+	
+<OF>OF_Precatus_est_Moyses</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Panem_de_caelo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Les Sts Macchab&#xE9;es, martyrs</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Lydie</intitule>
+ <biographiecourte>Disciple de St Paul, 1&#xE8;re Europ&#xE9;enne chr&#xE9;tienne</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 ao&#xFB;t.</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, au IIIe si&#xE8;cle, saint Asprenos, premier &#xE9;v&#xEA;que de la cit&#xE9;</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Autun, apr&#xE8;s 475, saint Euphrone, &#xE9;v&#xEA;que, qui &#xE9;leva la basilique du martyr saint Symphorien, et offrit le marbre dont on couvrit le tombeau de saint Martin &#xE0; Tours.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Monte Massico en Campanie, vers 580, saint Martin, qui mena une vie de solitaire, reclus de longues ann&#xE9;es dans une grotte exigu&#xEB;.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Anagni dans le Latium, en 1109, saint Pierre, &#xE9;v&#xEA;que, qui fut remarquable d&#x2019;abord par son observance monastique, puis par sa vigilance pastorale, et qui acheva la construction de la cath&#xE9;drale.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lucera dans les Pouilles, en 1323, le bienheureux Augustin Kazotic, &#xE9;v&#xEA;que. Dominicain, il fut d&#x2019;abord &#xE9;v&#xEA;que de Zagreb, mais l&#x2019;hostilit&#xE9; du prince de Dalmatie envers ce pasteur, d&#xE9;fenseur du peuple, le fit transf&#xE9;rer &#xE0; Lucera, o&#xF9; il montra le plus grand soin pour les pauvres et les indigents.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936, le bienheureux martyr Sauveur Fernandis Segui, pr&#xEA;tre.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936, les bienheureux martyrs&#xA0; &#xE0; Samalus, pr&#xE8;s de Barcelone, Alphonse Lopez Lopez, pr&#xEA;tre, et Michel Remon Salvador, franciscains conventuels.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone, en Espagne, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, en 1936 Fran&#xE7;ois Bandres Sanchez, pr&#xEA;tre sal&#xE9;sien</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

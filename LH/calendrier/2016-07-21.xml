@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XVI per annum</la></hebdomada>
+<intitule><la>S. Laurentii de Brindisi, presbyteri et Ecclesiae doctoris</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>98,91</phase_lunaire>
+<age_lunaire>15</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+<antL1>AN_Brachium_eorum_non</antL1>
+<psL1>ps43I</psL1>
+<antL2>AN_Non_avertet_Dominus</antL2>
+<psL2>ps43II</psL2>
+<antL3>AN_Exsurge_Domine_et</antL3>
+<psL3>ps43III</psL3>
+<LVers>VERS_Faciem_tuam</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_16-5</Llec1>
+<Lrep1>R1_perannum_16-5</Lrep1>
+<Llec2>L2_perannum_16-5</Llec2>
+<Lrep2>R2_perannum_16-5</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_lucis_orto_sidere</HYMNUS_laudes>
+ <ant1>AN_Auditam_fac_mihi</ant1>
+ <ps1>ps142</ps1>
+ <ant2>AN_Declinabit_Dominus_super</ant2>
+ <ps2>AT32</ps2>
+ <ant3>AN_Deo_nostro_iucunda</ant3>
+ <ps3>ps146</ps3>
+ <LB_matin>LB_Rom_8_18-21</LB_matin> 
+ <RB_matin>RB_In_matutinis_Domine_Meditabor</RB_matin> 
+<benedictus>AN_Da_scientiam_salutis</benedictus>
+<laudes_preces>perannum_45</laudes_preces><oratio_laudes>COL_Scientiam_salutis_Domine_nobis_concede_sinceram</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Si_diligitis_me</ant4>
+
+<ps4>ps118XX</ps4>
+
+<ant5>AN_Benedicat_tibi_Dominus</ant5>
+
+<ps5>ps127</ps5>
+
+<ant6>AN_Deus_expugnavit_pro</ant6>
+
+<ps6>ps128</ps6>
+
+<LB_3>LB_1Io3,23-24</LB_3>
+
+<RB_3>VERS_Tu_Domine</RB_3>
+
+<LB_6>LB_Sap_1_1-2</LB_6>
+
+<RB_6>VERS_Spera_in</RB_6>
+
+<LB_9>LB_Hebr_12_1b-2</LB_9>
+
+<RB_9>VERS_Speravit_anima</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Deus_qui_claro_lumine</HYMNUS_vepres>
+
+<ant7>AN_Misericordia_mea_et</ant7>
+
+<ps7>ps143I</ps7>
+
+<ant8>AN_Beatus_populus_cuius</ant8>
+
+<ps8>ps143II</ps8>
+
+<ant9>AN_Nunc_facta_est</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_Cf._Col_1_23</LB_soir>
+
+<RB_soir>RB_Dominus_pascit_me</RB_soir>
+
+<magnificat>AN_Esurientes_iustitiam_Dominus</magnificat>
+
+<vepres_preces>perannum_45</vepres_preces>
+
+<oratio_vepres>COL_Nostris_propitiare_Domine_supplicationibus_vespertinis_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Ecce_Deus_adiuvat_me</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Propitiare_Domine_famulis_tuis_et_clementer</COL>			
+	
+<LEC1>Jr2,1-13</LEC1>	
+	
+<PS1>GR_Domine_Dominus_noster</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Eripe_me</PS2>
+	
+<SEQ/>
+	
+<EV>Mt13,10-17</EV>
+	
+<OF>OF_Iustitiae_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Acceptabis</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St J&#xE9;r&#xE9;mie, proph&#xE8;te</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Laurent de Brindisi, pr&#xEA;tre et docteur de l' &#xC9;glise</intitule>
+ <biographiecourte>Pr&#xEA;tre capucin, pr&#xE9;dicateur itin&#xE9;rant il montra son courage et sa diplomatie dans la lutte contre les Turcs (&#x2020;1619)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 21 juillet.</para><para>M&#xE9;moire de saint Laurent de Brindisi, pr&#xEA;tre et docteur de l&#x2019;&#xC9;glise. Entr&#xE9; chez les Capucins, il exer&#xE7;a inlassablement dans les r&#xE9;gions d&#x2019;Europe le minist&#xE8;re de la pr&#xE9;dication dont on l&#x2019;avait charg&#xE9;, tant pour la d&#xE9;fense de l&#x2019;&#xC9;glise contre les infid&#xE8;les, que pour la r&#xE9;conciliation entre les princes et pour le gouvernement de son Ordre. Il accomplit toutes ces charges avec simplicit&#xE9; et humilit&#xE9; jusqu&#x2019;&#xE0; sa mort &#xE0; Lisbonne, le 22 juillet 1619.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Marseille, vers 292, saint Victor, martyr.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s d&#x2019;&#xC9;m&#xE8;se en Syrie, au IVe si&#xE8;cle, saint Sim&#xE9;on, surnomm&#xE9; Salos, &#x201C;le Fou&#x201D;. Sous l&#x2019;inspiration du Saint-Esprit, il chercha, pour l&#x2019;amour du Christ, &#xE0; &#xEA;tre pris pour fou et m&#xE9;prisable aux yeux des hommes. On comm&#xE9;more aussi saint Jean, ermite, qui fut, pendant pr&#xE8;s de trente ans, le compagnon de saint Sim&#xE9;on quand il se rendit en Terre sainte et dans le s&#xE9;jour qu&#x2019;il fit dans le d&#xE9;sert, pr&#xE8;s de la mer Morte.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, comm&#xE9;moraison de sainte Prax&#xE8;de. Sous son nom une &#xE9;glise fut d&#xE9;di&#xE9;e &#xE0; Dieu sur l&#x2019;Esquilin avant 491.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Strasbourg, au VIe si&#xE8;cle, saint Arbogast, &#xE9;v&#xEA;que, qui fit construire sa cath&#xE9;drale et la consacra &#xE0; Dieu sous le nom de la Vierge Marie.</para><para>6*&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Gabriel Pergaud, pr&#xEA;tre et martyr. Chanoine r&#xE9;gulier de Beaulieu, au dioc&#xE8;se de Saint-Brieuc, il fut expuls&#xE9; de l&#x2019;abbaye, sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, et d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier o&#xF9; il mourut au bout de quelques semaines, apr&#xE8;s une longue agonie.</para><para>7. &#xC0; Yanzi-hiam, dans la province chinoise de Hebei, en 1900, saint Alb&#xE9;ric Crescitelli, pr&#xEA;tre de l&#x2019;Institut Pontifical pour les Missions &#xE9;trang&#xE8;res, et martyr. Dans la pers&#xE9;cution de la secte de Yihetuan, il fut couvert de blessures atroces, presque jusqu&#x2019;&#xE0; en mourir, et fut tra&#xEE;n&#xE9; le lendemain, les pieds li&#xE9;s, par un chemin couvert de silex jusqu&#x2019;au fleuve, o&#xF9; il fut lac&#xE9;r&#xE9; par tout le corps, et enfin d&#xE9;capit&#xE9;.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Yanzi-hiam, dans la province chinoise de Hebei, en 1900, saint Joseph Wang Yumei, martyr, qui succomba sur le chemin menant &#xE0; Duining.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

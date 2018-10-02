@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada IV Adventus</la></hebdomada>
+<intitule><la>Dominica IV Adventus</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>80,37</phase_lunaire>
+<age_lunaire>19</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1/>
+<antL2/>
+<psL2/>
+<antL3/>
+<psL3/>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_IV_Adventus</Llec1>
+<Lrep1>R1_Dominica_IV_Adventus</Lrep1>
+<Llec2>L2_Dominica_IV_Adventus</Llec2>
+<Lrep2>R2_Dominica_IV_Adventus</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Vox_clara_ecce_intonat</HYMNUS_laudes>
+ <ant1>AN_Canite_tuba</ant1>
+ <ps1>ps117</ps1>
+ <ant2>AN_Dominus_veniet_occurrite</ant2>
+ <ps2>AT40</ps2>
+ <ant3>AN_Omnipotens_Sermo_tuus</ant3>
+ <ps3>ps150</ps3>
+ <LB_matin>LB_Rom_13_11-12</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin> 
+<benedictus>AN_Ioseph_fili_David</benedictus>
+<laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Gratiam_tuam_quaesumus_Domine_mentibus_nostris</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps22</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps75I</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps75II</ps6>
+
+<LB_3>LB_Rom_13_13-14a</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Cf._I_Th_3_12-13</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Cf._2_Th_1_6._7._10</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3/>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica IV Adventus</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Verbum_salutis_omnium</HYMNUS_vepres>
+
+<ant7>AN_Intuemini_quam_gloriosus</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Erunt_prava_in</ant8>
+
+<ps8>ps111</ps8>
+
+<ant9>AN_Multiplicabitur_eius_imperium</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Phil4,4-5</LB_soir>
+
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+
+<magnificat/>
+
+<vepres_preces>perannum_41</vepres_preces>
+
+<oratio_vepres>COL_Gratiam_tuam_quaesumus_Domine_mentibus_nostris</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Rorate_caeli</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Gratiam_tuam_quaesumus_Domine_mentibus_nostris</COL>			
+	
+<LEC1>Is7,10-14</LEC1>	
+	
+<PS1>GR_Prope_est_Dominus</PS1>
+	
+<LEC2>Rm1,1-7</LEC2>
+	
+<PS2>AL_Veni_Domine</PS2>
+	
+<SEQ/>
+	
+<EV>Mt1,18-24</EV>
+	
+<OF>OF_Ave_Maria</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Ecce_virgo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>L'Expectation de l'Enfantement de Notre-Dame  </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Allumer la 4&#xE8;me des quatre bougies de l'Avent</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Gatien, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>Fondateur de l'&#xE9;glise de Tours et son premier &#xE9;v&#xEA;que (&#x2020;III&#xE8;me si&#xE8;cle)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 18 d&#xE9;cembre</para><para>1. Comm&#xE9;moraison de saint Malachie, proph&#xE8;te. Au Ve si&#xE8;cle avant le Christ, apr&#xE8;s la d&#xE9;portation &#xE0; Babylone, il annon&#xE7;a le grand jour du Seigneur et sa venue dans son temple, ainsi que l&#x2019;offrande qui serait pr&#xE9;sent&#xE9;e &#xE0; son nom toujours et en tous lieux. </para><para>2. Comm&#xE9;moraison des saints Namphamo, Miggin, Sanaem et Lucitas, martyrs en Afrique au IIIe si&#xE8;cle, qui, au t&#xE9;moignage du pa&#xEF;en Maxime de Madaure dans une lettre adress&#xE9;e &#xE0; saint Augustin, &#xE9;taient en grande v&#xE9;n&#xE9;ration dans le peuple chr&#xE9;tien. </para><para>3. &#xC0; Tours, au d&#xE9;but du IVe si&#xE8;cle, saint Gatien, premier &#xE9;v&#xEA;que de la cit&#xE9;. Il fut, dit saint Gr&#xE9;goire de Tours, un des sept &#xE9;v&#xEA;ques qui vinrent de Rome en Gaule et il fut inhum&#xE9; dans le cimeti&#xE8;re des chr&#xE9;tiens du lieu. </para><para>4*. &#xC0; Killalo&#xE9; en Irlande, au VIe ou VIIe si&#xE8;cle, saint Flannan, &#xE9;v&#xEA;que. </para><para>5*. Au monast&#xE8;re d&#x2019;Heidenheim, dans le W&#xFC;rtemberg, en 761, saint Winnibald, abb&#xE9;. Origiaire d&#x2019;Angleterre, il suivit saint Boniface avec son fr&#xE8;re saint Willibald et l&#x2019;aida dans son &#x153;uvre d&#x2019;&#xE9;vang&#xE9;lisation des peuples de Germanie. </para><para>6. Sur la colline Go-Voi au Tonkin, en 1839, les saints martyrs Paul Nguy&#xEA;n Van My, Pierre Truong Van Duong et Pierre Vu Van Truat, trois cat&#xE9;chistes fermes dans la foi, qui furent &#xE9;trangl&#xE9;s sous l&#x2019;empereur Minh Mang. &#xA0;</para><para>7*. &#xC0; Borgaro pr&#xE8;s de Turin, en 1916, la bienheureuse N&#xE9;m&#xE9;sie (Julie Valle), vierge, des S&#x153;urs de la Charit&#xE9;, admirable pour former et diriger les jeunes dans l&#x2019;amour de l&#x2019;&#xC9;vangile. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

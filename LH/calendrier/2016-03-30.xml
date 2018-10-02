@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Infra octavam Paschae</la></hebdomada>
+<intitule><la>Feria IV infra octavam Paschae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>65,74</phase_lunaire>
+<age_lunaire>20</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1/>
+<psL1>ps17I</psL1>
+<antL2/>
+<psL2>ps17II</psL2>
+<antL3/>
+<psL3>ps17III</psL3>
+<LVers>VERS_Omnes_mirabantur</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_IV_infra_octavam_Paschae</Llec1>
+<Lrep1>R1_Feria_IV_infra_octavam_Paschae</Lrep1>
+<Llec2>L2_Feria_IV_infra_octavam_Paschae</Llec2>
+<Lrep2>R2_Feria_IV_infra_octavam_Paschae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Surrexit_Christus_et</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Redemptor_noster_surrexit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Rom_6_8-11</LB_matin> 
+ <RB_matin>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_matin> 
+<benedictus>AN_Incipiens_Iesus_a</benedictus>
+<laudes_preces>pascha_14</laudes_preces><oratio_laudes>COL_Deus_qui_nos_resurrectionis_dominicae_annua</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Christus_surrexit_a</ant4>
+
+<ps4>ps118II</ps4>
+
+<ant5>AN_Traditus_est_propter</ant5>
+
+<ps5>ps16I</ps5>
+
+<ant6>AN_Si_consurrexistis_cum</ant6>
+
+<ps6>ps16II</ps6>
+
+<LB_3>LB_Rom_4_24-25</LB_3>
+
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+
+<LB_6>LB_1_Io_5_5-6a</LB_6>
+
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+
+<LB_9>LB_Eph_4_23-24</LB_9>
+
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+
+<oratio_3>COL_Deus_qui_nos_resurrectionis_dominicae_annua</oratio_3>
+
+<oratio_6>COL_Deus_qui_nos_resurrectionis_dominicae_annua </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_resurrectionis_dominicae_annua</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Venite_et_videte</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Hebr_7_24-27</LB_soir>
+
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_soir>
+
+<magnificat>AN_Intravit_Iesus_cum</magnificat>
+
+<vepres_preces>pascha_14</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_nos_resurrectionis_dominicae_annua</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Iesu_redemptor</HYMNUS_complies>
+
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Venite_benedicti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_nos_resurrectionis_dominicae_annua</COL>			
+	
+<LEC1>Ac3,1-10</LEC1>	
+	
+<PS1>GR_Haec_Dies_dextera</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Surrexit_Dominus_vere</PS2>
+	
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+	
+<EV>Lc24,13-35</EV>
+	
+<OF>OF_Portas_caeli</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Christus_resurgens</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean Climaque</intitule>
+ <biographiecourte>Moine au Sina&#xEF;, auteur de"l'&#xE9;chelle sainte&#xA0;" </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 30 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Asti en Transpadane, saint Second, martyr.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Thessalonique en Mac&#xE9;doine, au IVe si&#xE8;cle, saint Domnin, martyr.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Senlis, au IVe si&#xE8;cle, saint Rieul, qui est tenu pour le premier &#xE9;v&#xEA;que de ce lieu. </para><para>4.&#xA0; &#xA0; &#xA0; &#xA0;  Comm&#xE9;moraison d&#x2019;un grand nombre de saints martyrs de la communion catholique &#xE0; Constantinople, vers 350. &#xC0; l&#x2019;&#xE9;poque de l&#x2019;empereur Constance, sur l&#x2019;ordre de l&#x2019;&#xE9;v&#xEA;que arien Mac&#xE9;donius, ils furent envoy&#xE9;s en exil ou soumis &#xE0; des supplices inou&#xEF;s. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Au mont Sina&#xEF;, en 649, saint Jean, abb&#xE9;, qui m&#xE9;rita le surnom de Climaque en raison du pr&#xE9;cieux trait&#xE9; intitul&#xE9; &#x201C;L&#x2019;&#xE9;chelle du paradis&#x201D;, qu&#x2019;il composa pour la formation des moines&#xA0;: il y d&#xE9;crit l&#x2019;itin&#xE9;raire spirituel &#xE0; la mani&#xE8;re d&#x2019;une mont&#xE9;e vers Dieu &#xE0; travers trente degr&#xE9;s. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Syracuse en Sicile, l&#x2019;an&#xA0;662, saint Zosime, &#xE9;v&#xEA;que, qui fut d&#x2019;abord l&#x2019;humble gardien de la tombe de sainte Lucie, puis abb&#xE9; du monast&#xE8;re de ce lieu, enfin &#xE9;v&#xEA;que vigilant et charitable. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Coventry en Angleterre, vers 1018, sainte Osburge, premi&#xE8;re abbesse du monast&#xE8;re de ce lieu. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s d&#x2019;Aquin dans le Latium, apr&#xE8;s 1050, saint Cligne, moine, pr&#xE9;v&#xF4;t de l&#x2019;&#xE9;glise Saint-Pierre de la Forest.</para><para>9. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Aguilera en Castille, l&#x2019;an&#xA0;1456, saint Pierre Regalado de Valladolid, pr&#xEA;tre de l&#x2019;Ordre des Mineurs. D&#x2019;une humilit&#xE9; et d&#x2019;une p&#xE9;nitence remarquables, il fonda deux couvents, o&#xF9; douze fr&#xE8;res seulement devaient vivre en solitaires.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Verceil dans le Pi&#xE9;mont, en 1472, le bienheureux Am&#xE9;d&#xE9;e IX, duc de Savoie, qui fut plus port&#xE9; &#xE0; la d&#xE9;votion qu&#x2019;&#xE0; la gestion des affaires publiques et favorisa, par son action et son z&#xE8;le continu, la cause des pauvres, des veuves et des orphelins. </para><para>11. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Su-Ryong en Cor&#xE9;e, l&#x2019;an&#xA0;1866, les saints martyrs Antoine Daveluy, &#xE9;v&#xEA;que, Pierre Auma&#xEE;tre, Martin-Luc Huin, pr&#xEA;tres, Joseph Chang Chu-gi, cat&#xE9;chistes, et Luc Hwang Sok-tu, qui furent d&#xE9;capit&#xE9;s pour la foi au Christ. Saint Thomas Son Cha-son, fut &#xE9;trangl&#xE9; dans la prison de Kang Tijou. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, en 1885, le bienheureux Louis de Casoria (Archange Palmentieri), pr&#xEA;tre de l&#x2019;Ordre des Fr&#xE8;res Mineurs. Pouss&#xE9; par l&#x2019;ardeur de sa charit&#xE9; envers les pauvres, il fonda deux Congr&#xE9;gations, celle des Fr&#xE8;res de la Charit&#xE9; et celle des S&#x153;urs franciscaines de Sainte-&#xC9;lisabeth. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Turin dans le Pi&#xE9;mont, en 1900, saint L&#xE9;onard Murialdo, pr&#xEA;tre, qui fonda la pieuse Soci&#xE9;t&#xE9; de Saint-Joseph pour que les petits abandonn&#xE9;s fassent la d&#xE9;couverte de la foi chr&#xE9;tienne et de la charit&#xE9;. </para><para>14. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Saint-Julien, sur le territoire de Guadalajara au Mexique, en 1927, saint Jules Alvarez, pr&#xEA;tre et martyr. Durant la pers&#xE9;cution dans ce pays, il fut arr&#xEA;t&#xE9; par des soldats au moment de c&#xE9;l&#xE9;brer la messe et conduit sur une d&#xE9;charge d&#x2019;ordures pour y &#xEA;tre fusill&#xE9;. </para><para>15*. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Vienne en Autriche, l&#x2019;an&#xA0;1943, la bienheureuse H&#xE9;l&#xE8;ne Kafka (Marie-Restituta), vierge, des S&#x153;urs franciscaines de la Charit&#xE9; et martyre. Originaire de Boh&#xEA;me, elle &#xE9;tait infirmi&#xE8;re&#xA0;; pendant la Seconde Guerre mondiale quand elle fut arr&#xEA;t&#xE9;e par le r&#xE9;gime nazi et d&#xE9;capit&#xE9;e. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

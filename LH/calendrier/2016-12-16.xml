@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>13</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada III Adventus</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>94,72</phase_lunaire>
+<age_lunaire>16</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Confitemini_Domino_quia</invitatoire>
+<HYMNUS_lectures>hy_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1>AN_Laboravi_clamans_dum</antL1>
+<psL1>ps68I</psL1>
+<antL2>AN_Dederunt_in_escam</antL2>
+<psL2>ps68II</psL2>
+<antL3>AN_Quaerite_Dominum_et</antL3>
+<psL3>ps68III</psL3>
+<LVers>VERS_Dominus_vias</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_adventus_36</Llec1>
+<Lrep1>R1_adventus_36</Lrep1>
+<Llec2>L2_adventus_36</Llec2>
+<Lrep2>R2_adventus_36</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterna_caeli_gloria</HYMNUS_laudes>
+ <ant1>AN_Tibi_soli_peccavi</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Cognovimus_Domine_iniquitates</ant2>
+ <ps2>AT34</ps2>
+ <ant3>AN_Dominus_ipse_est</ant3>
+ <ps3>ps99</ps3>
+ <LB_matin>LB_2_Cor_12_9b-10</LB_matin> 
+ <RB_matin>RB_Auditam_fac_mihi_mane</RB_matin> 
+<benedictus>AN_Visitavit_et_fecit</benedictus>
+<laudes_preces>perannum_36</laudes_preces><oratio_laudes>COL_Illabere_sensibus_nostris_omnipotens_Pater_ut</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Vidimus_eum_despectum</ant4>
+
+<ps4>ps21I</ps4>
+
+<ant5>AN_Dividentes_vestimenta_Iesu</ant5>
+
+<ps5>ps21II</ps5>
+
+<ant6>AN_Adorabunt_in_conspectu</ant6>
+
+<ps6>ps21III</ps6>
+
+<LB_3>LB_Rom_1_16b-17</LB_3>
+
+<RB_3>VERS_In_Domino</RB_3>
+
+<LB_6>LB_Rom_3_21-22a</LB_6>
+
+<RB_6>VERS_Iustitiae_Domini</RB_6>
+
+<LB_9>LB_Eph_2_8-9</LB_9>
+
+<RB_9>VERS_Cognoscatur_Domine</RB_9>
+
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Plasmator_hominis_Deus</HYMNUS_vepres>
+
+<ant7>AN_Magnus_est_Dominus</ant7>
+
+<ps7>ps134I</ps7>
+
+<ant8>AN_Domus_Israel_benedicite</ant8>
+
+<ps8>ps134II</ps8>
+
+<ant9>AN_Omnes_gentes_venient</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_Iac_1_2-4</LB_soir>
+
+<RB_soir>RB_Christus_dilexit_nos</RB_soir>
+
+<magnificat>AN_Suscepit_nos_Dominus</magnificat>
+
+<vepres_preces>perannum_36</vepres_preces>
+
+<oratio_vepres>COL_Domine_sancte_Pater_qui_Christum_Filium</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Gaudete_in_Domino</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Is56,1-8</LEC1>	
+	
+<PS1>GR_Qui_sedes_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Excita_Domine</PS2>
+	
+<SEQ/>
+	
+<EV>Jn5,33-36</EV>
+	
+<OF>OF_Benedixisti</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Domus_mea</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Le saint Roi David et tous les anc&#xEA;tres du Christ</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Honor&#xE9; de Biala</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 d&#xE9;cembre</para><para>1. Comm&#xE9;moraison de saint Agg&#xE9;e, proph&#xE8;te, qui, vers 515 avant le Christ au temps de Zorobabel, chef de Juda, avertit le peuple de reconstruire la maison du Seigneur, dans laquelle viendrait le Tr&#xE9;sor de toutes les nations. </para><para>2. Comm&#xE9;moraison de plusieurs saintes femmes, qui, en Afrique, durant la pers&#xE9;cution vandale sous le roi arien Hunn&#xE9;ric, en 480, furent suspendues avec des poids aux pieds et des lames incandescentes sur le dos, achevant ainsi heureusement le combat du martyre. </para><para>3. En Irlande, saint B&#xE9;an, ermite. </para><para>4*. &#xC0; Cysoing dans l&#x2019;Artois, en 867, saint &#xC9;vrard. Comte du Frioul, il construisit en ce lieu un monast&#xE8;re de chanoines r&#xE9;guliers, o&#xF9; il fut pieusement d&#xE9;pos&#xE9;, quelques ann&#xE9;es apr&#xE8;s sa mort. </para><para>5. &#xC0; Vienne, alors dans le royaume de Provence, en 875, saint Adon, &#xE9;v&#xEA;que, qui fut moine auparavant et composa un Martyrologe, o&#xF9; il inscrivit pour chaque jour des &#xE9;loges de saints. </para><para>6*. &#xC0; l&#x2019;abbaye de Seltz en Alsace, l&#x2019;an&#xA0;999, la naissance au ciel de sainte Ad&#xE9;la&#xEF;de, qui &#xE9;pousa Otton Ier et devint imp&#xE9;ratrice. Elle manifesta une gravit&#xE9; pleine de charme aux gens de sa maison, une dignit&#xE9; tr&#xE8;s noble aux &#xE9;trangers, une bienveillance infatigable aux pauvres et une largesse tr&#xE8;s abondante pour honorer les &#xE9;glises de Dieu. </para><para>7*. En Lucanie, l&#x2019;an&#xA0;1005, saint Macaire de Collesano, moine, remarquable par son humilit&#xE9; et ses privations, qui dirigea avec sagesse divers monast&#xE8;res du mont Mercure et du Latiano. </para><para>8*. &#xC0; G&#xEA;nes en Ligurie, l&#x2019;an&#xA0;1496, le bienheureux S&#xE9;bastien Maggi, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui pr&#xEA;cha l&#x2019;&#xC9;vangile au peuple de la r&#xE9;gion et veilla &#xE0; la discipline r&#xE9;guli&#xE8;re dans plusieurs couvents de son Ordre. </para><para>9*. &#xC0; Turin dans le Pi&#xE9;mont, en 1717, la bienheureuse Marie des Anges (Marie-Anne Fontanella), vierge moniale du Carmel, remarquable par ses p&#xE9;nitences volontaires et sa vertu d&#x2019;ob&#xE9;issance. </para><para>10*. &#xC0; Rivalba pr&#xE8;s de Turin, en 1903, le bienheureux Cl&#xE9;ment Marchisio, pr&#xEA;tre, cur&#xE9; de la paroisse de ce lieu et fondateur de l&#x2019;Institut des Filles de Saint-Joseph. </para><para>11*. &#xC0; Nowe Miasto en Pologne, l&#x2019;an&#xA0;1916, le bienheureux Honor&#xE9; de Biala Podlaska (Venceslas Kazminsky), pr&#xEA;tre capucin, qui accomplit une &#x153;uvre remarquable en confessant les p&#xE9;nitents, en pr&#xEA;chant la parole de Dieu et en r&#xE9;confortant les &#xE2;mes des prisonniers. </para><para>12*. Pr&#xE8;s de Mukdahan en Tha&#xEF;lande, l&#x2019;an&#xA0;1940, le bienheureux Philippe Siphong Onphitak, martyr. P&#xE8;re de famille, il fut choisi comme chef de la communaut&#xE9; chr&#xE9;tienne pour remplacer le pr&#xEA;tre de Sog-Khon, expuls&#xE9;, et, quand commen&#xE7;a la pers&#xE9;cution contre les chr&#xE9;tiens, il fut conduit au bord de la rivi&#xE8;re Tum Nok, tortur&#xE9; et fusill&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

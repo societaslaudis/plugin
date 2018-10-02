@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada I Adventus</la></hebdomada>
+<intitule><la>S. Francisci Xavier, presbyteri</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>10,38</phase_lunaire>
+<age_lunaire>3</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_pastorum_principem</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Francisci_Xavier_presbyteri</Llec1>
+<Lrep1>R1_S._Francisci_Xavier_presbyteri</Lrep1>
+<Llec2>L2_S._Francisci_Xavier_presbyteri</Llec2>
+<Lrep2>R2_S._Francisci_Xavier_presbyteri</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+ <ant1>AN_Praevenerunt_oculi_mei</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Fortitudo_mea_et</ant2>
+ <ps2>AT1</ps2>
+ <ant3>AN_Laudate_Dominum_omnes</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ <RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> 
+<benedictus>AN_Non_vos_estis</benedictus>
+<laudes_preces>perannum_17</laudes_preces><oratio_laudes>COL_Deus_qui_beati_Francisci_praedicatione_multos</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps118V</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_Is_4_2</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Is_4_3</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Is_61_11</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>Dominica II Adventus</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Conditor_alme_siderum</HYMNUS_vepres>
+
+<ant7>AN_Gaude_et_laetare</ant7>
+
+<ps7>ps118XIV</ps7>
+
+<ant8>AN_Confortate_manus_dissolutas;</ant8>
+
+<ps8>ps15</ps8>
+
+<ant9>AN_Lex_per_Moysen</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_1Th_5_23-24</LB_soir>
+
+<RB_soir>RB_Ostende_nobis_Domine_Misericordiam</RB_soir>
+
+<magnificat>AN_Venit_Ioannes_Baptista</magnificat>
+
+<vepres_preces>perannum_17</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_et_misericors_Deus_in_tui</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Loquebar</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_beati_Francisci_praedicatione_multos</COL>			
+	
+<LEC1>1Co9,16-19.22-23</LEC1>	
+	
+<PS1>GR_Iustus_ut_palma</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Laudate_Dominum</PS2>
+	
+<SEQ/>
+	
+<EV>Mc16,15-20</EV>
+	
+<OF>OF_Veritas_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Signa</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Fran&#xE7;ois-Xavier, pr&#xEA;tre</intitule>
+ <biographiecourte>Un des premiers compagnons de St Ignace de Loyola, missionnaire en Inde et au Japon (&#x2020;1552)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 3 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Fran&#xE7;ois Xavier, pr&#xEA;tre de la Compagnie de J&#xE9;sus, &#xE9;vang&#xE9;lisateur des Indes. N&#xE9; en Navarre, il fut &#xE0; Paris l&#x2019;un des premiers compagnons de saint Ignace. Pouss&#xE9; par l&#x2019;ardeur de r&#xE9;pandre l&#x2019;&#xC9;vangile, il se d&#xE9;pensa sans compter pour annoncer le Christ &#xE0; des peuples innombrables en Inde, dans les Molusques et d&#x2019;autres &#xEE;les, et de l&#xE0; au Japon, convertissant beaucoup &#xE0; la foi. Enfin, consum&#xE9; par la maladie et les travaux, il mourut sur l&#x2019;&#xEE;le de Sancian, aux portes de la Chine, en 1552.</para><para>2. Comm&#xE9;moraison de saint Sophrone, proph&#xE8;te, qui, vers 630 avant le Christ, aux jours de Josias, roi de Juda, annon&#xE7;a la ruine des impies au jour de la col&#xE8;re du Seigneur et r&#xE9;conforta les pauvres dans l&#x2019;esp&#xE9;rance du salut. </para><para>3. &#xC0; Tanger en Maur&#xE9;tanie, au IIIe ou IVe si&#xE8;cle, saint Cassien, martyr. </para><para>4. &#xC0; Dorchester en Angleterre, vers 650, saint Birin, &#xE9;v&#xEA;que. Envoy&#xE9; par le pape Honorius Ier dans l&#x2019;int&#xE9;rieur de la Grande Bretagne, il &#xE9;tablit son si&#xE8;ge &#xE0; Dorchester et se d&#xE9;pensa sans compter pour r&#xE9;pandre l&#x2019;annonce du salut au peuple des Saxons de l&#x2019;ouest. </para><para>5. &#xC0; Coire en Suisse, peut-&#xEA;tre au VIIe si&#xE8;cle, saint Lucius, ermite. </para><para>6*. &#xC0; Londres, en 1678, le bienheureux &#xC9;douard Coleman, martyr. Fils d&#x2019;un ministre anglican, il embrassa la foi catholique et fut accus&#xE9; faussement d&#x2019;un pr&#xE9;tendu complot contre le roi Charles II. Condamn&#xE9; &#xE0; mort, il fut pendu au gibet de Tyburn et &#xE9;ventr&#xE9; alors qu&#x2019;il vivait encore. </para><para>7*. &#xC0; Trente en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1860, le bienheureux Jean-N&#xE9;pomuc&#xE8;ne de Tschiderer, &#xE9;v&#xEA;que. Il gouverna son &#xC9;glise avec une ardeur de foi tout &#xE9;vang&#xE9;lique et avec douceur et, &#xE0; une p&#xE9;riode d&#x2019;affliction, il donna un admirable t&#xE9;moignage d&#x2019;amour pour son peuple. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

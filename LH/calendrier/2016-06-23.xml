@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XII per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>93,42</phase_lunaire>
+<age_lunaire>17</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+<antL1>AN_Brachium_eorum_non</antL1>
+<psL1>ps43I</psL1>
+<antL2>AN_Non_avertet_Dominus</antL2>
+<psL2>ps43II</psL2>
+<antL3>AN_Exsurge_Domine_et</antL3>
+<psL3>ps43III</psL3>
+<LVers>VERS_Faciem_tuam</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_12-5</Llec1>
+<Lrep1>R1_perannum_12-5</Lrep1>
+<Llec2>L2_perannum_12-5</Llec2>
+<Lrep2>R2_perannum_12-5</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_lucis_orto_sidere</HYMNUS_laudes>
+ <ant1>AN_Auditam_fac_mihi</ant1>
+ <ps1>ps142</ps1>
+ <ant2>AN_Declinabit_Dominus_super</ant2>
+ <ps2>AT32</ps2>
+ <ant3>AN_Deo_nostro_iucunda</ant3>
+ <ps3>ps146</ps3>
+ <LB_matin>LB_Rom_8_18-21</LB_matin> 
+ <RB_matin>RB_In_matutinis_Domine_Meditabor</RB_matin> 
+<benedictus>AN_Da_scientiam_salutis</benedictus>
+<laudes_preces>perannum_45</laudes_preces><oratio_laudes>COL_Scientiam_salutis_Domine_nobis_concede_sinceram</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Si_diligitis_me</ant4>
+
+<ps4>ps118XX</ps4>
+
+<ant5>AN_Benedicat_tibi_Dominus</ant5>
+
+<ps5>ps127</ps5>
+
+<ant6>AN_Deus_expugnavit_pro</ant6>
+
+<ps6>ps128</ps6>
+
+<LB_3>LB_1Io3,23-24</LB_3>
+
+<RB_3>VERS_Tu_Domine</RB_3>
+
+<LB_6>LB_Sap_1_1-2</LB_6>
+
+<RB_6>VERS_Spera_in</RB_6>
+
+<LB_9>LB_Hebr_12_1b-2</LB_9>
+
+<RB_9>VERS_Speravit_anima</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>IN NATIVITATE S. IOANNIS BAPTIST&#xC6;</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Ut_queant_laxis_resonare_fibris</HYMNUS_vepres>
+
+<ant7>AN_Elisabeth_Zachariae_magnum</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Ex_utero_senectutis</ant8>
+
+<ps8>ps145</ps8>
+
+<ant9>AN_Inter_natos_mulierum</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Act_13_23-25</LB_soir>
+
+<RB_soir>RB_Parate_vias_Domini_Rectas</RB_soir>
+
+<magnificat>AN_Esurientes_iustitiam_Dominus</magnificat>
+
+<vepres_preces>perannum_45</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_Baptistam_suscitasti</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Dominus_fortitudo_plebis_suae</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Sancti_nominis_tui_Domine_timorem_pariter</COL>			
+	
+<LEC1>2R24,8-17</LEC1>	
+	
+<PS1>GR_Convertere_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_In_te_Domine_speravi</PS2>
+	
+<SEQ/>
+	
+<EV>Mt7,21-29</EV>
+	
+<OF>OF_Perfice_gressus_meos</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Circuibo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Audrey</intitule>
+ <biographiecourte>Veuve puis religieuse, elle fonda l'abbaye d'Ely en Angleterre, o&#xF9; elle mena une vie tr&#xE8;s aust&#xE8;re (&#x2020;679)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 23 juin</para><para>1. Comm&#xE9;moraison de nombreux saints martyrs de Nicom&#xE9;die en 303, au temps de l&#x2019;empereur Diocl&#xE9;tien. Apr&#xE8;s s&#x2019;&#xEA;tre cach&#xE9;s dans les montagnes et les cavernes, ils souffrirent le martyre avec joie pour le nom du Christ. </para><para>2. Au monast&#xE8;re d&#x2019;Ely, en Grande Bretagne, l&#x2019;an&#xA0;679, sainte &#xC9;thelr&#xE8;de (Audrey), abbesse. Fille de roi, et reine de Northumbrie, mari&#xE9;e deux fois, elle re&#xE7;ut des mains de l&#x2019;&#xE9;v&#xEA;que saint Wilfrid le voile des moniales dans le monast&#xE8;re qu&#x2019;elle avait elle-m&#xEA;me fond&#xE9;, et o&#xF9; elle dirigea avec l&#x2019;autorit&#xE9; d&#x2019;une m&#xE8;re, par ses exemples et ses avertissements, un grand nombre de vierges. </para><para>3*. &#xC0; Vannes en Bretagne, vers&#xA0;914, saint Bili &#xA0;, &#xE9;v&#xEA;que et martyr, qui aurait &#xE9;t&#xE9; tu&#xE9; quand les Normands d&#xE9;vastaient la cit&#xE9;. </para><para>4*. &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1194, le bienheureux Lanfranc, &#xE9;v&#xEA;que, homme pacifique, qui souffrit beaucoup en faveur de la paix et de la concorde dans la cit&#xE9;. </para><para>5*. &#xC0; Onhaye en Hannonie, au XIIIe si&#xE8;cle, saint Walter, pr&#xEA;tre. Alors qu&#x2019;il traversait la Meuse, rapporte-t-on, un pr&#xEA;tre du voisinage, &#xE0; qui il reprochait ses vices, l&#x2019;assassina &#xE0; coups de rame. </para><para>6*. &#xC0; Oignies, &#xE9;galement en Hannonie, l&#x2019;an&#xA0;1213, la bienheureuse Marie. Dot&#xE9;e de dons mystiques, elle v&#xE9;cut, avec le consentement de son &#xE9;poux, en recluse dans une cellule, et fut ainsi &#xE0; l&#x2019;origine et &#xE0; l&#x2019;organisation du mouvement des b&#xE9;guines.</para><para>7*. Dans l&#x2019;ermitage de Valmanente dans les Marches, vers&#xA0;1496, le bienheureux Pierre-Jacques de Pesaro, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. </para><para>8. &#xC0; Londres, en 1608, saint Thomas Garnet, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Apr&#xE8;s son ordination au Coll&#xE8;ge anglais de Valladolid, en Espagne, il retourna en Angleterre, fut emprisonn&#xE9; deux fois, condamn&#xE9; &#xE0; mort sous le roi Jacques Ier, parce que pr&#xEA;tre, et men&#xE9; &#xE0; la potence. </para><para>9. &#xC0; Turin, en 1860, saint Joseph Cafasso, pr&#xEA;tre, qui se consacra &#xE0; accro&#xEE;tre la pi&#xE9;t&#xE9; et la science du clerg&#xE9; pi&#xE9;montais et &#xE0; r&#xE9;concilier avec Dieu les malheureux emprisonn&#xE9;s et m&#xEA;me les condamn&#xE9;s &#xE0; mort. </para><para>10*. &#xC0; Alatri dans le Latium, en 1945, la bienheureuse Marie-Rapha&#xEB;lle (Saintine Cimatti), vierge, des S&#x153;urs de la Mis&#xE9;ricorde pour les malades, qui mena une vie humble et cach&#xE9;e, en donnant tous ses soins continuellement, avec une exquise charit&#xE9;, en particulier aux malades et aux pauvres. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

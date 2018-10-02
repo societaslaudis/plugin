@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXVI per annum</la></hebdomada>
+<intitule><la>Dominica XXVI per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>34,26</phase_lunaire>
+<age_lunaire>23</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Populus_Domini_et</invitatoire>
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+<antL1>AN_Domine_Deus_meus</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+<psL3>ps103III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_XXVI_per_annum</Llec1>
+<Lrep1>R1_Dominica_XXVI_per_annum</Lrep1>
+<Llec2>L2_Dominica_XXVI_per_annum</Llec2>
+<Lrep2>R2_Dominica_XXVI_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Ecce_iam_noctis_tenuatur_umbra</HYMNUS_laudes>
+ <ant1>AN_Benedictus_qui_venit</ant1>
+ <ps1>ps117</ps1>
+ <ant2>AN_Hymnum_dicamus_Domino</ant2>
+ <ps2>AT40</ps2>
+ <ant3>AN_Laudate_Dominum</ant3>
+ <ps3>ps150</ps3>
+ <LB_matin>LB_Ez_36_25-27</LB_matin> 
+ <RB_matin>RB_Confitebimur_tibi_Deus_Et</RB_matin> 
+<benedictus>AN_Fili_recordare_quia</benedictus>
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_In_pascuis_virentibus_Dominus</ant4>
+
+<ps4>ps22</ps4>
+
+<ant5>AN_In_Israel_magnum</ant5>
+
+<ps5>ps75I</ps5>
+
+<ant6>AN_Terra_tremuit</ant6>
+
+<ps6>ps75II</ps6>
+
+<LB_3>LB_Rom_5_1-2._5</LB_3>
+
+<RB_3>VERS_Misericordias_Domini</RB_3>
+
+<LB_6>LB_Rom_8_26</LB_6>
+
+<RB_6>VERS_Appropinquet_deprecatio_mea</RB_6>
+
+<LB_9>LB_2_Cor_1_21-22</LB_9>
+
+<RB_9>VERS_Dominus_illuminatio_mea</RB_9>
+
+<oratio_3/>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica XXVI per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_O_lux_beata_Trinitas</HYMNUS_vepres>
+
+<ant7>AN_Sacerdos_in_aeternum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Deus_noster_in_caelo</ant8>
+
+<ps8>ps113B</ps8>
+
+<ant9>AN_Laudem_dicite_Deo</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_2Th2,13-14</LB_soir>
+
+<RB_soir>RB_Magnus_Dominus_noster</RB_soir>
+
+<magnificat>AN_Beati_pauperes_quia</magnificat>
+
+<vepres_preces>perannum_21</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Omnia_quae_fecisti</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_omnipotentiam_tuam_parcendo_maxime</COL>			
+	
+<LEC1>Am6,1a.4-7</LEC1>	
+	
+<PS1>GR_Oculi_omnium</PS1>
+	
+<LEC2>1Tm6,11-16</LEC2>
+	
+<PS2>AL_Paratum_cor_meum</PS2>
+	
+<SEQ/>
+	
+<EV>Lc16,19-31</EV>
+	
+<OF>OF_Super_flumina</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Memento_verbi_tui</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Serge de Radon&#xE8;je</intitule>
+ <biographiecourte>Fondateur du monast&#xE8;re de la Trinit&#xE9;, centre spirituel de la Russie (&#x2020;1392)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 25 septembre</para><para>(En Suisse, Solennit&#xE9; de saint Nicolas de Flue, &#xE9;loge au 21 mars, n&#xA0;8.)</para><para>1. Comm&#xE9;moraison de saint Cl&#xE9;ophas, disciple du Seigneur. Il avait le c&#x153;ur br&#xFB;lant tandis qu&#x2019;il faisait route avec un autre disciple le soir de P&#xE2;ques, et que le Christ leur apparut, leur faisant comprendre les &#xC9;critures, et ils le reconnurent quand il rompit le pain au village d&#x2019;Emma&#xFC;s. </para><para>2. &#xC0; Amiens, saint Firmin, v&#xE9;n&#xE9;r&#xE9; comme &#xE9;v&#xEA;que et martyr. </para><para>3. &#xC0; Damas en Syrie, au IVe si&#xE8;cle, les saints martyrs Paul et Tatte, son &#xE9;pouse, Sabinien, Maxime, Ruf et Eug&#xE8;ne, leurs enfants. Accus&#xE9;s de professer la religion chr&#xE9;tienne, ils furent battus de verges et rendirent leur &#xE2;me &#xE0; Dieu apr&#xE8;s avoir endur&#xE9; d&#x2019;autres supplices. </para><para>4. &#xC0; Chartres, avant 533, saint Solenne, &#xE9;v&#xEA;que. </para><para>5. &#xC0; Soissons, au Ve si&#xE8;cle, saint Prince, &#xE9;v&#xEA;que et abb&#xE9;, fr&#xE8;re de saint Remi de Reims. </para><para>6*. &#xC0; Cork en Irlande, vers&#xA0;610, saint Finbarr, &#xE9;v&#xEA;que et abb&#xE9;, fondateur du monast&#xE8;re d&#x2019;Etargehael pr&#xE8;s de Cork, c&#xE9;l&#xE8;bre par son enseignement et sa saintet&#xE9;. </para><para>7*. &#xC0; Auxerre, en 605, saint Aunaire, &#xE9;v&#xEA;que. C&#x2019;est dans sa cit&#xE9; et sous son &#xE9;piscopat que fut achev&#xE9; le martyrologe hi&#xE9;ronymien. </para><para>8*. Au pays de Besan&#xE7;on, vers l&#x2019;an&#xA0;670, saint Ermenfroi, abb&#xE9; du monast&#xE8;re de Cusance, qui apprit la discipline monastique &#xE0; Luxeuil.</para><para>9*. Au monast&#xE8;re de la Sainte Trinit&#xE9;, aux environs de Moscou, en 1392, saint Serge de Radonez, qui v&#xE9;cut d&#x2019;abord en ermite dans des for&#xEA;ts sauvages, puis pratiqua la vie c&#xE9;nobitique et la propagea, une fois &#xE9;lu higoum&#xE8;ne, homme plein de douceur, conseiller des princes et consolateur des fid&#xE8;les. </para><para>10*. Dans les monts d&#x2019;Alpujarras, pr&#xE8;s de Grenade en Andalousie, vers 1569, le bienheureux Marc Criado, pr&#xEA;tre de l&#x2019;Ordre de la sainte Trinit&#xE9; pour la r&#xE9;demption des captifs et martyr, tu&#xE9; par les Maures. </para><para>11*. &#xC0; Carrion de Calatrava, pr&#xE8;s de Ciudad Real en Nouvelle Castille, l&#x2019;an&#xA0;1936, les bienheureux martyrs Jean-Pierre (Joseph Bengoa Aranguren), pr&#xEA;tre passioniste, Paul-Marie (Pierre Leoz y Portillo), religieux passioniste, et J&#xE9;sus Hita Miranda, religieux de la Soci&#xE9;t&#xE9; de Marie, fusill&#xE9;s dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

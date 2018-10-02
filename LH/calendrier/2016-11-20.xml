@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXIV per annum</la></hebdomada>
+<intitule><la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la></intitule>
+<rang><la>Sollemnitas</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>65,29</phase_lunaire>
+<age_lunaire>20</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Iesum_Christum_regem</invitatoire>
+<HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
+<antL1>AN_Domine_Deus_meus</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Eduxit_Dominus_panem</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Vidit_Deus_cuncta</antL3>
+<psL3>ps103III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec1>
+<Lrep1>R1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep1>
+<Llec2>L2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec2>
+<Lrep2>R2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterna_imago_Altissimi</HYMNUS_laudes>
+ <ant1>AN_Ecce_vir_Oriens</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Magnificabitur_usque_ad</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Dedit_ei_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Eph_4_15-16</LB_matin> 
+ <RB_matin>RB_Sancti_tui_Domine_Gloriam</RB_matin> 
+<benedictus>AN_Fecit_nos_Deo</benedictus>
+<laudes_preces>perannum_21</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Dominus_iudex_noster</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Exibunt_aquae_vivae</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Multiplicabitur_eius_imperium</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_Cf._Col_1_12-13</LB_3>
+
+<RB_3>VERS_Sedebit_Dominus_rex_in_aeternum</RB_3>
+
+<LB_6>LB_Col_1_16b-18</LB_6>
+
+<RB_6>VERS_Psallite_regi_nostro_psallite</RB_6>
+
+<LB_9>LB_Col_1_19-20</LB_9>
+
+<RB_9>VERS_Iubilate_in_conspectu_regis_Domini</RB_9>
+
+<oratio_3/>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Te_saeculorum_principem</HYMNUS_vepres>
+
+<ant7>AN_Super_solium_David</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Regnum_tuum_regnum</ant8>
+
+<ps8>ps109</ps8>
+
+<ant9>AN_Habet_in_vestimento</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Cor_15_25-28</LB_soir>
+
+<RB_soir>RB_Sedes_tua_Deus_In</RB_soir>
+
+<magnificat>AN_Data_est_mihi</magnificat>
+
+<vepres_preces>perannum_21</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Dignus_est_Agnus</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_qui_in_dilecto</COL>			
+	
+<LEC1>2Sam5,1-3</LEC1>	
+	
+<PS1>GR_Dominabitur</PS1>
+	
+<LEC2>Col1.12-20</LEC2>
+	
+<PS2>AL_Potestas_eius</PS2>
+	
+<SEQ/>
+	
+<EV>Lc23,35-43</EV>
+	
+<OF>OF_Postula_a_me</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Sedebit_Dominus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bse Ang&#xE8;le de Saint-Joseph </intitule>
+ <biographiecourte>Sup&#xE9;rieure d'une congr&#xE9;gation, elle fut massacr&#xE9;e avec ses religieuses par les miliciens espagnols en 1936</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; de Notre Seigneur Christ Roi de l&#x2019;univers</para><para>Solennit&#xE9; de notre Seigneur J&#xE9;sus-Christ, Roi de l&#x2019;univers. &#xC0; Lui seul la domination, la gloire et la majest&#xE9; dans l&#x2019;infini des si&#xE8;cles des si&#xE8;cles.</para><para>
+            Le 20 novembre</para><para>1. &#xC0; Antioche de Syrie, saint Basile, martyr.</para><para>2. Dans la cit&#xE9; d&#x2019;Ecija en Espagne, saint Crispin, &#xE9;v&#xEA;que et martyr. </para><para>3. &#xC0; Dorostore en M&#xE9;sie, saint Dasius, martyr. </para><para>4. &#xC0; Turin en Ligurie, les saints martyrs Octavius, Solutor et Adventor. </para><para>5*. &#xC0; Verceil, &#xE9;galement en Ligurie, avant 313, saint Th&#xE9;oneste, martyr, en l&#x2019;honneur de qui l&#x2019;&#xE9;v&#xEA;que saint Eus&#xE8;be construisit une basilique.</para><para>6*. &#xC0; B&#xE9;n&#xE9;vent en Campanie, au Ve si&#xE8;cle, saint Dorus, &#xE9;v&#xEA;que. </para><para>7. &#xC0; Chalon-sur-Sa&#xF4;ne, entre 520 et 530, saint Silvestre, &#xE9;v&#xEA;que, qui passa au Seigneur la quarante-deuxi&#xE8;me ann&#xE9;e de son sacerdoce, plein de joies et de vertus. </para><para>8*. Dans le Jura, apr&#xE8;s 772, saint Hippolyte, abb&#xE9; de Saint-Oyend et &#xE9;v&#xEA;que de Belley.</para><para>9*. &#xC0; Constantinople, en 842, saint Gr&#xE9;goire le D&#xE9;capolite, moine, qui professa d&#x2019;abord la vie c&#xE9;nobitique, puis celle d&#x2019;anachor&#xE8;te, se fit p&#xE8;lerin, enfin s&#xE9;journa longtemps &#xE0; Constantinople, o&#xF9; il lutta avec beaucoup de vigueur pour la d&#xE9;fense des saintes images.</para><para>10. Dans le Norfolk en Angleterre, l&#x2019;an&#xA0;870, saint Edmond, martyr. Roi des Angles de l&#x2019;Est, il lutta contre l&#x2019;invasion des Vikings, fut vaincu, captur&#xE9; et tu&#xE9;, parce qu&#x2019;il refusait de renier la foi chr&#xE9;tienne. </para><para>11. &#xC0; Hildesheim en Saxe, l&#x2019;an&#xA0;1023, saint Bernward, &#xE9;v&#xEA;que, qui d&#xE9;fendit son peuple des incursions slaves et normandes, restaura, gr&#xE2;ce &#xE0; plusieurs synodes, le disciple du clerg&#xE9; et favorisa la vie monastique. </para><para>12*. En Calabre, vers 1190, saint Cyprien, abb&#xE9; de Calami, qui garda fid&#xE8;lement les statuts et les exemples des moines orientaux, et se montra s&#xE9;v&#xE8;re pour lui, g&#xE9;n&#xE9;reux pour les pauvres et bon conseiller pour tous. </para><para>13. &#xC0; Hano&#xEF; au Tonkin, en 1837, saint Fran&#xE7;ois-Xavier Can, martyr. Cat&#xE9;chiste, il fut &#xE9;trangl&#xE9; et d&#xE9;capit&#xE9; pour la foi sous l&#x2019;empereur Minh Mang. </para><para>14*. &#xC0; Veroli dans le Latium, en 1922, la bienheureuse Marie-Fortun&#xE9;e (Anne-F&#xE9;lice Viti), moniale b&#xE9;n&#xE9;dictine. Pendant presque tout le cours de sa longue vie, elle s&#x2019;occupa de la lingerie du monast&#xE8;re, attentive &#xE0; observer de tout son c&#x153;ur les seuls pr&#xE9;ceptes de la R&#xE8;gle. </para><para>15*., En Espagne, la bienheureuse Ang&#xE8;le de saint-Joseph (Fran&#xE7;oise Loret Marti) et quatorze compagnes, pr&#xE8;s de Valence, la premi&#xE8;re &#xE9;tait sup&#xE9;rieure g&#xE9;n&#xE9;rale et les autres religieuses de la Congr&#xE9;gation de la Doctrine chr&#xE9;tienne&#xA0;; toutes victimes de la pers&#xE9;cution religieuse au cours de la guerre civile.</para><para>16*. Dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, la bienheureuse vierge et martyre Marie des Miracles Ortello Gimero, de l&#x2019;Ordre des Clarisses capucines, &#xE0; Picadero de Paterna</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXII per annum</la></hebdomada>
+<intitule><la>S. Martini Turonensis, episcopi</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>81,29</phase_lunaire>
+<age_lunaire>10</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Laudemus_Deum_nostrum</invitatoire>
+<HYMNUS_lectures>hy_Iste_confessor_Domini_sacratus</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1>AN_Deus_meus_ne</antL1>
+<psL1>ps54I</psL1>
+<antL2>AN_Liberabit_nos_Dominus</antL2>
+<psL2>ps54II</psL2>
+<antL3>AN_Iacta_super_Dominum</antL3>
+<psL3>ps54III</psL3>
+<LVers>VERS_Fili_mi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Martini_Turonensis_episcopi</Llec1>
+<Lrep1>R1_S._Martini_Turonensis_episcopi</Lrep1>
+<Llec2>L2_S._Martini_Turonensis_episcopi</Llec2>
+<Lrep2>R2_S._Martini_Turonensis_episcopi</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Martine_par_apostolis</HYMNUS_laudes>
+ <ant1>AN_Sacerdos_Dei_Martine</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Oculis_ac_manibus</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Martinus_Abrahae_sinu</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+ <RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> 
+<benedictus>AN_O_beatum_virum</benedictus>
+<laudes_preces>perannum_46</laudes_preces><oratio_laudes>COL_Deus_qui_in_beato_Martino_episcopo</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Pax_multa_diligentibus</ant4>
+
+<ps4>ps118XXI</ps4>
+
+<ant5>AN_Multitudinis_credentium_erat</ant5>
+
+<ps5>ps132</ps5>
+
+<ant6>AN_Custodi_me_de</ant6>
+
+<ps6>ps139</ps6>
+
+<LB_3>LB_Rom_12_17a._19b-20a._21</LB_3>
+
+<RB_3>VERS_Misericordia_Domini</RB_3>
+
+<LB_6>LB_1_Io_3_16</LB_6>
+
+<RB_6>VERS_Confitemini_Domino</RB_6>
+
+<LB_9>LB_1_Io_4_9-11</LB_9>
+
+<RB_9>VERS_Protector_noster</RB_9>
+
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+
+<intitule_soir><la>S. MARTINI, EPISCOPI</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iste_confessor_Domini_sacratus</HYMNUS_vepres>
+
+<ant7>AN_O_virum_ineffabilem</ant7>
+
+<ps7>ps14</ps7>
+
+<ant8>AN_Domine_si_adhuc</ant8>
+
+<ps8>ps111</ps8>
+
+<ant9>AN_Martinus_episcopus_migravit</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+
+<magnificat>AN_O_beatum_pontificem</magnificat>
+
+<vepres_preces>perannum_46</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_in_beato_Martino_episcopo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio/>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Statuit_ei_Dominus</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_in_beato_Martino_episcopo</COL>			
+	
+<LEC1>Is61,1-3a</LEC1>	
+	
+<PS1>GR_Ecce_sacerdos</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Beatus_vir_sanctus_Martinus</PS2>
+	
+<SEQ/>
+	
+<EV>Mt25,31-46</EV>
+	
+<OF>OF_Veritas_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Beatus_servus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule>Armistice 1918 - F&#xE9;ri&#xE9;</intitule></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Martin de Tours, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, d&#xE9;fenseur de la foi catholique et initiateur du monachisme en Gaule, &#xE9;vang&#xE9;lisateur des campagnes, abb&#xE9; de Ligug&#xE9; (&#x2020;397)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 novembre</para><para>1. M&#xE9;moire de saint Martin, &#xE9;v&#xEA;que. N&#xE9; en Pannonie de parents pa&#xEF;ens, &#xE9;lev&#xE9; &#xE0; Pavie, il fut enr&#xF4;l&#xE9; en Gaule dans la garde imp&#xE9;riale &#xE0; cheval. &#xC0; Amiens, encore cat&#xE9;chum&#xE8;ne, il donna &#xE0; un pauvre la moiti&#xE9; de son manteau. Apr&#xE8;s son bapt&#xEA;me, il quitta l&#x2019;arm&#xE9;e et mena la vie monastique &#xE0; Ligug&#xE9; dans un couvent construit par lui-m&#xEA;me, sous la direction de l&#x2019;&#xE9;v&#xEA;que de Poitiers, saint Hilaire. Ordonn&#xE9; pr&#xEA;tre puis &#xE9;v&#xEA;que de Tours, il donna l&#x2019;exemple du bon pasteur, fonda d&#x2019;autres monast&#xE8;res et des paroisses dans les campagnes et mourut &#xE0; Candes en 397. Il fut mis au tombeau &#xE0; Tours en ce jour. </para><para>2. Sur les bords du lac Mar&#xE9;otis en &#xC9;gypte, au IIIe ou IVe si&#xE8;cle, saint M&#xE9;nas, martyr. </para><para>3. &#xC0; Vence en Provence, apr&#xE8;s 465, saint V&#xE9;ran, &#xE9;v&#xEA;que. Fils de saint Eucher, &#xE9;v&#xEA;que de Lyon, il fut &#xE9;lev&#xE9; au monast&#xE8;re de L&#xE9;rins. Devenu &#xE9;v&#xEA;que, il &#xE9;crivit au pape saint L&#xE9;on le Grand pour le remercier de sa lettre &#xE0; Flavien sur le myst&#xE8;re du Verbe incarn&#xE9;.</para><para>4. Comm&#xE9;moraison de saint M&#xE9;nas, solitaire dans la province de Samnium &#xE0; l&#x2019;est du Latium, mort vers 580, dont le pape saint Gr&#xE9;goire le Grand rappelle les vertus. </para><para>5. &#xC0; Amathonte dans l&#x2019;&#xEE;le de Chypre, en 636, le tr&#xE9;pas de saint Jean l&#x2019;Aum&#xF4;nier, &#xE9;v&#xEA;que d&#x2019;Alexandrie, c&#xE9;l&#xE8;bre par sa mis&#xE9;ricorde envers les pauvres&#xA0;: rempli de charit&#xE9; pour tous, il prit soin de faire construire des &#xE9;glises, des hospices et des orphelinats et s&#x2019;effor&#xE7;a, avec la plus grande sollicitude, de soulager toute mis&#xE8;re de la cit&#xE9;, rassemblant dans ce but les biens de l&#x2019;&#xC9;glise et exhortant sans rel&#xE2;che les riches &#xE0; faire preuve de bienfaisance envers les pauvres. </para><para>6*. Au monast&#xE8;re de Malonne dans le Brabant, au VIIe si&#xE8;cle, saint Bertuin, v&#xE9;n&#xE9;r&#xE9; comme &#xE9;v&#xEA;que et abb&#xE9;. </para><para>7. &#xC0; Constantinople, en 826, saint Th&#xE9;odore Studite, abb&#xE9;, qui fit de son monast&#xE8;re une &#xE9;cole de sages, de saints et de martyrs, victime des pers&#xE9;cutions perp&#xE9;tr&#xE9;es par les iconoclastes&#xA0;; trois fois envoy&#xE9; en exil, il eut en grand honneur les traditions des p&#xE8;res de l&#x2019;&#xC9;glise et, pour l&#x2019;expos&#xE9; de la foi catholique, il &#xE9;crivit les c&#xE9;l&#xE8;bres Institutions de la doctrine chr&#xE9;tienne. </para><para>8. Au monast&#xE8;re de Grottaferrata sur le territoire de Tusculum pr&#xE8;s de Rome, en 1065, saint Barth&#xE9;lemy, abb&#xE9;. N&#xE9; en Calabre, il se mit tout jeune sous la direction de saint Nil, dont il &#xE9;crivit la vie et qu&#x2019;il assista, alors qu&#x2019;il &#xE9;tait d&#xE9;j&#xE0; moribond, dans la fondation du monast&#xE8;re sous la R&#xE8;gle de saint Basile. Il sut ensuite l&#x2019;affermir par sa direction et en faire une &#xE9;cole de science et d&#x2019;art.</para><para>9.&#xA0;&#xC0; Nagasaki au Japon, en 1634, sainte Marine d&#x2019;Omura, vierge et martyre, qui fut mise dans les fers, expos&#xE9;e en d&#xE9;rision en public pour sa chastet&#xE9; et enfin br&#xFB;l&#xE9;e vive sous le chef supr&#xEA;me Tokugawa Yemitsu. </para><para>10*. &#xC0; Laski Piasnika, pr&#xE8;s de la ville de Wejherowo en Pologne, l&#x2019;an&#xA0;1939, la bienheureuse Alice Kotowska, vierge de la Congr&#xE9;gation des S&#x153;urs de la R&#xE9;surrection et martyre. Sup&#xE9;rieure de sa maison religieuse et directrice d&#x2019;un cours sup&#xE9;rieur pour jeunes filles, elle fut arr&#xEA;t&#xE9;e par le r&#xE9;gime nazi d&#x2019;occupation, intern&#xE9;e dans la prison de la ville, puis fusill&#xE9;e dans un bois voisin avec d&#x2019;autres d&#xE9;tenus. </para><para>11. &#xC0; Sofia en Bulgarie, l&#x2019;an&#xA0;1952, la passion du bienheureux Vincent-Eug&#xE8;ne Bossilkov, &#xE9;v&#xEA;que de Nicopoli, passioniste et martyr. Il refusa, sous le r&#xE9;gime sovi&#xE9;tique, de se s&#xE9;parer de la communion avec l&#x2019;&#xC9;glise romaine, fut incarc&#xE9;r&#xE9; et cruellement maltrait&#xE9;, enfin condamn&#xE9; &#xE0; mort sous pr&#xE9;texte de trahison et fusill&#xE9;. Avec lui furent fusill&#xE9;s aussi les bienheureux Pierre Vitchev, Paul Djidjov et Joseph Chichkov, pr&#xEA;tres, augustins de L&#x2019;Assomption, faussement accus&#xE9;s de trahison, tortur&#xE9;s, humili&#xE9;s et condamn&#xE9;s &#xE0; mort dans une parodie de proc&#xE8;s. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; V&#xE9;rone en Italie, en 1855, la bienheureuse Vincenza Maria Poloni, fondatrice des s&#x153;urs de la mis&#xE9;ricorde de V&#xE9;rone (b&#xE9;atifi&#xE9;e par Benoit XVI le 21 septembre 2008) </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

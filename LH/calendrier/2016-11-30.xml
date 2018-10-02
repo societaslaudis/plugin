@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada I Adventus</la></hebdomada>
+<intitule><la>S. Andreae, apostoli</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>0,14</phase_lunaire>
+<age_lunaire>0</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_venturum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1/>
+<psL1>ps17I</psL1>
+<antL2/>
+<psL2>ps17II</psL2>
+<antL3/>
+<psL3>ps17III</psL3>
+<LVers>VERS_Omnes_mirabantur</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Andreae_apostoli</Llec1>
+<Lrep1>R1_S._Andreae_apostoli</Lrep1>
+<Llec2>L2_S._Andreae_apostoli</Llec2>
+<Lrep2>R2_S._Andreae_apostoli</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Captator_olim_piscium</HYMNUS_laudes>
+ <ant1>AN_Unus_ex_duobus</ant1>
+ <ps1>ps35</ps1>
+ <ant2>AN_Dilexit_Dominus_Andream</ant2>
+ <ps2>AT7</ps2>
+ <ant3>AN_Dixit_Andreas_Simoni</ant3>
+ <ps3>ps46</ps3>
+ <LB_matin>LB_Gen_49_10</LB_matin> 
+ <RB_matin>RB_Super_te_Ierusalem_Orietur_Dominus</RB_matin> 
+<benedictus>AN_Salve_crux_pretiosa</benedictus>
+<laudes_preces>perannum_14</laudes_preces><oratio_laudes>COL_Maiestatem_tuam_Domine_suppliciter_exoramus_ut</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps118II</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps16I</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps16II</ps6>
+
+<LB_3>LB_Ier_23_5</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Ier_23_6</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Cf.Ez_34_15-16</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum</oratio_9>
+
+<intitule_soir><la>S. ANDRE&#xC6;, APOSTOLI</la></intitule_soir>
+
+<rang_soir><la>Festum</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Exsultet_caelum_laudibus</HYMNUS_vepres>
+
+<ant7>AN_Vidit_Dominus_Petrum</ant7>
+
+<ps7>ps26I</ps7>
+
+<ant8>AN_Venite_post_me</ant8>
+
+<ps8>ps26II</ps8>
+
+<ant9>AN_Relictis_retibus_suis</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Cf_1_Cor_1_7b-9</LB_soir>
+
+<RB_soir>RB_Veni_ad_liberandum_nos_Domine</RB_soir>
+
+<magnificat>AN_Andreas_Christi_famulus</magnificat>
+
+<vepres_preces>perannum_14</vepres_preces>
+
+<oratio_vepres>COL_Maiestatem_tuam_Domine_suppliciter_exoramus_ut</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Dominus_secus_mare</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Maiestatem_tuam_Domine_suppliciter_exoramus_ut</COL>			
+	
+<LEC1>Is11,1-10</LEC1>	
+	
+<PS1>GR_In_omnem_terram</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Dilexit_Andream</PS2>
+	
+<SEQ/>
+	
+<EV>Lc10,21-24</EV>
+	
+<OF>OF_Mihi_autem_nimis</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Venite_post_me</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Andr&#xE9;, ap&#xF4;tre</intitule>
+ <biographiecourte>Fr&#xE8;re de Saint Pierre aurait &#xE9;t&#xE9; crucifi&#xE9; &#xE0; Patras</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 30 novembre</para><para>1. F&#xEA;te de saint Andr&#xE9;, Ap&#xF4;tre. N&#xE9; &#xE0; Bethsa&#xEF;de en Galil&#xE9;e, fr&#xE8;re de Simon Pierre et p&#xEA;cheur avec lui, disciple de Jean-Baptiste, il fut le premier appel&#xE9; par J&#xE9;sus sur les bords du Jourdain&#xA0;; il le suivit et lui amena son fr&#xE8;re. La tradition rapporte qu&#x2019;apr&#xE8;s la Pentec&#xF4;te, il annon&#xE7;a l&#x2019;&#xC9;vangile en Acha&#xEF;e et mourut en croix &#xE0; Patras. L&#x2019;&#xC9;glise de Constantinople le v&#xE9;n&#xE8;re comme son illustre patron. </para><para>2. &#xC0; Milan, apr&#xE8;s 431, saint Mirocl&#xE8;s, &#xE9;v&#xEA;que, que saint Ambroise mentionne parmi les fid&#xE8;les &#xE9;v&#xEA;ques, ses pr&#xE9;d&#xE9;cesseurs. </para><para>3*. En Bretagne, au VIe si&#xE8;cle, saint Tugdual (Tual), surnomm&#xE9; Pabu, abb&#xE9; et &#xE9;v&#xEA;que, qui &#xE9;tablit un monast&#xE8;re au pays de Tr&#xE9;guier. </para><para>4. Sur le mont Siepi en Toscane, l&#x2019;an&#xA0;1181, saint Galgano Guidotti, ermite. Apr&#xE8;s une jeunesse orageuse, il se convertit et passa le reste de sa vie en ch&#xE2;tiant volontairement son corps. </para><para>5*. &#xC0; Montpellier, en 1283, le bienheureux Jean de Verceil, pr&#xEA;tre, ma&#xEE;tre g&#xE9;n&#xE9;ral de l&#x2019;Ordre des Pr&#xEA;cheurs, qui pr&#xEA;cha avec force le respect d&#xFB; au nom de J&#xE9;sus. </para><para>6*. &#xC0; Ratisbonne en Boh&#xEA;me, l&#x2019;an&#xA0;1329, le bienheureux Fr&#xE9;d&#xE9;ric, religieux de l&#x2019;Ordre des Ermites de Saint-Augustin. Charpentier adroit, il fut encore plus remarquable par sa ferveur &#xE0; prier, son ob&#xE9;issance et sa chastet&#xE9;. </para><para>7. &#xC0; Launceston dans le Devon en Angleterre, l&#x2019;an&#xA0;1577, saint Cuthbert Mayne, pr&#xEA;tre et martyr. Ministre anglican, il adh&#xE9;ra &#xE0; la foi catholique sous l&#x2019;influence de saint Edmond Campion, fut ordonn&#xE9; pr&#xEA;tre &#xE0; Douai et exer&#xE7;a son minist&#xE8;re en Cornouailles, mais arr&#xEA;t&#xE9; au bout d&#x2019;un an, il fut condamn&#xE9; &#xE0; mort sous la reine &#xC9;lisabeth I&#xE8;re, sous pr&#xE9;texte d&#x2019;avoir publi&#xE9; une lettre d&#x2019;indulgence du pape et d&#x2019;avoir c&#xE9;l&#xE9;br&#xE9; la messe, il fut livr&#xE9; au supplice du gibet. </para><para>8*. &#xC0; York, &#xE9;galement en Angleterre, l&#x2019;an&#xA0;1586, le bienheureux Alexandre Crow, pr&#xEA;tre et martyr. Humble cordonnier, ordonn&#xE9; pr&#xEA;tre, il fut pour cela, sous la m&#xEA;me reine, condamn&#xE9; au supplice du gibet.</para><para>9. &#xC0; Quxian dans la province chinoise du Sichuan, en 1823, saint Thadd&#xE9;e Lin Ruiting, pr&#xEA;tre et martyr, &#xE9;trangl&#xE9; en haine de la foi.</para><para>10. Pr&#xE8;s de Hu&#xE9; en Annam, l&#x2019;an&#xA0;1835, saint Joseph Marchand, pr&#xEA;tre de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris et martyr, condamn&#xE9; au supplice des cent coups de verges sous l&#x2019;empereur Minh Mang.</para><para>11*. En Espagne, l&#x2019;an&#xA0;1936, les bienheureux martyrs Michel Ruedas Mejias et six compagnons, religieux de l&#x2019;Ordre de Saint-Jean de Dieu, mis &#xE0; mort &#xE0; Paracuellos del Jarama, pr&#xE8;s de Madrid.</para><para>12*. En Espagne, &#xE0; Valence, le bienheureux Joseph Otin Aquil&#xE9;, pr&#xEA;tre sal&#xE9;sien victime de la pers&#xE9;cution men&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile.</para><para>13*. En Allemagne, en Bavi&#xE8;re, le bienheureux Louis Rocchi Gientyngier, pr&#xEA;tre et martyr, mort &#xE0; Dachau</para><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XIII per annum</la></hebdomada>
+<intitule><la>S. Cyrilli Alexandrini, episcopi et Ecclesiae doctoris</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>58,93</phase_lunaire>
+<age_lunaire>21</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Praeoccupemus_faciem_Domini</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Salvum_me_fac</antL1>
+<psL1>ps6</psL1>
+<antL2>AN_Factus_est</antL2>
+<psL2>ps9AI</psL2>
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+<psL3>ps09II</psL3>
+<LVers>VERS_Da_mihi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_13-2</Llec1>
+<Lrep1>R1_perannum_13-2</Lrep1>
+<Llec2>L2_perannum_13-2</Llec2>
+<Lrep2>R2_perannum_13-2</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Splendor_paternae_gloriae</HYMNUS_laudes>
+ <ant1>AN_Ad_te_orabo</ant1>
+ <ps1>ps5</ps1>
+ <ant2>AN_Laudamus_nomen_tuum</ant2>
+ <ps2>AT4</ps2>
+ <ant3>AN_Adorate_Dominum_in</ant3>
+ <ps3>ps28</ps3>
+ <LB_matin>LB_2Th3.10b-13</LB_matin> 
+ <RB_matin>RB_Benedictus_Dominus_A</RB_matin> 
+<benedictus>AN_Benedictus_Dominus_Deus</benedictus>
+<laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Lex_Domini_laetificat</ant4>
+
+<ps4>ps18B</ps4>
+
+<ant5>AN_Exsurget_Dominus_iudicare</ant5>
+
+<ps5>ps7I</ps5>
+
+<ant6>AN_Deus_iudex_iustus</ant6>
+
+<ps6>ps7II</ps6>
+
+<LB_3>LB_Rom_13_8._10</LB_3>
+
+<RB_3>VERS_Adiutor_meus_esto_ne_me</RB_3>
+
+<LB_6>LB_Iac_1_19b-20._26</LB_6>
+
+<RB_6>VERS_Benedicam_Dominum_in_omni_tempore</RB_6>
+
+<LB_9>LB_1_Petr_1_17b._18a._19</LB_9>
+
+<RB_9>VERS_Redime_me_Domine_et_miserere</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Immense_caeli_conditor</HYMNUS_vepres>
+
+<ant7>AN_Oculi_Domini_in</ant7>
+
+<ps7>ps10</ps7>
+
+<ant8>AN_Beati_mundo_corde</ant8>
+
+<ps8>ps14</ps8>
+
+<ant9>AN_In_Filio_suo</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Col_1_9b-11</LB_soir>
+
+<RB_soir>RB_Sana_animam_meam</RB_soir>
+
+<magnificat>AN_Magnificat_anima_mea</magnificat>
+
+<vepres_preces>perannum_12</vepres_preces>
+
+<oratio_vepres>COL_Magnificet_te_Domine_haec_nostrae_servitutis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Omnes_gentes</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_per_adoptionem_gratiae_lucis</COL>			
+	
+<LEC1>Am2,6-16</LEC1>	
+	
+<PS1>GR_Venite_filii</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Omnes_gentes</PS2>
+	
+<SEQ/>
+	
+<EV>Mt8,18-22</EV>
+	
+<OF>OF_Sicut_in_holocausto</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Inclina_aurem_tuam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule>Notre Dame du perp&#xE9;tuel secours voir si m&#xE9;moire </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Cyrille d&#x2019;Alexandrie, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, docteur de l&#x2019;&#xC9;glise, il confirma le titre de M&#xE8;re de Dieu &#xE0; Marie (&#x2020;444)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 juin</para><para>1. M&#xE9;moire de saint Cyrille, &#xE9;v&#xEA;que d&#x2019;Alexandrie et docteur de l&#x2019;&#xC9;glise. &#xC9;lu au si&#xE8;ge de cette &#xC9;glise, il d&#xE9;fendit, avec une ardeur singuli&#xE8;re, la foi catholique, et joua un r&#xF4;le de premier plan au Concile d&#x2019;&#xC9;ph&#xE8;se o&#xF9; furent proclam&#xE9;s les dogmes de l&#x2019;unit&#xE9; de personne dans le Christ et de la maternit&#xE9; divine de la Vierge Marie. Il mourut en 444.</para><para>2. &#xC0; Carthage, en 203, sainte Gudd&#xE9;nis, martyre. Par ordre du proconsul Rufin, pour avoir confess&#xE9; le Christ, elle fut condamn&#xE9;e &#xE0; quatre reprises, tortur&#xE9;e avec des ongles de fer, longtemps enferm&#xE9;e dans un cachot infect, enfin mise &#xE0; mort par l&#x2019;&#xE9;p&#xE9;e. </para><para>3. &#xC0; Cordoue en Espagne, saint Zo&#xEF;le, martyr. </para><para>4. &#xC0; Constantinople, en 560, saint Samson, pr&#xEA;tre, qui s&#x2019;adonnait au soin des pauvres. On rapporte qu&#x2019;ayant gu&#xE9;ri l&#x2019;empereur Justinien, celui-ci lui donna de quoi construire un h&#xF4;pital. </para><para>5. &#xC0; Chinon en Touraine, au VIe si&#xE8;cle, saint Jean, pr&#xEA;tre breton, qui voulut &#xE9;chapper aux regards des hommes pour l&#x2019;amour de Dieu en habitant une petite cellule avec un oratoire, devant l&#x2019;&#xE9;glise. </para><para>6*. &#xC0; Milan, en 1066, saint Ariald, diacre et martyr, qui s&#x2019;opposa &#xE9;nergiquement aux m&#x153;urs des pr&#xEA;tres concubinaires et simoniaques et, &#xE0; cause de son z&#xE8;le pour la maison de Dieu, fut tu&#xE9; par deux clercs, apr&#xE8;s d&#x2019;atroces supplices. </para><para>7*. &#xC0; Corneto, pr&#xE8;s de Bovino dans les Pouilles, vers 1232, le bienheureux Bienvenu de Gubbio, religieux de l&#x2019;Ordre des Mineurs, qui se mit humblement au service des pauvres, &#xE0; l&#x2019;exemple du Christ pauvre. </para><para>8. &#xC0; Nam Dinh au Tonkin, en 1840, saint Thomas Toan, martyr. Cat&#xE9;chiste et responsable de la mission de Trung Linh, il souffrit en prison pour le Christ des supplices atroces et inou&#xEF;s, sous l&#x2019;empereur Minh Mang, et mourut de faim et de soif. </para><para>9*. Au canton de Fribourg en Suisse, l&#x2019;an&#xA0;1879, la bienheureuse Marguerite Bays, vierge, qui, tout en exer&#xE7;ant le m&#xE9;tier de couturi&#xE8;re &#xE0; domicile, mit tout son c&#x153;ur &#xE0; se rendre utile de toute mani&#xE8;re &#xE0; son prochain, sans jamais n&#xE9;gliger la pri&#xE8;re. </para><para>10*. &#xC0; Moulins, en 1885, la bienheureuse Louise-Th&#xE9;r&#xE8;se Montaignac de Chauvance, vierge, fondatrice de la Pieuse Union des Oblates du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

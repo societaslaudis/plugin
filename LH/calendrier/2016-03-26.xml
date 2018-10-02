@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus passionis</la></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la></hebdomada>
+<intitule><la>Sabbato Sancto</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>94,24</phase_lunaire>
+<age_lunaire>17</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Audiamus_vocem_Domini</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps135I</psL1>
+<antL2/>
+<psL2>ps135II</psL2>
+<antL3/>
+<psL3>ps135III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Sabbato_Sancto</Llec1>
+<Lrep1>R1_Sabbato_Sancto</Lrep1>
+<Llec2>L2_Sabbato_Sancto</Llec2>
+<Lrep2>R2_Sabbato_Sancto</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Diei_luce_reddita</HYMNUS_laudes>
+ <ant1>AN_Annuntiamus_mane_misericordiam</ant1>
+ <ps1>ps91</ps1>
+ <ant2>AN_Date_magnificentiam_Deo</ant2>
+ <ps2>AT2</ps2>
+ <ant3>AN_Quam_admirabile_est</ant3>
+ <ps3>ps8</ps3>
+ <LB_matin>LB_Rom_12_14-16a</LB_matin> 
+ <RB_matin>RB_Exsultabunt_labia_mea_Cum</RB_matin> 
+<benedictus>AN_Dirige_Domine_pedes</benedictus>
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Laudent_te_Domine_ora_nostra_laudet</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Caelum_et_terra</ant4>
+
+<ps4>ps118XI</ps4>
+
+<ant5>AN_Tu_Domine_spes</ant5>
+
+<ps5>ps60</ps5>
+
+<ant6>AN_A_timore_inimici</ant6>
+
+<ps6>ps63</ps6>
+
+<LB_3>LB_Deut_8_5b-6</LB_3>
+
+<RB_3>VERS_Timor_Domini</RB_3>
+
+<LB_6>LB_1_Reg_2_2b-3</LB_6>
+
+<RB_6>VERS_Deduc_me</RB_6>
+
+<LB_9>LB_Ier_6_16</LB_9>
+
+<RB_9>VERS_Hereditas_mea</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>SABBATO SANCTO</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+
+<ant7>AN_A_solis_ortu</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+
+<ps8>ps115</ps8>
+
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+
+<magnificat/>
+
+<vepres_preces>perannum_27</vepres_preces>
+
+<oratio_vepres/>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN/>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1/>	
+	
+<PS1/>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV/>
+	
+<OF/>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO/>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>L'heure de la M&#xE8;re </intitule>
+ <intitule>L'heure de la M&#xE8;re </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Ludger, &#xE9;v&#xEA;que</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, &#xE9;vang&#xE9;lisateur de la Frise (+809)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Vendredi Saint et Samedi Saint </para><para>La lecture du Martyrologe est supprim&#xE9;e (est omise)</para><para>
+            Le 26 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome sur la voie Labicane, saint Castule, martyr.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Anatolie, les saints martyrs Emmanuel, Sabin, Codrat et Th&#xE9;odose.</para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sirmium en Pannonie, au IVe si&#xE8;cle, les saints martyrs Montan, pr&#xEA;tre, et Maxime, son &#xE9;pouse, qui pour la foi du Christ furent saisis et noy&#xE9;s dans le fleuve. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de la passion de saint Eutyque, sous-diacre d&#x2019;Alexandrie, en 356, au temps de l&#x2019;empereur Constance, sous l&#x2019;&#xE9;v&#xEA;que arien Georges, il fut frapp&#xE9; &#xE0; coups de nerf de b&#x153;uf, puis, envoy&#xE9; aux mines, il mourut en chemin. </para><para>5. &#xC0; S&#xE9;baste en Arm&#xE9;nie, vers 391, saint Pierre, &#xE9;v&#xEA;que, fr&#xE8;re cadet de saint Basile le Grand, qui fut un d&#xE9;fenseur de la foi orthodoxe contre les ariens. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; En Champagne, l&#x2019;an&#xA0;685, saint Bercaire, premier abb&#xE9; de Hautvilliers et de Montier-en-Der, qui fut violemment frapp&#xE9; d&#x2019;un poignard par un moine de tr&#xE8;s mauvaise conduite le jour de la C&#xE8;ne du Seigneur et qui s&#x2019;en alla au ciel le jour de la R&#xE9;surrection. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montalbano en Toscane, au VIIe si&#xE8;cle, les saints Baront et Dizier, ermites. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Werden en Saxe, l&#x2019;an&#xA0;809, le tr&#xE9;pas de saint Ludger, &#xE9;v&#xEA;que, qui fut disciple d&#x2019;Alcuin et annon&#xE7;a l&#x2019;&#xC9;vangile en Frise, au Danemark et en Saxe. Ordonn&#xE9; &#xE9;v&#xEA;que, il &#xE9;tablit son si&#xE8;ge &#xE0; M&#xFC;nster et fonda plusieurs monast&#xE8;res, comme autant de foyers de rayonnement de la foi. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Catane en Sicile, l&#x2019;an&#xA0;1908, la bienheureuse Madeleine-Catherine Morano, vierge, de l&#x2019;Institut des Filles de Marie Auxiliatrice, qui se d&#xE9;voua &#xE0; faire le cat&#xE9;chisme, parcourant cette r&#xE9;gion de long en large sans arr&#xEA;t. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

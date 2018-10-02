@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Dies post Cineres</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>7,73</phase_lunaire>
+<age_lunaire>2</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
+<LVers>VERS_Revela_Domine</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_05</Llec1>
+<Lrep1>R1_quadragesima_05</Lrep1>
+<Llec2>L2_quadragesima_05</Llec2>
+<Lrep2>R2_quadragesima_05</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_In_veritate_tua</ant1>
+ <ps1>ps56</ps1>
+ <ant2>AN_Declinabit_Dominus_super</ant2>
+ <ps2>AT36</ps2>
+ <ant3>AN_Deo_nostro_iucunda</ant3>
+ <ps3>ps47</ps3>
+ <LB_matin>LB_Cf._1_Reg_8_51-53a</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Qui_vult_venire</benedictus>
+<laudes_preces>quadragesima_06</laudes_preces><oratio_laudes>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118III</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps24I</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps24II</ps6>
+
+<LB_3>LB_Is_55_6-7</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Deut_30_2-3a</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Hebr_10_35-36</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Mitte_manum_tuam</ant7>
+
+<ps7>ps29</ps7>
+
+<ant8>AN_Beatus_populus_cuius</ant8>
+
+<ps8>ps31</ps8>
+
+<ant9>AN_Nunc_facta_est</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_Iac_4_7-8._10</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Qui_vult_venire</magnificat>
+
+<vepres_preces>quadragesima_06</vepres_preces>
+
+<oratio_vepres>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Dum_clamarem</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Actiones_nostras_quaesumus_Domine_aspirando_praeveni</COL>			
+	
+<LEC1>Dt30,15-20</LEC1>	
+	
+<PS1>GR_Convertere_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Lc9,22-25</EV>
+	
+<OF>OF_Ad_te_Domine_levavi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Qui_vult_venire</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Anniversaire de la d&#xE9;dicace de l'&#xE9;glise cocath&#xE9;drale du Saint Nom de J&#xE9;sus</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e mondiale du malade</intitule></journeesdediees>
+
+<biographie>
+ <intitule>Bienheureuse Marie, vierge de Lourdes </intitule>
+ <biographiecourte>Anniversaire de la 1&#xE8;re apparition de la Vierge &#xE0; la grotte de Massiabelle en 1858</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de Notre-Dame de Lourdes. En 1858, trois ans apr&#xE8;s la proclamation du dogme de l&#x2019;Immacul&#xE9;e Conception, une toute jeune fille, sainte Bernadette Soubirous, contempla &#xE0; plusieurs reprises la Vierge Marie dans la grotte de Massabielle au bord du Gave, pr&#xE8;s de Lourdes, devenue d&#xE8;s lors un lieu v&#xE9;n&#xE9;r&#xE9; par des foules innombrables de fid&#xE8;les. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, sur la voie Appienne, dans le cimeti&#xE8;re qui porte son nom, en 304, sainte Sot&#xE8;re, vierge et martyre. Comme le rapporte saint Ambroise, noble par sa naissance, elle m&#xE9;prisa &#xE0; cause du Christ les consulats et les pr&#xE9;fectures de ses parents et, sous Diocl&#xE9;tien, somm&#xE9;e de sacrifier aux idoles, elle refusa et, meurtrie par les outrages r&#xE9;serv&#xE9;s aux esclaves, elle ne changea pas de visage&#xA0;; condamn&#xE9;e &#xE0; l&#x2019;&#xE9;p&#xE9;e, elle ne r&#xE9;pugna pas &#xE0; la mort. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison d&#x2019;un tr&#xE8;s grand nombre de saints martyrs, qui en Numidie, l&#x2019;an&#xA0;304, durant la pers&#xE9;cution de Diocl&#xE9;tien, furent arr&#xEA;t&#xE9;s&#xA0;; comme ils refusaient de livrer les Saintes &#xC9;critures, conform&#xE9;ment &#xE0; l&#x2019;&#xE9;dit de l&#x2019;empereur, ils furent assujettis aux plus cruels supplices et enfin mis &#xE0; mort. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Volturne en Campanie, saint Castrense, martyr.</para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; En Apulie, saint Secondin, &#xE9;v&#xEA;que.</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ch&#xE2;teau-Landon du G&#xE2;tinais, au VIe si&#xE8;cle, le tr&#xE9;pas de saint S&#xE8;verin, que l&#x2019;on dit abb&#xE9; d&#x2019;Agaune au temps du roi Clovis. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome, aupr&#xE8;s de saint Pierre, en 731, la mise au tombeau du pape saint Gr&#xE9;goire II. Dans un temps d&#xE9;sastreux, il r&#xE9;para des &#xE9;glises en ruines, d&#xE9;fendit le culte des saintes images contre l&#x2019;empereur L&#xE9;on l&#x2019;Isaurien et envoya saint Boniface annoncer l&#x2019;&#xC9;vangile en Germanie. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome encore, en 824, la mise au tombeau du pape Pascal Ier, qui retira des cryptes des cimeti&#xE8;res les corps d&#x2019;un grand nombre de saints martyrs, qu&#x2019;il voulut transf&#xE9;rer par s&#xE9;curit&#xE9; et avec un sentiment de v&#xE9;n&#xE9;ration, pour les placer avec honneur dans les diverses &#xE9;glises de la ville. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tournus en Bourgogne, l&#x2019;an&#xA0;1050, saint Ardaing, abb&#xE9;.</para><para>10. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chihuahua au Mexique, en 1927, saint Pierre Maldonado, pr&#xEA;tre et martyr. Quand s&#xE9;vit la pers&#xE9;cution, il fut arr&#xEA;t&#xE9; alors qu&#x2019;il s&#x2019;adonnait au minist&#xE8;re de la p&#xE9;nitence et, cruellement tortur&#xE9;, m&#xE9;rita d&#x2019;obtenir le triomphe. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vinaroz en Castille, l&#x2019;an&#xA0;1937, le bienheureux Tobie (Fran&#xE7;ois Borras Romeu), religieux de l&#x2019;Ordre hospitalier de Saint Jean de Dieu et martyr. Dans la pers&#xE9;cution religieuse d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile espagnole, il fut mis &#xE0; mort en haine de la foi. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

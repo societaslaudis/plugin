@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>6</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XIII per annum</la></hebdomada>
+<intitule><la>Dominica XIII per annum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>69,59</phase_lunaire>
+<age_lunaire>20</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_exsultemus_Domino</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Lignum_vitae_in</antL1>
+<psL1>ps1</psL1>
+<antL2>AN_Ego_constitui_Regem</antL2>
+<psL2>ps2</psL2>
+<antL3>AN_Tu_Domine_protector</antL3>
+<psL3>ps3</psL3>
+<LVers>VERS_Verbum_Christi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_XIII_per_annum</Llec1>
+<Lrep1>R1_Dominica_XIII_per_annum</Lrep1>
+<Llec2>L2_Dominica_XIII_per_annum</Llec2>
+<Lrep2>R2_Dominica_XIII_per_annum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+ <ant1>AN_Ad_te_de</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Tres_ex_uno</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Filii_Sion_exsultent</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Ap7.10b-12</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> 
+<benedictus>AN_Sine_ut_mortui</benedictus>
+<laudes_preces>perannum_11</laudes_preces><oratio_laudes>COL_Deus_qui_per_adoptionem_gratiae_lucis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Bonum_est_confugere</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Fortitudo_mea_et</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Confitebor_tibi_Domine</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_I_Io4.16</LB_3>
+
+<RB_3>VERS_Inclina_cor</RB_3>
+
+<LB_6>LB_Gal6.7-8</LB_6>
+
+<RB_6>VERS_In_aeternum</RB_6>
+
+<LB_9>LB_CfGal6,9-10</LB_9>
+
+<RB_9>VERS_Clamavi_in</RB_9>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica XIII per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Lucis_creator_optime</HYMNUS_vepres>
+
+<ant7>AN_Virgam_potentiae_suae</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_A_facie_Domini</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Regnavit_Dominus_Deus</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_2_Cor_1_3-4</LB_soir>
+
+<RB_soir>RB_Benedictus_es_Domine</RB_soir>
+
+<magnificat>AN_Nemo_mittens_manum</magnificat>
+
+<vepres_preces>perannum_11</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_per_adoptionem_gratiae_lucis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Omnes_gentes</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_per_adoptionem_gratiae_lucis</COL>			
+	
+<LEC1>2RI19,16b.19-21</LEC1>	
+	
+<PS1>GR_Venite_filii</PS1>
+	
+<LEC2>Ga5,1.13-18</LEC2>
+	
+<PS2>AL_Omnes_gentes</PS2>
+	
+<SEQ/>
+	
+<EV>Lc9,51-62</EV>
+	
+<OF>OF_Sicut_in_holocausto</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Inclina_aurem_tuam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Josemaria Escriva de Balaguer, pr&#xEA;tre.</intitule>
+ <biographiecourte>Pr&#xEA;tre espagnol, ap&#xF4;tre de la sanctification des la&#xEF;cs, fondateur de l'Opus Dei (&#x2020;1975)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 26 juin</para><para>1. &#xC0; Rome, comm&#xE9;moraison des saints Jean et Paul, au nom desquels une basilique fut d&#xE9;di&#xE9;e sur le mont C&#xE9;lius au bord du Clivus Scauri, dans le titre du s&#xE9;nateur Pammachius. </para><para>2. &#xC0; Trente en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;405, saint Vigile, &#xE9;v&#xEA;que, &#xE0; qui saint Ambroise adressa, avec les marques de son institution, des directives pastorales. Il s&#x2019;employa &#xE0; affermir dans son territoire l&#x2019;&#x153;uvre d&#x2019;&#xE9;vang&#xE9;lisation et &#xE0; extirper compl&#xE8;tement les restes d&#x2019;idol&#xE2;trie. Il re&#xE7;ut, dit-on, le martyre pour le Christ, bless&#xE9; &#xE0; mort par des pa&#xEF;ens. </para><para>3*. &#xC0; Nole en Campanie, l&#x2019;an&#xA0;405, saint D&#xE9;odat, &#xE9;v&#xEA;que, qui succ&#xE9;da &#xE0; saint Paulin. </para><para>4. En Poitou, vers 515, saint Maixent, abb&#xE9;, c&#xE9;l&#xE8;bre par ses miracles. </para><para>5. &#xC0; Thessalonique en Mac&#xE9;doine, vers 540, saint David, ermite, qui v&#xE9;cut pendant pr&#xE8;s de quatre-vingts ans reclus dans une cellule en dehors des murs de la ville. </para><para>6. Pr&#xE8;s de Valenciennes, au VIIIe si&#xE8;cle, les saints martyrs Saulve, &#xE9;v&#xEA;que, et son disciple que l&#x2019;on appela Sup&#xE9;ry. Ils vinrent d&#x2019;Auvergne dans cette r&#xE9;gion et, sous le seigneur du lieu Winegard, y subirent le martyre. </para><para>7. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;925, saint P&#xE9;lage, martyr. &#xC0; l&#x2019;&#xE2;ge de treize ans, pour la foi du Christ et pour garder la chastet&#xE9; en repoussant les avances du calife Abd ar -Rahman III, il fut, sur son ordre, d&#xE9;chiquet&#xE9; et coup&#xE9; en morceaux avec des pinces de fer, consommant ainsi glorieusement son martyre. </para><para>8*. &#xC0; Gubbio en Ombrie, l&#x2019;an&#xA0;1064, saint Radulfe, &#xE9;v&#xEA;que, qui s&#x2019;appliqua &#xE0; la pr&#xE9;dication et d&#xE9;pensa de grand c&#x153;ur pour les pauvres tout ce qu&#x2019;il pouvait soustraire de ses d&#xE9;penses personnelles</para><para>9 &#xC0; Belley, en 1178, saint Anthelme, &#xE9;v&#xEA;que. D&#x2019;abord moine de la Grande Chartreuse, il reconstruisit les b&#xE2;timents ruin&#xE9;s par une avalanche&#xA0;; prieur, il convoqua un chapitre g&#xE9;n&#xE9;ral&#xA0;; contraint par le pape d&#x2019;accepter l&#x2019;&#xE9;v&#xEA;ch&#xE9; de Belley, il mit un z&#xE8;le infatigable et une intr&#xE9;pide fermet&#xE9; &#xE0; corriger les m&#x153;urs du clerg&#xE9; et des nobles. </para><para>10*. Dans la baie devant le port de Rochefort, en 1794, le bienheureux Raymond Petiniaud de Jourgnac, pr&#xEA;tre et martyr. Archidiacre de Limoges au moment de la R&#xE9;volution fran&#xE7;aise, il fut arr&#xEA;t&#xE9; en raison de son sacerdoce et d&#xE9;tenu dans des conditions inhumaines sur un bateau n&#xE9;grier, sur lequel il mourut, couvert de plaies et rong&#xE9; de vermine. </para><para>11*. &#xC0; Cambrai, en 1794, les bienheureuses Madeleine Fontaine, Fran&#xE7;oise Lanel, Th&#xE9;r&#xE8;se Fantou et Jeanne G&#xE9;rard, vierges et martyres. Filles de la Charit&#xE9;, elles furent condamn&#xE9;es &#xE0; mort en haine de l&#x2019;&#xC9;glise, dans la m&#xEA;me pers&#xE9;cution, et conduites &#xE0; l&#x2019;&#xE9;chafaud, la t&#xEA;te couronn&#xE9;e du Rosaire, par d&#xE9;rision. </para><para>12.*.Tr&#xE9;vise en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1936, le bienheureux Andr&#xE9;-Hyacinthe Longhin, &#xE9;v&#xEA;que, qui s&#x2019;effor&#xE7;a de subvenir, au cours de la premi&#xE8;re guerre mondiale, aux besoins des r&#xE9;fugi&#xE9;s et des prisonniers et, dans une &#xE9;poque difficile, de d&#xE9;fendre avec un soin particulier les droits des ouvriers, des paysans et de tous les pauvres de la soci&#xE9;t&#xE9;.</para><para>&#xA0;&#xA0;13. Au pays de Qianshengzhuang, pr&#xE8;s de la ville de Liushuitao dans la province chinoise de Hebei, en 1900, saint Joseph Ma Taishun, martyr. M&#xE9;decin et cat&#xE9;chiste, alors que, dans la pers&#xE9;cution de la secte de Yihetuan, tous les membres de sa famille avaient failli &#xE0; la foi, il pr&#xE9;f&#xE9;ra confesser le Christ par son sang. </para><para>14. &#xC0; Jalisco, sur le territoire de Guadalajara au Mexique, en 1927, saint Joseph-Marie Robles, pr&#xEA;tre et martyr. Arr&#xEA;t&#xE9; au cours de la grande pers&#xE9;cution en ce pays, alors qu&#x2019;il allait c&#xE9;l&#xE9;brer la messe dans une maison, il fut pendu &#xE0; un arbre. </para><para>15*. Dans la r&#xE9;gion de Lvov en Ukraine, l&#x2019;an&#xA0;1941, les bienheureux martyrs Nicolas Konrad, pr&#xEA;tre, et Vladimir Pryjma, qui, sous l&#x2019;occupation du r&#xE9;gime nazi, furent tu&#xE9;s dans la for&#xEA;t de Birck pr&#xE8;s de la ville de Stradeh&#xA0;; et le bienheureux Andr&#xE9; Iscak, pr&#xEA;tre, fusill&#xE9; au village de Sykhiv. </para><para>16*. &#xC0; Tr&#xE9;vise en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1936, le bienheureux Andr&#xE9;-Hyacinthe Longhin, &#xE9;v&#xEA;que, qui s&#x2019;effor&#xE7;a de subvenir, au cours de la Premi&#xE8;re Guerre mondiale, aux besoins des r&#xE9;fugi&#xE9;s et des prisonniers et, dans une &#xE9;poque difficile, de d&#xE9;fendre avec un soin particulier les droits des ouvriers, des paysans et de tous les pauvres de la soci&#xE9;t&#xE9;. </para><para>17. &#xC0; Rome, en 1975, saint Jos&#xE9;-Maria Escriva de Balaguer, pr&#xEA;tre, n&#xE9; en Espagne, fondateur de l&#x2019;Opus Dei et de la Soci&#xE9;t&#xE9; des pr&#xEA;tres de la Sainte Croix dans le dessein de promouvoir la sanctification de chacun dans son &#xE9;tat de vie.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, en 1948, la bienheureuse Marie Jos&#xE9;phine Catanea, (Maria Guiseppina di Gesu Crocifisso) carm&#xE9;lite (b&#xE9;atifi&#xE9;e par Benoit XVI le 1 juin 2008) D&#xE9;c&#xE9;d&#xE9; le 14 mars, f&#xEA;te 26 juin.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Beyrouth au Liban, en 1954, le bienheureux Jacques Ghazir Haddad Capucin libanais fondateur des s&#x153;urs franciscaines de la Croix (b&#xE9;atifi&#xE9; par Benoit XVI le 22 juin 2008).</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

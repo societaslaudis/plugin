@@ -1,0 +1,71 @@
+div#global {
+	font-family: georgia;
+	margin: 5px;
+	}
+div#centrage {
+	text-align: center;
+}
+div#nav {
+	text-align: center;
+	margin: 2px 6px 12px 6px;
+	font-family:georgia;
+	font_weight:1200;
+	font-size:1.2em;
+}
+        
+.gauche {
+	clear:both;
+	margin-left:1px;
+	margin-right:1px;
+	margin-bottom: 4px;
+	font-family: georgia;
+	font-size:1.2em;
+	float: left;
+	width: 49%;
+	color:#101010;
+    text-align:justify;
+	}
+.droite {
+	margin-right:1px;
+	margin-left:1px;
+	margin-bottom: 4px;
+	font-family: georgia;
+	font-size:1.2em;
+	float: right;
+	width: 49%;
+	color:#101010;
+	text-align:justify;
+     }
+
+.titre-antienne-lat {
+	clear:both;
+	margin-left:1px;
+	margin-right:1px;
+	font-family: georgia;
+	font-size:1.2em;
+	float:left;
+	width: 49%;
+    color:red;
+	text-align:center;
+	font-weight:900;
+	
+	}
+
+
+.titre-antienne-ver {
+	margin-right:1px;
+	margin-left:1px;
+	font-family: georgia;
+	font-size:1.2em;
+	width: 49%;
+	float:right;
+	color:red;
+	text-align:center;
+	font-weight:900;
+	}		
+
+.liturgie_titre{color:red;font-weight:900;text-align:center; !important}
+.liturgie_sous_titre{color:red;font-weight:400;text-align:center; !important}
+.liturgie_italique{font-weight:400;font-style:italic; !important}
+.ceremonial{font-weight:400;font-style:italic; font-family: georgia;	font-size: 0.7em ;	color: red ; !important}
+.rubrique {	font-family: georgia;	font-size: 0.7em ;	color: red ;}

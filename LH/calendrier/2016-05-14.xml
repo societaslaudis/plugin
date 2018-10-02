@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la></hebdomada>
+<intitule><la>S. Matthiae, apostoli</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>53,01</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_Apostolorum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Matthia_sacratissimo</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps106I</psL1>
+<antL2/>
+<psL2>ps106II</psL2>
+<antL3/>
+<psL3>ps106III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Matthiae_apostoli</Llec1>
+<Lrep1>R1_S._Matthiae_apostoli</Lrep1>
+<Llec2>L2_S._Matthiae_apostoli</Llec2>
+<Lrep2>R2_S._Matthiae_apostoli</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Claro_paschali_gaudio</HYMNUS_laudes>
+ <ant1>AN_Hoc_est_praeceptum</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Maiorem_caritatem_nemo</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Vos_amici_mei</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Eph_2_19-22</LB_matin> 
+ <RB_matin>RB_Constitues_eos_principes_super_omnem</RB_matin> 
+<benedictus>AN_Oportet_ex_his</benedictus>
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Matthiam_Apostolorum_collegio</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118XVI</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_2_Cor_5_19_b-20</LB_3>
+
+<RB_3>VERS_In_omnem_terram_exivit_sonus</RB_3>
+
+<LB_6>LB_Act_5_12_a._14</LB_6>
+
+<RB_6>VERS_Custodiebant_testimonia_Dei_alleluia_Et</RB_6>
+
+<LB_9>LB_Act_5_41-42</LB_9>
+
+<RB_9>VERS_Gaudete_et_exsultate_alleluia_Quia</RB_9>
+
+<oratio_3>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_3>
+
+<oratio_6>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui </oratio_6>
+
+<oratio_9>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</oratio_9>
+
+<intitule_soir><la>Dominica Pentecostes</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Tristes_erant_Apostoli</HYMNUS_vepres>
+
+<ant7>AN_Vos_estis_qui</ant7>
+
+<ps7>ps115</ps7>
+
+<ant8>AN_Ego_in_medio</ant8>
+
+<ps8>ps146</ps8>
+
+<ant9>AN_Iam_non_dicam</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Eph_4_11-13</LB_soir>
+
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+
+<magnificat>AN_Non_vos_me</magnificat>
+
+<vepres_preces>perannum_37</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_sacramento_festivitatis_hodiernae_universam</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Vocem_iucunditatis</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_beatum_Matthiam_Apostolorum_collegio</COL>			
+	
+<LEC1>Ac1,15-17.20-26</LEC1>	
+	
+<PS1/>
+	
+<LEC2/>
+	
+<PS2>AL_Ego_vos_elegi</PS2>
+	
+<SEQ/>
+	
+<EV>Jn15,9-17</EV>
+	
+<OF>OF_Repleti_sumus</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Ego_vos_elegi</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Matthias, ap&#xF4;tre</intitule>
+ <biographiecourte>Ap&#xF4;tre, il fut choisi pour remplacer Judas. Serait mort martyr en &#xC9;thiopie</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 14 mai</para><para>1. F&#xEA;te de saint Matthias, Ap&#xF4;tre. Il avait suivi le Seigneur J&#xE9;sus depuis son bapt&#xEA;me par Jean jusqu&#x2019;au jour o&#xF9; la Christ fut enlev&#xE9; au ciel&#xA0;; aussi fut-il choisi par les Ap&#xF4;tres, apr&#xE8;s l&#x2019;Ascension du Seigneur, pour prendre la place du tra&#xEE;tre Judas, &#xEA;tre compt&#xE9; au nombre des Douze et devenir t&#xE9;moin de la R&#xE9;surrection. </para><para>2. En Asie, vers 250, saint Maxime, qui, dans la pers&#xE9;cution de D&#xE8;ce, fut, dit-on, lapid&#xE9; et rendit ainsi son &#xE2;me &#xE0; Dieu. </para><para>3. &#xC0; Cimiez, pr&#xE8;s de Nice, au IIIe ou IVe si&#xE8;cle, saint Pons, martyr. </para><para>4. En Syrie, saint Victor et saint Couronne, martyrs, dont on rapporte qu&#x2019;ils furent mis &#xE0; mort ensemble. </para><para>5. Dans l&#x2019;&#xEE;le de Chio, saint Isidore, martyr, qui fut, croit-on, jet&#xE9; dans un puits. </para><para>6. &#xC0; Aquil&#xE9;e en V&#xE9;n&#xE9;tie, peut-&#xEA;tre au IVe si&#xE8;cle, les saints F&#xE9;lix et Fortunat, martyrs. </para><para>7. En Sardaigne, comm&#xE9;moraison des saints Juste et H&#xE9;r&#xE9;dine, martyrs. </para><para>8*. &#xC0; Clermont en Auvergne, l&#x2019;an&#xA0;488, saint Aproncule. </para><para>9. &#xC0; Clermont &#xE9;galement, en 551, saint Gall, &#xE9;v&#xEA;que, homme humble et doux, qui fut l&#x2019;oncle paternel de saint Gr&#xE9;goire de Tours. </para><para>10*. &#xC0; Lismore en Irlande, l&#x2019;an&#xA0;638, saint Carthage ou Mochuda, qui fut abb&#xE9; de plus de huit cents moines et fonda le si&#xE8;ge &#xE9;piscopal de Lismore. </para><para>11*. Au monast&#xE8;re de Fontenelle en Gaule occidentale, l&#x2019;an&#xA0;674, saint &#xC9;rembert. Entr&#xE9; dans ce monast&#xE8;re au temps du fondateur saint Wandrille, il fut nomm&#xE9; &#xE9;v&#xEA;que de Toulouse, mais renon&#xE7;a &#xE0; sa charge et revint finir ses jours dans son monast&#xE8;re. </para><para>12*. &#xC0; Santarem au Portugal, en 1605, le bienheureux Gilles de Vouzela, pr&#xEA;tre. Enseignant la m&#xE9;decine &#xE0; Paris, il abandonna une vie dissolue pour entrer dans l&#x2019;Ordre des Pr&#xEA;cheurs&#xA0;; il y passa le reste de ses jours dans les larmes, la pri&#xE8;re et la p&#xE9;nitence, repoussant toutes les tentations. </para><para>13*. &#xC0; Sainte-Marie des Bois dans l&#x2019;Indianapolis, aux &#xC9;tats-Unis d&#x2019;Am&#xE9;rique, en 1865, la saint- Th&#xE9;odore Gu&#xE9;rin (Anne-Th&#xE9;odore). N&#xE9;e &#xE0; &#xC9;tables-sur-Mer, en Bretagne, elle fonda la Congr&#xE9;gation des S&#x153;urs de la Providence, toujours confiante en la divine Providence, m&#xEA;me dans les plus grandes difficult&#xE9;s. (canonis&#xE9; le 15 octobre 2006 par Beno&#xEE;t XVI)</para><para>14. &#xC0; B&#xE9;tharram dans les Pyr&#xE9;n&#xE9;es, en 1863, saint Michel Garrico&#xEF;ts, pr&#xEA;tre. Pouss&#xE9; par un grand z&#xE8;le apostolique, il fonda la Soci&#xE9;t&#xE9; des pr&#xEA;tres missionnaires du Sacr&#xE9;-C&#x153;ur et l&#x2019;&#xE9;tendit jusqu&#x2019;aux r&#xE9;gions lointaines d&#x2019;Am&#xE9;rique latine. </para><para>15. &#xC0; Nizza Monferrato dans le Pi&#xE9;mont, en 1881, sainte Marie-Dominique Mazzarello, vierge. Avec saint Jean Bosco, elle fonda l&#x2019;Institut des Filles de Marie Auxiliatrice pour l&#x2019;&#xE9;ducation des jeunes filles pauvres, qu&#x2019;elle dirigea avec humilit&#xE9;, prudence et charit&#xE9;. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

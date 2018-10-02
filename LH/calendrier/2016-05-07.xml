@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VI Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>0,07</phase_lunaire>
+<age_lunaire>0</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps135I</psL1>
+<antL2/>
+<psL2>ps135II</psL2>
+<antL3/>
+<psL3>ps135III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_67</Llec1>
+<Lrep1>R1_pascha_67</Lrep1>
+<Llec2>L2_pascha_67</Llec2>
+<Lrep2>R2_pascha_67</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ <ant1>AN_Delectasti_me_Domine</ant1>
+ <ps1>ps91</ps1>
+ <ant2>AN_Ego_occidam_et</ant2>
+ <ps2>AT2</ps2>
+ <ant3>AN_Gloria_et_honore</ant3>
+ <ps3>ps8</ps3>
+ <LB_matin>LB_Rom_14_7-9</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Amen_amen_dico</benedictus>
+<laudes_preces>perannum_27</laudes_preces><oratio_laudes>COL_Deus_cuius_Filius_ad_caelos_ascendens</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118XI</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps60</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps63</ps6>
+
+<LB_3>LB_Rom_5_10-11</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_1_Cor_15_20-22</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_2_Cor_5_14-15</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Deus_cuius_Filius_ad_caelos_ascendens</oratio_3>
+
+<oratio_6>COL_Deus_cuius_Filius_ad_caelos_ascendens </oratio_6>
+
+<oratio_9>COL_Deus_cuius_Filius_ad_caelos_ascendens</oratio_9>
+
+<intitule_soir><la>Dominica VII Paschae</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+
+<ant7>AN_Excelsus_super_omnes</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Dirupisti_Domine_vincula</ant8>
+
+<ps8>ps115</ps8>
+
+<ant9>AN_Filius_Dei_didicit</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Non_pro_his</magnificat>
+
+<vepres_preces>perannum_27</vepres_preces>
+
+<oratio_vepres>COL_Supplicationibus_nostris_Domine_adesto_propitius_ut</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Exaudivit</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac18,23-28</LEC1>	
+	
+<PS1>AL_Exivi_a_patre</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn16,23-28</EV>
+	
+<OF>OF_Confitebor_Domino</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Non_vos_relinquam_orphanos</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/>
+ <intitule>Via lucis </intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Augustin Roscelli</intitule>
+ <biographiecourte>Pr&#xEA;tre de G&#xEA;nes, il fonda de nombreuses &#x153;uvres pour les pauvres, port&#xE9;es par la pri&#xE8;re de contemplatives (&#x2020;1902)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 mai</para><para>1. &#xC0; Rome, comm&#xE9;moraison de sainte Domitille, martyre. Ni&#xE8;ce de l&#x2019;empereur Domitien et &#xE9;pouse du consul Flavius Clemens, elle fut accus&#xE9;e d&#x2019;ath&#xE9;isme comme son mari, en r&#xE9;alit&#xE9; parce qu&#x2019;ils &#xE9;taient devenus disciples du Christ. D&#xE9;port&#xE9;e avec d&#x2019;autres dans l&#x2019;&#xEE;le de Ponza, elle y mena un long martyr jusque vers l&#x2019;an&#xA0;95. </para><para>2. &#xC0; Nicom&#xE9;die en Bithynie, les saints martyrs Flavius et quatre autres. </para><para>3*. Dans le pays manceau, saint C&#xE9;ner&#xE9;, diacre et moine. Apr&#xE8;s avoir visit&#xE9; les tombeaux de saint Martin de Tours et de saint Julien du Mans, il termina sa vie dans la solitude et l&#x2019;aust&#xE9;rit&#xE9;. </para><para>4. &#xC0; Beverley, en Northumbrie d&#x2019;Angleterre, l&#x2019;an&#xA0;721, le tr&#xE9;pas de saint Jean, qui fut moine &#xE0; Whitby, puis &#xE9;v&#xEA;que d&#x2019;Hexham, enfin d&#x2019;York, joignant le soin pastoral &#xE0; la pri&#xE8;re solitaire. Apr&#xE8;s avoir d&#xE9;pos&#xE9; sa charge &#xE9;piscopale, il se retira dans le monast&#xE8;re de Beverley, qu&#x2019;il avait fond&#xE9;, pour terminer ses jours comme simple moine.</para><para>5*. Au monast&#xE8;re de Niderburg en Bavi&#xE8;re, l&#x2019;an&#xA0;1060, la bienheureuse Gis&#xE8;le. Mari&#xE9;e &#xE0; saint &#xC9;tienne, roi de Hongrie, elle l&#x2019;aida &#xE0; propager la foi et, apr&#xE8;s sa mort, d&#xE9;pouill&#xE9;e de tous ses biens et exil&#xE9;e du royaume, elle se retira dans ce monast&#xE8;re, dont, par la suite, elle devint abbesse. </para><para>6*. &#xC0; Kiev en Russie, l&#x2019;an&#xA0;1073, saint Antoine, ermite, qui poursuivit dans la laure des Cryptes la vie monastique qu&#x2019;il avait apprise au Mont Athos. </para><para>7*. &#xC0; Cr&#xE9;mone en Lombardie, l&#x2019;an&#xA0;1279, le bienheureux Albert de Bergame. Paysan, il supporta avec patience les r&#xE9;criminations de sa femme qui lui reprochait sa trop grande g&#xE9;n&#xE9;rosit&#xE9; pour les pauvres. Devenu veuf, il abandonna ses champs, sa maison et son pays, et v&#xE9;cut pauvre, fr&#xE8;re de la P&#xE9;nitence de Saint-Dominique. </para><para>8*. &#xC0; Rome, en 1728, la sainte Rose Venerini, vierge de Viterbe, qui ouvrit, avec les Ma&#xEE;tresses religieuses, les premi&#xE8;res &#xE9;coles d&#x2019;Italie pour l&#x2019;&#xE9;ducation des filles. (canonis&#xE9;e le 15 octobre 2006 par Beno&#xEE;t XVI )</para><para>9. &#xC0; G&#xE8;nes en Ligurie, l&#x2019;an&#xA0;1902, saint Augustin Roscelli, pr&#xEA;tre, qui fonda la Congr&#xE9;gation des S&#x153;urs de l&#x2019;Immacul&#xE9;e Conception de la bienheureuse Vierge Marie pour la formation chr&#xE9;tienne, intellectuelle et professionnelle des jeunes filles. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1939, le bienheureux Francesco Paleari, pr&#xEA;tre de l&#x2019;Institut Cottolengo. (b&#xE9;atifi&#xE9; le 17 septembre 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

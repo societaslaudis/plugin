@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>1</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus passionis</la></tempus>
+<hebdomada><la>Sacrum Triduum Paschale</la></hebdomada>
+<intitule><la>Feria V hebdomadae sanctae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>99,73</phase_lunaire>
+<age_lunaire>15</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Introite_in_conspectu</invitatoire>
+<HYMNUS_lectures>hy_Ales_diei_nuntius</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Amoris_sensus_erige</HYMNUS_lec_jour>
+<antL1>AN_Salvasti_nos_Domine</antL1>
+<psL1>ps43I</psL1>
+<antL2>AN_Parce_Domine_et</antL2>
+<psL2>ps43II</psL2>
+<antL3>AN_Exsurge_Domine_et</antL3>
+<psL3>ps43III</psL3>
+<LVers>VERS_Domine_ad</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_V_hebdomadae_sanctae</Llec1>
+<Lrep1>R1_Feria_V_hebdomadae_sanctae</Lrep1>
+<Llec2>L2_Feria_V_hebdomadae_sanctae</Llec2>
+<Lrep2>R2_Feria_V_hebdomadae_sanctae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+ <ant1>AN_Vide_Domine_et</ant1>
+ <ps1>ps79</ps1>
+ <ant2>AN_Ecce_Deus_salvator</ant2>
+ <ps2>AT19</ps2>
+ <ant3>AN_Cibavit_nos_Dominus</ant3>
+ <ps3>ps80</ps3>
+ <LB_matin>LB_Hebr_2_9b-10</LB_matin> 
+ <RB_matin>RB_Redemisti_nos_Domine_In</RB_matin> 
+<benedictus>AN_Desiderio_desideravi_hoc</benedictus>
+<laudes_preces>perannum_25</laudes_preces><oratio_laudes>COL_Deus_quem_diligere_et_amare_iustitia</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Celsae_salutis_gaudia</HYMNUS_3>
+
+<HYMNUS_6>hy_Celsae_salutis_gaudia</HYMNUS_6>
+
+<HYMNUS_9>hy_Celsae_salutis_gaudia</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Ante_diem_festum</ant4>
+
+<ps4>ps118IX</ps4>
+
+<ant5>AN_Sicut_novit_me</ant5>
+
+<ps5>ps55</ps5>
+
+<ant6>AN_Mihi_vivere_Christus</ant6>
+
+<ps6>ps56</ps6>
+
+<LB_3>LB_Hebr_4_14-15</LB_3>
+
+<RB_3>VERS_Oblatus_est_quia_ipse_voluit</RB_3>
+
+<LB_6>LB_Hebr_7_26-27</LB_6>
+
+<RB_6>VERS_Vere_languores_nostros_ipse_tulit</RB_6>
+
+<LB_9>LB_Hebr_9_11-12</LB_9>
+
+<RB_9>VERS_Adoremus_crucis_signaculum_Per</RB_9>
+
+<oratio_3>COL_Deus_quem_diligere_et_amare_iustitia</oratio_3>
+
+<oratio_6>COL_Deus_quem_diligere_et_amare_iustitia </oratio_6>
+
+<oratio_9>COL_Deus_quem_diligere_et_amare_iustitia</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_O_memoriale_mortis_Domini</HYMNUS_vepres>
+
+<ant7>AN_Fecit_nos_Deo</ant7>
+
+<ps7>ps71I</ps7>
+
+<ant8>AN_Liberabit_Dominus_pauperem</ant8>
+
+<ps8>ps71II</ps8>
+
+<ant9>AN_Sancti_vicerunt_propter</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_Hebr_13_12-15</LB_soir>
+
+<RB_soir>RB_Christus_factus_est_pro_nobis</RB_soir>
+
+<magnificat>AN_Cenantibus_illis_accepit</magnificat>
+
+<vepres_preces>perannum_25</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_ad_gloriam_tuam_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN/>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1/>	
+	
+<PS1/>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV/>
+	
+<OF/>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO/>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule>Journ&#xE9;e des Missionnaires martyrs </intitule></journeesdediees>
+
+<biographie>
+ <intitule>Ste Catherine de Su&#xE8;de</intitule>
+ <biographiecourte>Fille de Ste Brigitte, veuve, elle devint abbesse du monast&#xE8;re fond&#xE9; par sa m&#xE8;re (&#x2020;1381)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Jeudi de la Semaine Sainte</para><para>La C&#xE8;ne du Seigneur, lorsque le Christ J&#xE9;sus, avant Son crucifiement pour notre salut, institua la c&#xE9;l&#xE9;bration des myst&#xE8;res du Corps et du Sang &#xE0; Ses disciples.</para><para>
+            Le 24 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xE9;sar&#xE9;e de Palestine, en 303, les saints martyrs Timolaus, Denis, sous-diacre, Pauside, Romulus, Alexandre et un autre Alexandre&#xA0;; durant la pers&#xE9;cution de Diocl&#xE9;tien, ils se pr&#xE9;sent&#xE8;rent les mains li&#xE9;es, devant le pr&#xE9;fet Urbain, en criant qu&#x2019;ils &#xE9;taient chr&#xE9;tiens. Le pr&#xE9;fet les fit mettre en prison, o&#xF9; ils furent rejoints par deux autres chr&#xE9;tiens&#xA0;: Agapios et un autre Denis. Le m&#xEA;me jour ils eurent la t&#xEA;te tranch&#xE9;e et m&#xE9;rit&#xE8;rent la couronne de vie. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; En Maur&#xE9;tanie, saint Secondule, qui souffrit pour la foi au Christ.</para><para>3*.&#xA0; &#xA0; &#xA0; &#xA0;  &#xC0; Clogher en Irlande, au Ve si&#xE8;cle, saint Maccartan, &#xE9;v&#xEA;que, que l&#x2019;on dit avoir &#xE9;t&#xE9; ordonn&#xE9; par saint Patrice. </para><para>4*. &#xC0;&#xA0; &#xA0; &#xA0; &#xA0;  Catane en Sicile, l&#x2019;an&#xA0;814, saint S&#xE9;v&#xE8;re, &#xE9;v&#xEA;que. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fabriano dans les Marches en 1290, le bienheureux Jean de B&#xE2;ton, pr&#xEA;tre et moine, qui se pla&#xE7;a sous la conduite de saint Silvestre, abb&#xE9;.</para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Valdstena en Su&#xE8;de, l&#x2019;an&#xA0;1381, sainte Catherine, vierge. Fille de sainte Brigitte, mari&#xE9;e contre son gr&#xE9;, elle conserva la virginit&#xE9; avec l&#x2019;accord de son &#xE9;poux et, quand celui-ci mourut, elle mena une vie de pi&#xE9;t&#xE9;. P&#xE8;lerine &#xE0; Rome et en Terre sainte, elle ramena en Su&#xE8;de les restes de sa m&#xE8;re et les d&#xE9;posa au monast&#xE8;re de Valdstena, o&#xF9; elle-m&#xEA;me rev&#xEA;tit l&#x2019;habit des moniales. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ronda, dans la r&#xE9;gion de Malaga en Espagne, l&#x2019;an&#xA0;1901, le bienheureux Didace-Joseph de Cadix (Fran&#xE7;ois-Joseph Lopez-Caama&#xF1;o), pr&#xEA;tre de l&#x2019;Ordre des Mineurs Capucins, pr&#xE9;dicateur c&#xE9;l&#xE8;bre et d&#xE9;fenseur intr&#xE9;pide de la libert&#xE9; de l&#x2019;&#xC9;glise. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pniewite pr&#xE8;s de Dantzig, l&#x2019;an&#xA0;1935, la bienheureuse Marie Karlowska, vierge, qui fonda la Congr&#xE9;gation des S&#x153;urs du Divin Pasteur de la Providence, pour que les jeunes filles et les femmes indigentes tomb&#xE9;es dans la d&#xE9;bauche retrouvent la dignit&#xE9; de filles de Dieu. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Italie, en 1911, la bienheureuse Marie S&#xE9;raphine du Sacr&#xE9; C&#x153;ur (Maria Sera
+            fina Micheli) religieuse, fondatrice de l'Institut des S&#x153;urs des Anges. (b&#xE9;atifi&#xE9;e le 28 mai 2011 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

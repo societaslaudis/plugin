@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XV per annum</la></hebdomada>
+<intitule><la>S. Henrici</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>58,66</phase_lunaire>
+<age_lunaire>8</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Adoremus_Dominum_quoniam</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1>AN_Misericordia_et_veritas</antL1>
+<psL1>ps88I</psL1>
+<antL2>AN_Filius_Dei_factus</antL2>
+<psL2>ps88II</psL2>
+<antL3>AN_Semel_iuravi_David</antL3>
+<psL3>ps88III</psL3>
+<LVers>VERS_Declaratio_sermonum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_15-4</Llec1>
+<Lrep1>R1_perannum_15-4</Lrep1>
+<Llec2>L2_perannum_15-4</Llec2>
+<Lrep2>R2_perannum_15-4</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Nox_et_tenebrae_et_nubila</HYMNUS_laudes>
+ <ant1>AN_Laetifica_animam_servi</ant1>
+ <ps1>ps85</ps1>
+ <ant2>AN_Beatus_vir_qui</ant2>
+ <ps2>AT22</ps2>
+ <ant3>AN_Iubilate_in_conspectu</ant3>
+ <ps3>ps97</ps3>
+ <LB_matin>LB_Iob_1_21;_2_10b</LB_matin> 
+ <RB_matin>RB_Inclina_cor_meum_Deus</RB_matin> 
+<benedictus>AN_Fac_nobiscum_misericordiam</benedictus>
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Exaudi_nos_Deus_salutaris_noster_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Qui_sequitur_me</ant4>
+
+<ps4>ps118XIV</ps4>
+
+<ant5>AN_Ego_egenus_et</ant5>
+
+<ps5>ps69</ps5>
+
+<ant6>AN_Non_secundum_visionem</ant6>
+
+<ps6>ps74</ps6>
+
+<LB_3>LB_1_Cor_13_4-7</LB_3>
+
+<RB_3>VERS_Exsultent_et</RB_3>
+
+<LB_6>LB_1_Cor_13_8-9._13</LB_6>
+
+<RB_6>VERS_Fiat_misericordia</RB_6>
+
+<LB_9>LB_Col_3_14-15</LB_9>
+
+<RB_9>VERS_Mansueti_hereditabunt</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Caeli_Deus_sanctissime</HYMNUS_vepres>
+
+<ant7>AN_Qui_seminant_in</ant7>
+
+<ps7>ps125</ps7>
+
+<ant8>AN_Dominus_aedificet_nobis</ant8>
+
+<ps8>ps126</ps8>
+
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Eph_3_20-21</LB_soir>
+
+<RB_soir>RB_Redime_me_Domine</RB_soir>
+
+<magnificat>AN_Fecit_mihi_magna</magnificat>
+
+<vepres_preces>perannum_34</vepres_preces>
+
+<oratio_vepres>COL_Vox_clamantis_Ecclesiae_ad_aures_Domine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Ego_autem_cum_iustitia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_errantibus_ut_in_viam</COL>			
+	
+<LEC1>Is10,5-16</LEC1>	
+	
+<PS1>GR_Custodi_me</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Te_decet_hymnus</PS2>
+	
+<SEQ/>
+	
+<EV>Mt11,25-27</EV>
+	
+<OF>OF_Ad_te_Domine_levavi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Qui_manducat</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Henri </intitule>
+ <biographiecourte>&#xC9;poux chr&#xE9;tien mod&#xE8;le, Henri fut roi de Germanie (&#x2020;1024)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 13 juillet.</para><para>M&#xE9;moire de saint Henri, empereur des Romains (Romain-germanique), il garda, rapporte-t-on, avec sa femme sainte Cun&#xE9;gonde, une continence totale, &#x153;uvra &#xE0; la r&#xE9;forme de l&#x2019;&#xC9;glise et &#xE0; sa propagation, conduisit le futur&#xA0;, roi des Hongrois, &#xE0; accueillir la foi du Christ avec presque tout son peuple, mourut &#xE0; Grona et fut inhum&#xE9;, selon son d&#xE9;sir, &#xE0; Bamberg en Franconie, l&#x2019;an&#xA0;1024.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Esdras, pr&#xEA;tre et scribe. Au temps d&#x2019;Artaxerx&#xE8;s, roi des Perses, au VIe si&#xE8;cle avant le Christ, il revint de Babylone en Jud&#xE9;e, rassembla le peuple d&#x2019;Isra&#xEB;l dispers&#xE9; et mit tout son z&#xE8;le &#xE0; &#xE9;tudier la Loi du Seigneur, &#xE0; l&#x2019;accomplir et &#xE0; l&#x2019;enseigner au peuple.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Silas. Destin&#xE9; par les Ap&#xF4;tres &#xE0; aller, avec les saints Paul et Barnab&#xE9;, vers les &#xC9;glises des nations pa&#xEF;ennes, il accomplit la mission de pr&#xE9;dicateur avec tout le z&#xE8;le d&#x2019;un homme rempli de la gr&#xE2;ce de Dieu</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Alexandrie, vers 201-211, saint S&#xE9;rapion, martyr. Sous l&#x2019;empereur Septime-S&#xE9;v&#xE8;re et le pr&#xE9;fet Aquila, il parvint par le feu &#xE0; la couronne du martyre.</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de Chio, sainte Myrope, martyre.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Philom&#xE9;l&#xE9;on en Phrygie, au IVe si&#xE8;cle, les saints martyrs Alexandre et trente autres soldats, qui, selon la tradition, furent mis &#xE0; mort sous Magne, pr&#xE9;fet d&#x2019;Antioche de Pisidie.</para><para>7.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Eug&#xE8;ne, &#xE9;v&#xEA;que de Carthage. Recommandable par sa foi et ses vertus, il fut expuls&#xE9; de son si&#xE8;ge dans la pers&#xE9;cution vandale et mourut en Aquitaine, &#xE0; Albi, en 505.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; En Bretagne, au VIIe ou VIIIe si&#xE8;cle, saint Turiau, &#xE9;v&#xEA;que et abb&#xE9; du monast&#xE8;re de Dol.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; G&#xEA;nes en Ligurie, en 1298, le bienheureux Jacques de Voragine, &#xE9;v&#xEA;que, de l&#x2019;Ordre des Pr&#xEA;cheurs. Pour promouvoir dans le peuple la vie chr&#xE9;tienne, il proposa dans ses &#xE9;crits les vertus des saints.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Norwich en Angleterre, l&#x2019;an&#xA0;1616, le bienheureux Thomas Tunstal, pr&#xEA;tre b&#xE9;n&#xE9;dictin et martyr. Il travailla dans son pays avec z&#xE8;le et succ&#xE8;s, mais non sans souffrances, fut emprisonn&#xE9; plusieurs ann&#xE9;es, condamn&#xE9; &#xE0; mort sous le roi Jacques Ier pour avoir refus&#xE9; de reconna&#xEE;tre la supr&#xE9;matie du roi dans le domaine spirituel, et men&#xE9; aux supplices du gibet.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort en 1794, les bienheureux Louis-Armand Adam et Barth&#xE9;lemy Jarrige de la Mor&#xE9;lie de Biars, pr&#xEA;tres et martyrs. Le premier, cordelier du couvent de Rouen, le second, du dioc&#xE8;se de Limoges, ils furent condamn&#xE9;s &#xE0; cause de leur sacerdoce &#xE0; &#xEA;tre d&#xE9;tenus sur un bateau n&#xE9;grier et succomb&#xE8;rent, atteints par une &#xE9;pid&#xE9;mie et victimes de leur charit&#xE9; pour leurs co-d&#xE9;tenus. </para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orange en Provence, en 1794, les bienheureuses &#xC9;lisabeth Verchi&#xE8;re, (Soeur Madeleine de la M&#xE8;re de Dieu) sacramentine de Boll&#xE8;ne, et cinq compagnes les bienheureuses Th&#xE9;r&#xE8;se-Henriette Faurie (Soeur de l&#x2019;Annonciation), Anne-Andr&#xE9;e Minutte (Soeur Saint-Alexis), sacramentines de Boll&#xE8;ne, Marie-Anne Lambert (Soeur Saint-Fran&#xE7;ois), Marie-Anne Depeyre (Soeur Sainte-Fran&#xE7;oise) et Marie-Anastasie de Roquart (Soeur Saint-Gervais ursulines de Boll&#xE8;ne., vierges moniales et martyres, guillotin&#xE9;es &#xE0; cause de leur fid&#xE9;lit&#xE9; &#xE0; la vie religieuse.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; En cochinchine, Saint Emmanuel L&#xEA;e Van Phung, martyr.</para><para>14.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Budria en Romagne, l&#x2019;an&#xA0;1870, sainte Cl&#xE9;lie Barbieri, vierge, qui se d&#xE9;pensa pour le bien spirituel des jeunes filles et fonda la Congr&#xE9;gation des Minimes de la Vierge des Douleurs pour la formation humaine et chr&#xE9;tienne, en premier lieu des pauvres et des mis&#xE9;reuses.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Galeazza Pepoli, pr&#xE8;s de Bologne en &#xC9;milie, l&#x2019;an&#xA0;1893, le bienheureux Fernand-Marie Baccilieri, pr&#xEA;tre, qui s&#x2019;occupa de toute fa&#xE7;on du peuple qui lui &#xE9;tait confi&#xE9; et, pour aider les familles dans la pauvret&#xE9; et surtout pour &#xE9;duquer les jeunes filles, il fonda la Congr&#xE9;gation des Servantes de Marie.</para><para>16.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Langziqiao pr&#xE8;s de Hengshui, dans la province chinoise de Hebei, en 1900, saint Paul Liu Jinde, martyr. Homme d&#x2019;&#xE2;ge avanc&#xE9;, il demeura seul chr&#xE9;tien dans le pays, lors de la pers&#xE9;cution de la secte de Yihetuan, et, tenant en main le rosaire et un livre de pri&#xE8;res, il alla au devant des assaillants et les salua &#xE0; la mani&#xE8;re des chr&#xE9;tiens. Il fut aussit&#xF4;t mis &#xE0; mort.</para><para>17.&#xA0; &#xA0; &#xA0; &#xA0; Dans la province chinoise de Hebei, &#xE0; Nangong, saint Joseph Wang Guiji, martyr. Lors de la pers&#xE9;cution de la secte de Yihetuan, il renon&#xE7;a &#xE0; la possibilit&#xE9; qui lui &#xE9;tait offerte de sauver sa vie gr&#xE2;ce &#xE0; un l&#xE9;ger mensonge, et pr&#xE9;f&#xE9;ra une mort glorieuse pour le Christ.</para><para>18*. En Colombie, le bienheureux Mariani a Jesu Euse Hoyos, pr&#xEA;tre.</para><para>19*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Caguas en Porto-Rico, l&#x2019;an&#xA0;1963, le bienheureux Charles-Emmanuel Rodriguez Santiago qui eut &#xE0; c&#x153;ur, sans arr&#xEA;t, la restauration de la vie liturgique et le d&#xE9;veloppement de la foi chez les jeunes, en les aidant &#xE0; vivre la dimension pascale de la vie chr&#xE9;tienne.&#xA0;</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

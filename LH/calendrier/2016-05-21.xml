@@ -1,0 +1,375 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada VII per annum</la></hebdomada>
+<intitule><la>S. Christophori Magallanes, presbyteri, et sociorum, martyrum</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>99,30</phase_lunaire>
+<age_lunaire>13</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Domini_est_terra</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps106I</psL1>
+<antL2/>
+<psL2>ps106II</psL2>
+<antL3/>
+<psL3>ps106III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_7-7</Llec1>
+<Lrep1>R1_perannum_7-7</Lrep1>
+<Llec2>L2_perannum_7-7</Llec2>
+<Lrep2>R2_perannum_7-7</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_iam_spargit_polum</HYMNUS_laudes>
+ <ant1>AN_Prope_es_tu</ant1>
+ <ps1>ps118XIX</ps1>
+ <ant2>AN_Mecum_sit_Domine</ant2>
+ <ps2>AT10</ps2>
+ <ant3>AN_Veritas_Domini_manet</ant3>
+ <ps3>ps116</ps3>
+ <LB_matin>LB_Phil_2_14-15</LB_matin> 
+ <RB_matin>RB_Clamavi_ad_te_Domine</RB_matin> 
+<benedictus>AN_Illumina_Domine_sedentes</benedictus>
+<laudes_preces>perannum_37</laudes_preces><oratio_laudes>COL_Deus_nostrae_fons_et_origo_salutis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Suscipe_Domine_servum</ant4>
+
+<ps4>ps118XVI</ps4>
+
+<ant5>AN_Respicite_ad_Dominum</ant5>
+
+<ps5>ps33I</ps5>
+
+<ant6>AN_Iuxta_est_Dominus</ant6>
+
+<ps6>ps33II</ps6>
+
+<LB_3>LB_1_Sam_15_22</LB_3>
+
+<RB_3>VERS_Sacrificium_laudis</RB_3>
+
+<LB_6>LB_Gal_5_26;_6_2</LB_6>
+
+<RB_6>VERS_Ecce_quam</RB_6>
+
+<LB_9>LB_Mic_6_8</LB_9>
+
+<RB_9>VERS_In_via</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>SANCTISSIM&#xC6; TRINITATIS</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Immensa_et_una_Trinitas</HYMNUS_vepres>
+
+<ant7>AN_Gloria_tibi_Trinitas</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Benedicta_sit_sancta</ant8>
+
+<ps8>ps147</ps8>
+
+<ant9>AN_Gloria_et_honor</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+
+<RB_soir>RB_Benedicamus_Patrem_et_Filium_cum</RB_soir>
+
+<magnificat/>
+
+<vepres_preces>perannum_37</vepres_preces>
+
+<oratio_vepres>COL_Deus_Pater_qui_Verbum_veritatis_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Domine_in_tua_misericordia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</COL>			
+	
+<LEC1>Jc5,13-20</LEC1>	
+	
+<PS1>GR_Dirigatur</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Verba_mea </PS2>
+	
+<SEQ/>
+	
+<EV>Mc10,13-16</EV>
+	
+<OF>OF_Intende_voci</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Narrabo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Ste H&#xE9;l&#xE8;ne</texte></jerusalem>
+
+<piete>
+ <intitule/>
+ <intitule>Quatre temps d'&#xE9;t&#xE9;</intitule></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Christophe Magallan&#xE9;s, pr&#xEA;tre, et ses compagnons, martyrs</intitule>
+ <biographiecourte>Et ses compagnons de l'Action catholique, martyrs au Mexique (&#x2020;1937)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Eug&#xE8;ne de Mazenod</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Marseille, fondateur des Oblats de Marie, mort en 1861</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 21 mai</para><para>1. M&#xE9;moire des saints Christophe Magallan&#xE8;s, pr&#xEA;tre, et de ses compagnons, martyrs, qui de 1926 &#xE0; 1928, dans diff&#xE9;rentes r&#xE9;gions du Mexique, furent pers&#xE9;cut&#xE9;s en haine du nom chr&#xE9;tien et de l&#x2019;&#xC9;glise catholique et, pour avoir confess&#xE9; leur foi dans le Christ Roi, re&#xE7;urent la couronne du martyre. </para><para>2. En Maur&#xE9;tanie, peut-&#xEA;tre au IIIe si&#xE8;cle, saint Timoth&#xE9;e, diacre et martyr. </para><para>3. &#xC0; C&#xE9;sar&#xE9;e de Cappadoce, au IIIe si&#xE8;cle, saint Polyeucte, martyr. </para><para>4. Comm&#xE9;moraison des saints martyrs d&#x2019;Alexandrie, hommes et femmes, que, sous l&#x2019;empereur Constance, en 357 ou 358, durant les f&#xEA;tes de la Pentec&#xF4;te, l&#x2019;&#xE9;v&#xEA;que arien Georges fit maltraiter de la mani&#xE8;re la plus cruelle dans le cimeti&#xE8;re. Plusieurs moururent de leurs blessures, d&#x2019;autres furent exil&#xE9;s dans la grande oasis. </para><para>5. &#xC0; Vannes en Armorique, saint Patern, &#xE9;v&#xEA;que, qui fut, croit-on, ordonn&#xE9; en ce jour par saint Perp&#xE9;tue de Tours dans le concile provincial tenu en cette ville.</para><para>6. Aux environs de Nice, vers 581, saint Hospice. Homme d&#x2019;une asc&#xE8;se admirable, il v&#xE9;cut en reclus dans une tour, au temps du roi Chilp&#xE9;ric, et pr&#xE9;dit l&#x2019;arriv&#xE9;e des envahisseurs lombards. </para><para>7. &#xC0; Evora au Portugal, au VIe si&#xE8;cle saint Mancius, martyr. </para><para>8*. &#xC0; Vienne en Dauphin&#xE9;, l&#x2019;an&#xA0;1001, saint Thibaud, &#xE9;v&#xEA;que, d&#x2019;une charit&#xE9; et d&#x2019;une pi&#xE9;t&#xE9; remarquables, qui illustra cette &#xC9;glise durant quarante-quatre ans. </para><para>9*. &#xC0; Abo&#xEB; en Finlande, l&#x2019;an&#xA0;1366, saint Hemming, &#xE9;v&#xEA;que. Br&#xFB;lant de z&#xE8;le pastoral, il restaura, par un d&#xE9;cret pris en synode, la discipline de cette &#xC9;glise, favorisa les &#xE9;tudes des clercs, donna un nouvel &#xE9;lan au culte divin et promut la paix entre les peuples du pays.</para><para>10*. Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean Mopinot, Fr&#xE8;re des &#xC9;coles chr&#xE9;tiennes et martyr. Sous la R&#xE9;volution fran&#xE7;aise, il fut d&#xE9;port&#xE9;, parce que religieux, sur un bateau n&#xE9;grier et mourut de la contagion qui r&#xE9;gnait &#xE0; bord. </para><para>11. &#xC0; Marseille, en 1861, saint Charles-Eug&#xE8;ne de Mazenod, &#xE9;v&#xEA;que. Pour que les pauvres soient &#xE9;vang&#xE9;lis&#xE9;s, il suscita les Missionnaires Oblats de Marie Immacul&#xE9;e et, pendant pr&#xE8;s de vingt-cinq ans, il illustra son &#xC9;glise par ses vertus, ses &#x153;uvres et ses &#xE9;crits. </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1924, le bienheureux Manuel Gomez Gonzalez, pr&#xEA;tre martyr (b&#xE9;atifi&#xE9; le 21 octobre 2007 par Beno&#xEE;t XVI).</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; Au Br&#xE9;sil, en 1924, le bienheureux Adilio Daronch, pr&#xEA;tre martyr. (b&#xE9;atifi&#xE9; le 21 octobre 2007 par Beno&#xEE;t XVI).</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>8</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XVI per annum</la></hebdomada>
+<intitule><la>S. Birgittae, religiosae, patronae Europae</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>89,69</phase_lunaire>
+<age_lunaire>17</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+<HYMNUS_lectures>hy_Haec_femina_laudabilis</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps49I</psL1>
+<antL2/>
+<psL2>ps49II</psL2>
+<antL3/>
+<psL3>ps49III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Birgittae_religiosae_patronae_Europae</Llec1>
+<Lrep1>R1_S._Birgittae_religiosae_patronae_Europae</Lrep1>
+<Llec2>L2_S._Birgittae_religiosae_patronae_Europae</Llec2>
+<Lrep2>R2_S._Birgittae_religiosae_patronae_Europae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Nobilem_Christi_famulam_diserta</HYMNUS_laudes>
+ <ant1>AN_Adhaesit_anima_mea_post</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Manus_Domini_confortavit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Exsultabo_et_laetabor_in</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Rom_12_1-2</LB_matin> 
+ <RB_matin>RB_Adiuvabit_eam_Deus</RB_matin> 
+<benedictus>AN_Simile_est_regnum_caelorum_homini_negotiatori</benedictus>
+<laudes_preces>SANCTARUM_MULIERUM</laudes_preces><oratio_laudes>COL_Domine_Deus_noster_qui_beatae_Birgittae</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Super_servos_meos_et</ant4>
+
+<ps4>ps118XXII</ps4>
+
+<ant5>AN_Cor_meum_et_caro</ant5>
+
+<ps5>ps44I</ps5>
+
+<ant6>AN_Ego_dilecto_meo_et</ant6>
+
+<ps6>ps44II</ps6>
+
+<LB_3>LB_Gal 6, 7 b-8</LB_3>
+
+<RB_3>VERS_Beati_immaculati_in</RB_3>
+
+<LB_6>LB_1 Cor9,26-27a</LB_6>
+
+<RB_6>VERS_Inveni_quem_diligit</RB_6>
+
+<LB_9>LB_Phil4,8.9b</LB_9>
+
+<RB_9>VERS_Cantabo_tibi_Domine</RB_9>
+
+<oratio_3>COL_Domine_Deus_noster_qui_beatae_Birgittae</oratio_3>
+
+<oratio_6>COL_Domine_Deus_noster_qui_beatae_Birgittae </oratio_6>
+
+<oratio_9>COL_Domine_Deus_noster_qui_beatae_Birgittae</oratio_9>
+
+<intitule_soir><la>Dominica XVII per annum</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+
+<ant7>AN_Dirigatur_Domine_oratio</ant7>
+
+<ps7>ps140</ps7>
+
+<ant8>AN_Tu_es_refugium</ant8>
+
+<ps8>ps141</ps8>
+
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_Rom_11_33-36</LB_soir>
+
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+
+<magnificat>AN_Cum_esset_Iesus</magnificat>
+
+<vepres_preces>SANCTARUM_MULIERUM</vepres_preces>
+
+<oratio_vepres>COL_Protector_in_te_sperantium_Deus_sine</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2>AN_In_noctibus</comp_ant2>
+<comp_ps2>ps133</comp_ps2>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+
+<comp_oratio>COL_Visita_nos_quaesumus_Domine_hac_nocte</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Cognovi_Domine</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Domine_Deus_noster_qui_beatae_Birgittae</COL>			
+	
+<LEC1>Ga2,19-20</LEC1>	
+	
+<PS1>GR_Diffusa_est_gratia</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Specie_tua</PS2>
+	
+<SEQ/>
+	
+<EV>Jn15,1-8</EV>
+	
+<OF>OF_Diffusa_est_gratia</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dilexisti_iustitiam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Brigitte, religieuse</intitule>
+ <biographiecourte>Co-patronne de l'Europe, princesse de Su&#xE8;de, m&#xE8;re de famille, veuve, religieuse et grande mystique, morte &#xE0; Rome en 1373</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 23 juillet.</para><para>M&#xE9;moire (en Europe&#xA0;: F&#xEA;te) de sainte Brigitte, religieuse. Mari&#xE9;e toute jeune en Su&#xE8;de au prince Ulf, elle en eut huit enfants qu&#x2019;elle &#xE9;duqua dans la plus grande pi&#xE9;t&#xE9;, et elle entra&#xEE;na son &#xE9;poux &#xE0; la pi&#xE9;t&#xE9; par ses paroles et ses exemples. Apr&#xE8;s la mort d&#x2019;Ulf, elle entreprit de nombreux p&#xE8;lerinages &#xE0; divers lieux saints, elle &#xE9;crivit beaucoup pour la r&#xE9;forme de l&#x2019;&#xC9;glise dans sa t&#xEA;te et ses membres et jeta &#xE0; Rome, o&#xF9; elle mourut en 1373, les fondations de l&#x2019;Ordre du Tr&#xE8;s Saint Sauveur.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint &#xC9;z&#xE9;chiel, proph&#xE8;te. Fils du pr&#xEA;tre Bouzi, il eut, au temps de l&#x2019;exil au pays des Chald&#xE9;ens, la vision de la gloire du Seigneur qui l&#x2019;&#xE9;tablit comme guetteur pour la maison d&#x2019;Isra&#xEB;l. Reprochant au peuple &#xE9;lu son infid&#xE9;lit&#xE9;, il annon&#xE7;a la ruine de la cit&#xE9; sainte de J&#xE9;rusalem et la d&#xE9;portation du peuple. &#xC9;tabli lui-m&#xEA;me au milieu des captifs, il entretint leur esp&#xE9;rance et leur proph&#xE9;tisa le retour &#xE0; la vie des ossements dess&#xE9;ch&#xE9;s.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Classe, pr&#xE8;s de Ravenne en Italie, la naissance au ciel de saint Apollinaire, &#xE9;v&#xEA;que, dont la m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e le 20 juillet.</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bizya en Thrace, vers 304, saint S&#xE9;v&#xE8;re, martyr. On rapporte qu&#x2019;au temps de Diocl&#xE9;tien et Maximin, d&#xE9;sirant la palme des martyrs, il convertit &#xE0; la foi le centurion Memnon et le suivit dans sa passion.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Marseille, vers 435, saint Jean Cassien, pr&#xEA;tre, qui fonda deux monast&#xE8;res, l&#x2019;un pour les hommes, l&#x2019;autre pour les femmes, et riche d&#x2019;une longue exp&#xE9;rience de la vie monastique, &#xE9;crivit pour l&#x2019;&#xE9;dification des moines les Institutions c&#xE9;nobitiques et les Conf&#xE9;rences des P&#xE8;res.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cimiez en Provence, vers 460, saint Val&#xE9;rien, &#xE9;v&#xEA;que. Retir&#xE9; du monast&#xE8;re de L&#xE9;rins pour la charge de l&#x2019;&#xE9;piscopat, il proposa au peuple et aux moines les exemples des saints.</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Orvieto en Toscane, l&#x2019;an&#xA0;1306, la bienheureuse Jeanne, vierge, s&#x153;ur de la P&#xE9;nitence de Saint Dominique, remarquable par sa charit&#xE9; et sa p&#xE9;nitence.</para><para>8*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, l&#x2019;an&#xA0;1936, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, le bienheureux martyr Nic&#xE9;phore de J&#xE9;sus et Marie (Vincent Diez Tejerina), pr&#xEA;tre, passioniste, fusill&#xE9; &#xE0; la gare de Carambandal en Nouvelle Castille parce qu&#x2019;il demeurait fid&#xE8;le &#xE0; sa vocation religieuse.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, l&#x2019;an&#xA0;1936, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, le bienheureux martyr Germain de J&#xE9;sus et Marie (Emmanuel P&#xE9;rez Gim&#xE9;nez), pr&#xEA;tre, mis &#xE0; mort &#xE0; Carabandal Bajo pr&#xE8;s de Madrid</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, l&#x2019;an&#xA0;1936, dans la pers&#xE9;cution qui s&#xE9;vit au cours de la guerre civile, les bienheureux martyrs Pierre Ruiz de Los Pa&#xF1;os et Joseph Sale Pico, de la Fraternit&#xE9; des pr&#xEA;tres ouvriers dioc&#xE9;sains, pr&#xE8;s de Tol&#xE8;de.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Christian Gondek, pr&#xEA;tre franciscain. Arr&#xEA;t&#xE9; par la Gestapo &#xE0; Wroclawak, puis d&#xE9;port&#xE9;, il mourut des mauvais traitements re&#xE7;us.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Prjashev en Slovaquie, l&#x2019;an&#xA0;1976, la passion du bienheureux Basile Hopko, &#xE9;v&#xEA;que auxiliaire de Presov et martyr. Sous le r&#xE9;gime communiste ath&#xE9;e, alors qu&#x2019;il &#xE9;tait au service des fid&#xE8;les de rite byzantin, il fut jet&#xE9; en prison et subit des s&#xE9;vices et une maladie longue et douloureuse qui le conduisirent &#xE0; la mort.</para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1934, la bienheureuse Margarita Maria Lopez de Maturana, religieuse espagnole fondatrice de la congr&#xE9;gation des Merc&#xE9;daires Missionnaires. (b&#xE9;atifi&#xE9;e le 22 octobre 2006 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

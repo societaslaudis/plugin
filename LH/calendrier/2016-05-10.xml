@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>14,30</phase_lunaire>
+<age_lunaire>3</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1>AN_Exsurgit_Deus_et</antL1>
+<psL1>ps67I</psL1>
+<antL2>AN_Deus_noster_Deus</antL2>
+<psL2>ps67II</psL2>
+<antL3>AN_Regna_terrae_cantate</antL3>
+<psL3>ps67III</psL3>
+<LVers>VERS_Audiam_quid</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_73</Llec1>
+<Lrep1>R1_pascha_73</Lrep1>
+<Llec2>L2_pascha_73</Llec2>
+<Lrep2>R2_pascha_73</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ <ant1>AN_Deus_tu_conversus</ant1>
+ <ps1>ps84</ps1>
+ <ant2>AN_Speravimus_in_Domino;</ant2>
+ <ps2>AT20</ps2>
+ <ant3>AN_Terra_dedit_fructum</ant3>
+ <ps3>ps66</ps3>
+ <LB_matin>LB_Act_13_30-33</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Resurrexit_Dominus_a</benedictus>
+<laudes_preces>perannum_33</laudes_preces><oratio_laudes>COL_Praesta_quaesumus_omnipotens_et_misericors_Deus_ut_Spiritus_Sanctus</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118XIII</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps73I</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps73II</ps6>
+
+<LB_3>LB_Act_4_11-12</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_1_Petr_3_21-22a</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_Col_3_1-2</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Praesta_quaesumus_omnipotens_et_misericors_Deus_ut_Spiritus_Sanctus</oratio_3>
+
+<oratio_6>COL_Praesta_quaesumus_omnipotens_et_misericors_Deus_ut_Spiritus_Sanctus </oratio_6>
+
+<oratio_9>COL_Praesta_quaesumus_omnipotens_et_misericors_Deus_ut_Spiritus_Sanctus</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+
+<ant7>AN_Pax_vobis_ego</ant7>
+
+<ps7>ps124</ps7>
+
+<ant8>AN_Speret_Israel_in</ant8>
+
+<ps8>ps130</ps8>
+
+<ant9>AN_Tibi_serviat_omnis</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_1_Petr_2_4-5</LB_soir>
+
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Accipietis_virtutem_Spiritus</magnificat>
+
+<vepres_preces>perannum_33</vepres_preces>
+
+<oratio_vepres>COL_Praesta_quaesumus_omnipotens_et_misericors_Deus_ut_Spiritus_Sanctus</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio/>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Deus_dum_egredereris</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac20,17-27</LEC1>	
+	
+<PS1>AL_Spiritus_est_qui_vivificat</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn17,1-11</EV>
+	
+<OF>OF_Meditabor</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Spiritus_Sanctus_docebit_vos</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St jean d'Avilla, pr&#xEA;tre docteur de l'&#xE9;glise</intitule>
+ <biographiecourte/>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 10 mai</para><para>1. Comm&#xE9;moraison de saint Job, que la Bible pr&#xE9;sente comme un homme juste, soumis &#xE0; l&#x2019;&#xE9;preuve et d&#x2019;une patience admirable, sur la terre d&#x2019;Ous. </para><para>2. &#xC0; Myre en Lycie, vers 250, saint Dioscoride, ermite. </para><para>3. &#xC0; Lentini en Sicile, les saints martyrs Alphius, Philadelphie et Cyrin. </para><para>4. &#xC0; Rome, sur la voie Latine, vers 303, saint Gordan, martyr, qui fut enterr&#xE9; dans la crypte o&#xF9; les reliques de saint &#xC9;pimaque avaient &#xE9;t&#xE9; transport&#xE9;es peu auparavant. </para><para>5. &#xC0; Rome, &#xE9;galement sur la voie Latine, les saints martyrs Quartus et Quintus.</para><para>6*. En Irlande, l&#x2019;an&#xA0;601, saint Comgall, abb&#xE9;, qui fonda le c&#xE9;l&#xE8;bre monast&#xE8;re de Bangor, et fut le p&#xE8;re plein de sagesse et le chef plein de prudence d&#x2019;un grand essaim de moines, parmi lesquels saint Colomban. </para><para>7. &#xC0; Tarente en Apulie, vers le VIe si&#xE8;cle, saint Catalde, moine p&#xE8;lerin, venu, dit-on, d&#x2019;Irlande, et consid&#xE9;r&#xE9; comme &#xE9;v&#xEA;que de cette ville. </para><para>8*. Dans le Berry, au IXe si&#xE8;cle, sainte Solange, vierge, qui se serait soumise au martyre pour conserver sa chastet&#xE9;. </para><para>9*. &#xC0; Pontoise, en 1195, saint Guillaume, pr&#xEA;tre. Anglais d&#x2019;origine, il re&#xE7;ut charge d&#x2019;&#xE2;mes, et montra un grand z&#xE8;le pastoral et une recherche de pi&#xE9;t&#xE9; &#xE9;clatante. </para><para>10*. &#xC0; Padoue en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1226, la bienheureuse B&#xE9;atrice d&#x2019;Este, vierge moniale, qui fonda dans les collines Eugan&#xE9;ennes, le monast&#xE8;re de Gemmola et, au cours d&#x2019;une br&#xE8;ve existence, parcourut un chemin ardu de saintet&#xE9;. </para><para>11*. &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1443, le tr&#xE9;pas du bienheureux Nicolas Albergati, &#xE9;v&#xEA;que de Bologne. Entr&#xE9; jeune dans l&#x2019;Ordre des Chartreux, puis ordonn&#xE9; &#xE9;v&#xEA;que, il rendit le plus grand service &#xE0; l&#x2019;&#xC9;glise par son z&#xE8;le pastoral et ses l&#xE9;gations apostoliques. </para><para>12. &#xC0; Montilla en Andalousie, l&#x2019;an&#xA0;1529, saint Jean d&#x2019;Avila, pr&#xEA;tre, qui parcourut toute la r&#xE9;gion en pr&#xEA;chant le Christ et, suspect&#xE9; injustement d&#x2019;h&#xE9;r&#xE9;sie, fut jet&#xE9; en prison, o&#xF9; il &#xE9;crivit la plus grande partie de sa doctrine spirituelle. </para><para>13*. &#xC0; Zagreb en Croatie, le Bienheureux Jean Merz, fut le promoteur du mouvement liturgique en Croatie et le pionnier de l&#x2019;Action catholique selon les directives de Pie XI, cr&#xE9;ant &#xE9;galement un mouvement pour les jeunes, qu&#x2019;il anima jusqu&#x2019;&#xE0; sa mort.</para><para>14*. &#xC0; Cr&#xE9;mone en Lombardie, l&#x2019;an&#xA0;1938, le bienheureux Henri Rebuschini, pr&#xEA;tre de l&#x2019;Ordre des clercs r&#xE9;guliers ministres des malades, qui fut toujours au service des malades dans les h&#xF4;pitaux, avec simplicit&#xE9; et dans une intense vie d&#x2019;union &#xE0; Dieu. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada IX per annum</la></hebdomada>
+<intitule><la>SACRATISSIMI CORDIS IESU</la></intitule>
+<rang><la>Sollemnitas</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>13,84</phase_lunaire>
+<age_lunaire>25</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
+<LVers>VERS_Revela_Domine</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_SACRATISSIMI_CORDIS_IESU</Llec1>
+<Lrep1>R1_SACRATISSIMI_CORDIS_IESU</Lrep1>
+<Llec2>L2_SACRATISSIMI_CORDIS_IESU</Llec2>
+<Lrep2>R2_SACRATISSIMI_CORDIS_IESU</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Sol_ecce_surgit_igneus</HYMNUS_laudes>
+ <ant1>AN_Exsurge_PSalterium_et</ant1>
+ <ps1>ps56</ps1>
+ <ant2>AN_Populus_meus</ant2>
+ <ps2>AT36</ps2>
+ <ant3>AN_Magnus_Dominus_et</ant3>
+ <ps3>ps47</ps3>
+ <LB_matin>LB_Is_66_1-2</LB_matin> 
+ <RB_matin>RB_Clamavi_in_toto_corde_meo</RB_matin> 
+<benedictus>AN_In_sanctitate_serviamus</benedictus>
+<laudes_preces>perannum_15</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_vespere_mane_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Revela_oculos_meos</ant4>
+
+<ps4>ps118III</ps4>
+
+<ant5>AN_Dirige_me_in</ant5>
+
+<ps5>ps24I</ps5>
+
+<ant6>AN_Respice_in_me</ant6>
+
+<ps6>ps24II</ps6>
+
+<LB_3>LB_1_P_1_13-14</LB_3>
+
+<RB_3>VERS_Benedicite_omnia</RB_3>
+
+<LB_6>LB_Am_5_8</LB_6>
+
+<RB_6>VERS_Magnificentia_et</RB_6>
+
+<LB_9>LB_Am_9_6</LB_9>
+
+<RB_9>VERS_Caeli_enarrant</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>SACRATISSIMI CORDIS IESU</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+
+<ant7>AN_Clamavi_ad_te</ant7>
+
+<ps7>ps29</ps7>
+
+<ant8>AN_Beatus_vir_cui</ant8>
+
+<ps8>ps31</ps8>
+
+<ant9>AN_Dedit_ei_Dominus</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_1_Petr_1_6-9</LB_soir>
+
+<RB_soir>RB_Cibavit_nos_Dominus</RB_soir>
+
+<magnificat>AN_Deposuit_Dominus_potentes</magnificat>
+
+<vepres_preces>perannum_15</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_illuminas_noctem_et_lumen</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Cogitationes_Cordis_eius</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1/>	
+	
+<PS1>GR_Dulcis_et_rectus_Dominus</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Tollite_iugum_meum</PS2>
+	
+<SEQ/>
+	
+<EV/>
+	
+<OF>OF_Improperium</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dico_vobis_Gaudium</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Pothin, &#xE9;v&#xEA;que, Blandine, vierge et leurs compagnons, martyrs</intitule>
+ <biographiecourte>Le premier &#xE9;v&#xEA;que de Lyon et l'esclave, ainsi que leurs compagnons de Lyon et de Vienne, ont &#xE9;t&#xE9; martyris&#xE9;s en 177</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Sts Marcellin et Pierre, martyrs.</intitule>
+ <biographiecourte>Ont eu la t&#xEA;te tranch&#xE9;e au milieu des bois (&#x2020; vers 304)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>Solennit&#xE9; du C&#x153;ur de J&#xE9;sus</para><para>Solennit&#xE9; du C&#x153;ur tr&#xE8;s sacr&#xE9; de J&#xE9;sus, qui, humble et pauvre de c&#x153;ur, exalt&#xE9; sur la croix, s&#x2019;est fait source de vie et de dilection, en qui puisent les nations de l&#x2019;univers.</para><para>
+            Le 2 juin</para><para>(En France, M&#xE9;moire des saints martyrs de Lyon Pothin..., &#xE9;loge n&#xA0;2.)</para><para>1. M&#xE9;moire des saints martyrs Marcellin, pr&#xEA;tre, et Pierre, exorciste. Selon ce que rapporte le pape saint Damase, sous la pers&#xE9;cution de Diocl&#xE9;tien, vers 304, ils furent condamn&#xE9;s &#xE0; mort, conduits &#xE0; travers des buissons au lieu de leur supplice et contraints de creuser leur tombe de leurs propres mains, pour que leurs corps demeurent inconnus, mais une pieuse femme, Lucine, recueillit leurs corps et les d&#xE9;posa dans le cimeti&#xE8;re &#x201C;Aux deux lauriers&#x201D; sur la voie Labicane. </para><para>2. &#xC0; Lyon, les saints martyrs Pothin, &#xE9;v&#xEA;que, et Blandine, avec quarante-six compagnons dont une lettre de l&#x2019;&#xC9;glise de Lyon aux &#xC9;glises d&#x2019;Asie et de Phrygie rapporte les combats courageux et r&#xE9;p&#xE9;t&#xE9;s, au temps de l&#x2019;empereur Marc Aur&#xE8;le, en 177. Parmi eux l&#x2019;&#xE9;v&#xEA;que saint Pothin, &#xE2;g&#xE9; de quatre-vingt-dix ans, fut conduit en prison et rendit l&#x2019;&#xE2;me peu apr&#xE8;s. D&#x2019;autres moururent &#xE9;galement en prison. D&#x2019;autres furent plac&#xE9;s au milieu de l&#x2019;amphith&#xE9;&#xE2;tre devant une multitude de milliers d&#x2019;hommes rassembl&#xE9;s pour le spectacle&#xA0;: ceux qui furent trouv&#xE9;s citoyens romains furent d&#xE9;capit&#xE9;s&#xA0;;&#xA0;tous les autres furent livr&#xE9;s aux b&#xEA;tes. En dernier lieu, Blandine, soumise &#xE0; des combats r&#xE9;p&#xE9;t&#xE9;s et des plus violents, enfin &#xE9;gorg&#xE9;e d&#x2019;un coup d&#x2019;&#xE9;p&#xE9;e, suivit tous les autres, qu&#x2019;elle avait exhort&#xE9;s &#xE0; recevoir la palme. </para><para>3. &#xC0; Formies en Campanie, vers 303, saint &#xC9;rasme, &#xE9;v&#xEA;que et martyr.</para><para>4. &#xC0; Rome, pr&#xE8;s de saint Pierre, en 657, saint Eug&#xE8;ne Ier, pape, qui succ&#xE9;da &#xE0; saint Martin Ier, martyr. </para><para>5. Pr&#xE8;s du Bosphore, en 629, le tr&#xE9;pas de saint Nic&#xE9;phore, &#xE9;v&#xEA;que de Constantinople. Z&#xE9;l&#xE9; d&#xE9;fenseur des traditions de ses p&#xE8;res, il s&#x2019;opposa fortement &#xE0; l&#x2019;empereur iconoclaste L&#xE9;on l&#x2019;Isaurien pour d&#xE9;fendre le culte des saintes images. Chass&#xE9; par celui-ci de son si&#xE8;ge et longtemps rel&#xE9;gu&#xE9; dans un monast&#xE8;re, il s&#x2019;en alla paisiblement vers le Seigneur. </para><para>6*. &#xC0; Acqui dans le Pi&#xE9;mont, en 1070, saint Guy, &#xE9;v&#xEA;que. </para><para>7*. &#xC0; Trani dans les Pouilles, en 1094, saint Nicolas le p&#xE8;lerin. N&#xE9; en Gr&#xE8;ce, il parcourut la r&#xE9;gion, une croix dans la main et priant sans arr&#xEA;t&#xA0;: Kyrie eleison. </para><para>8*. Comm&#xE9;moraison des bienheureux martyrs Sadoc, pr&#xEA;tre, et ses quarante-huit compagnons, de l&#x2019;Ordre des Pr&#xEA;cheurs, qui, dit-on, furent massacr&#xE9;s par les Tartares &#xE0; Sandomir sur la Vistule, en Pologne, l&#x2019;an&#xA0;1259, alors qu&#x2019;ils chantaient le Salve Regina. </para><para>9. Au Tonkin, Saint Dominique Ninh, martyr </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

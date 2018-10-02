@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada II Adventus</la></hebdomada>
+<intitule><la>S. Ambrosii, episcopi et Ecclesiae doctoris</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>45,28</phase_lunaire>
+<age_lunaire>6</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christ_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1/>
+<psL1>ps38I</psL1>
+<antL2/>
+<psL2>ps38II</psL2>
+<antL3/>
+<psL3>ps51</psL3>
+<LVers>VERS_Sustinuit_anima</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Llec1>
+<Lrep1>R1_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Lrep1>
+<Llec2>L2_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Llec2>
+<Lrep2>R2_S._Ambrosii_episcopi_et_Ecclesiae_doctoris</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Fortem_piumque_praesulem</HYMNUS_laudes>
+ <ant1>AN_Deus_in_sancto</ant1>
+ <ps1>ps76</ps1>
+ <ant2>AN_Exsultavit_cor_meum</ant2>
+ <ps2>AT3</ps2>
+ <ant3>AN_Dominus_regnavit_exsultet</ant3>
+ <ps3>ps96</ps3>
+ <LB_matin>LB_Sap_7_13-14</LB_matin> 
+ <RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> 
+<benedictus>AN_Qui_docti_fuerint</benedictus>
+<laudes_preces>perannum_24</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ambrosium_episcopum_catholicae</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps118VIII</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps54I</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps54II</ps6>
+
+<LB_3>LB_Is_2_11</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Is_12_2</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Dan_9_19</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la>IN CONCEPTIONE IMMACULATA BEAT&#xC6; MARI&#xC6; VIRGINIS</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Praeclara_custos_virginum</HYMNUS_vepres>
+
+<ant7>AN_Inimicitias_ponam_inter</ant7>
+
+<ps7>ps112</ps7>
+
+<ant8>AN_Induit_me_Dominus</ant8>
+
+<ps8>ps147</ps8>
+
+<ant9>AN_Ave_Maria_gratia</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Rom_8_29_a._30_a</LB_soir>
+
+<RB_soir>RB_Exaltabo_te_Domine_Quoniam</RB_soir>
+
+<magnificat>AN_Beatam_me_dicent</magnificat>
+
+<vepres_preces>Immaculatam_Conceptionem_Virginis</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_per_immaculatam_Virginis_Conceptionem</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_In_medio_Ecclesiae</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_beatum_Ambrosium_episcopum_catholicae</COL>			
+	
+<LEC1>Ep3,8-12</LEC1>	
+	
+<PS1>GR_Ecce_sacerdos</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Iuravit_Dominus</PS2>
+	
+<SEQ/>
+	
+<EV>Lc22,24-30</EV>
+	
+<OF>OF_Veritas_mea</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Semel_iuravi</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Milan, docteur de l&#x2019;&#xC9;glise (&#x2020;397)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 7 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Ambroise, &#xE9;v&#xEA;que de Milan et docteur de l&#x2019;&#xC9;glise. Il s&#x2019;endormit dans le Seigneur le 4 avril&#xA0;397 dans la nuit sainte de P&#xE2;ques, mais on l&#x2019;honore principalement en ce jour, o&#xF9;, encore cat&#xE9;chum&#xE8;ne, il fut, en 374, appela &#xE0; gouverner ce si&#xE8;ge c&#xE9;l&#xE8;bre, alors qu&#x2019;il exer&#xE7;ait la fonction de pr&#xE9;fet de la cit&#xE9;. Vrai pasteur et docteur des fid&#xE8;les, il mit la plus grande &#xE9;nergie &#xE0; exercer la charit&#xE9; envers tous, &#xE0; d&#xE9;fendre la libert&#xE9; de l&#x2019;&#xC9;glise et &#xE0; enseigner la doctrine de la vraie foi contre les ariens et enseigna au peuple la pi&#xE9;t&#xE9; par ses commentaires de la Bible et les hymnes qu&#x2019;il composa. </para><para>2. &#xC0; Spol&#xE8;te en Ombrie, vers&#xA0;303, saint Sabin, v&#xE9;n&#xE9;r&#xE9; comme &#xE9;v&#xEA;que et martyr. </para><para>3. En Syrie, vers 303, saint Ath&#xE9;nodore, martyr. Sous l&#x2019;empereur Diocl&#xE9;tien et le pr&#xE9;fet &#xC9;leusi, il fut, dit-on tourment&#xE9; par le feu et soumis &#xE0; d&#x2019;autres supplices, puis condamn&#xE9; &#xE0; &#xEA;tre d&#xE9;capit&#xE9;, mais, le bourreau ayant &#xE9;t&#xE9; renvers&#xE9; &#xE0; terre et personne n&#x2019;osant prendre l&#x2019;&#xE9;p&#xE9;e pour le frapper, il s&#x2019;endormit dans le Seigneur en priant. </para><para>4. &#xC0; Thienne en Campanie, vers le IVe si&#xE8;cle, saint Urbain, &#xE9;v&#xEA;que. </para><para>5. En Palestine, l&#x2019;an&#xA0;558, saint Jean le Silentiaire ou l&#x2019;H&#xE9;sychaste, qui apr&#xE8;s avoir laiss&#xE9; le si&#xE8;ge &#xE9;piscopal de Colonia en Arm&#xE9;nie, alla mener la vie monastique dans la laure de Saint-Sabas, dans l&#x2019;humble service des fr&#xE8;res aussi bien que dans la solitude et un silence aust&#xE8;re. </para><para>6. Au pays de Meaux, en 657, sainte Fare, abbesse. Apr&#xE8;s avoir, pendant quarante ans, dirig&#xE9; le monast&#xE8;re d&#x2019;Evoriacum, qui fut ensuite appel&#xE9; de son nom Faremoutier, elle fut associ&#xE9;e dans la troupe des vierges qui suivent l&#x2019;Agneau de Dieu. </para><para>7. Dans la r&#xE9;gion de l&#x2019;Ontario au Canada, en 1649, la passion de saint Charles Garnier, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Alors qu&#x2019;il r&#xE9;pandait l&#x2019;eau du bapt&#xEA;me sur des cat&#xE9;chum&#xE8;nes, il fut gri&#xE8;vement bless&#xE9; par des pa&#xEF;ens qui firent irruption, puis mourut, frapp&#xE9; d&#x2019;un coup de hache.</para><para>8. &#xC0; Savone en Ligurie, l&#x2019;an&#xA0;1880, sainte Marie-Jos&#xE8;phe (Beno&#xEE;te Rosello), vierge, qui fonda l&#x2019;Institut des Filles de Notre-Dame de la Mis&#xE9;ricorde et se d&#xE9;pensa de tout son z&#xE8;le &#xE0; rendre parfait le salut des &#xE2;mes en mettant sa confiance en Dieu seul. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

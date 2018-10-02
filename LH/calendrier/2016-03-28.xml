@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Infra octavam Paschae</la></hebdomada>
+<intitule><la>Feria II infra octavam Paschae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>82,46</phase_lunaire>
+<age_lunaire>18</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Salvum_me_fac</antL1>
+<psL1>ps6</psL1>
+<antL2>AN_Factus_est</antL2>
+<psL2>ps9AI</psL2>
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+<psL3>ps09II</psL3>
+<LVers>VERS_Da_mihi</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_II_infra_octavam_Paschae</Llec1>
+<Lrep1>R1_Feria_II_infra_octavam_Paschae</Lrep1>
+<Llec2>L2_Feria_II_infra_octavam_Paschae</Llec2>
+<Lrep2>R2_Feria_II_infra_octavam_Paschae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Surrexit_Christus_et</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Redemptor_noster_surrexit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Rom_10_8b-10</LB_matin> 
+ <RB_matin>RB_Haec_dies_quam_fecit_Dominus</RB_matin> 
+<benedictus>AN_Cito_euntes_dicite</benedictus>
+<laudes_preces>pascha_12</laudes_preces><oratio_laudes>COL_Deus_qui_Ecclesiam_tuam_nova_semper</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Christus_surrexit_a</ant4>
+
+<ps4>ps18B</ps4>
+
+<ant5>AN_Traditus_est_propter</ant5>
+
+<ps5>ps7I</ps5>
+
+<ant6>AN_Si_consurrexistis_cum</ant6>
+
+<ps6>ps7II</ps6>
+
+<LB_3>LB_Ap_1_17c-18</LB_3>
+
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+
+<LB_6>LB_Col_2_9._10a._12</LB_6>
+
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+
+<LB_9>LB_2_Tim_2_8._11</LB_9>
+
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+
+<oratio_3>COL_Deus_qui_Ecclesiam_tuam_nova_semper</oratio_3>
+
+<oratio_6>COL_Deus_qui_Ecclesiam_tuam_nova_semper </oratio_6>
+
+<oratio_9>COL_Deus_qui_Ecclesiam_tuam_nova_semper</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Venite_et_videte</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_soir>
+
+<magnificat>AN_Iesus_occurrit_mulieribus</magnificat>
+
+<vepres_preces>pascha_12</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_Ecclesiam_tuam_nova_semper</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Iesu_redemptor</HYMNUS_complies>
+
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Introduxit_vos</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_Ecclesiam_tuam_nova_semper</COL>			
+	
+<LEC1>Ac2,14-32</LEC1>	
+	
+<PS1>GR_Haec_dies_Dicat_nunc</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Angelus_Domini</PS2>
+	
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+	
+<EV>Mt28,8-15</EV>
+	
+<OF>OF_Angelus_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Surrexit_Dominus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Gontran</intitule>
+ <biographiecourte>Roi de Bourgogne, il fut un homme de pri&#xE8;re, un souverain juste et charitable (&#x2020;592)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 28 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tarse en Cilicie, saint Castor, martyr.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0;  Comm&#xE9;moraison des saints martyrs de C&#xE9;sar&#xE9;e de Palestine&#xA0;: Prisque, Malchus et Alexandre. En 260, durant la pers&#xE9;cution de Val&#xE9;rien, ces trois chr&#xE9;tiens, qui demeuraient dans une m&#xE9;tairie des faubourgs de la ville, voyant que l&#x2019;on d&#xE9;cernait dans la ville les glorieuses couronnes du martyre, embras&#xE9;s du z&#xE8;le divin de la foi, all&#xE8;rent de leur plein gr&#xE9; se pr&#xE9;senter au juge et lui reproch&#xE8;rent tant de cruaut&#xE9; &#xE0; r&#xE9;pandre le sang des fid&#xE8;les&#xA0;; celui-ci, sans tarder, &#xE0; cause du nom du Christ, les livra aux b&#xEA;tes pour &#xEA;tre d&#xE9;vor&#xE9;s. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; H&#xE9;liopolis en Ph&#xE9;nicie, vers 362, saint Cyrille, diacre et martyr, qui, sous Julien l&#x2019;Apostat, fut victime des atrocit&#xE9;s bestiales des pa&#xEF;ens. </para><para>4. &#xC0; Alexandrie, en 454, saint Prot&#xE8;re, &#xE9;v&#xEA;que, qui fut sauvagement massacr&#xE9; le jour de la C&#xE8;ne du Seigneur par des monophysites partisans de son pr&#xE9;d&#xE9;cesseur Dioscore, dans un tumulte du peuple. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Chalon-sur-Sa&#xF4;ne, en 592, le tr&#xE9;pas de saint Gontran, roi de Bourgogne, qui expia ses fautes dans la p&#xE9;nitence et la pi&#xE9;t&#xE9; et multiplia les dons en faveur des pauvres, des &#xE9;glises et des monast&#xE8;res. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s du mont Olympe en Bithynie, au VIIIe si&#xE8;cle, saint Hilarion, higoum&#xE8;ne du monast&#xE8;re de P&#xE9;l&#xE9;c&#xE8;te, qui combattit avec force pour le culte des saintes images. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xEE;teaux en Bourgogne, l&#x2019;an&#xA0;1134, saint &#xC9;tienne Harding, abb&#xE9;. Venu de Molesmes en ce monast&#xE8;re avec d&#x2019;autres moines, il en devint l&#x2019;abb&#xE9;, institua les fr&#xE8;res convers, accueillit le futur saint Bernard avec huit compagnons et fonda douze monast&#xE8;res, qu&#x2019;il unit par le lien de la Charte de Charit&#xE9;, pour qu&#x2019;il n&#x2019;y ait aucune discorde, mais que les moines agissent par une m&#xEA;me charit&#xE9;, avec une m&#xEA;me R&#xE8;gle et des coutumes semblables. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Naso en Sicile, l&#x2019;an&#xA0;1236, le saint Conon, moine. Au retour d&#x2019;un p&#xE8;lerinage aux lieux saints, apprenant la mort de ses parents, il distribua aux pauvres tout son h&#xE9;ritage et embrassa la vie d&#x2019;anachor&#xE8;te, sous la R&#xE8;gle de saint Basile. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montalcino, pr&#xE8;s de Sienne en Toscane, l&#x2019;an&#xA0;1311, le bienheureux Antoine Patrizi, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui fut un v&#xE9;ritable ami de ses fr&#xE8;res et de son prochain. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tours, en 1414, la bienheureuse Jeanne-Marie de Maill&#xE9;, veuve. Son mari mort &#xE0; la guerre, sa famille la rendit responsable de la perte de leurs biens&#xA0;; elle fut expuls&#xE9;e du ch&#xE2;teau de Silly, r&#xE9;duite &#xE0; la mis&#xE8;re, repouss&#xE9;e des siens, et v&#xE9;cut &#xE0; peu pr&#xE8;s recluse dans une cellule pr&#xE8;s du couvent des Mineurs, mendiant son pain, mais mettant toute sa confiance en Dieu seul. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; York en Angleterre, l&#x2019;an&#xA0;1600, le bienheureux Christophe Wharton, pr&#xEA;tre et martyr. En raison de son sacerdoce, sous la reine &#xC9;lisabeth I&#xE8;re, il fut livr&#xE9; aux supplices du gibet. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Angers, en 1794, la bienheureuse Ren&#xE9;e-Marie Feillatreau, veuve et martyre, qui, sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de sa fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise catholique, fut guillotin&#xE9;e. </para><para>13. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Przemcysl en Pologne, l&#x2019;an&#xA0;1924, saint Joseph-S&#xE9;bastien Pelczar, &#xE9;v&#xEA;que, fondateur de la Congr&#xE9;gation des Servantes du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus et excellent ma&#xEE;tre de vie spirituelle. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

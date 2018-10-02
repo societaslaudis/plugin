@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada IV Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>1,64</phase_lunaire>
+<age_lunaire>28</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Clamor_meus_Domine</antL1>
+<psL1>ps101I</psL1>
+<antL2>AN_Respice_Domine_in</antL2>
+<psL2>ps101II</psL2>
+<antL3>AN_Tu_Domine_terram</antL3>
+<psL3>ps101III</psL3>
+<LVers>VERS_Attendite_popule</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_43</Llec1>
+<Lrep1>R1_quadragesima_43</Lrep1>
+<Llec2>L2_quadragesima_43</Llec2>
+<Lrep2>R2_quadragesima_43</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps100</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT39</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps143</ps3>
+ <LB_matin>LB_Ioel_2_12-13</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Qui_me_sanum</benedictus>
+<laudes_preces>quadragesima_43</laudes_preces><oratio_laudes>COL_Exercitatio_veneranda_sanctae_devotionis_Domine_tuorum</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118XVIII</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps87I</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps87II</ps6>
+
+<LB_3>LB_Ioel_2_17</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Ier_3_25b</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Is_58_1-2a</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps136</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps137</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Iac_2_14._17._18b</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Ecce_sanus_factus</magnificat>
+
+<vepres_preces>quadragesima_43</vepres_preces>
+
+<oratio_vepres>COL_Exercitatio_veneranda_sanctae_devotionis_Domine_tuorum</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Sitientes</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Exercitatio_veneranda_sanctae_devotionis_Domine_tuorum</COL>			
+	
+<LEC1>Ez47,1-12</LEC1>	
+	
+<PS1>GR_Exsurge_fer_opem</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn5,1-16</EV>
+	
+<OF>OF_Exspectans_exspectavi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dominus_regit_me</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Jean de Dieu, religieux</intitule>
+ <biographiecourte>Religieux, fondateur de l&#x2019;Ordre hospitalier des "Fr&#xE8;res de St-Jean de Dieu&#xA0;" (&#x2020;1550)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Jean de Dieu, religieux. N&#xE9; au Portugal, apr&#xE8;s une vie pleine d&#x2019;aventures et de p&#xE9;rils, o&#xF9; il fut tour &#xE0; tour en Espagne berger, r&#xE9;gisseur, soldat, p&#xE8;lerin et marchand d&#x2019;images, mais avec le d&#xE9;sir d&#x2019;une vie meilleure, il construisit &#xE0; Grenade un h&#xF4;pital o&#xF9; il servit et soigna avec une constante charit&#xE9; les pauvres et les malades, et s&#x2019;adjoignit des compagnons qui constitu&#xE8;rent plus tard l&#x2019;Ordre des Hospitaliers de Saint Jean de Dieu. Il s&#x2019;en alla vers le repos &#xE9;ternel en 1550.</para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Ponce, qui au IIIe si&#xE8;cle fut diacre de saint Cyprien &#xE0; Carthage, l&#x2019;accompagna dans son exil jusqu&#x2019;&#xE0; sa mort et laissa un excellent ouvrage sur la vie et la passion de son &#xE9;v&#xEA;que. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Antino&#xE9; en &#xC9;gypte, l&#x2019;an&#xA0;287, les saints Apollonius et Phil&#xE9;mon, martyrs. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; C&#xF4;me en Ligurie, vers 420, saint Provin, &#xE9;v&#xEA;que. Fid&#xE8;le disciple de saint Ambroise, il pr&#xE9;serva son &#xC9;glise de l&#x2019;h&#xE9;r&#xE9;sie arienne. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Dans l&#x2019;&#xEE;le de Carthaig en Irlande, au VIe si&#xE8;cle, saint Senan, abb&#xE9;. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Dumnoc (aujourd&#x2019;hui Dunwich) en Angleterre, vers 646, saint F&#xE9;lix, &#xE9;v&#xEA;que. Originaire de Bourgogne, il vint en Angleterre &#xE9;vang&#xE9;liser les Angles orientaux. Ordonn&#xE9; &#xE9;v&#xEA;que, il fixa son si&#xE8;ge &#xE0; Dumnoc et fonda des &#xE9;glises, des monast&#xE8;res et des &#xE9;coles, avec l&#x2019;appui du roi Sigebert.</para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, vers 840, saint Th&#xE9;ophilacte, &#xE9;v&#xEA;que, qui fut exil&#xE9; &#xE0; cause du culte des saintes images et mourut &#xE0; Strobile, en Carie. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Au pays des Morins, en 871, saint Humfroy, &#xE9;v&#xEA;que de Th&#xE9;rouanne. Quand sa ville fut d&#xE9;truite par les Normands, il devint un soutien et une consolation pour son troupeau. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;874, saint Litfred, &#xE9;v&#xEA;que. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tayne en &#xC9;cosse, vers 1065, la mise au tombeau de saint Duthac, &#xE9;v&#xEA;que de Ross. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; En Navarre, vers 1095, saint V&#xE9;r&#xE9;mond, abb&#xE9; d&#x2019;Hyracha. Moine depuis l&#x2019;enfance, il stimula ses moines par son exemple, ses je&#xFB;nes et ses veilles, au z&#xE8;le de la perfection. </para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Obazine, dans le Limousin, en 1159, saint &#xC9;tienne, premier abb&#xE9; de ce lieu. En qu&#xEA;te de Dieu, il h&#xE9;sita entre la vie d&#x2019;ermite, de chanoine et de moine, et finalement il s&#x2019;agr&#xE9;gea &#xE0; l&#x2019;Ordre cistercien avec les trois monast&#xE8;res qu&#x2019;il avait fond&#xE9;s. </para><para>13*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Jedrzejow en Pologne, l&#x2019;an&#xA0;1223, le tr&#xE9;pas du bienheureux Vincent Kadlubek, &#xE9;v&#xEA;que de Cracovie, qui s&#x2019;&#xE9;tait d&#xE9;mis de son si&#xE8;ge pour mener la vie monastique. </para><para>14*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Getafe pr&#xE8;s de Madrid, en 1925, le bienheureux Faustin Miguez, pr&#xEA;tre des Clercs r&#xE9;guliers des &#xE9;coles religieuses, qui se donna tout entier &#xE0; sa charge d&#x2019;enseignant, avec une activit&#xE9; pastorale qui lui valut d&#x2019;&#xEA;tre reconnu comme ma&#xEE;tre et expert, et il fonda la Congr&#xE9;gation des Filles de Calasanz.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

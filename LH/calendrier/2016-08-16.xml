@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XX per annum</la></hebdomada>
+<intitule><la>S. Stephani Hungariae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>92,64</phase_lunaire>
+<age_lunaire>12</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Deum_magnum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Clamor_meus_Domine</antL1>
+<psL1>ps101I</psL1>
+<antL2>AN_Respice_Domine_in</antL2>
+<psL2>ps101II</psL2>
+<antL3>AN_Tu_Domine_terram</antL3>
+<psL3>ps101III</psL3>
+<LVers>VERS_Attendite_popule</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_20-3</Llec1>
+<Lrep1>R1_perannum_20-3</Lrep1>
+<Llec2>L2_perannum_20-3</Llec2>
+<Lrep2>R2_perannum_20-3</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterne_lucis_conditor</HYMNUS_laudes>
+ <ant1>AN_Tibi_Domine_psallam</ant1>
+ <ps1>ps100</ps1>
+ <ant2>AN_Ne_auferas_Domine</ant2>
+ <ps2>AT39</ps2>
+ <ant3>AN_Deus_canticum_novum</ant3>
+ <ps3>ps143</ps3>
+ <LB_matin>LB_Is_55_1</LB_matin> 
+ <RB_matin>RB_Vocem_meam_audi_Domine</RB_matin> 
+<benedictus>AN_De_manu_omnium</benedictus>
+<laudes_preces>perannum_43</laudes_preces><oratio_laudes>COL_Auge_in_nobis_quaesumus_Domine_fidem</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Si_haec_scitis</ant4>
+
+<ps4>ps118XVIII</ps4>
+
+<ant5>AN_Intret_oratio_mea</ant5>
+
+<ps5>ps87I</ps5>
+
+<ant6>AN_Ad_te_Domine</ant6>
+
+<ps6>ps87II</ps6>
+
+<LB_3>LB_1_Io_3_17-18</LB_3>
+
+<RB_3>VERS_Iucundus_homo</RB_3>
+
+<LB_6>LB_Deut_30_11._14</LB_6>
+
+<RB_6>VERS_Lucerna_pedibus</RB_6>
+
+<LB_9>LB_Is_55_10-11</LB_9>
+
+<RB_9>VERS_Emittit_Dominus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+
+<ant7>AN_Si_oblitus_fuero</ant7>
+
+<ps7>ps136</ps7>
+
+<ant8>AN_In_conspectu_angelorum</ant8>
+
+<ps8>ps137</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Col_3_16</LB_soir>
+
+<RB_soir>RB_Adimplebis_me_laetitia</RB_soir>
+
+<magnificat>AN_Fac_nobiscum_Domine</magnificat>
+
+<vepres_preces>perannum_43</vepres_preces>
+
+<oratio_vepres>COL_Orantes_in_conspectu_tuo_Domine_tuam</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Protector_noster</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_diligentibus_te_bona_invisibilia</COL>			
+	
+<LEC1>Ez28,1-10</LEC1>	
+	
+<PS1>GR_Bonum_est_confidere</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Venite_exsultemus</PS2>
+	
+<SEQ/>
+	
+<EV>Mt19,23-30</EV>
+	
+<OF>OF_Immittet_angelus</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Amen_dico_vobis_quod_vos</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St &#xC9;tienne de Hongrie</intitule>
+ <biographiecourte>Roi de Hongrie, couronn&#xE9; &#xE0; No&#xEB;l de l'an 1000, aid&#xE9; par son &#xE9;pouse Gis&#xE8;le, il &#xE9;vang&#xE9;lisa son peuple (&#x2020;1038)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 ao&#xFB;t.</para><para>M&#xE9;moire de saint &#xC9;tienne, roi de Hongrie. Apr&#xE8;s avoir re&#xE7;u par le bapt&#xEA;me la nouvelle naissance, et du pape Silvestre II la couronne royale, il veilla &#xE0; d&#xE9;velopper la foi du Christ dans son peuple, organisa l&#x2019;&#xC9;glise dans son royaume et la dota de biens et de monast&#xE8;res. Roi juste et pacifique dans le gouvernement de ses sujets, il quitta ce monde pour le ciel &#xE0; Albe Royale le jour de l&#x2019;Assomption en 1038.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Arsace, qui professa la foi chr&#xE9;tienne sous l&#x2019;empereur Licinius, quitta l&#x2019;arm&#xE9;e pour mener &#xE0; Nicom&#xE9;die une vie solitaire. Enfin, apr&#xE8;s avoir pr&#xE9;dit la ruine de la ville, rendit en priant son &#xE2;me &#xE0; Dieu, vers 358.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sion dans le Valais suisse, au IVe si&#xE8;cle, saint Th&#xE9;odore, premier &#xE9;v&#xEA;que de la cit&#xE9; qui, suivant l&#x2019;exemple de saint , d&#xE9;fendit la foi catholique contre les ariens et mit en honneur les reliques des martyrs d&#x2019;Agaune.</para><para>4*.&#xA0; &#xA0; &#xA0; &#xA0; En Armorique, au VIe si&#xE8;cle, saint Armel, qui vint d&#x2019;outre-Manche y mener la vie d&#x2019;ermite.</para><para>5*.&#xA0; &#xA0; &#xA0; &#xA0; Dans le Maine, au VIe si&#xE8;cle, saint Frambaud, moine, qui mena une vie de solitaire, puis de c&#xE9;nobite.</para><para>6*.&#xA0; &#xA0; &#xA0; &#xA0; Dans le pays de Rennes, en 1129, le bienheureux Raoul de la Fustaie, pr&#xEA;tre, fondateur du monast&#xE8;re de Saint-Sulpice-la-For&#xEA;t..</para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Subiaco dans le Latium, en 1243, le bienheureux Laurent, surnomm&#xE9; l&#x2019;Encuirass&#xE9;. Apr&#xE8;s avoir tu&#xE9; quelqu&#x2019;un accidentellement, il d&#xE9;cida de purger sa peine par une aust&#xE9;rit&#xE9; et une p&#xE9;nitence extr&#xEA;mes, en menant une vie solitaire dans une grotte de la montagne.</para><para>8.&#xA0; &#xA0; &#xA0; &#xA0; En Lombardie, vers 1379, le tr&#xE9;pas de saint Roch. N&#xE9; &#xE0; Montpellier, il se fit p&#xE8;lerin et, en soignant des pestif&#xE9;r&#xE9;s &#xE0; travers l&#x2019;Italie, il s&#x2019;acquit une r&#xE9;putation de saintet&#xE9;.</para><para>9*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Florence en Toscane, en 1434, le bienheureux Ange-Augustin Mazzinghi, pr&#xEA;tre carme.</para><para>10*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Kyoto au Japon, en 1618, le bienheureux Jean de Sainte-Marthe, pr&#xEA;tre franciscain et martyr. Arr&#xEA;t&#xE9; comme missionnaire, jet&#xE9; en prison et condamn&#xE9; &#xE0; &#xEA;tre d&#xE9;capit&#xE9;, tandis qu&#x2019;on le menait au supplice, il pr&#xEA;chait au peuple et chantait le psaume' Louez le Seigneur tous les peuples'.</para><para>11*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Kokura, au Japon, en 1620, les bienheureux martyrs Simon Bokusai Kyota, cat&#xE9;chiste, et sa femme Madeleine, Thomas Gengoro et sa femme Marie, ainsi que leur fils Jacques, encore enfant. En vertu d&#x2019;un d&#xE9;cret du pr&#xE9;fet Yatsudo, ils furent crucifi&#xE9;s ensemble, la t&#xEA;te en bas, en haine du nom chr&#xE9;tien.</para><para>12*.&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean-Baptiste M&#xE9;nestrel, pr&#xEA;tre de Saint-Di&#xE9; et martyr. Sous la R&#xE9;volution fran&#xE7;aise, en raison de son sacerdoce, il fut d&#xE9;tenu, dans des conditions inhumaines, sur un bateau n&#xE9;grier, et y mourut, couvert de plaies et d&#xE9;vor&#xE9; par les vers.</para><para>13.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Fanjiazhuang, pr&#xE8;s de Wujiao dans la province chinoise de Hebei, en 1900, sainte Rose Fan Hui, vierge et martyre, qui dans la pers&#xE9;cution men&#xE9;e par la secte de Yihetuan, fut couverte de blessures et, encore vivante, pr&#xE9;cipit&#xE9;e dans un fleuve.</para><para>14*.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone en Catalogne, en 1906, la bienheureuse Pierrette de Saint-Joseph (Anne-Jos&#xE8;phe P&#xE9;rez Florida), vierge, qui aida tant qu&#x2019;elle put, et avec audace, les vieillards abandonn&#xE9;s et fonda la Congr&#xE9;gation des Soeurs M&#xE8;res des Abandonn&#xE9;s.</para><para>15*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, &#xE0; Benicasim pr&#xE8;s de Castollon, dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile, le bienheureux martyr Placide Garcia Gilabert, religieux franciscain.</para><para>16*.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1936, &#xE0; Benicasim pr&#xE8;s de Castollon, dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile, le bienheureux martyr Henri Garcia Beltran, diacre capucin.</para><para>17*.&#xA0; &#xA0; &#xA0; &#xA0;  En Espagne, en 1936, &#xE0; Picassent, dans la r&#xE9;gion de Valence&#xA0;;dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e au cours de la guerre civile, le bienheureux martyr Gabriel (Joseph-Marie Sanchis Mompo), religieux du Tiers-Odre de Saint-Fran&#xE7;ois.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

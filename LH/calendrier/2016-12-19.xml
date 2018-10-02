@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>13</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada IV Adventus</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>71,21</phase_lunaire>
+<age_lunaire>20</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Prope_est_iam</invitatoire>
+<HYMNUS_lectures>hy_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1>AN_Quam_bonus_Israel</antL1>
+<psL1>ps72I</psL1>
+<antL2>AN_Risus_eorum_in</antL2>
+<psL2>ps72II</psL2>
+<antL3>AN_Qui_elongant_se</antL3>
+<psL3>ps72III</psL3>
+<LVers>VERS_Quam_dulcia</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_adventus_42</Llec1>
+<Lrep1>R1_adventus_42</Lrep1>
+<Llec2>L2_adventus_42</Llec2>
+<Lrep2>R2_adventus_42</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Magnis_prophetae_vocibus</HYMNUS_laudes>
+ <ant1>AN_Ecce_veniet_Dominus</ant1>
+ <ps1>ps89</ps1>
+ <ant2>AN_Cantate_Domino_canticum</ant2>
+ <ps2>AT26</ps2>
+ <ant3>AN_Cum_venerit_Filius</ant3>
+ <ps3>ps134</ps3>
+ <LB_matin>LB_Is_2_3</LB_matin> 
+ <RB_matin>RB_Super_te_Ierusalem_Orietur</RB_matin> 
+<benedictus>AN_Orietur_sicut_sol</benedictus>
+<laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_qui_splendorem_gloriae_tuae_per</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Prophetae_praedicaverunt_nasci</ant4>
+
+<ps4>ps118XVII</ps4>
+
+<ant5>AN_Gabriel_angelus_locutus</ant5>
+
+<ps5>ps81</ps5>
+
+<ant6>AN_Maria_dixit_Qualis</ant6>
+
+<ps6>ps119</ps6>
+
+<LB_3>LB_Cf._Is_10_20-21</LB_3>
+
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+
+<LB_6>LB_Cf._Is_10_24._27</LB_6>
+
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+
+<LB_9>LB_Cf._Is_13_22_-14_1</LB_9>
+
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Verbum_salutis_omnium</HYMNUS_vepres>
+
+<ant7>AN_Ecce_veniet_Dominus</ant7>
+
+<ps7>ps135I</ps7>
+
+<ant8>AN_Cantate_Domino_canticum</ant8>
+
+<ps8>ps135II</ps8>
+
+<ant9>AN_Cum_venerit_Filius</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Phil_3_20b-21</LB_soir>
+
+<RB_soir>RB_Veni_ad_liberandum_nos_</RB_soir>
+
+<magnificat>AN_O_radix_Iesse</magnificat>
+
+<vepres_preces>perannum_42</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_splendorem_gloriae_tuae_per</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Ne_timeas</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_splendorem_gloriae_tuae_per</COL>			
+	
+<LEC1>Jg13,2-7</LEC1>	
+	
+<PS1>GR_Tollite_portas</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Lc1,5-25</EV>
+	
+<OF>OF_Confortamini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Ecce_Dominus_veniet</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx  Urbain V, pape</intitule>
+ <biographiecourte>Un des sept papes d'Avignon, il ramena le si&#xE8;ge de la papaut&#xE9; &#xE0; Rome (&#x2020;1370)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 d&#xE9;cembre</para><para>1. &#xC0; Rome, au cimeti&#xE8;re de Pontien sur la voie de Porto, en 401, la mise au tombeau de saint Anastase Ier, pape, homme de tr&#xE8;s riche pauvret&#xE9;, dit saint J&#xE9;r&#xF4;me, et d&#x2019;ardeur apostolique, qui, dans un bref pontificat, s&#x2019;opposa fermement aux doctrines h&#xE9;r&#xE9;tiques. </para><para>2. &#xC0; Auxerre, au VIe si&#xE8;cle, saint Gr&#xE9;goire, &#xE9;v&#xEA;que. </para><para>3*. Dans la chartreuse de Casotto dans la Pi&#xE9;mont, en 1205, le bienheureux Guillaume de Fenoglio, religieux, qui avait auparavant v&#xE9;cu en ermite sur une montagne du voisinage. </para><para>4*. &#xC0; Avignon, en 1370, le bienheureux Urbain V, pape, qui &#xE9;tait abb&#xE9; de Saint-Victor de Marseille quand il fut &#xE9;lev&#xE9; sur la chaire de Pierre. Sans rien changer &#xE0; ses habitudes monastiques, il tourna aussit&#xF4;t son esprit en premier lieu vers le retour du Si&#xE8;ge apostolique &#xE0; Rome et le r&#xE9;tablissement de l&#x2019;unit&#xE9; de l&#x2019;&#xC9;glise. </para><para>5. &#xC0; Bac Ninh au Tonkin, en 1839, les saints martyrs Fran&#xE7;ois-Xavier Ha Trong M&#xE2;u, Dominique Bai Van Uy, cat&#xE9;chistes, Thomas Nguy&#xEA;n Van D&#xEA;, tailleur, Augustin Nguy&#xEA;n Van Moi et &#xC9;tienne Nguy&#xEA;n Van Vinh, agriculteurs, l&#x2019;un n&#xE9;ophyte, l&#x2019;autre encore cat&#xE9;chum&#xE8;ne. Tous ayant refus&#xE9; de pi&#xE9;tiner la croix, furent soumis &#xE0; des supplices, enfin &#xE9;trangl&#xE9;s sur l&#x2019;ordre de l&#x2019;empereur Minh Mang. </para><para>6*. &#xC0; Slonim en Pologne, l&#x2019;an&#xA0;1942, les bienheureuses martyres Marie-&#xC9;ve de la Providence (Bogomila Noiszewska) et Marie-Marthe de J&#xE9;sus (Casimira Wolowska), vierges, S&#x153;urs de l&#x2019;Immacul&#xE9;e Conception. Pendant l&#x2019;occupation nazie de la Pologne, elles furent arr&#xEA;t&#xE9;es par la Gestapo &#xE0; l&#x2019;h&#xF4;pital de cette ville, o&#xF9; elles soignaient les malades, et fusill&#xE9;es le jour m&#xEA;me sur une colline voisine, pour l&#x2019;aide apport&#xE9;e &#xE0; une famille juive. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

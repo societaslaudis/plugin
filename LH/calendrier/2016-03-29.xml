@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Infra octavam Paschae</la></hebdomada>
+<intitule><la>Feria III infra octavam Paschae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>74,61</phase_lunaire>
+<age_lunaire>19</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Surrexit_Dominus_vere</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1/>
+<psL1/>
+<antL2/>
+<psL2/>
+<antL3/>
+<psL3/>
+<LVers>VERS_Diriget_Dominus</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_III_infra_octavam_Paschae</Llec1>
+<Lrep1>R1_Feria_III_infra_octavam_Paschae</Lrep1>
+<Llec2>L2_Feria_III_infra_octavam_Paschae</Llec2>
+<Lrep2>R2_Feria_III_infra_octavam_Paschae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+ <ant1>AN_Surrexit_Christus_et</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Redemptor_noster_surrexit</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Alleluia_resurrexit_Dominus</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Act_13_30-33</LB_matin> 
+ <RB_matin>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_matin> 
+<benedictus>AN_Dixit_Iesus_Maria.</benedictus>
+<laudes_preces>pascha_13</laudes_preces><oratio_laudes>COL_Deus_qui_paschalia_nobis_remedia_contulisti</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Christus_surrexit_a</ant4>
+
+<ps4>ps118I</ps4>
+
+<ant5>AN_Traditus_est_propter</ant5>
+
+<ps5>ps12</ps5>
+
+<ant6>AN_Si_consurrexistis_cum</ant6>
+
+<ps6>ps13</ps6>
+
+<LB_3>LB_Act_4_11-12</LB_3>
+
+<RB_3>VERS_Haec_dies_quam_fecit_Dominus</RB_3>
+
+<LB_6>LB_1_Petr_3_21-22a</LB_6>
+
+<RB_6>VERS_Haec_dies_quam_fecit_Dominus</RB_6>
+
+<LB_9>LB_Col_3_1-2</LB_9>
+
+<RB_9>VERS_Haec_dies_quam_fecit_Dominus</RB_9>
+
+<oratio_3>COL_Deus_qui_paschalia_nobis_remedia_contulisti</oratio_3>
+
+<oratio_6>COL_Deus_qui_paschalia_nobis_remedia_contulisti </oratio_6>
+
+<oratio_9>COL_Deus_qui_paschalia_nobis_remedia_contulisti</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+
+<ant7>AN_Venerunt_ad_monumentum</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Venite_et_videte</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Ait_Iesus_Nolite</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_1_Petr_2._4-5</LB_soir>
+
+<RB_soir>RB_Haec_dies_quam_fecit_Dominus_exsultemus</RB_soir>
+
+<magnificat>AN_Dum_flerem_ad</magnificat>
+
+<vepres_preces>pascha_13</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_paschalia_nobis_remedia_contulisti</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Iesu_redemptor</HYMNUS_complies>
+
+<comp_RB>RB_Haec_dies_quam_fecit_Dominus</comp_RB>
+
+<comp_ant1>AN_alleluia_alleluia_alleulia</comp_ant1>
+
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Aqua_sapientiae</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_paschalia_nobis_remedia_contulisti</COL>			
+	
+<LEC1>Ac2,36-41</LEC1>	
+	
+<PS1>GR_Haec_Dies_Dicant_nunc</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Surrexit_Dominus_de_sepulcro</PS2>
+	
+<SEQ>SEQ_Victimae_paschali_laudes</SEQ>
+	
+<EV>Jn20,11-15</EV>
+	
+<OF>OF_Intonuit_de_caelo</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Si_consurrexistis</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Eustase</intitule>
+ <biographiecourte>Abb&#xE9;, successeur de St-Colomban &#xE0; Luxeuil en Haute-Sa&#xF4;ne, il donna &#xE0; son abbaye un grand rayonnement (&#x2020;629)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naples, comm&#xE9;moraison de saint Eustase, &#xE9;v&#xEA;que, au IIIe si&#xE8;cle. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Marc, &#xE9;v&#xEA;que d&#x2019;Ar&#xE9;thuse en Syrie. Par esprit de conciliation, il proposa une formule de foi capable d&#x2019;apaiser les discussions entre les fid&#xE8;les de Nic&#xE9;e et les ariens, ce qui le rendit suspect aux orthodoxes. Sous Julien l&#x2019;Apostat, des pa&#xEF;ens le tortur&#xE8;rent gri&#xE8;vement, mais il surv&#xE9;cut et mourut en paix l&#x2019;an&#xA0;364, salu&#xE9; par saint Gr&#xE9;goire de Nazianze comme un homme remarquable et un tr&#xE8;s savant vieillard. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints martyrs Armogaste, Archinime et Saturnin, officiers africains. Vers 462, &#xE0; l&#x2019;&#xE9;poque de la pers&#xE9;cution vandale, sous le roi arien Gens&#xE9;ric, ils furent tortur&#xE9;s, soumis aux travaux forc&#xE9;s dans les mines, puis r&#xE9;duits en esclavage et envoy&#xE9;s comme vachers dans les environs de Carthage, glorieux confesseurs de la foi catholique. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; Au mont Carmel en Palestine, vers 1188, le bienheureux Berthold. Soldat, il fut admis parmi les fr&#xE8;res qui menaient la vie religieuse sur ce mont et, &#xE9;lu peu apr&#xE8;s par eux comme prieur, il confia la communaut&#xE9; &#xE0; la M&#xE8;re de Dieu. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Poitiers, en 1197, saint Guillaume Tempier, &#xE9;v&#xEA;que, qui d&#xE9;fendit avec prudence et fermet&#xE9; les droits de son &#xC9;glise contre les nobles, et corrigea les m&#x153;urs, offrant lui-m&#xEA;me un exemple de vie tr&#xE8;s vertueuse. </para><para>6*. &#xC0; Wismar en Saxe, l&#x2019;an&#xA0;1250, saint Ludolphe, &#xE9;v&#xEA;que de Ratzbourg et martyr. Il soutint une longue lutte pour la libert&#xE9; de son &#xC9;glise contre les pr&#xE9;tentions du duc Albert, qui le fit jeter dans un cachot infect. Il eut le corps si &#xE9;puis&#xE9; par les mauvais traitements subis qu&#x2019;&#xE0; peine remis en libert&#xE9; il quitta ce monde. </para><para>7*.&#xA0; &#xA0; &#xA0; &#xA0;  Comm&#xE9;moraison du bienheureux Jean Hambley, pr&#xEA;tre et martyr, &#xE0; Salisbury en Angleterre. En 1587, sous la reine &#xC9;lisabeth I&#xE8;re, un jour inconnu de ce mois aux environs de la P&#xE2;que du Seigneur, &#xE0; cause de son sacerdoce, il fut livr&#xE9; aux supplices du gibet, communiant ainsi aux souffrances du Christ. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

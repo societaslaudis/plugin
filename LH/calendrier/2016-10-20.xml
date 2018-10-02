@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>80,75</phase_lunaire>
+<age_lunaire>19</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
+<LVers>VERS_Revela_Domine</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_29-5</Llec1>
+<Lrep1>R1_perannum_29-5</Lrep1>
+<Llec2>L2_perannum_29-5</Llec2>
+<Lrep2>R2_perannum_29-5</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Sol_ecce_surgit_igneus</HYMNUS_laudes>
+ <ant1>AN_Exsurge_PSalterium_et</ant1>
+ <ps1>ps56</ps1>
+ <ant2>AN_Populus_meus</ant2>
+ <ps2>AT36</ps2>
+ <ant3>AN_Magnus_Dominus_et</ant3>
+ <ps3>ps47</ps3>
+ <LB_matin>LB_Is_66_1-2</LB_matin> 
+ <RB_matin>RB_Clamavi_in_toto_corde_meo</RB_matin> 
+<benedictus>AN_In_sanctitate_serviamus</benedictus>
+<laudes_preces>perannum_15</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_vespere_mane_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Revela_oculos_meos</ant4>
+
+<ps4>ps118III</ps4>
+
+<ant5>AN_Dirige_me_in</ant5>
+
+<ps5>ps24I</ps5>
+
+<ant6>AN_Respice_in_me</ant6>
+
+<ps6>ps24II</ps6>
+
+<LB_3>LB_1_P_1_13-14</LB_3>
+
+<RB_3>VERS_Benedicite_omnia</RB_3>
+
+<LB_6>LB_Am_5_8</LB_6>
+
+<RB_6>VERS_Magnificentia_et</RB_6>
+
+<LB_9>LB_Am_9_6</LB_9>
+
+<RB_9>VERS_Caeli_enarrant</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+
+<ant7>AN_Clamavi_ad_te</ant7>
+
+<ps7>ps29</ps7>
+
+<ant8>AN_Beatus_vir_cui</ant8>
+
+<ps8>ps31</ps8>
+
+<ant9>AN_Dedit_ei_Dominus</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_1_Petr_1_6-9</LB_soir>
+
+<RB_soir>RB_Cibavit_nos_Dominus</RB_soir>
+
+<magnificat>AN_Deposuit_Dominus_potentes</magnificat>
+
+<vepres_preces>perannum_15</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_illuminas_noctem_et_lumen</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Ego_clamavi</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Omnipotens_sempiterne_Deus_fac_nos_tibi</COL>			
+	
+<LEC1>Ep3,14-21</LEC1>	
+	
+<PS1>GR_Salvum_fac_populum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Lauda_anima_mea</PS2>
+	
+<SEQ/>
+	
+<EV>Lc12,49-53</EV>
+	
+<OF>OF_Meditabor</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Domine Dominus_noster</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Corneille, centurion</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Corneille</intitule>
+ <biographiecourte>Baptis&#xE9; par St Pierre, il est le premier chr&#xE9;tien non juif.</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 octobre</para><para>1. Comm&#xE9;moraison de saint Corneille, le centurion que l&#x2019;Ap&#xF4;tre saint Pierre baptisa &#xE0; C&#xE9;sar&#xE9;e de Palestine, pr&#xE9;mices de l&#x2019;&#xC9;glise des nations. </para><para>2. &#xC0; Agen, vers 303, saint Caprais, martyr.</para><para>3. &#xC0; Aussance au pays de Reims, vers 600, saint Sindulf, ermite, qui mena une vie solitaire, connu de Dieu seul. </para><para>4*. &#xC0; Salzbourg en Bavi&#xE8;re, saint Vital, &#xE9;v&#xEA;que. N&#xE9; en Irlande, il fut disciple de saint Rupert, son compagnon de voyage et son &#xE9;mule en labeurs et en veilles. &#xC9;lu pour lui succ&#xE9;der, il convertit &#xE0; la foi du Christ le peuple de Pinger. </para><para>5. &#xC0; Constantinople, en 767, saint Andr&#xE9;, appel&#xE9; Calybite, moine et martyr. Originaire de Cr&#xE8;te, il fut, &#xE0; cause du culte des saintes images, sous l&#x2019;empereur Constantin Copronyme, rou&#xE9; de verges plus d&#x2019;une fois, puni de divers supplices jusqu&#x2019;&#xE0; la mort, et enfin pr&#xE9;cipit&#xE9; de la muraille de la ville dans les ordures. </para><para>6*. Au pays de Troyes, vers 1002, saint Aderald, archidiacre, fondateur du prieur&#xE9; de Villecerf, qui illustra la r&#xE8;gle canoniale par ses instructions et ses exemples, m&#xEA;me lorsqu&#x2019;il fut retenu prisonnier par les Sarrasins en Terre sainte. </para><para>7*. &#xC0; Savigny en Normandie, vers 1125, sainte Adeline, premi&#xE8;re abbesse du monast&#xE8;re de Mortain, qu&#x2019;elle avait construit avec l&#x2019;aide de son fr&#xE8;re saint Vital.</para><para>8*. &#xC0; Lwow en Ruth&#xE9;nie, en 1409, le tr&#xE9;pas du bienheureux Jacques de Strepa (Rukem de Waldonna), &#xE9;v&#xEA;que de Kalisz, de l&#x2019;Ordre des Mineurs, illustre par sa sollicitude pastorale et ses vertus apostoliques. </para><para>9. &#xC0; Tr&#xE9;vise en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1922, sainte Marie-Bertille (Anne-Fran&#xE7;oise Boscardin), vierge de la Congr&#xE9;gation des S&#x153;urs ma&#xEE;tresses de Sainte Doroth&#xE9;e, qui prit le plus grand soin, corporel et spirituel, des malades de l&#x2019;h&#xF4;pital de la ville. </para><para>10*. &#xC0; Vienne en Autriche, l&#x2019;an&#xA0;1924, le bienheureux Jacques (Fran&#xE7;ois-Alexandre Kern), pr&#xEA;tre pr&#xE9;montr&#xE9;. Encore &#xE9;tudiant, il fut mobilis&#xE9;, pendant la Premi&#xE8;re Guerre mondiale et gravement bless&#xE9;. Par la suite, il se donna de tout son c&#x153;ur au minist&#xE8;re pastoral, mais pour peu de temps, car terrass&#xE9; par une maladie longue et cruelle, qu&#x2019;il accueillit avec une grande force d&#x2019;&#xE2;me, il se soumit dans la paix &#xE0; la volont&#xE9; de Dieu. </para><para/></martyrologe>
+
+<compendium/>
+
+</calendarium>

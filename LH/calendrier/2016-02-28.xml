@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>2</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada III Quadragesimae</la></hebdomada>
+<intitule><la>Dominica III Quadragesimae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>76,59</phase_lunaire>
+<age_lunaire>19</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1>AN_Per_Singluos_dies</antL1>
+<psL1>ps144I</psL1>
+<antL2>AN_Regnum_tuum_Domine</antL2>
+<psL2>ps144II</psL2>
+<antL3>AN_Fidelis_Dominus_in</antL3>
+<psL3>ps144III</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Dominica_III_Quadragesimae</Llec1>
+<Lrep1>R1_Dominica_III_Quadragesimae</Lrep1>
+<Llec2>L2_Dominica_III_Quadragesimae</Llec2>
+<Lrep2>R2_Dominica_III_Quadragesimae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Precemur_omnes_cernui</HYMNUS_laudes>
+ <ant1>AN_Super_voces_aquarum</ant1>
+ <ps1>ps92</ps1>
+ <ant2>AN_Benedicite_fontes_Domino;</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Reges_terrae_et</ant3>
+ <ps3>ps148</ps3>
+ <LB_matin>LB_Neh_8_9b._l0b</LB_matin> 
+ <RB_matin>RB_Christe_Fili_Dei_vivi_</RB_matin> 
+<benedictus>AN_Iustificati_ex_fide</benedictus>
+<laudes_preces>quadragesima_31</laudes_preces><oratio_laudes>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps117I</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps117II</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps117III</ps6>
+
+<LB_3>LB_1_Th_4_1._7</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Is_30_15._18</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Deut_4_29-31</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL</oratio_3>
+
+<oratio_6> </oratio_6>
+
+<oratio_9/>
+
+<intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Audi_benigne_Conditor</HYMNUS_vepres>
+
+<ant7>AN_Paenitemini_et_credite</ant7>
+
+<ps7>ps109</ps7>
+
+<ant8>AN_Sacrificabo_hostiam_laudis</ant8>
+
+<ps8>ps113A</ps8>
+
+<ant9>AN_Nemo_tollit_a</ant9>
+
+<ps9>NT8</ps9>
+
+<LB_soir>LB_2_Cor_6_1-4a</LB_soir>
+
+<RB_soir>RB_Attende_Domine_et_miserere_Quia</RB_soir>
+
+<magnificat>AN_Domine_dimitte_illam</magnificat>
+
+<vepres_preces>quadragesima_31</vepres_preces>
+
+<oratio_vepres>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Dum_sanctificatus_fuero</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_omnium_misericordiarum_et_totius_bonitatis</COL>			
+	
+<LEC1>Ex3,1-8a.13-15</LEC1>	
+	
+<PS1>GR_Exsurge_non_praelevat</PS1>
+	
+<LEC2>1Co10,1-6.10-12</LEC2>
+	
+<PS2>TR_Ad_te_levavi</PS2>
+	
+<SEQ/>
+	
+<EV>Lc13,1-9</EV>
+	
+<OF>OF_Iustitiae_Domini</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Passer_invenit</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Daniel Brottier, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, il restaura l'&#x152;uvre des Orphelins-Apprentis d'Auteuil (&#x2020;1936)     </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 28 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saints pr&#xEA;tres, diacres et d&#x2019;un grand nombre d&#x2019;autres, qui &#xE0; Alexandrie, en 262, au temps de l&#x2019;empereur Gallien, quand s&#xE9;vissait une terrible peste, se d&#xE9;vou&#xE8;rent au service des malades et affront&#xE8;rent volontiers la mort. La pi&#xE9;t&#xE9; des fid&#xE8;les s&#x2019;accoutuma &#xE0; v&#xE9;n&#xE9;rer comme martyrs ces victimes de la charit&#xE9;. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Dans le Jura, en 461, la mise au tombeau de saint Romain, pr&#xEA;tre et abb&#xE9; de Condat. Suivant l&#x2019;exemple des anciens moines, il fut le premier dans ce lieu &#xE0; mener la vie &#xE9;r&#xE9;mitique et devint par la suite le p&#xE8;re d&#x2019;un grand nombre de moines. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison des saintes Marane et Cyre, vierges, qui v&#xE9;curent longtemps &#xE0; B&#xE9;r&#xE9;e en Syrie, au Ve si&#xE8;cle, enferm&#xE9;es dans un petit enclos &#xE0; ciel ouvert, sans aucun abri, dans le plus complet silence, recevant par une petite fen&#xEA;tre ce dont elles avaient besoin.</para><para/><para>Les ann&#xE9;es bissextiles, on omet les &#xE9;loges suivants.</para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rome sur la voie Tiburtine, pr&#xE8;s de saint Laurent, en 468, la mise au tombeau du pape saint Hilaire, qui succ&#xE9;da &#xE0; saint L&#xE9;on le Grand, et &#xE9;crivit des lettres confirmant la foi catholique des Conciles de Nic&#xE9;e, &#xC9;ph&#xE8;se et Chalc&#xE9;doine, et mettant en lumi&#xE8;re le primat du si&#xE8;ge de Rome. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Worcester en Angleterre, l&#x2019;an&#xA0;992, saint Oswald, &#xE9;v&#xEA;que. D&#x2019;abord chanoine de Winchester, puis moine &#xE0; Fleury, il fut plac&#xE9; ensuite sur le si&#xE8;ge de Worcester, et, quelque temps apr&#xE8;s, il eut encore &#xE0; diriger l&#x2019;&#xC9;glise d&#x2019;York. Il &#xE9;tablit la R&#xE8;gle de saint Beno&#xEE;t dans de nombreux monast&#xE8;res et fut un ma&#xEE;tre affable, joyeux et savant. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; l&#x2019;Aquila dans les Abruzzes, en 1472, la bienheureuse Antonie de Florence, veuve, qui entra chez les Clarisses et fut ensuite la fondatrice et la premi&#xE8;re abbesse du monast&#xE8;re du Corpus Christi, sous la R&#xE8;gle primitive de sainte Claire. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Xilinxian, dans la province chinoise de Guangni, en 1856, saint Auguste Chapdelaine, pr&#xEA;tre de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris et martyr. Arr&#xEA;t&#xE9; par des soldats avec plusieurs n&#xE9;ophytes, parce qu&#x2019;il avait, le premier, sem&#xE9; la foi chr&#xE9;tienne dans cette r&#xE9;gion, il fut, sur l&#x2019;ordre du grand mandarin, frapp&#xE9; de trois cents coups de rotin, enferm&#xE9; dans une cage &#xE9;troite et enfin d&#xE9;capit&#xE9;. </para><para/><para>N&#x2019;importe quelle ann&#xE9;e&#xA0;: </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Paris, en 1930, le bienheureux Daniel Brottier, pr&#xEA;tre de la Congr&#xE9;gation du Saint-Esprit, qui se d&#xE9;pensa dans la fondation de l&#x2019;&#x152;uvre des orphelins d&#x2019;Auteuil. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp d&#x2019;Auschwitz (Oswiecim), pr&#xE8;s de Cracovie en Pologne, l&#x2019;an&#xA0;1942, le bienheureux Timoth&#xE9;e Trojanowski, religieux de l&#x2019;Ordre des Fr&#xE8;res Mineurs conventuels et martyr. Quand son pays fut soumis au r&#xE9;gime nazi, il fut arr&#xEA;t&#xE9; et d&#xE9;port&#xE9; &#xE0; cause de son activit&#xE9; religieuse. Il supporta avec force la faim, le froid et les durs travaux, mais affaibli par les dures conditions du camp, il succomba &#xE0; une pneumonie. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Milan, en 1956, le bienheureux Carlo Gnocchi, pr&#xEA;tre &#xE9;ducateur de la jeunesse durant la deuxi&#xE8;me guerre mondiale. (b&#xE9;atifi&#xE9; le 25 octobre 2009 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

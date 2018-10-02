@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>3</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Adventus</la></tempus>
+<hebdomada><la>Hebdomada II Adventus</la></hebdomada>
+<intitule><la>IN CONCEPTIONE IMMACULATA BEATAE MARIAE VIRGINIS</la></intitule>
+<rang><la>Sollemnitas</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>56,15</phase_lunaire>
+<age_lunaire>7</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Immaculatam_Conceptionem_Virginis</invitatoire>
+<HYMNUS_lectures>hy_Te_dicimus_praeconio</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1>AN_Salvasti_nos_Domine</antL1>
+<psL1>ps43I</psL1>
+<antL2>AN_Parce_Domine_et</antL2>
+<psL2>ps43II</psL2>
+<antL3>AN_Exsurge_Domine_et</antL3>
+<psL3>ps43III</psL3>
+<LVers>VERS_Domine_ad</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_IN_CONCEPTIONE_IMMACULATA_BEATAE_MARIAE_VIRGINIS</Llec1>
+<Lrep1>R1_IN_CONCEPTIONE_IMMACULATA_BEATAE_MARIAE_VIRGINIS</Lrep1>
+<Llec2>L2_IN_CONCEPTIONE_IMMACULATA_BEATAE_MARIAE_VIRGINIS</Llec2>
+<Lrep2>R2_IN_CONCEPTIONE_IMMACULATA_BEATAE_MARIAE_VIRGINIS</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_In_plausu_grati_carminis</HYMNUS_laudes>
+ <ant1>AN_O_quam_casta</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Benedicta_es_tu</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Trahe_nos</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Is_43_1</LB_matin> 
+ <RB_matin>RB_Deus_omnipotens_Praecinxit_me</RB_matin> 
+<benedictus>AN_Ait_Dominus_Deus</benedictus>
+<laudes_preces>Immaculatam_Conceptionem_Virginis</laudes_preces><oratio_laudes>COL_Deus_qui_per_immaculatam_Virginis_Conceptionem</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Vivit_Dominus_quoniam</ant4>
+
+<ps4>ps122</ps4>
+
+<ant5>AN_Complacuit_Domino_in</ant5>
+
+<ps5>ps123</ps5>
+
+<ant6>AN_Deus_creavit_me</ant6>
+
+<ps6>ps124</ps6>
+
+<LB_3>LB_Eph_1_4</LB_3>
+
+<RB_3>VERS_Immacul&#xE1;ta_Conc&#xE9;ptio_est_h&#xF3;die_sanct&#xE6;</RB_3>
+
+<LB_6>LB_Cf._Eph_1_10_b-12_a</LB_6>
+
+<RB_6>VERS_Cor_meum_et_caro_mea</RB_6>
+
+<LB_9>LB_Cf._Eph_5_25-27</LB_9>
+
+<RB_9>VERS_Immaculata_Conceptio_tua_Dei_Genetrix</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>IN CONCEPTIONE IMMACULATA BEATAE MARIAE VIRGINIS</la></intitule_soir>
+
+<rang_soir><la>Sollemnitas</la></rang_soir>
+
+<office_soir><la>Ad II Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Praeclara_custos_virginum</HYMNUS_vepres>
+
+<ant7>AN_Tota_pulchra_es</ant7>
+
+<ps7>ps121</ps7>
+
+<ant8>AN_Tu_gloria_Ierusalem</ant8>
+
+<ps8>ps126</ps8>
+
+<ant9>AN_Vestimentum_tuum_candidum</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Rom_5_20b-21</LB_soir>
+
+<RB_soir>RB_In_hoc_cognovi_Quoniam</RB_soir>
+
+<magnificat>AN_Ave_Maria_gratia</magnificat>
+
+<vepres_preces>Immaculatam_Conceptionem_Virginis</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_per_immaculatam_Virginis_Conceptionem</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+	
+<comp_ps1>ps90</comp_ps1>
+	
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Gaudens_gaudebo</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_per_immaculatam_Virginis_Conceptionem</COL>			
+	
+<LEC1>Gn3,9-15.20</LEC1>	
+	
+<PS1>GR_Benedicta_es_tu</PS1>
+	
+<LEC2>Eph1,3-6.11-12</LEC2>
+	
+<PS2>AL_Tota_pulchra_es</PS2>
+	
+<SEQ/>
+	
+<EV>Lc1,26-38</EV>
+	
+<OF>OF_Ave_Maria</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Gloriosa</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>CONCEPTION IMMACUL&#xC9;E DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte>Le dogme de l&#x2019;Immacul&#xE9;e Conception affirme comme une donn&#xE9;e de foi que la Tr&#xE8;s Sainte Vierge Marie, d&#xE8;s le premier instant de sa conception, par un privil&#xE8;ge sp&#xE9;cial, en vertu des m&#xE9;rites de J&#xE9;sus-Christ, fut pr&#xE9;serv&#xE9;e et exempte de toute tache du p&#xE9;ch&#xE9; originel. Marie est la Toute Sainte, absolument pure de tout p&#xE9;ch&#xE9;. Ce dogme a &#xE9;t&#xE9; d&#xE9;fini solennellement par Pie IX, le 8 d&#xE9;cembre 1854, par la bulle &#xAB; Ineffabilis Deus &#xBB;.</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 8 d&#xE9;cembre. </para><para>1. Solennit&#xE9; de l&#x2019;Immacul&#xE9;e Conception de la Vierge Marie. Vraiment combl&#xE9;e de gr&#xE2;ce et b&#xE9;nie entre toutes les femmes, elle fut pr&#xE9;serv&#xE9;e de toute souillure de la faute originelle d&#xE8;s le premier instant de sa conception, par un privil&#xE8;ge unique de Dieu en pr&#xE9;vision de la naissance et de la mort salvifique du Fils de Dieu. Cette doctrine transmise par une tradition tr&#xE8;s ancienne, a &#xE9;t&#xE9; solennellement d&#xE9;finie en ce jour en 1854 par le bienheureux Pie IX. </para><para>2. Comm&#xE9;moraison de saint Macaire, martyr &#xE0; Alexandrie, l&#x2019;an&#xA0;250. D&#x2019;origine lybienne, au temps de l&#x2019;empereur D&#xE8;ce, alors que le juge t&#xE2;chait, par toutes sortes d&#x2019;arguments, de lui faire renier le Christ, il apporta encore plus de constance &#xE0; professer sa foi et fut enfin condamn&#xE9; &#xE0; &#xEA;tre br&#xFB;l&#xE9; vif. </para><para>3. &#xC0; Rome, au cimeti&#xE8;re de Calliste sur la voie Appienne, en 283, la mise au tombeau de saint Eutychien, pape, qui dirigea l&#x2019;&#xC9;glise dans une p&#xE9;riode de paix, pendant plus de neuf ans. </para><para>4. &#xC0; Tr&#xE8;ves en Gaule Belgique, au IIIe si&#xE8;cle, saint Euchaire, consid&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>5. Comm&#xE9;moraison de saint Patapios, solitaire, au Ve ou VIe si&#xE8;cle. N&#xE9; &#xE0; Th&#xE8;bes en &#xC9;gypte, il vint &#xE0; Constantinople et mena la vie monastique dans le quartier des Blachernes, au monast&#xE8;re des &#xC9;gyptiens. </para><para>6. Au mont Hebend dans les Vosges, en 653, saint Romary, abb&#xE9;. Proche du roi d&#x2019;Austrasie Th&#xE9;odebert II, il se retira, apr&#xE8;s l&#x2019;assassinat de celui-ci, au monast&#xE8;re de Luxeuil, puis il fonda un autre monast&#xE8;re sur son domaine, dont il fut le second abb&#xE9;, apr&#xE8;s saint Am&#xE9;. </para><para>7*. Au monast&#xE8;re cistercien des Vaux de Cernay sur le territoire de Paris, en 1247, saint Thibaud de Marly, abb&#xE9;, qui s&#x2019;employait pour ses fr&#xE8;res aux charges les plus humbles. </para><para>8. Dans la r&#xE9;gion de l&#x2019;Ontario au Canada, en 1649, la passion de saint No&#xEB;l Chabanel, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Il avait fait &#xE0; Dieu le v&#x153;u de demeurer jusqu&#x2019;&#xE0; sa mort dans la mission qu&#x2019;il ch&#xE9;rissait, parmi les Hurons. Alors qu&#x2019;il faisait route en for&#xEA;t avec un apostat, celui-ci le tua en haine de la foi. </para><para>9*. &#xC0; Lima au P&#xE9;rou, en 1819, la sainte Narcisse de J&#xE9;sus Martillo Moran, vierge. Priv&#xE9;e de ses parents, sans aucune ressource, elle fut re&#xE7;ue, apr&#xE8;s bien des difficult&#xE9;s, comme h&#xF4;tesse dans un couvent et elle se donna &#xE0; une pri&#xE8;re continuelle et &#xE0; une p&#xE9;nitence aust&#xE8;re. (canonis&#xE9;e le 12 octobre 2008 par Beno&#xEE;t XVI)</para><para>10*. &#xC0; Picadero de Paterna dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, le bienheureux Joseph-Marie Zabal Blasco, p&#xE8;re de famille et martyr, victime de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile. </para><para>11*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Louis Liguda, pr&#xEA;tre de la Soci&#xE9;t&#xE9; du Verbe divin et martyr. Arr&#xEA;t&#xE9; par la Gestapo &#xE0; Gorna Grupa avec d&#x2019;autres pr&#xEA;tres polonais, il fut d&#xE9;port&#xE9; en Allemagne et, apr&#xE8;s avoir subi des tortures, assassin&#xE9; par des gardes du camp. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

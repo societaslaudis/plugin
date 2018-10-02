@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>12</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XVIII per annum</la></hebdomada>
+<intitule><la>In Dedicatione basilicae S. Mariae</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>4,62</phase_lunaire>
+<age_lunaire>2</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Suavis_est_Dominus</invitatoire>
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+<antL1>AN_Ne_in_ira</antL1>
+<psL1>ps37I</psL1>
+<antL2>AN_Domine_ante_te</antL2>
+<psL2>ps37II</psL2>
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+<psL3>ps37III</psL3>
+<LVers>VERS_Oculi_mei</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_18-6</Llec1>
+<Lrep1>R1_perannum_18-6</Lrep1>
+<Llec2>L2_perannum_18-6</Llec2>
+<Lrep2>R2_perannum_18-6</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Deus_qui_caeli_lumen_es</HYMNUS_laudes>
+ <ant1>AN_Cor_contritum_et</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Cum_iratus_fueris</ant2>
+ <ps2>AT43</ps2>
+ <ant3>AN_Lauda_Ierusalem_Dominum.</ant3>
+ <ps3>ps147</ps3>
+ <LB_matin>LB_Eph_2_13-16</LB_matin> 
+ <RB_matin>RB_Clamabo_ad_Dominum_altissimum</RB_matin> 
+<benedictus>AN_Per_viscera_misericordiae</benedictus>
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Praesta_quaesumus_omnipotens_Deus_ut_laudes</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Fiat_misericordia_tua</ant4>
+
+<ps4>ps118X</ps4>
+
+<ant5>AN_Ab_insurgentibus_in</ant5>
+
+<ps5>ps58</ps5>
+
+<ant6>AN_Beatus_homo_qui</ant6>
+
+<ps6>ps59</ps6>
+
+<LB_3>LB_Deut_1_31b</LB_3>
+
+<RB_3>VERS_Suscipe_me</RB_3>
+
+<LB_6>LB_Bar_4_28-29</LB_6>
+
+<RB_6>VERS_Apud_Dominum</RB_6>
+
+<LB_9>LB_Sap_1_13-15</LB_9>
+
+<RB_9>VERS_Eripuit_Dominus</RB_9>
+
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+
+<oratio_6>COL_Domine_Iesu_Christe_qui_paenitentem_latronem </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Horis_peractis_undecim</HYMNUS_vepres>
+
+<ant7>AN_Domine_libera_animam</ant7>
+
+<ps7>ps114</ps7>
+
+<ant8>AN_Auxilium_meum_a</ant8>
+
+<ps8>ps120</ps8>
+
+<ant9>AN_Iustae_et_verae</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_1_Cor_2_7-10a</LB_soir>
+
+<RB_soir>RB_Christus_mortuus_est</RB_soir>
+
+<magnificat>AN_Recordare_Domine_misericordiae</magnificat>
+
+<vepres_preces>perannum_26</vepres_preces>
+
+<oratio_vepres>COL_Deus_cuius_ineffabilis_sapientia_in_scandalo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Deus_in_adiutorium</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Adesto_Domine_famulis_tuis_et_perpetuam</COL>			
+	
+<LEC1>Na2,1-3,7</LEC1>	
+	
+<PS1>GR_Benedicam_Dominum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Domine_Deus_salutis_meae</PS2>
+	
+<SEQ/>
+	
+<EV>Mt16,24-28</EV>
+	
+<OF>OF_Precatus_est_Moyses</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Qui_vult_venire</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>D&#xE9;dicace de la Basilique Sainte-Marie.</intitule>
+ <biographiecourte>Cette basilique romaine est la premi&#xE8;re &#xE9;glise d&#xE9;di&#xE9;e &#xE0; Marie en Occident, sa construction remonte &#xE0; 360 environs </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 5 ao&#xFB;t. </para><para>M&#xE9;moire de la d&#xE9;dicace de la basilique Sainte-Marie-Majeure &#xE0; Rome, sur l&#x2019;Esquilin. En 434, le pape Xyste III l&#x2019;offrit au peuple de Dieu apr&#xE8;s le Concile d&#x2019;&#xC9;ph&#xE8;se dans lequel la Vierge Marie fut salu&#xE9;e comme M&#xE8;re de Dieu.</para><para>2.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ch&#xE2;lons-en-Champagne, au IVe si&#xE8;cle, saint Memmie, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;.</para><para>3.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Teano en Campanie, au IVe si&#xE8;cle, saint Paris, &#xE9;v&#xEA;que, dont on dit qu&#x2019;il fut le premier &#xE0; occuper ce si&#xE8;ge</para><para>4.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Autun, au IVe si&#xE8;cle, saint Cassien, &#xE9;v&#xEA;que</para><para>5.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Naziance en Cappadoce, l&#x2019;an&#xA0;374, sainte Nonne, &#xE9;pouse de saint Gr&#xE9;goire l&#x2019;Ancien et m&#xE8;re des saints Gr&#xE9;goire le Th&#xE9;ologien, C&#xE9;saire et Gorgonia.</para><para>6.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ascoli Piceno dans les Marches, saint Emigde, v&#xE9;n&#xE9;r&#xE9; comme premier &#xE9;v&#xEA;que de la cit&#xE9; et martyr.</para><para>7.*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Viviers sur le Rh&#xF4;ne, apr&#xE8;s 535, saint Venance, &#xE9;v&#xEA;que</para><para>8*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tremblevif en Sologne, saint Vi&#xE2;tre, ermite</para><para>9.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Maserfield en Angleterre, l&#x2019;an&#xA0;642, saint Oswald, martyr. Roi de Northumbrie, vaillant guerrier, mais plus encore ami de la paix, il propagea avec vigueur la foi chr&#xE9;tienne dans la r&#xE9;gion et fut tu&#xE9; au combat par des pa&#xEF;ens en haine du Christ.</para><para>10*&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Montegranaro dans les Marches, vers 1350, le bienheureux Fran&#xE7;ois Zanfredini, appel&#xE9; Checco de Pesaro, du Tiers-Ordre de saint Fran&#xE7;ois. Il distribua tous ses biens aux pauvres et v&#xE9;cut dans un ermitage qu&#x2019;il s&#x2019;&#xE9;tait construit, donnant, pendant quarante ans, un exemple de p&#xE9;nitence, de pri&#xE8;re et de bonnes &#x153;uvres.</para><para>11.&#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Setempeda [San Severino], dans les Marches, vers 1385, sainte Marguerite, veuve.</para><para>12*&#xA0; &#xA0; &#xA0; &#xA0; Dans la baie devant le port de Rochefort, en 1794, le bienheureux Pierre-Michel No&#xEB;l, pr&#xEA;tre de Rouen et martyr. Sous la R&#xE9;volution fran&#xE7;aise, &#xE0; cause de son sacerdoce, il fut d&#xE9;tenu, dans des conditions inhumaines, sur un bateau n&#xE9;grier, et y mourut du scorbut</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

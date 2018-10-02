@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXVI per annum</la></hebdomada>
+<intitule><la>S. Vincentii de Paul, presbyteri</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>16,17</phase_lunaire>
+<age_lunaire>25</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Mirabilem_Deum_in</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1/>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2/>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3/>
+<LVers>VERS_Bonitatem_et</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Vincentii_de_Paul_presbyteri</Llec1>
+<Lrep1>R1_S._Vincentii_de_Paul_presbyteri</Lrep1>
+<Llec2>L2_S._Vincentii_de_Paul_presbyteri</Llec2>
+<Lrep2>R2_S._Vincentii_de_Paul_presbyteri</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iesu_corona_celsior</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps42</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps64</ps3>
+ <LB_matin>LB_Rom_12_1-2</LB_matin> 
+ <RB_matin>RB_Lex_Dei_eius_In</RB_matin> 
+<benedictus>AN_Erat_Vincentius_consolator</benedictus>
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_ad_salutem_pauperum_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_In_loco_peregrinationis</ant4>
+
+<ps4>ps118VII</ps4>
+
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+
+<ps5>ps52</ps5>
+
+<ant6>AN_Deus_adiuvat_me</ant6>
+
+<ps6>ps53</ps6>
+
+<LB_3>LB_1_Cor_12_4-6</LB_3>
+
+<RB_3>VERS_Prope_timentes</RB_3>
+
+<LB_6>LB_1_Cor_12_12-13</LB_6>
+
+<RB_6>VERS_Pater_sancte</RB_6>
+
+<LB_9>LB_1_Cor_12_24_b._25-26</LB_9>
+
+<RB_9>VERS_Domine_Deus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la>S. VINCENTII DE PAUL, PRESBYTERI</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_redemptor_omnium</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps48I</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps48II</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+
+<RB_soir>RB_Iustus_Dominus_Et_iustitiam</RB_soir>
+
+<magnificat>AN_Quod_uni_ex</magnificat>
+
+<vepres_preces>perannum_23</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_ad_salutem_pauperum_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Iustus_ut_palma</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_ad_salutem_pauperum_et</COL>			
+	
+<LEC1>1Co26,31</LEC1>	
+	
+<PS1>GR_Os_iusti</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Beatus_vir_qui_timet</PS2>
+	
+<SEQ/>
+	
+<EV>Mt9,35-38</EV>
+	
+<OF>OF_In_virtute_tua</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Amen_dico_vobis_quod_vos</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Vincent de Paul, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, ap&#xF4;tre de la charit&#xE9;, fondateur des Lazaristes. Tout en restant doux et humble, proche des pauvres, son action fut consid&#xE9;rable.  (&#x2020;1660)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 27 septembre</para><para>1. M&#xE9;moire de saint Vincent de Paul, pr&#xEA;tre. Rempli d&#x2019;esprit sacerdotal et enti&#xE8;rement donn&#xE9; aux pauvres &#xE0; Paris, il reconnaissait sur le visage de n&#x2019;importe quel malheureux la face de son Seigneur&#xA0;; pour retrouver la forme de l&#x2019;&#xC9;glise primitive, &#xE9;duquer le clerg&#xE9; &#xE0; la saintet&#xE9; et soulager les pauvres, il fonda la Congr&#xE9;gation de la Mission et, avec l&#x2019;aide de sainte Louise de Marillac, la Congr&#xE9;gation des Filles de la Charit&#xE9;. Il mourut, &#xE9;puis&#xE9;, &#xE0; Paris en 1660. </para><para>2. &#xC0; Milan, au IIIe si&#xE8;cle, saint Ca&#xEF;us, qui fut le second &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>3. &#xC0; Sedunum chez les &#xC9;duens, au Ve si&#xE8;cle, saint Florentin, qui aurait p&#xE9;ri par l&#x2019;&#xE9;p&#xE9;e des Vandales ainsi que saint Hilaire. </para><para>4. &#xC0; Liessies dans le Hainaut, apr&#xE8;s 800, sainte Hiltrude, vierge, qui v&#xE9;cut tr&#xE8;s pieusement dans une cellule adoss&#xE9;e &#xE0; la chapelle du monast&#xE8;re, dont son fr&#xE8;re Gontrand &#xE9;tait abb&#xE9;. </para><para>5. &#xC0; Cordoue en Andalousie, vers 845, les saints martyrs Adolphe et Jean, deux fr&#xE8;res, qui re&#xE7;urent la couronne du martyre dans la pers&#xE9;cution des Maures, au temps de l&#x2019;&#xE9;mir Abd ar -Rahman II. </para><para>6*. &#xC0; Fara, pr&#xE8;s de Cingoli dans les Marches, vers 1115, le tr&#xE9;pas de saint Bonfils, ancien &#xE9;v&#xEA;que de Foligno, qui, apr&#xE8;s avoir pass&#xE9; dix ans en Terre sainte, revint en Italie, trouva un autre &#xE9;v&#xEA;que &#xE0; Foligno, se retira comme simple moine au monast&#xE8;re de Storaco, dont il avait &#xE9;t&#xE9; abb&#xE9;, et mourut enfin dans la solitude &#xE0; Fara. </para><para>7. &#xC0; Paris, en 1323, le tr&#xE9;pas de saint Elz&#xE9;ar de Sabran, comte d&#x2019;Ariano, qui conserva, par v&#x153;u la virginit&#xE9; avec son &#xE9;pouse, la bienheureuse Delphine, et mourut &#xE0; l&#x2019;&#xE2;ge de trente-huit ans, ayant fait preuve de toutes les vertus. </para><para>8*. &#xC0; Pistoie en Toscane, l&#x2019;an&#xA0;1456, le bienheureux Laurent de Ripafratta, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui observa fid&#xE8;lement la vie selon la r&#xE8;gle pendant soixante ans, assidu &#xE0; entendre les p&#xE9;cheurs en confession. </para><para>9*. Dans la baie devant le port de Rochefort, en 1794, le bienheureux Jean-Baptiste Laborier du Vivier, diacre et chanoine de M&#xE2;con, martyr. Sous la R&#xE9;volution fran&#xE7;aise, parce qu&#x2019;il &#xE9;tait membre du clerg&#xE9;, il fut d&#xE9;port&#xE9;, dans des conditions inhumaines, sur un bateau n&#xE9;grier, et y mourut d&#x2019;une grave maladie. </para><para>10*. En Espagne, &#xE0; Sig&#xFC;enza en Nouvelle Castille, en 1936, les bienheureux martyrs Joseph Fenollosa Alcayna, pr&#xEA;tre, et Fid&#xE8;le (Marien Cl&#xE9;ment Sanches), religieux, tous deux capucins</para><para>11*. En Espagne, &#xE0; Gilet, dans la r&#xE9;gion de Valence, Fran&#xE7;oise-Xavi&#xE8;re (Marie Fenollosa Alcayna) religieuse du Tiers-Ordre capucin de la Sainte-Famille, et Hermie Martinez Amigo, m&#xE8;re de famille, victimes de la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

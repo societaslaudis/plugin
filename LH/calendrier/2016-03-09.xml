@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada IV Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>0,01</phase_lunaire>
+<age_lunaire>29</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1>AN_Benedic_anima_mea</antL1>
+<psL1/>
+<antL2>AN_Quomodo_miseretur_pater</antL2>
+<psL2/>
+<antL3>AN_Benedicite_Domino_omnia</antL3>
+<psL3/>
+<LVers>VERS_Viam_mandatorum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_44</Llec1>
+<Lrep1>R1_quadragesima_44</Lrep1>
+<Llec2>L2_quadragesima_44</Llec2>
+<Lrep2>R2_quadragesima_44</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Deus_in_sancto</ant1>
+ <ps1>ps107</ps1>
+ <ant2>AN_Exsultavit_cor_meum</ant2>
+ <ps2>AT30</ps2>
+ <ant3>AN_Dominus_regnavit_exsultet</ant3>
+ <ps3>ps145</ps3>
+ <LB_matin>LB_Deut_7_6b._8-9</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Qui_verbum_meum</benedictus>
+<laudes_preces>quadragesima_44</laudes_preces><oratio_laudes>COL_Deus_qui_et_iustis_praemia_meritorum</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118XIX</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps93I</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps93II</ps6>
+
+<LB_3>LB_Ez_18_30b-32</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Zac_1_3b-4b</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Dan_4_24b</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Exspectemus_beatam_spem</ant7>
+
+<ps7>ps138I</ps7>
+
+<ant8>AN_Illuminet_vultum_suum</ant8>
+
+<ps8>ps138II</ps8>
+
+<ant9>AN_In_ipso_condita</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Phil_2_12b-15a</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Non_possum_ego</magnificat>
+
+<vepres_preces>quadragesima_44</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_et_iustis_praemia_meritorum</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Exaudi_Deus_orationem_meam</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_et_iustis_praemia_meritorum</COL>			
+	
+<LEC1>Is49,8-15</LEC1>	
+	
+<PS1>GR_Venite_filii</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn5,17-30</EV>
+	
+<OF>OF_Benedicite_gentes</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Laetabimur</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Ste Fran&#xE7;oise Romaine, religieuse</intitule>
+ <biographiecourte>Veuve, religieuse, femme forte d'une charit&#xE9; active et grande mystique (&#x2020;1440)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>St Dominique Savio</intitule>
+ <biographiecourte>&#xC9;l&#xE8;ve de Dom Bosco, mort &#xE0; 15 ans en 1857</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 9 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de sainte Fran&#xE7;oise Romaine, religieuse. Mari&#xE9;e toute jeune, elle v&#xE9;cut quarante ans dans le mariage, &#xE9;pouse et m&#xE8;re de famille parfaite, admirable de pi&#xE9;t&#xE9;, d&#x2019;humilit&#xE9; et de patience. En p&#xE9;riode de calamit&#xE9;s, elle distribua ses biens aux pauvres, soigna les malades et, apr&#xE8;s la mort de son mari, elle se retira parmi les oblates qu&#x2019;elle avait rassembl&#xE9;es sous la R&#xE8;gle de saint Beno&#xEE;t, et mourut en 1440. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de S&#xE9;baste en Arm&#xE9;nie, l&#x2019;an&#xA0;320, la passion des saints quarante soldats cappadociens. Au temps de l&#x2019;empereur Licinius, fr&#xE8;res non par le sang, mais par la foi, ils d&#xE9;clar&#xE8;rent avec force qu&#x2019;ils &#xE9;taient chr&#xE9;tiens et, sur l&#x2019;ordre du pr&#xE9;fet Agricola, apr&#xE8;s avoir &#xE9;t&#xE9; encha&#xEE;n&#xE9;s et avoir subi des tourments atroces, ils furent expos&#xE9;s nus au grand air, toute une nuit, durant un hiver tr&#xE8;s rigoureux, sur un &#xE9;tang glac&#xE9;. Leurs corps, contract&#xE9;s par le froid, se disloquaient, et enfin ils eurent les jambes rompues pour achever leur martyre. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Barcelone en Catalogne, vers 390, saint Pacien, &#xE9;v&#xEA;que. Exposant la foi, il d&#xE9;clarait&#xA0;: &#x201C;Mon nom est&#xA0;: chr&#xE9;tien, et mon surnom&#xA0;: catholique&#x201D;.</para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Armentum en Lucanie, l&#x2019;an&#xA0;993, saint Vital, ermite. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Dans la Moravie orientale, en 1009, saint Bruno, &#xE9;v&#xEA;que de Querfurt et martyr. Alors qu&#x2019;il accompagnait en Italie l&#x2019;empereur Othon III, il fut remu&#xE9; par l&#x2019;autorit&#xE9; de saint Romuald, il se livra &#xE0; sa r&#xE8;gle de vie en recevant le nom de Boniface, puis il retourna en Allemagne, ordonn&#xE9; &#xE9;v&#xEA;que des pa&#xEF;ens par le pape Jean X et, dans une de ses courses missionnaires, il fut massacr&#xE9; par des idol&#xE2;tres avec dix-huit compagnons. </para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Bologne en &#xC9;milie, l&#x2019;an&#xA0;1469, sainte Catherine, abbesse de l&#x2019;Ordre de sainte Claire, qui dirigea les vierges consacr&#xE9;es, brillante dans les arts lib&#xE9;raux, plus c&#xE9;l&#xE8;bre encore par ses vertus mystiques et sa carri&#xE8;re de p&#xE9;nitence et d&#x2019;humilit&#xE9;. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Mondonio dans le Pi&#xE9;mont, en 1857, saint Dominique Savio. D&#x2019;un caract&#xE8;re doux et joyeux depuis son enfance, il parcourut &#xE0; grands pas, sous la direction de saint Jean Bosco, le chemin de la perfection, qu&#x2019;il acheva &#xE0; l&#x2019;&#xE2;ge de quinze ans. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nei-Ko-Ri en Cor&#xE9;e, l&#x2019;an&#xA0;1866, les saints martyrs Pierre Ch&#x2019; &#x153; Hyong et Jean-Baptiste Chon Chang-un. P&#xE8;res de famille, ils administraient le bapt&#xEA;me et &#xE9;ditaient des livres chr&#xE9;tiens, ce qui leur valut d&#x2019;&#xEA;tre soumis &#xE0; la torture. Ils demeur&#xE8;rent tellement fermes dans la foi qu&#x2019;ils provoqu&#xE8;rent l&#x2019;admiration de leurs pers&#xE9;cuteurs eux-m&#xEA;mes.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

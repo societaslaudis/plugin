@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada III per annum</la></hebdomada>
+<intitule><la>S. Thomae de Aquino, presbyteri et Ecclesiae doctoris</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>85,35</phase_lunaire>
+<age_lunaire>18</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Fontem_sapientiae_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Intuere_Domine_et</antL1>
+<psL1>ps88IV</psL1>
+<antL2>AN_Ego_sum_radix</antL2>
+<psL2>ps88V</psL2>
+<antL3>AN_Anni_nostri_sicut</antL3>
+<psL3>ps89</psL3>
+<LVers>VERS_Domine_apud</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Llec1>
+<Lrep1>R1_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Lrep1>
+<Llec2>L2_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Llec2>
+<Lrep2>R2_S._Thomae_de_Aquino_presbyteri_et_Ecclesiae_doctoris</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+ <ant1>AN_Gloriosa_dicta_sunt</ant1>
+ <ps1>ps86</ps1>
+ <ant2>AN_Dominus_in_fortitudine</ant2>
+ <ps2>AT25</ps2>
+ <ant3>AN_Exaltate_Dominum_Deum</ant3>
+ <ps3>ps98</ps3>
+ <LB_matin>LB_Sap_7_13-14</LB_matin> 
+ <RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> 
+<benedictus>AN_Benedictus_Dominus_pro</benedictus>
+<laudes_preces>COMMUNE_PASTORUM</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Thomam_sanctitatis_zelo</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Suscipe_me_Domine</ant4>
+
+<ps4>ps118XV</ps4>
+
+<ant5>AN_Adiuva_nos_Deus</ant5>
+
+<ps5>ps78</ps5>
+
+<ant6>AN_Deus_virtutum_respice</ant6>
+
+<ps6>ps79</ps6>
+
+<LB_3>LB_Sap_19_22</LB_3>
+
+<RB_3>VERS_Tu_es</RB_3>
+
+<LB_6>LB_Deut_4_7</LB_6>
+
+<RB_6>VERS_Prope_est</RB_6>
+
+<LB_9>LB_Est_10_3f</LB_9>
+
+<RB_9>VERS_Confitebor_tibi</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la>S. THOM&#xC6; DE AQUINO, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Aterne_sol_qui_lumine</HYMNUS_vepres>
+
+<ant7>AN_Sancti_tui_exsultent</ant7>
+
+<ps7>ps131I</ps7>
+
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+
+<ps8>ps131II</ps8>
+
+<ant9>AN_Dedit_ei_Dominus</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_Iac_3_17-18</LB_soir>
+
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+
+<magnificat>AN_Dedit_ei_Deus</magnificat>
+
+<vepres_preces>COMMUNE_PASTORUM</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_beatum_Thomam_sanctitatis_zelo</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Sapientiam_sanctorum</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_beatum_Thomam_sanctitatis_zelo</COL>			
+	
+<LEC1>Sg7,7-10.15-16</LEC1>	
+	
+<PS1>GR_Os_iusti</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Spiritus_Sanctus_docebit</PS2>
+	
+<SEQ/>
+	
+<EV>Mt23,8-12</EV>
+	
+<OF>OF_Meditabor</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Notas_mihi_fecisti</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Dominicain, auteur de la Somme th&#xE9;ologique, docteur de l'&#xC9;glise dit ang&#xE9;lique (&#x2020;1274)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 28 janvier</para><para>1.&#xA0; &#xA0; &#xA0; &#xA0; M&#xE9;moire de saint Thomas d&#x2019;Aquin, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs et docteur de l&#x2019;&#xC9;glise. Dou&#xE9; des plus hautes qualit&#xE9;s intellectuelles, il transmit aux autres, par ses pri&#xE8;res et ses &#xE9;crits, sa sagesse &#xE9;minente. Appel&#xE9; par le pape lui-m&#xEA;me, le bienheureux Gr&#xE9;goire X, au deuxi&#xE8;me Concile g&#xE9;n&#xE9;ral de Lyon, il s&#x2019;y rendait, quand il mourut au monast&#xE8;re de Fossanova dans le Latium, le 7 mars 1274 et, bien des ann&#xE9;es apr&#xE8;s, en 1369, son corps fut transf&#xE9;r&#xE9; &#xE0; Toulouse en ce jour. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de R&#xE9;om&#xE9; sur le territoire de Langres, vers 554, saint Jean, pr&#xEA;tre, tout d&#xE9;vou&#xE9; &#xE0; Dieu, qui rassembla des moines sous la R&#xE8;gle de saint Macaire. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Jacques, ermite en Palestine au VIe si&#xE8;cle, qui se cacha longtemps dans un tombeau pour faire p&#xE9;nitence. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cuenca en Espagne, vers 1207, saint Julien, &#xE9;v&#xEA;que. Second titulaire de la ville apr&#xE8;s sa reconqu&#xEA;te sur les Maures, il fit l&#x2019;admiration de tous, en distribuant aux pauvres tous les revenus de son &#xE9;v&#xEA;ch&#xE9; et en gagnant son pain par le travail de ses mains. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Au monast&#xE8;re de Saint-Fridien pr&#xE8;s de Pise en Toscane, l&#x2019;an&#xA0;1224, le bienheureux Barth&#xE9;lemy Aiutamicristo, religieux de l&#x2019;Ordre des Camaldules.</para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pl&#xE9;vin en Bretagne, l&#x2019;an&#xA0;1684, le bienheureux Julien Maunoir, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui se consacra tout entier pendant quarante-deux ans aux missions dans les bourgs et les villes de la province. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Maokou, dans la province chinoise de Guizhou, en 1858, les saints martyrs Agathe Lin Zhao, vierge, J&#xE9;r&#xF4;me Lu Tingmei et Laurent Wang Bing. Cat&#xE9;chistes, ils furent d&#xE9;nonc&#xE9;s comme chr&#xE9;tiens sous l&#x2019;empereur Wenzongxian et enfin d&#xE9;capit&#xE9;s. </para><para>8. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Daijiazhuang, dans la province de Shandong, en Chine, l&#x2019;an&#xA0;1908, saint Joseph Freinademetz, pr&#xEA;tre de la Soci&#xE9;t&#xE9; du Verbe divin, qui travailla sans rel&#xE2;che &#xE0; l&#x2019;&#x153;uvre de l&#x2019;&#xE9;vang&#xE9;lisation de cette r&#xE9;gion. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Picassent dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1937, la bienheureuse Marie-Louise Montesimos Ordu&#xF1;a, vierge et martyre. Membre de l&#x2019;action catholique ouvri&#xE8;re, elle fut ex&#xE9;cut&#xE9;e avec son p&#xE8;re, ses trois fr&#xE8;res et son oncle dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole.</para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de d&#xE9;tention de Kharsk pr&#xE8;s de Tomsk en Sib&#xE9;rie, l&#x2019;an&#xA0;1952, la bienheureuse Olympie (Olga Bida), vierge, de la Congr&#xE9;gation des S&#x153;urs de Saint-Joseph, et martyre, qui supporta, pour l&#x2019;amour du Christ, toutes les adversit&#xE9;s inflig&#xE9;es par le r&#xE9;gime communiste sovi&#xE9;tique. </para><para>**. En Italie, en 1930, le bienheureux Mo&#xEF;se Tovini, pr&#xEA;tre, professeur au s&#xE9;minaire de Brescia dont il deviendra sup&#xE9;rieur. Il fut le professeur de Paul VI. (b&#xE9;atifi&#xE9; le 17 septembre 2006 par Bebo&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>3</priorite>
+<couleur>Noir</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXI per annum</la></hebdomada>
+<intitule><la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la></intitule>
+<rang><la>Commemoratio</la></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>4,11</phase_lunaire>
+<age_lunaire>1</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_cui_omnia</invitatoire>
+<HYMNUS_lectures>hy_Qui_vivis_ante_saecula</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1>AN_Misericordia_et_veritas</antL1>
+<psL1>ps88I</psL1>
+<antL2>AN_Filius_Dei_factus</antL2>
+<psL2>ps88II</psL2>
+<antL3>AN_Semel_iuravi_David</antL3>
+<psL3>ps88III</psL3>
+<LVers>VERS_Declaratio_sermonum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_IN_COMMEMORATIONE_OMNIUM_FIDELIUM_DEFUNCTORUM</Llec1>
+<Lrep1>R1_IN_COMMEMORATIONE_OMNIUM_FIDELIUM_DEFUNCTORUM</Lrep1>
+<Llec2>L2_IN_COMMEMORATIONE_OMNIUM_FIDELIUM_DEFUNCTORUM</Llec2>
+<Lrep2>R2_IN_COMMEMORATIONE_OMNIUM_FIDELIUM_DEFUNCTORUM</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Spes_Christe_nostrae_veniae</HYMNUS_laudes>
+ <ant1>AN_Exsultabunt_Domino_ossa</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_A_porta_inferi</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Laudabo_Deum_meum</ant3>
+ <ps3>ps145</ps3>
+ <LB_matin>LB_1_Th_4_14</LB_matin> 
+ <RB_matin>RB_Exaltabo_te_Domine_Quoniam</RB_matin> 
+<benedictus>AN_Ego_sum_resurrectio</benedictus>
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Preces_nostras_quaesumus_Domine_benignus_exaudi</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Convertere_Domine_et</ant4>
+
+<ps4>ps118XIV</ps4>
+
+<ant5>AN_Sana_Domine_animam</ant5>
+
+<ps5>ps69</ps5>
+
+<ant6>AN_Deus_in_nomine</ant6>
+
+<ps6>ps74</ps6>
+
+<LB_3>LB_Iob_19_25-26</LB_3>
+
+<RB_3>VERS_Quare_tristis_es_anima_mea</RB_3>
+
+<LB_6>LB_Sap_1_13-14_a._15</LB_6>
+
+<RB_6>VERS_In_medio_umbrae_mortis_non</RB_6>
+
+<LB_9>LB_Is_25_8</LB_9>
+
+<RB_9>VERS_Exaudi_Deus_orationem_meam</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Immensae_rex_potentiae</HYMNUS_vepres>
+
+<ant7>AN_Dominus_custodit_te</ant7>
+
+<ps7>ps120</ps7>
+
+<ant8>AN_Si_iniquitates_observaveris</ant8>
+
+<ps8>ps129</ps8>
+
+<ant9>AN_Sicut_Pater_suscitat</ant9>
+
+<ps9>NT5</ps9>
+
+<LB_soir>LB_1_Cor_15_55-57</LB_soir>
+
+<RB_soir>RB_In_te_Domine_speravi_</RB_soir>
+
+<magnificat>AN_Omne_quod_dat</magnificat>
+
+<vepres_preces>perannum_34</vepres_preces>
+
+<oratio_vepres>COL_Preces_nostras_quaesumus_Domine_benignus_exaudi</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Requiem_aeternam</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Preces_nostras_quaesumus_Domine_benignus_exaudi</COL>			
+	
+<LEC1>2Mac12,43-46</LEC1>	
+	
+<PS1>GR_Requiem_aeternam</PS1>
+	
+<LEC2/>
+	
+<PS2>TR_Absolve</PS2>
+	
+<SEQ>SEQ_Dies_irae</SEQ>
+	
+<EV>Jn6,37-40</EV>
+	
+<OF>OF_Domine_Iesu_Christe</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Lux_aeterna</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>TOUS LES FID&#xC8;LES D&#xC9;FUNTS</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 2 novembre</para><para>1. Comm&#xE9;moraison de tous les fid&#xE8;les d&#xE9;funts. La sainte M&#xE8;re &#xC9;glise, attentive &#xE0; rendre de dignes louanges &#xE0; tous ses enfants qui jouissent du bonheur du ciel, s&#x2019;empresse d&#x2019;interc&#xE9;der aupr&#xE8;s de Dieu pour les &#xE2;mes de tous ceux qui se sont endormis dans l&#x2019;esp&#xE9;rance de la r&#xE9;surrection, mais aussi en faveur de tous les hommes depuis la cr&#xE9;ation du monde, dont le Seigneur seul conna&#xEE;t la foi, pour, qu&#x2019;avec le secours d&#x2019;instantes pri&#xE8;res, ils puissent entrer dans la communaut&#xE9; des habitants du ciel et jouir de la vision du bonheur &#xE9;ternel. </para><para>2. Comm&#xE9;moraison de saint Victorin, &#xE9;v&#xEA;que de Pettau en Pannonie et martyr. Apr&#xE8;s avoir compos&#xE9; plusieurs ouvrages pour commenter les Livres saints, il re&#xE7;ut, vers 304, dans la pers&#xE9;cution de Diocl&#xE9;tien, la couronne du martyre. </para><para>3. &#xC0; Trieste en Istrie, saint Juste, martyr. </para><para>4. &#xC0; S&#xE9;baste en Arm&#xE9;nie, les saints Carterius, Styriaque, Tobie, Eudoxe, Agapios et leurs compagnons, martyrs, soldats en garnison &#xE0; S&#xE9;baste au temps de l&#x2019;empereur Licinius, entre 307 et 322, parce qu&#x2019;ils persistaient dans la foi du Christ, ils furent, rapporte-t-on, br&#xFB;l&#xE9;s vifs. </para><para>5. En Perse, au IVe si&#xE8;cle, les saints martyrs Acindynus, P&#xE9;gase, Aphtonios, Elpidiphore, Anempodiste, avec un tr&#xE8;s grand nombre de compagnons, qui auraient souffert sous le roi Sapor II. </para><para>6. &#xC0; Vienne en Gaule, avant&#xA0;538, saint Domnin, &#xE9;v&#xEA;que, ami des pauvres et lib&#xE9;rateur des prisonniers. </para><para>7. Comm&#xE9;moraison de saint Marcien, ermite. N&#xE9; &#xE0; Cyr, il s&#x2019;&#xE9;tablit dans le d&#xE9;sert de Chalc&#xE9;doine&#xA0;; l&#xE0;, demeurant dans une cabane minuscule jusqu&#x2019;&#xE0; sa mort, apr&#xE8;s 381, il se nourrissait seulement le soir d&#x2019;un peu de pain et d&#x2019;eau, mais pla&#xE7;ait la charit&#xE9; fraternelle plus haut que le je&#xFB;ne. </para><para>8. Au monast&#xE8;re d&#x2019;Agaune en Suisse, en 520 ou 521, saint Ambroise, abb&#xE9;. Moine d&#x2019;abord, puis abb&#xE9; du monast&#xE8;re de l&#x2019;&#xCE;le-Barbe &#xE0; Lyon, il fut appel&#xE9; &#xE0; Agaune en raison de l&#x2019;excellence de son mode de vie religieuse et il y &#xE9;tablit l&#x2019;usage de la louange perp&#xE9;tuelle. </para><para>9. Au pays de Galles, sans doute au VIIe si&#xE8;cle, sainte Winifred, vierge, v&#xE9;n&#xE9;r&#xE9;e comme une moniale &#xE9;minente, pr&#xE8;s d&#x2019;une source appel&#xE9;e Treffynnon ou Holywell. </para><para>10. &#xC0; Vienne en Gaule, vers 675, saint Georges, &#xE9;v&#xEA;que. </para><para>11. Au monast&#xE8;re de Clairvaux en Bourgogne, l&#x2019;an&#xA0;1148, la mise au tombeau de saint Malachie, &#xE9;v&#xEA;que. Depuis l&#x2019;abbaye de Bangor qu&#x2019;il restaura, il dirigea le dioc&#xE8;se de Connor, mettant en &#x153;uvre le programme de r&#xE9;forme gr&#xE9;gorienne. Archev&#xEA;que d&#x2019;Armagh, il se heurta aux traditions insulaires et ne put tenir ce si&#xE8;ge&#xA0;; il retourna &#xE0; son dioc&#xE8;se de Connor, qu&#x2019;il divisa en deux, se r&#xE9;servant le nouveau si&#xE8;ge de Down. Alors qu&#x2019;il se dirigeait vers Rome, il mourut &#xE0; Clairvaux en pr&#xE9;sence de saint Bernard. </para><para>12*. &#xC0; Mortagne en Normandie, l&#x2019;an&#xA0;1521, la bienheureuse Marguerite de Lorraine. Duchesse d&#x2019;Alen&#xE7;on, devenue veuve, elle mena ensuite la vie religieuse dans le monast&#xE8;re de Clarisses qu&#x2019;elle avait fait construire. </para><para>13*. &#xC0; Andover dans le comt&#xE9; du Hampshire en Angleterre, l&#x2019;an&#xA0;1583, le bienheureux Jean Bodey, martyr. Juriste catholique z&#xE9;l&#xE9;, il refusa de reconna&#xEE;tre la supr&#xE9;matie de la reine Elisabeth I&#xE8;re dans le domaine spirituel, ce qui le conduisit &#xE0; &#xEA;tre pendu et &#xE9;ventr&#xE9;. </para><para>14*. &#xC0; Casale en &#xC9;milie, l&#x2019;an&#xA0;1889, le bienheureux Pie de Saint-Louis (Louis Campidelli), religieux passioniste, qui fut atteint, encore jeune, d&#x2019;une maladie violente, qu&#x2019;il accepta en adh&#xE9;rant parfaitement &#xE0; la volont&#xE9; divine. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

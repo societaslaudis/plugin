@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>5</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXXII per annum</la></hebdomada>
+<intitule><la>IN DEDICATIONE BASILICAE LATERANENSIS</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>61,29</phase_lunaire>
+<age_lunaire>8</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Sponsum_Ecclesiae</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1>AN_Benedic_anima_mea</antL1>
+<psL1/>
+<antL2>AN_Quomodo_miseretur_pater</antL2>
+<psL2/>
+<antL3>AN_Benedicite_Domino_omnia</antL3>
+<psL3/>
+<LVers>VERS_Viam_mandatorum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_IN_DEDICATIONE_BASILICAE_LATERANENSIS</Llec1>
+<Lrep1>R1_IN_DEDICATIONE_BASILICAE_LATERANENSIS</Lrep1>
+<Llec2>L2_IN_DEDICATIONE_BASILICAE_LATERANENSIS</Llec2>
+<Lrep2>R2_IN_DEDICATIONE_BASILICAE_LATERANENSIS</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Angularis_fundamentum</HYMNUS_laudes>
+ <ant1>AN_Domus_mea</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Benedictus_es_Domine</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Laudate_Dominum_in</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_Is_56_7</LB_matin> 
+ <RB_matin>RB_Magnus_Dominus_Et_laudabilis_nimis</RB_matin> 
+<benedictus>AN_Zachaee_festinans</benedictus>
+<laudes_preces>perannum_44</laudes_preces><oratio_laudes>COL_Deus_qui_populum_tuum_Ecclesiam_vocare</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Clamavi</ant4>
+
+<ps4>ps118XIX</ps4>
+
+<ant5>AN_Dominus_scit_cogitationes</ant5>
+
+<ps5>ps93I</ps5>
+
+<ant6>AN_Factus_est_mihi</ant6>
+
+<ps6>ps93II</ps6>
+
+<LB_3>LB_1_Cor_3_16-17</LB_3>
+
+<RB_3>VERS_Domine_dilexi_decorem_domus_tuae</RB_3>
+
+<LB_6>LB_2_Cor_6_16</LB_6>
+
+<RB_6>VERS_Rogate_quae_ad_pacem_sunt</RB_6>
+
+<LB_9>LB_Ier_7_2_b._4-5_a._7_a</LB_9>
+
+<RB_9>VERS_Introite_portas_Domini_in_confessione</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la>IN DEDICATIONE BASILIC&#xC6; LATERANENSIS</la></intitule_soir>
+
+<rang_soir><la>Festum</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Urbs_Ierusalem_beata</HYMNUS_vepres>
+
+<ant7>AN_Sanctificavit_Dominus_tabernaculum</ant7>
+
+<ps7>ps45</ps7>
+
+<ant8>AN_Ego_in_medio</ant8>
+
+<ps8>ps121</ps8>
+
+<ant9>AN_In_domum_Domini</ant9>
+
+<ps9>NT12</ps9>
+
+<LB_soir>LB_Ap_21_1_a._2-3._22._27</LB_soir>
+
+<RB_soir>RB_Beati_qui_habitant_In</RB_soir>
+
+<magnificat>AN_Sanctificavit_Dominus_tabernaculum</magnificat>
+
+<vepres_preces>perannum_44</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_populum_tuum_Ecclesiam_vocare</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Deus_in_loco_sancto_suo</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_populum_tuum_Ecclesiam_vocare</COL>			
+	
+<LEC1>Ez47,1-2.8-9.12</LEC1>	
+	
+<PS1>GR_Laetatus_sum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Bene_fundata_est</PS2>
+	
+<SEQ/>
+	
+<EV>Jn2,13-22</EV>
+	
+<OF>OF_Domine_Deus_in_simplicitate</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Ierusalem_quae_aedificatur</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>D&#xE9;dicace de la Basilique du Latran</intitule>
+ <biographiecourte>Anniversaire de la d&#xE9;dicace faite vers l'an 324.
+"M&#xE8;re et T&#xEA;te de toutes les &#xC9;glises&#xA0;", cette basilique est le signe de l'autorit&#xE9; du pape sur toute la chr&#xE9;tient&#xE9;</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 9 novembre</para><para>1. F&#xEA;te de la d&#xE9;dicace de la basilique du Latran, construite en l&#x2019;honneur du Christ Sauveur par l&#x2019;empereur Constantin, comme si&#xE8;ge de l&#x2019;&#xE9;v&#xEA;que de Rome. La c&#xE9;l&#xE9;bration de son anniversaire est, dans toute l&#x2019;&#xC9;glise latine, un signe de dilection et d&#x2019;unit&#xE9; avec le si&#xE8;ge de Pierre.</para><para>2. &#xC0; Bourges, vers 300, saint Ursin, premier &#xE9;v&#xEA;que de la cit&#xE9;, qui annon&#xE7;a au peuple le Christ Seigneur, et pour les croyants, dont la plupart &#xE9;taient des pauvres, il transforma en &#xE9;glise une maison donn&#xE9;e par le s&#xE9;nateur L&#xE9;ocade, encore pa&#xEF;en. </para><para>3. &#xC0; Naples, au IIIe si&#xE8;cle, saint Agrippin, &#xE9;v&#xEA;que, parmi les premiers, que d&#x2019;antiques documents d&#xE9;clarent d&#xE9;fenseur de la cit&#xE9;. </para><para>4*. &#xC0; Verdun, au d&#xE9;but du VIe si&#xE8;cle, saint Vannes, &#xE9;v&#xEA;que. </para><para>5. &#xC0; Constantinople, au VIe ou VIIe si&#xE8;cle, les saintes Eustolie et Sopatra, vierges moniales. </para><para>6*. &#xC0; Lod&#xE8;ve dans la Narbonnaise, vers 870, saint Georges, &#xE9;v&#xEA;que. </para><para>7*. &#xC0; Signa, pr&#xE8;s de Florence en Toscane, l&#x2019;an&#xA0;1307, la bienheureuse Jeanne, vierge, qui mena pour le Christ une vie solitaire. </para><para>8*. &#xC0; Anc&#xF4;me dans les Marches, en 1456, le bienheureux Gabriel Feretto, pr&#xEA;tre, de l&#x2019;Ordre des Mineurs, qui brilla par son soin des petits enfants et des malades, son ob&#xE9;issance et son observance de la R&#xE8;gle. </para><para>9*. &#xC0; Bologne en &#xC9;milie, l&#x2019;an&#xA0;1485, le bienheureux Louis Morbioli. Quittant le sentier des vices, il se tourna vers Dieu, choisit une vie tr&#xE8;s dure de p&#xE9;nitent et ramena ses concitoyens &#xE0; la pi&#xE9;t&#xE9; par sa parole et son exemple. </para><para>10*. &#xC0; Murano pr&#xE8;s de Venise, l&#x2019;an&#xA0;1508, le bienheureux Gr&#xE2;ce de Catharo, religieux augustin. Alors qu&#x2019;il jouait de la cymbale pour gagner sa nourriture, &#xE9;tant dans la plus grande mis&#xE8;re, il fut &#xE9;branl&#xE9; par les sermons d&#x2019;un religieux, demanda l&#x2019;habit des augustins et mena une vie tr&#xE8;s pieuse. </para><para>11*. &#xC0; Oxford en Angleterre, l&#x2019;an&#xA0;1610, le bienheureux Georges Napper, pr&#xEA;tre et martyr. Pour gagner des &#xE2;mes au Christ dans l&#x2019;&#xC9;glise, il fit un travail remarquable, tant dans son minist&#xE8;re clandestin que dans sa prison, et, sous le roi Jacques Ier, &#xE0; cause de son sacerdoce, il fut condamn&#xE9; &#xE0; mort et conduit &#xE0; la potence. </para><para>12*. &#xC0; Dijon, en 1906, la bienheureuse &#xC9;lisabeth de la Trinit&#xE9; (&#xC9;lisabeth Catez), vierge carm&#xE9;lite. D&#xE8;s l&#x2019;enfance, elle s&#x2019;attacha du fond du c&#x153;ur &#xE0; rechercher et &#xE0; contempler la Sainte Trinit&#xE9; et, afflig&#xE9;e, encore jeune, de multiples douleurs, elle parvint, comme elle l&#x2019;avait souhait&#xE9;, &#x201C;&#xE0; l&#x2019;amour, &#xE0; la lumi&#xE8;re, &#xE0; la vie&#x201D;. </para><para>13*. Pr&#xE8;s de Borysow en Lituanie, l&#x2019;an&#xA0;1941, le bienheureux Henri Hlebowicz, pr&#xEA;tre de Vilnius et martyr. Durant l&#x2019;occupation nazie du pays, il fit publiquement &#xE0; l&#x2019;&#xE9;glise le don de sa vie en sacrifice pour sauver la foi des jeunes, soumise &#xE0; un programme de destruction. Arr&#xEA;t&#xE9; le 7 novembre, il fut fusill&#xE9; le surlendemain dans un bois. </para><para>14*. &#xC0; Rome, en 1951, le bienheureux Louis Beltrame Quattrocchi, p&#xE8;re de famille, qui observa la loi du Christ aussi bien en public qu&#x2019;en famille, et la proclama par son discernement et sa probit&#xE9;. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1899, la bienheureuse Carmen del Nino J&#xE9;sus Gonzalez Ramos Garcia Prieto, (Carmen de l&#x2019;enfant j&#xE9;sus), veuve et sans enfant, elle fonda la congr&#xE9;gation des s&#x153;urs du sacr&#xE9; C&#x153;ur. (b&#xE9;atifi&#xE9;e le 6 mai 2007 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

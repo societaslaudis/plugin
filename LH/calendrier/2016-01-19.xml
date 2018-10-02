@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada II per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>71,99</phase_lunaire>
+<age_lunaire>9</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Deum_magnum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1/>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2/>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3/>
+<LVers>VERS_Bonitatem_et</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_2-3</Llec1>
+<Lrep1>R1_perannum_2-3</Lrep1>
+<Llec2>L2_perannum_2-3</Llec2>
+<Lrep2>R2_perannum_2-3</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aeterne_lucis_conditor</HYMNUS_laudes>
+ <ant1>AN_Emitte_lucem_tuam</ant1>
+ <ps1>ps42</ps1>
+ <ant2>AN_Cunctis_diebus_vitae</ant2>
+ <ps2>AT23</ps2>
+ <ant3>AN_Te_decet_hymnus</ant3>
+ <ps3>ps64</ps3>
+ <LB_matin>LB_1_Th_5_4-5</LB_matin> 
+ <RB_matin>RB_Vocem_meam_audi_Domine</RB_matin> 
+<benedictus>AN_De_manu_omnium</benedictus>
+<laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Domine_Iesu_Christe_lux_vera_qui</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_In_loco_peregrinationis</ant4>
+
+<ps4>ps118VII</ps4>
+
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+
+<ps5>ps52</ps5>
+
+<ant6>AN_Deus_adiuvat_me</ant6>
+
+<ps6>ps53</ps6>
+
+<LB_3>LB_1_Cor_12_4-6</LB_3>
+
+<RB_3>VERS_Prope_timentes</RB_3>
+
+<LB_6>LB_1_Cor_12_12-13</LB_6>
+
+<RB_6>VERS_Pater_sancte</RB_6>
+
+<LB_9>LB_1_Cor_12_24_b._25-26</LB_9>
+
+<RB_9>VERS_Domine_Deus</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+
+<ant7>AN_Non_potestis_Deo</ant7>
+
+<ps7>ps48I</ps7>
+
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+
+<ps8>ps48II</ps8>
+
+<ant9>AN_Dignus_est_Agnus</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_Rom_3_23-25a</LB_soir>
+
+<RB_soir>RB_Adimplebis_me_laetitia</RB_soir>
+
+<magnificat>AN_Fac_nobiscum_Domine</magnificat>
+
+<vepres_preces>perannum_23</vepres_preces>
+
+<oratio_vepres>COL_Domine_Deus_cuius_est_dies_et</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN>IN_Omnis_terra</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_qui_diligentibus_te_bona_invisibilia</COL>			
+	
+<LEC1>1S16,1-13</LEC1>	
+	
+<PS1>GR_Misit_Dominus</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Laudate_Deum</PS2>
+	
+<SEQ/>
+	
+<EV>Mc2,23-28</EV>
+	
+<OF>OF_Iubilate_Deo_universa_terra</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Laetabimur</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Marcel Spinola Y Maestre</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de S&#xE9;ville, avocat, fondateur de la congr&#xE9;gation &#xE9;ducatrice des "Esclaves du Divin C&#x153;ur&#xA0;" (&#x2020; 1906)           </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 janvier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Smyrne en Asie, vers l&#x2019;an&#xA0;167, la passion de saint Germanique, martyr de Philadelphie. Au temps de Marc Antonin et de Lucien Aur&#xE8;le, il fut disciple de saint Polycarpe qu&#x2019;il pr&#xE9;c&#xE9;da dans le martyre&#xA0;: alors qu&#x2019;il &#xE9;tait &#xE0; la fleur de l&#x2019;&#xE2;ge, il fut condamn&#xE9; par le juge. Par la force de Dieu, sans tenir compte de la crainte que lui inspirait un corps fragile, il provoqua de lui-m&#xEA;me la b&#xEA;te qui devait le d&#xE9;vorer. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Spol&#xE8;te en Ombrie, au IIe si&#xE8;cle, saint Pontien, martyr. Au temps de l&#x2019;empereur Antonin, il fut, dit-on, violemment frapp&#xE9; de verges pour le Christ et enfin transperc&#xE9; par l&#x2019;&#xE9;p&#xE9;e.</para><para>&#xA0;3. &#xA0; &#xA0; &#xA0; &#xA0; Sur la voie Corn&#xE9;lienne au treizi&#xE8;me mille de Rome, au cimeti&#xE8;re &#x201C;Aux Nymphes&#x201D;, les saints martyrs Marius, Marthe, Audifax et Abacum. </para><para>4. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Macaire le Grand, pr&#xEA;tre et abb&#xE9; du monast&#xE8;re de Sc&#xE9;t&#xE9; en &#xC9;gypte aux confins de la Libye, en 300. Ancien chamelier, il apprit &#xE0; la suite de saint Antoine, &#xE0; mourir au monde et &#xE0; lui-m&#xEA;me et &#xE0; vivre pour Dieu seul, et il enseignait &#xE0; ses disciples &#xE0; faire de m&#xEA;me. </para><para>5. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de Saint Macaire, surnomm&#xE9; l&#x2019;Alexandrin, pr&#xEA;tre et anachor&#xE8;te, dans le d&#xE9;sert des Cellules en &#xC9;gypte, vers 408.</para><para>6. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Lodi en Ligurie, comm&#xE9;moraison de saint Bassien, &#xE9;v&#xEA;que, en l&#x2019;an&#xA0;409. Li&#xE9; d&#x2019;amiti&#xE9; avec saint Ambroise de Milan, il combattit avec lui avec vigueur pour d&#xE9;fendre son troupeau de l&#x2019;h&#xE9;r&#xE9;sie arienne alors florissante dans la r&#xE9;gion. </para><para>7. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Como en Lombardie, vers 580, les saintes Lib&#xE9;rate et Faustine, s&#x153;urs et vierges, &#xE0; l&#x2019;origine du monast&#xE8;re de Sainte-Marguerite.</para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Chartres, en 593, saint Laumer, abb&#xE9; du monast&#xE8;re de Corbion qu&#x2019;il fonda dans la solitude du Perche. </para><para>9. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ravenne en Flaminie, l&#x2019;an&#xA0;595, saint Jean, &#xE9;v&#xEA;que. Lorsque la guerre des Lombards secouait toute l&#x2019;Italie, il pourvut excellemment aux besoins de son &#xC9;glise, comme en t&#xE9;moigne le pape saint Gr&#xE9;goire le Grand, qui lui envoya son livre sur la R&#xE8;gle des pasteurs. </para><para>10*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Rouen, vers 762, saint Remi, &#xE9;v&#xEA;que. Fr&#xE8;re du roi P&#xE9;pin, il veilla avec une application z&#xE9;l&#xE9;e au chant de la psalmodie &#xE0; la mani&#xE8;re romaine. </para><para>11*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Corcyre en Gr&#xE8;ce, au Xe si&#xE8;cle, saint Ars&#xE8;ne, &#xE9;v&#xEA;que, pasteur attentif &#xE0; son troupeau et assidu &#xE0; la pri&#xE8;re nocturne.</para><para>12*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; S&#xE9;ville en Espagne, l&#x2019;an&#xA0;1906, le bienheureux Marcel Spinola y Maestro, &#xE9;v&#xEA;que. Pour faire progresser la soci&#xE9;t&#xE9;, il fonda des cercles d&#x2019;ouvriers, il combattit pour la v&#xE9;rit&#xE9; et l&#x2019;&#xE9;quit&#xE9;, et ouvrit sa maison aux pauvres. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

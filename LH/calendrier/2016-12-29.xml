@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>A</lettre_annee>
+<priorite>12</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Nativitatis</la></tempus>
+<hebdomada><la>Infra octavam Nativitatis</la></hebdomada>
+<intitule><la>S. Thomae Becket, episcopi et martyris</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>0,12</phase_lunaire>
+<age_lunaire>29</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Venite_adoremus_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
+<LVers>VERS_Revela_Domine</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_5</Llec1>
+<Lrep1>R1_5</Lrep1>
+<Llec2>L2_5</Llec2>
+<Lrep2>R2_5</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Sol_ecce_surgit_igneus</HYMNUS_laudes>
+ <ant1>AN_Exsurge_PSalterium_et</ant1>
+ <ps1>ps56</ps1>
+ <ant2>AN_Populus_meus</ant2>
+ <ps2>AT36</ps2>
+ <ant3>AN_Magnus_Dominus_et</ant3>
+ <ps3>ps47</ps3>
+ <LB_matin>LB_Is_66_1-2</LB_matin> 
+ <RB_matin>RB_Clamavi_in_toto_corde_meo</RB_matin> 
+<benedictus>AN_In_sanctitate_serviamus</benedictus>
+<laudes_preces>perannum_15</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_vespere_mane_et</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Revela_oculos_meos</ant4>
+
+<ps4>ps118III</ps4>
+
+<ant5>AN_Dirige_me_in</ant5>
+
+<ps5>ps24I</ps5>
+
+<ant6>AN_Respice_in_me</ant6>
+
+<ps6>ps24II</ps6>
+
+<LB_3>LB_1_P_1_13-14</LB_3>
+
+<RB_3>VERS_Benedicite_omnia</RB_3>
+
+<LB_6>LB_Am_5_8</LB_6>
+
+<RB_6>VERS_Magnificentia_et</RB_6>
+
+<LB_9>LB_Am_9_6</LB_9>
+
+<RB_9>VERS_Caeli_enarrant</RB_9>
+
+<oratio_3>COL_Te_Domine_suppliciter_exoramus_ut_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_sempiterne_Deus_apud_quem_nihil </oratio_6>
+
+<oratio_9>COL_Da_nobis_orantibus_quaesumus_Domine_ut</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+
+<ant7>AN_Clamavi_ad_te</ant7>
+
+<ps7>ps29</ps7>
+
+<ant8>AN_Beatus_vir_cui</ant8>
+
+<ps8>ps31</ps8>
+
+<ant9>AN_Dedit_ei_Dominus</ant9>
+
+<ps9>NT10</ps9>
+
+<LB_soir>LB_1_Petr_1_6-9</LB_soir>
+
+<RB_soir>RB_Cibavit_nos_Dominus</RB_soir>
+
+<magnificat>AN_Deposuit_Dominus_potentes</magnificat>
+
+<vepres_preces>perannum_15</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_illuminas_noctem_et_lumen</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Caro_mea</comp_ant1>
+
+<comp_ps1>ps15</comp_ps1>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio>
+
+<comp_AM>Alma_redemptoris</comp_AM><messe>
+	
+<IN/>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1/>	
+	
+<PS1/>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV/>
+	
+<OF/>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO/>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St David, proph&#xE8;te</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Thomas Becket, &#xE9;v&#xEA;que et martyr</intitule>
+ <biographiecourte>Chancelier du roi Henri II, archev&#xEA;que de Cantorb&#xE9;ry, il d&#xE9;fendit l'ind&#xE9;pendance de l'&#xC9;glise. Il fut tu&#xE9; dans sa cath&#xE9;drale  en 1170</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 29 d&#xE9;cembre</para><para>1. M&#xE9;moire de saint Thomas Becket, &#xE9;v&#xEA;que et martyr. Pour la d&#xE9;fense de la justice et de la libert&#xE9; de l&#x2019;&#xC9;glise, il fut contraint de quitter le si&#xE8;ge de Cantorb&#xE9;ry et m&#xEA;me le royaume d&#x2019;Angleterre et de vivre en exil en France. Revenu en Angleterre au bout de six ans, il eut encore beaucoup &#xE0; supporter jusqu&#x2019;&#xE0; ce que, en 1170, des chevaliers du roi Henri II le frappent de l&#x2019;&#xE9;p&#xE9;e dans sa cath&#xE9;drale et qu&#x2019;ainsi il s&#x2019;en aille vers le Christ. </para><para>2. Comm&#xE9;moraison de saint David, roi et proph&#xE8;te. Fils de Jess&#xE9; le Bethl&#xE9;&#xE9;mite, il trouva gr&#xE2;ce devant Dieu et re&#xE7;ut l&#x2019;onction sacr&#xE9;e du proph&#xE8;te Samuel pour r&#xE9;gner sur le peuple d&#x2019;Isra&#xEB;l&#xA0;; il fit venir dans la cit&#xE9; de J&#xE9;rusalem l&#x2019;arche de l&#x2019;alliance du Seigneur et le Seigneur lui-m&#xEA;me lui jura bient&#xF4;t que sa descendance demeurerait &#xE0; jamais, du fait que le Christ J&#xE9;sus na&#xEE;trait de sa lign&#xE9;e selon la chair. Il se coucha avec ses p&#xE8;res &#xE0; un &#xE2;ge avanc&#xE9; vers&#xA0;972 avant le Christ. </para><para>3. &#xC0; Arles en Provence, peut-&#xEA;tre au IIIe si&#xE8;cle, saint Trophime, consid&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>4. &#xC0; Carthage, vers 528, saint Libosus, &#xE9;v&#xEA;que de Vaga et martyr. Au concile de Carthage, il d&#xE9;clara, &#xE0; propos du bapt&#xEA;me des h&#xE9;r&#xE9;tiques&#xA0;: &#x201C;Dans l&#x2019;&#xC9;vangile le Christ &#xE0; dit&#xA0;: Je suis la v&#xE9;rit&#xE9;. Il n&#x2019;a pas dit&#xA0;: Je suis la coutume. Il faut que la coutume c&#xE8;de &#xE0; la v&#xE9;rit&#xE9;.&#x201D; </para><para>5. &#xC0; Milan, vers 435, saint Martinien, &#xE9;v&#xEA;que. </para><para>6. &#xC0; Constantinople, vers 485, saint Marcel, abb&#xE9; du monast&#xE8;re des Ac&#xE9;m&#xE8;tes sur le Bosphore, o&#xF9; jour et nuit le chant des psaumes se poursuivait sans aucune interruption. </para><para>7. Au pays d&#x2019;Exmes en Gaule, l&#x2019;an&#xA0;596, saint &#xC9;vroul, abb&#xE9; d&#x2019;Ouche, au temps du roi de Neustrie Childebert. Il fut c&#xE9;l&#xE8;bre pour son amour de la solitude, ses aust&#xE9;rit&#xE9;s et sa bont&#xE9; envers les pauvres. </para><para>8*. &#xC0; Palerme en Sicile, l&#x2019;an&#xA0;1342, le bienheureux G&#xE9;rard Cagnoli, religieux de l&#x2019;Ordre des Mineurs&#xA0;; qui mena d&#x2019;abord assez longtemps la vie &#xE9;r&#xE9;mitique. </para><para>9*. &#xC0; Londres, en 1680, le bienheureux Guillaume Howard, martyr. Vicomte de Stafford, petit-fils de saint Philippe Howard, &#xE9;lev&#xE9; dans la foi catholique, il fut arr&#xEA;t&#xE9; sur la fausse accusation de complot contre le roi Charles II, enferm&#xE9; &#xE0; la tour de Londres, d&#xE9;clar&#xE9; coupable et d&#xE9;capit&#xE9;. </para><para>10. &#xC0; S&#xE9;oul en Cor&#xE9;e, l&#x2019;an&#xA0;1839, les saints martyrs B&#xE9;n&#xE9;dicte Hyon Kyong-nyon, veuve, cat&#xE9;chiste, et six compagnons, qui subirent de nombreux supplices pour le nom chr&#xE9;tien et finalement furent d&#xE9;capit&#xE9;s. </para><para>11*. Dans la r&#xE9;gion de Valence en Espagne, en 1936, le bienheureux martyr Joseph Aparicio Sanz, pr&#xEA;tre, &#xE0; Paterna&#xA0;</para><para>12*. Dans la r&#xE9;gion de Valence en Espagne, en 1936 les bienheureux Henri-Jean Requena, pr&#xEA;tre, et Joseph Perpi&#xF1;a Nacher, &#xE0; Picadero de Paterna&#xA0;</para><para>13*. Dans la r&#xE9;gion de Valence, en Espagne, en 1936, le bienheureux Jean-Baptiste Ferreres Boluda, pr&#xEA;tre j&#xE9;suite, &#xE0; Saint-Michel des Rois&#xA0;; victimes de la pers&#xE9;cution contre l&#x2019;&#xC9;glise au temps de la guerre civile.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

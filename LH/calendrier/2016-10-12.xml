@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXVIII per annum</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>4</hebdomada_psalterium>
+<phase_lunaire>76,60</phase_lunaire>
+<age_lunaire>10</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Iubilate_Deo_omnis</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christe_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1>AN_Benedic_anima_mea</antL1>
+<psL1/>
+<antL2>AN_Quomodo_miseretur_pater</antL2>
+<psL2/>
+<antL3>AN_Benedicite_Domino_omnia</antL3>
+<psL3/>
+<LVers>VERS_Viam_mandatorum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_perannum_28-4</Llec1>
+<Lrep1>R1_perannum_28-4</Lrep1>
+<Llec2>L2_perannum_28-4</Llec2>
+<Lrep2>R2_perannum_28-4</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Fulgentis_auctor_aetheris</HYMNUS_laudes>
+ <ant1>AN_Paratum_cor_meum</ant1>
+ <ps1>ps107</ps1>
+ <ant2>AN_Induit_me_Dominus</ant2>
+ <ps2>AT30</ps2>
+ <ant3>AN_Laudabo_Deum_meum</ant3>
+ <ps3>ps145</ps3>
+ <LB_matin>LB_Deut_4_39-40a</LB_matin> 
+ <RB_matin>RB_Benedicam_Dominum_In_omni</RB_matin> 
+<benedictus>AN_In_sanctitate_serviamus</benedictus>
+<laudes_preces>perannum_44</laudes_preces><oratio_laudes>COL_Memorare_Domine_testamenti_tui_sancti_quod</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Clamavi</ant4>
+
+<ps4>ps118XIX</ps4>
+
+<ant5>AN_Dominus_scit_cogitationes</ant5>
+
+<ps5>ps93I</ps5>
+
+<ant6>AN_Factus_est_mihi</ant6>
+
+<ps6>ps93II</ps6>
+
+<LB_3>LB_1_Cor_10_24._31</LB_3>
+
+<RB_3>VERS_Bonum_est</RB_3>
+
+<LB_6>LB_Col_3_17</LB_6>
+
+<RB_6>VERS_Tibi_Domine</RB_6>
+
+<LB_9>LB_Col_3_23-24</LB_9>
+
+<RB_9>VERS_Dominus_pars</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sol_ecce_lentus_occidens</HYMNUS_vepres>
+
+<ant7>AN_Mirabilis_facta_est</ant7>
+
+<ps7>ps138I</ps7>
+
+<ant8>AN_Ego_Dominus_scrutans</ant8>
+
+<ps8>ps138II</ps8>
+
+<ant9>AN_In_ipso_condita</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_1_Io_2_3-6</LB_soir>
+
+<RB_soir>RB_Custodi_nos_Domine</RB_soir>
+
+<magnificat>AN_Fac_Deus_potentiam</magnificat>
+
+<vepres_preces>perannum_44</vepres_preces>
+
+<oratio_vepres>COL_Recordare_Domine_misericordiae_tuae_ut_qui</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Si_iniquitates</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Tua_nos_quaesumus_Domine_gratia_semper</COL>			
+	
+<LEC1>Ga5,18-25</LEC1>	
+	
+<PS1>GR_Ecce_quam_bonum</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Qui_timent_Dominum</PS2>
+	
+<SEQ/>
+	
+<EV>Lc11,42-46</EV>
+	
+<OF>OF_Recordare_mei</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Aufer_a_me</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>Le bon Laron</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St S&#xE9;raphin d'Ascoli, fr&#xE8;re</intitule>
+ <biographiecourte>Fr&#xE8;re capucin, illettr&#xE9;, il commentait merveilleusement bien l'&#xC9;vangile (&#x2020;1604)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 12 octobre</para><para>1. &#xC0; Rome, sur la voie Labicane, saint H&#xE9;diste, martyr. </para><para>2. &#xC0; Anazarbe en Cilicie, vers 304, sainte Domnine, martyre, qui, selon la tradition, souffrit bien des tortures et rendit son &#xE2;me &#xE0; Dieu en prison, sous l&#x2019;empereur Diocl&#xE9;tien et le juge Lycias. </para><para>3. Comm&#xE9;moraison de quatre mille neuf cent soixante-six saints martyrs et confesseurs de la foi en Afrique. En 483, dans la pers&#xE9;cution vandale, &#xE9;v&#xEA;ques, pr&#xEA;tres et diacres de l&#x2019;&#xC9;glise de Dieu, et une foule du peuple fid&#xE8;le avec eux, furent envoy&#xE9;s en exil sur l&#x2019;ordre du roi arien Hunn&#xE9;ric en haine de la v&#xE9;rit&#xE9; catholique, dans des endroits affreusement d&#xE9;sertiques et &#xE0; la fin, apr&#xE8;s divers supplices, re&#xE7;urent le martyre. Parmi eux les &#xE9;v&#xEA;ques Cyprien et F&#xE9;lix, principaux pr&#xEA;tres du Seigneur.</para><para>4*. &#xC0; Plaisance en &#xC9;milie, au Ve si&#xE8;cle, saint Opilion, diacre. </para><para>5. &#xC0; Rome, en 530, saint F&#xE9;lix IV, pape, qui convertit en &#xE9;glises deux temples du Forum romain, en l&#x2019;honneur des saints C&#xF4;me et Damien, et se d&#xE9;pensa beaucoup pour la foi catholique. </para><para>6. Dans le Norique, au VIIe si&#xE8;cle, saint Maximilien, que l&#x2019;on pense avoir &#xE9;t&#xE9; &#xE9;v&#xEA;que de Lorch. </para><para>7*. &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1254, saint Rodobalde, &#xE9;v&#xEA;que, homme d&#x2019;une abstinence exemplaire, grandement adonn&#xE9; au culte divin et &#xE0; la recherche de reliques des saints. </para><para>8. &#xC0; Ascoli Piceno dans les Marches, en 1604, saint S&#xE9;raphim de Montegranaro, religieux capucin, qui brilla par sa vraie pauvret&#xE9;, son humilit&#xE9; et sa pi&#xE9;t&#xE9;. </para><para>9*. &#xC0; Londres, en 1642, le bienheureux Thomas Bullaker, pr&#xEA;tre franciscain et martyr. Arr&#xEA;t&#xE9;, sous le roi Charles Ier, alors qu&#x2019;il allait c&#xE9;l&#xE9;brer la messe, il fut condamn&#xE9; &#xE0; mort en raison de son sacerdoce, pendu &#xE0; Tybyrn et &#xE9;ventr&#xE9;, alors qu&#x2019;il respirait encore. </para><para>10*. Dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an&#xA0;1936, le bienheureux martyrs Joseph Gonzalez Huguet, pr&#xEA;tre, ex&#xE9;cut&#xE9; &#xE0; Ribarroja de Turia.</para><para>11*. En Espagne le bienheureux Pacifique (Pierre Salcedo Puchades), religieux capucin, &#xE0; Massamagrel, victime de la pers&#xE9;cution religieuse au cours de la guerre civile</para><para>12*. Au camp de concentration d&#x2019;Auschwitz (Oswiecim), pr&#xE8;s de Cracovie, en 1942, le bienheureux Romain Sitko, pr&#xEA;tre de Tarnow et martyr. Arr&#xEA;t&#xE9; pendant l&#x2019;occupation de la Pologne par le r&#xE9;gime nazi, il fut intern&#xE9; et succomba aux mauvais traitements subis. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; A Troyes, en 1908, le bienheureux Louis Brisson, pr&#xEA;tre, fondateur de la Congr&#xE9;gation des Oblats et des Oblates de Saint Fran&#xE7;ois de Sales. (b&#xE9;atifi&#xE9; le 22 septembre 2012 par Beno&#xEE;t XVI). D&#xE9;c&#xE9;d&#xE9; le 2 f&#xE9;vrier, f&#xEA;t&#xE9; le 12 octobre par l'&#xC9;glise catholique.</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

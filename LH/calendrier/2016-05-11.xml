@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VII Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>23,04</phase_lunaire>
+<age_lunaire>4</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+<HYMNUS_lectures>hy_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1>AN_Misericordia_et_veritas</antL1>
+<psL1>ps88I</psL1>
+<antL2>AN_Filius_Dei_factus</antL2>
+<psL2>ps88II</psL2>
+<antL3>AN_Semel_iuravi_David</antL3>
+<psL3>ps88III</psL3>
+<LVers>VERS_Declaratio_sermonum</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_74</Llec1>
+<Lrep1>R1_pascha_74</Lrep1>
+<Llec2>L2_pascha_74</Llec2>
+<Lrep2>R2_pascha_74</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ <ant1>AN_Omnes_gentes_venient</ant1>
+ <ps1>ps85</ps1>
+ <ant2>AN_Regem_in_decore</ant2>
+ <ps2>AT22</ps2>
+ <ant3>AN_Videbit_omnis_caro</ant3>
+ <ps3>ps97</ps3>
+ <LB_matin>LB_Rom_6_8-11</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Gratias_Deo_qui</benedictus>
+<laudes_preces>perannum_34</laudes_preces><oratio_laudes>COL_Ecclesiae_tuae_misericors_Deus_concede_propitius</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118XIV</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps69</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps74</ps6>
+
+<LB_3>LB_Rom_4_24-25</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_1_Io_5_5-6a</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_Eph_4_23-24</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Ecclesiae_tuae_misericors_Deus_concede_propitius</oratio_3>
+
+<oratio_6>COL_Ecclesiae_tuae_misericors_Deus_concede_propitius </oratio_6>
+
+<oratio_9>COL_Ecclesiae_tuae_misericors_Deus_concede_propitius</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+
+<ant7>AN_Tristitia_vestra_vertetur</ant7>
+
+<ps7>ps125</ps7>
+
+<ant8>AN_Sive_vivimus_sive</ant8>
+
+<ps8>ps126</ps8>
+
+<ant9>AN_Ex_ipso_et</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Hebr_7_24-27</LB_soir>
+
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Christus_vos_baptizabit</magnificat>
+
+<vepres_preces>perannum_34</vepres_preces>
+
+<oratio_vepres>COL_Ecclesiae_tuae_misericors_Deus_concede_propitius</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Repleatur_os_meum</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac20,28-38</LEC1>	
+	
+<PS1>AL_Non_vos_relinquam</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn17,11-19</EV>
+	
+<OF>OF_Ascendit_Deus</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Pater_cum_essem</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Mamert</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que de Vienne en Is&#xE8;re, combattit l'arianisme, institua les Rogations (&#x2020;477)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 11 mai</para><para>1. &#xC0; Adrum&#xE8;te en Byzanc&#xE8;ne, l&#x2019;an&#xA0;212, saint Mavile ou Ma&#xEF;eul, martyr, qui fut expos&#xE9; aux b&#xEA;tes par le proconsul Scapula. </para><para>2. Saint Anthinini, martyr</para><para>3. &#xC0; Byzance, peut-&#xEA;tre en 311, saint Mocius, pr&#xEA;tre et martyr. </para><para>4. &#xC0; Vienne en Gaule, vers 475, saint Mamert, &#xE9;v&#xEA;que, qui &#xE9;tablit dans cette ville trois jours de supplications publiques avec je&#xFB;ne, avant la f&#xEA;te de l&#x2019;Ascension du Seigneur, pour demander l&#x2019;aide de Dieu et l&#x2019;&#xE9;loignement des calamit&#xE9;s. </para><para>5. &#xC0; Varennes au pays de Langres, au VIIIe si&#xE8;cle, saint Gengou. </para><para>6. &#xC0; Souvigny-en-Bourbonnais, l&#x2019;an&#xA0;994, le tr&#xE9;pas de saint Mayeul, abb&#xE9; de Cluny. Ferme dans la foi, r&#xE9;solu en esp&#xE9;rance, riche en charit&#xE9; pour Dieu et son prochain, il r&#xE9;nova un grand nombre de monast&#xE8;res en France et en Italie. </para><para>7*. Au monast&#xE8;re de Lesterp dans le Limousin, en 1070, saint Gautier, pr&#xEA;tre. Form&#xE9; d&#xE8;s l&#x2019;enfance au service de Dieu, abb&#xE9; de chanoines r&#xE9;guliers, il brilla par sa douceur envers ses fr&#xE8;res et sa charit&#xE9; envers les pauvres. </para><para>8*. &#xC0; Monte Carnerio en Romagne, vers 1343, le bienheureux Gr&#xE9;goire Celli, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin. Rejet&#xE9; du monast&#xE8;re par ses fr&#xE8;res, il fut, dit-on, recueilli par des Fr&#xE8;res Mineurs et mourut parmi eux. </para><para>9*. &#xC0; York en Angleterre, l&#x2019;an&#xA0;1537, les bienheureux martyrs Jean Rochester et Jacques Walworth, pr&#xEA;tres et moines de la chartreuse de Londres. Pour avoir refus&#xE9; de reconna&#xEE;tre la supr&#xE9;matie du roi Henri VIII dans le domaine spirituel, ils furent pendus par des cha&#xEE;nes &#xE0; des pins de la ville et leurs corps demeur&#xE8;rent en place jusqu&#x2019;&#xE0; ce que les membres se d&#xE9;tachent. </para><para>10. &#xC0; Naples, en 1716, saint Fran&#xE7;ois de Geronimo, pr&#xEA;tre de la Compagnie de J&#xE9;sus, qui se donna pendant plus de quarante ans aux missions populaires et au soin pastoral des abandonn&#xE9;s. </para><para>11. &#xC0; Cagliari en Sardaigne, l&#x2019;an&#xA0;1781, saint Ignace de Laconi, religieux capucin, qui passa sa longue vie &#xE0; qu&#xEA;ter inlassablement sur les places de la ville et sur les quais du port pour soulager les mis&#xE8;res des pauvres. </para><para>12. &#xC0; Sa&#xEF;gon en Cochinchine, l&#x2019;an&#xA0;1847, saint Matthieu L&#xEA; Van Gam, martyr. Il fut arr&#xEA;t&#xE9; pour avoir introduit dans la r&#xE9;gion, gr&#xE2;ce &#xE0; son bateau, des missionnaires venant d&#x2019;Europe et, apr&#xE8;s un an de prison, il fut d&#xE9;capit&#xE9; en vertu d&#x2019;un d&#xE9;cret de l&#x2019;empereur Thieu Tri. </para><para>**. &#xA0; &#xA0; &#xA0; &#xA0; En Argentine, en 1905, le bienheureux Ceferino Namuncura, jeune religieux sal&#xE9;sien (b&#xE9;atifi&#xE9; par Beno&#xEE;t XVI le 11 novembre 2007).</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

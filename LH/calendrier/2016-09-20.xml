@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>10</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXV per annum</la></hebdomada>
+<intitule><la>Ss. Andreae Kim Tae-gon et Pauli Chong Ha-sang et sociorum, martyrum</la></intitule>
+<rang><la>Memoria</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>86,62</phase_lunaire>
+<age_lunaire>18</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Regem_martyrum_Dominum</invitatoire>
+<HYMNUS_lectures>hy_Consors_paterni_luminis</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
+<antL1/>
+<psL1/>
+<antL2/>
+<psL2/>
+<antL3/>
+<psL3/>
+<LVers>VERS_Diriget_Dominus</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Ss._Andreae_Kim_Tae-gon_et_Pauli_Chong_Ha-sang_et_sociorum_martyrum</Llec1>
+<Lrep1>R1_Ss._Andreae_Kim_Tae-gon_et_Pauli_Chong_Ha-sang_et_sociorum_martyrum</Lrep1>
+<Llec2>L2_Ss._Andreae_Kim_Tae-gon_et_Pauli_Chong_Ha-sang_et_sociorum_martyrum</Llec2>
+<Lrep2>R2_Ss._Andreae_Kim_Tae-gon_et_Pauli_Chong_Ha-sang_et_sociorum_martyrum</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Aterna_Christi_munera</HYMNUS_laudes>
+ <ant1>AN_Innocens_manibus_et</ant1>
+ <ps1>ps23</ps1>
+ <ant2>AN_Exaltate_Regem_saeculorum</ant2>
+ <ps2>AT5</ps2>
+ <ant3>AN_Rectos_decet_collaudatio.</ant3>
+ <ps3>ps32</ps3>
+ <LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+ <RB_matin>RB_Iusti_autem_In_perpetuum</RB_matin> 
+<benedictus>AN_Beati_qui_persecutionem</benedictus>
+<laudes_preces>perannum_13</laudes_preces><oratio_laudes>COL_Deus_omnium_gentium_creator_et_salus</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Beati_qui_ambulant</ant4>
+
+<ps4>ps118I</ps4>
+
+<ant5>AN_Exsultabit_cor_meum</ant5>
+
+<ps5>ps12</ps5>
+
+<ant6>AN_Conclusit_Deus_omnia</ant6>
+
+<ps6>ps13</ps6>
+
+<LB_3>LB_Ier_17_7-8</LB_3>
+
+<RB_3>VERS_Dominus_non_privabit_bonis_eos</RB_3>
+
+<LB_6>LB_Prov_3_13-15</LB_6>
+
+<RB_6>VERS_Domine_veritatem_in_corde_dilexisti</RB_6>
+
+<LB_9>LB_Iob_5_17-18</LB_9>
+
+<RB_9>VERS_Fac_cum_servo_tuo_secundum</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la>SS. ANDRE&#xC6; KIM TAEG&#xD5;N, PRESBYTERI ET PAULI CH&#xD5;NG HASANG, ET SOCIORUM, MARTYRUM</la></intitule_soir>
+
+<rang_soir><la>Memoria</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Sanctorum_meritis_inclita_gaudia</HYMNUS_vepres>
+
+<ant7>AN_Tribuit_Dominus_victoriam</ant7>
+
+<ps7>ps19</ps7>
+
+<ant8>AN_Cantabimus_et_PSallemus</ant8>
+
+<ps8>ps20</ps8>
+
+<ant9>AN_Fecisti_nos_Domine</ant9>
+
+<ps9>NT9</ps9>
+
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+
+<RB_soir>RB_Laetamini_in_Domino_Et</RB_soir>
+
+<magnificat>AN_Gaudent_in_caelis</magnificat>
+
+<vepres_preces>perannum_13</vepres_preces>
+
+<oratio_vepres>COL_Deus_omnium_gentium_creator_et_salus</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Iusti_epulentur</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Deus_omnium_gentium_creator_et_salus</COL>			
+	
+<LEC1>Pr21,1-13</LEC1>	
+	
+<PS1>GR_Gloriosus_Deus</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Iustorum_animae</PS2>
+	
+<SEQ/>
+	
+<EV>Lc8,19-21</EV>
+	
+<OF>OF_Anima_nostra</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dico_autem_vobis</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Sts Andr&#xE9; Kim Taegon, pr&#xEA;tre, Pauli Chong Ha-sang et leurs compagnons martyrs</intitule>
+ <biographiecourte>Et ses 102 compagnons martyrs en Cor&#xE9;e pendant tout le XIX&#xE8;me si&#xE8;cle. Andr&#xE9; est le premier pr&#xEA;tre de ce pays mort martyr (&#x2020;1814) </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 20 septembre</para><para>1. M&#xE9;moire des saints Andr&#xE9; Kim Tae-gon, pr&#xEA;tre, Paul Chong Ha-sang, et leurs compagnons, martyrs en Cor&#xE9;e. L&#x2019;&#xC9;glise v&#xE9;n&#xE8;re ce jour, dans une c&#xE9;l&#xE9;bration commune, cent trois martyrs qui ont t&#xE9;moign&#xE9; sans peur de la foi chr&#xE9;tienne, introduite en Cor&#xE9;e par quelques la&#xEF;cs, nourrie et confirm&#xE9;e ensuite par la pr&#xE9;dication des missionnaires et la c&#xE9;l&#xE9;bration des sacrements. Tous ces athl&#xE8;tes du Christ, dont trois &#xE9;v&#xEA;ques, huit pr&#xEA;tres, et tous les autres la&#xEF;cs, mari&#xE9;s ou non, vieillards, jeunes et enfants, soumis au supplice, ont consacr&#xE9;, par leur sang pr&#xE9;cieux, les d&#xE9;buts de l&#x2019;&#xC9;glise en Cor&#xE9;e, en 1839, 1846 et 1866.</para><para>2. &#xC0; Synnada en Phrygie, au IIIe si&#xE8;cle, saint Dorym&#xE9;don, martyr. </para><para>3. &#xC0; Rome, comm&#xE9;moraison de saint Eustache, martyr, dont le nom est v&#xE9;n&#xE9;r&#xE9; dans une antique diaconie de la ville. </para><para>4. &#xC0; Constantinople, les saints martyrs Hypace, &#xE9;v&#xEA;que en Asie, et Andr&#xE9;, pr&#xEA;tre. Vers&#xA0;740, pour le culte des saintes images, sous l&#x2019;empereur L&#xE9;on l&#x2019;Isaurien, tous deux subirent des supplices violents et affreux, puis furent donn&#xE9;s en p&#xE2;ture aux chiens. </para><para>5*. Dans le pays de Trente, en 1172, le bienheureux Adalpret, &#xE9;v&#xEA;que. Protecteur &#xE9;nergique des pauvres et des orphelins et d&#xE9;fenseur de la libert&#xE9; de l&#x2019;&#xC9;glise il tomba dans des emb&#xFB;ches tendues par ses ennemis et mourut frapp&#xE9; d&#x2019;un coup de lance. </para><para>6*. &#xC0; Londres, en 1537, le bienheureux Thomas Johnson, pr&#xEA;tre de la Chartreuse de cette ville et martyr. Sous Henri VIII, en raison de sa fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise romaine, il fut mis dans la prison de Newgate et y mourut de faim et de maladie, neuvi&#xE8;me du groupe de ses confr&#xE8;res. </para><para>7*. &#xC0; Cordoue en Andalousie, l&#x2019;an&#xA0;1713, le bienheureux Fran&#xE7;ois de Posadas, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs. D&#x2019;un esprit de p&#xE9;nitence, d&#x2019;humilit&#xE9;, de charit&#xE9; remarquable, il annon&#xE7;a le Christ dans cette r&#xE9;gion pendant quarante ans. </para><para>8. &#xC0; Son Tay au Tonkin, en 1837, saint Jean-Charles Cornay, pr&#xEA;tre de la Soci&#xE9;t&#xE9; des Missions &#xE9;trang&#xE8;res de Paris et martyr. Accus&#xE9; d&#x2019;&#xEA;tre le chef d&#x2019;une secte fausse, il subit la cangue puis la cage et, par d&#xE9;cret de l&#x2019;empereur Minh Mang, fut taill&#xE9; en pi&#xE8;ces. Sa t&#xEA;te expos&#xE9;e trois jours, fut ensuite jet&#xE9;e au fleuve. </para><para>9. &#xC0; S&#xE9;oul en Cor&#xE9;e, en 1837, saint Laurent Han I-hyong, cat&#xE9;chiste, et six compagnons, martyrs, &#xE9;trangl&#xE9;s dans diverses prisons. Leur m&#xE9;moire est c&#xE9;l&#xE9;br&#xE9;e aujourd&#x2019;hui en m&#xEA;me temps que les autres martyrs de ce pays. </para><para>10. &#xC0; Puebla au Mexique, en 1904, saint Joseph-Marie de Yermo y Parres, pr&#xEA;tre, fondateur de la Congr&#xE9;gation des Servantes du Sacr&#xE9;-C&#x153;ur de J&#xE9;sus et des pauvres, pour venir en aide aux abandonn&#xE9;s dans leurs besoins corporels et spirituels. </para><para>**.&#xA0; &#xA0; &#xA0; &#xA0; Au Pays-Bas, en 1938, la bienheureuse Maria Teresa di san Guiseppe, fondatrice de Congr&#xE9;gation des Carm&#xE9;lites du Divin C&#x153;ur de J&#xE9;sus. (b&#xE9;atifi&#xE9;e le 13 mai 2006 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

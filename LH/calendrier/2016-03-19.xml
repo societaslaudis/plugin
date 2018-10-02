@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>4</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus passionis</la></tempus>
+<hebdomada><la>Hebdomada V Quadragesimae</la></hebdomada>
+<intitule><la>S. IOSEPH, SPONSI B. M. V.</la></intitule>
+<rang><la>Sollemnitas</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>82,08</phase_lunaire>
+<age_lunaire>10</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Laudemus_Christum_Dominum_Ioseph</invitatoire>
+<HYMNUS_lectures/>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1>ps130</psL1>
+<antL2/>
+<psL2>ps131I</psL2>
+<antL3/>
+<psL3>ps131II</psL3>
+<LVers/>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._IOSEPH_SPONSI_B._M._V.</Llec1>
+<Lrep1>R1_S._IOSEPH_SPONSI_B._M._V.</Lrep1>
+<Llec2>L2_S._IOSEPH_SPONSI_B._M._V.</Llec2>
+<Lrep2>R2_S._IOSEPH_SPONSI_B._M._V.</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Caelitum_Ioseph_decus_atque_nostrae</HYMNUS_laudes>
+ <ant1>AN_Venerunt_pastores_festinantes</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_Erant_Ioseph_et</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Consurgens_Ioseph_accepit</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_2_Sam_7_28-29</LB_matin> 
+ <RB_matin>RB_Constituit_eum_Dominum_domus</RB_matin> 
+<benedictus>AN_Ioseph_habitavit_in</benedictus>
+<laudes_preces>quadragesima_57</laudes_preces><oratio_laudes>COL_Praesta_quaesumus_omnipotens_Deus_ut_humanae</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Ibant_parentes_Iesu</ant4>
+
+<ps4>ps122</ps4>
+
+<ant5>AN_Cum_redirent_remansit</ant5>
+
+<ps5>ps123</ps5>
+
+<ant6>AN_Non_invenientes_Iesum</ant6>
+
+<ps6>ps124</ps6>
+
+<LB_3>LB_Prov_2_7-8</LB_3>
+
+<RB_3>VERS_Constituit_eum_dominum_domus_suae</RB_3>
+
+<LB_6>LB_Cf_Sap_10-10</LB_6>
+
+<RB_6>VERS_Gloria_et_divitiae_in_domo</RB_6>
+
+<LB_9>LB_Sir_2_18-19</LB_9>
+
+<RB_9>VERS_Magna_est_gloria_eius_in</RB_9>
+
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
+
+<intitule_soir><la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la>Ad I Vesperas</la></office_soir>
+
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+
+<ant7>AN_Tanto_tempore_vobiscum</ant7>
+
+<ps7>ps14</ps7>
+
+<ant8>AN_Dominus_Deus_auxiliator</ant8>
+
+<ps8>ps111</ps8>
+
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_1_Petr_1_18-21</LB_soir>
+
+<RB_soir>RB_Iustus_germinabit_Sicut_lilium</RB_soir>
+
+<magnificat>AN_Discipuli_iactantes_vestimenta</magnificat>
+
+<vepres_preces>quadragesima_57</vepres_preces>
+
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_humano_generi</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+	
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+	
+<comp_ps1>ps4</comp_ps1>
+	
+<comp_ant2>AN_In_noctibus</comp_ant2>
+	
+<comp_ps2>ps133</comp_ps2>
+	
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+	
+<comp_oratio>COL_Visita_quaesumus_Domine_habitationem_istam</comp_oratio>
+	
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Cognovi_Domine</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_humanae</COL>			
+	
+<LEC1>Ez37,21-28</LEC1>	
+	
+<PS1>GR_Diffusa_est_gratia</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Specie_tua</PS2>
+	
+<SEQ/>
+	
+<EV>Mt1,16.18-21.24a</EV>
+	
+<OF>OF_Diffusa_est_gratia</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Dilexisti_iustitiam</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem>
+ <texte>St Cyrille de J&#xE9;rusalem</texte></jerusalem>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>ST JOSEPH, &#xC9;POUX DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte>Homme juste, gardien des myst&#xE8;res du Salut</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/>
+ <intitule>Bx Marcel Callo</intitule>
+ <biographiecourte/>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 19 mars</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; Solennit&#xE9; de saint Joseph, &#xE9;poux de la bienheureuse Vierge Marie. Il fut l&#x2019;homme juste, issu de la famille de David, qui a servi de p&#xE8;re au Fils de Dieu, le Christ J&#xE9;sus, qui a voulu &#xEA;tre appel&#xE9; fils de Joseph et lui a &#xE9;t&#xE9; soumis comme un fils &#xE0; son p&#xE8;re. L&#x2019;&#xC9;glise v&#xE9;n&#xE8;re d&#x2019;une mani&#xE8;re toute sp&#xE9;ciale le patron que le Seigneur a &#xE9;tabli sur toute sa famille. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; Comm&#xE9;moraison de saint Jean, abb&#xE9; de Parrano, au dioc&#xE8;se de Spol&#xE8;te en Ombrie, au VIe si&#xE8;cle. Originaire de Syrie, il fut pendant plus de quarante ans le p&#xE8;re d&#x2019;un grand nombre de serviteurs de Dieu. </para><para>3*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1244, le bienheureux Isnard de Chiampo, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui fonda dans cette ville un couvent de son Ordre. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Sienne en Toscane, l&#x2019;an&#xA0;1251, le bienheureux Andr&#xE9; Gallerani, qui visita avec soin et consola les malades et les afflig&#xE9;s. Il rassembla aussi les Fr&#xE8;res de la Mis&#xE9;ricorde, des la&#xEF;cs sans v&#x153;ux, qui devaient servir les pauvres et les malades. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Camerino dans les Marches, en 1289, le bienheureux Jean Buralli de Parme, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, que le pape Innocent IV envoya comme l&#xE9;gat chez les Grecs, pour r&#xE9;tablir leur communion avec les Latins. </para><para>6*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pavie en Lombardie, l&#x2019;an&#xA0;1367, la bienheureuse Sibylline Biscossi, vierge, s&#x153;ur de la P&#xE9;nitence de Saint Dominique. Priv&#xE9;e de la vue &#xE0; l&#x2019;&#xE2;ge de douze ans, elle v&#xE9;cut soixante-cinq ans en recluse pr&#xE8;s de l&#x2019;&#xE9;glise des Pr&#xEA;cheurs, &#xE9;clairant d&#x2019;une lumi&#xE8;re int&#xE9;rieure des visiteurs de plus en plus nombreux qui avaient recours &#xE0; elle. </para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Vicence en V&#xE9;n&#xE9;tie, l&#x2019;an&#xA0;1496, le bienheureux Marc de Montegallo, pr&#xEA;tre de l&#x2019;Ordre des Mineurs, qui fut le cr&#xE9;ateur des &#x201C;Mont-de-pi&#xE9;t&#xE9;&#x201D;, &#x153;uvre destin&#xE9;e &#xE0; rem&#xE9;dier aux mis&#xE8;res des pauvres. </para><para>8*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Narcisse Turchan, pr&#xEA;tre de l&#x2019;Ordre des Fr&#xE8;res Mineurs et martyr, qui fut d&#xE9;port&#xE9; &#xE0; cause de sa foi quand la Pologne fut soumise au r&#xE9;gime nazi, et succomba aux tourments du camp. </para><para>9*. &#xA0; &#xA0; &#xA0; &#xA0; Au camp de concentration de Mauthausen en Autriche, l&#x2019;an&#xA0;1945, le bienheureux Marcel Callo, martyr. Jeune ouvrier de Rennes requis en Allemagne, pendant la guerre, au titre du service de travail obligatoire, puis intern&#xE9;, il r&#xE9;confortait par sa foi ardente, ses cod&#xE9;tenus &#xE0; bout de forces &#xE0; cause des travaux p&#xE9;nibles, et fut pour cela r&#xE9;duit &#xE0; la mort. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

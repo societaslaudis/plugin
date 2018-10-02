@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>7</priorite>
+<couleur>Rouge</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada XXIX per annum</la></hebdomada>
+<intitule><la>S. Lucae, evangelistae</la></intitule>
+<rang><la>Festum</la></rang>
+<hebdomada_psalterium>1</hebdomada_psalterium>
+<phase_lunaire>95,56</phase_lunaire>
+<age_lunaire>16</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Dominum_in_Evangelio</invitatoire>
+<HYMNUS_lectures>hy_O_vir_beate_Apostolis</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1/>
+<psL1/>
+<antL2/>
+<psL2/>
+<antL3/>
+<psL3/>
+<LVers>VERS_Diriget_Dominus</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_S._Lucae_evangelistae</Llec1>
+<Lrep1>R1_S._Lucae_evangelistae</Lrep1>
+<Llec2>L2_S._Lucae_evangelistae</Llec2>
+<Lrep2>R2_S._Lucae_evangelistae</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Plausibus_Luca_canimus_triumphum</HYMNUS_laudes>
+ <ant1>AN_Sapientiam_antiquorum_exquisierunt</ant1>
+ <ps1>ps62</ps1>
+ <ant2>AN_In_fide_veritatis</ant2>
+ <ps2>AT41</ps2>
+ <ant3>AN_Collaudabunt_multi_sapientiam</ant3>
+ <ps3>ps149</ps3>
+ <LB_matin>LB_1_Cor_15_1-2a._3-4</LB_matin> 
+ <RB_matin>RB_Narraverunt_laudes_Domini_et_virtutes</RB_matin> 
+<benedictus>AN_Evangelium_Christi_tradens</benedictus>
+<laudes_preces>perannum_13</laudes_preces><oratio_laudes>COL_Domine_Deus_qui_beatum_Lucam_elegisti</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Beati_qui_ambulant</ant4>
+
+<ps4>ps118I</ps4>
+
+<ant5>AN_Exsultabit_cor_meum</ant5>
+
+<ps5>ps12</ps5>
+
+<ant6>AN_Conclusit_Deus_omnia</ant6>
+
+<ps6>ps13</ps6>
+
+<LB_3>LB_Rom_1_16-17</LB_3>
+
+<RB_3>VERS_In_omnem_terram_exivit_sonus</RB_3>
+
+<LB_6>LB_1_Th_2_2b-4a</LB_6>
+
+<RB_6>VERS_Custodiebant_testimonia_Dei_alleluia_Et</RB_6>
+
+<LB_9>LB_2_Tim_1_8b-9</LB_9>
+
+<RB_9>VERS_Gaudete_et_exsultate_alleluia_Quia</RB_9>
+
+<oratio_3>COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum</oratio_3>
+
+<oratio_6>COL_Deus_qui_Petro_salvificum_tuum_super </oratio_6>
+
+<oratio_9>COL_Deus_qui_Cornelio_centurioni_angelum_tuum</oratio_9>
+
+<intitule_soir><la>S. LUC&#xC6;, EVANGELIST&#xC6;</la></intitule_soir>
+
+<rang_soir><la>Festum</la></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Plausibus_Luca_canimus_triumphum</HYMNUS_vepres>
+
+<ant7>AN_Evangelii_factus_sum</ant7>
+
+<ps7>ps115</ps7>
+
+<ant8>AN_Omnia_facio_propter</ant8>
+
+<ps8>ps125</ps8>
+
+<ant9>AN_Mihi_data_est</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Col_1_3-6</LB_soir>
+
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+
+<magnificat>AN_Beatus_Evangelista_Lucas</magnificat>
+
+<vepres_preces>perannum_13</vepres_preces>
+
+<oratio_vepres>COL_Domine_Deus_qui_beatum_Lucam_elegisti</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+
+<comp_ps1>ps142</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Mihi_autem_nimis</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Domine_Deus_qui_beatum_Lucam_elegisti</COL>			
+	
+<LEC1>2Tm4,10-17b</LEC1>	
+	
+<PS1>GR_In_omnem_terram</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Ego_vos_elegi</PS2>
+	
+<SEQ/>
+	
+<EV>Lc10,1-9</EV>
+	
+<OF>OF_Mihi_autem_nimis</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Vos_qui_secuti_estis_me</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Luc, &#xE9;vang&#xE9;liste</intitule>
+ <biographiecourte>&#xC9;vang&#xE9;liste et auteur des actes des Ap&#xF4;tres, "peintre&#xA0;" de la Sainte Vierge, il serait mort martyr &#xE0; Patras en Gr&#xE8;ce.</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 18 octobre</para><para>1. F&#xEA;te de saint Luc, &#xC9;vang&#xE9;liste. N&#xE9;, comme on le rapporte, &#xE0; Antioche d&#x2019;une famille pa&#xEF;enne, m&#xE9;decin, il se convertit &#xE0; la foi du Christ et devint le compagnon tr&#xE8;s cher de l&#x2019;Ap&#xF4;tre saint Paul. Dans son &#xC9;vangile, il exposa avec soin tout ce que J&#xE9;sus a fait et enseign&#xE9;, en scribe de la mis&#xE9;ricorde du Christ, et, dans les Actes des Ap&#xF4;tres il se fit l&#x2019;historien des d&#xE9;buts de la vie de l&#x2019;&#xC9;glise jusqu&#x2019;au premier s&#xE9;jour de saint Paul &#xE0; Rome. </para><para>2. &#xC0; Antioche de Syrie, en 218, saint Ascl&#xE9;piade, &#xE9;v&#xEA;que, qui fut de la troupe glorieuse des confesseurs de la foi, au temps de la pers&#xE9;cution. </para><para>3. &#xC0; Pouzzoles en Campanie, vers le IVe si&#xE8;cle, les saints martyrs Procule, diacre, Eutyque et Acuce. </para><para>4*. &#xC0; Riom en Auvergne, au Ve si&#xE8;cle, saint Amable, pr&#xEA;tre.</para><para>5*. &#xC0; Nassogne dans le Brabant, vers 630-640, saint Monon, qui fut, croit-on, ermite dans la for&#xEA;t des Ardennes et martyr. </para><para>6. &#xC0; Arenas en Castille, l&#x2019;an&#xA0;1562, saint Pierre d&#x2019;Alcantara, pr&#xEA;tre franciscain. Remarquable par son don de conseil, sa pratique de la p&#xE9;nitence et l&#x2019;aust&#xE9;rit&#xE9; de sa vie, il r&#xE9;forma la discipline r&#xE9;guli&#xE8;re dans les couvents de son Ordre en Espagne et fut le conseiller de sainte Th&#xE9;r&#xE8;se de J&#xE9;sus pour sa r&#xE9;forme de l&#x2019;Ordre du Carmel. </para><para>7. &#xC0; Ossernenon, alors en territoire canadien, en 1646, la passion de saint Isaac Jogues, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. R&#xE9;duit d&#x2019;abord en esclavage par des pa&#xEF;ens, il eut les doigts coup&#xE9;s, puis la t&#xEA;te fracass&#xE9;e d&#x2019;un coup de hache. </para><para>8. &#xC0; Rome, en 1775, la naissance au ciel de saint Paul de la Croix, pr&#xEA;tre, dont la m&#xE9;moire sera c&#xE9;l&#xE9;br&#xE9;e demain. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

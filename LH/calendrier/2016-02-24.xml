@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>9</priorite>
+<couleur>Violet</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus Quadragesimae</la></tempus>
+<hebdomada><la>Hebdomada II Quadragesimae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>98,48</phase_lunaire>
+<age_lunaire>15</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_pro</invitatoire>
+<HYMNUS_lectures>hy_O_sator_rerum_reparator_aevi</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Christ_lux_vera_bonitas_et_vita</HYMNUS_lec_jour>
+<antL1/>
+<psL1>ps38I</psL1>
+<antL2/>
+<psL2>ps38II</psL2>
+<antL3/>
+<psL3>ps51</psL3>
+<LVers>VERS_Sustinuit_anima</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_quadragesima_24</Llec1>
+<Lrep1>R1_quadragesima_24</Lrep1>
+<Llec2>L2_quadragesima_24</Llec2>
+<Lrep2>R2_quadragesima_24</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Iam_Christe_sol_iustitiae</HYMNUS_laudes>
+ <ant1>AN_Deus_in_sancto</ant1>
+ <ps1>ps76</ps1>
+ <ant2>AN_Exsultavit_cor_meum</ant2>
+ <ps2>AT3</ps2>
+ <ant3>AN_Dominus_regnavit_exsultet</ant3>
+ <ps3>ps96</ps3>
+ <LB_matin>LB_Deut_7_6b._8-9</LB_matin> 
+ <RB_matin>RB_Ipse_liberabit_me_De</RB_matin> 
+<benedictus>AN_Filius_hominis_non</benedictus>
+<laudes_preces>quadragesima_24</laudes_preces><oratio_laudes>COL_Conserva_Domine_familiam_tuam_bonis_semper</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Dei_fide_qua_vivimus</HYMNUS_3>
+
+<HYMNUS_6>hy_Qua_Christus_hora_sitiit</HYMNUS_6>
+
+<HYMNUS_9>hy_Ternis_ter_horis_numerus</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Advenerunt_nobis_dies</ant4>
+
+<ps4>ps118VIII</ps4>
+
+<ant5>AN_Vivo_ego_dicit</ant5>
+
+<ps5>ps54I</ps5>
+
+<ant6>AN_Per_arma_iustitiae</ant6>
+
+<ps6>ps54II</ps6>
+
+<LB_3>LB_Ez_18_30b-32</LB_3>
+
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+
+<LB_6>LB_Zac_1_3b-4b</LB_6>
+
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+
+<LB_9>LB_Dan_4_24b</LB_9>
+
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+
+<oratio_3>COL_Domine_Pater_sancte_Deus_fidelis_qui</oratio_3>
+
+<oratio_6>COL_Omnipotens_et_misericors_Deus_qui_nos </oratio_6>
+
+<oratio_9>COL_Domine_Iesu_Christe_qui_manus_tuas</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Iesu_quadragenariae</HYMNUS_vepres>
+
+<ant7>AN_Exspectemus_beatam_spem</ant7>
+
+<ps7>ps61</ps7>
+
+<ant8>AN_Illuminet_vultum_suum</ant8>
+
+<ps8>ps66</ps8>
+
+<ant9>AN_In_ipso_condita</ant9>
+
+<ps9>NT6</ps9>
+
+<LB_soir>LB_Phil_2_12b-15a</LB_soir>
+
+<RB_soir>RB_Ego_dixi_Domine_Miserere</RB_soir>
+
+<magnificat>AN_Filius_hominis_tradetur</magnificat>
+
+<vepres_preces>quadragesima_24</vepres_preces>
+
+<oratio_vepres>COL_Conserva_Domine_familiam_tuam_bonis_semper</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2>AN_De_profundis</comp_ant2>
+<comp_ps2>ps129</comp_ps2>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio>
+
+<comp_AM>Ave_regina_caelorum</comp_AM><messe>
+	
+<IN>IN_Ne_derelinquas_me</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Conserva_Domine_familiam_tuam_bonis_semper</COL>			
+	
+<LEC1>Jr18,18-20</LEC1>	
+	
+<PS1>GR_Salvum_fac_populum</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Mt20,17-28</EV>
+	
+<OF>OF_Ad_te_Domine_levavi</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Iustus_Dominus</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Thomas Marie Fusco, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre italien, fondateur des Filles de la Charit&#xE9; du Tr&#xE8;s Pr&#xE9;cieux Sang (&#x2020;1891)                 </biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 24 f&#xE9;vrier</para><para>1. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Nicom&#xE9;die en Bithynie, l&#x2019;an&#xA0;303, la passion de saint &#xC9;v&#xE8;ce. Sous l&#x2019;empereur Diocl&#xE9;tien, d&#xE8;s qu&#x2019;il vit affich&#xE9;s au forum les &#xE9;dits contre les adorateurs de Dieu, saisi d&#x2019;une ardeur enflamm&#xE9;e pour la foi, il d&#xE9;chira publiquement, &#xE0; la vue du peuple, l&#x2019;affiche d&#x2019;une loi inique, et pour cela il subit toutes sortes de cruaut&#xE9;s. </para><para>2. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Tr&#xE8;ves en Gaule Belgique, vers&#xA0;480, saint Modeste, &#xE9;v&#xEA;que. </para><para>3. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Cantorb&#xE9;ry en Angleterre, l&#x2019;an&#xA0;616, la mise au tombeau de saint &#xC9;thelbert, roi du Kent, que saint Augustin, encore moine, convertit &#xE0; la foi du Christ et baptisa, le premier des rois du peuple des Angles. </para><para>4*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Ascoli Piceno dans les Marches, en 1481, le bienheureux Constant Servoli de Fabriano, pr&#xEA;tre de l&#x2019;Ordre des Pr&#xEA;cheurs, qui s&#x2019;illustra par l&#x2019;aust&#xE9;rit&#xE9; de sa vie et son z&#xE8;le &#xE0; promouvoir la paix. </para><para>5*. &#xA0; &#xA0; &#xA0; &#xA0; Pr&#xE8;s de Mantoue en Lombardie, l&#x2019;an&#xA0;1510, le bienheureux Marc de Marconi, religieux de l&#x2019;Ordre des Ermites de Saint-J&#xE9;r&#xF4;me. </para><para>6*. &#xC0; Algemesi, dans la r&#xE9;gion de Valence, en Espagne, l&#x2019;an&#xA0;1893, la bienheureuse Jos&#xE8;phe Naval Girb&#xE8;s, vierge consacr&#xE9;e &#xE0; Dieu dans le monde, assidue &#xE0; enseigner le cat&#xE9;chisme aux enfants.</para><para>7*. &#xA0; &#xA0; &#xA0; &#xA0; &#xC0; Pagani en Campanie, l&#x2019;an&#xA0;1891, le bienheureux Thomas-Marie Fusco, pr&#xEA;tre, qui prit le plus grand soin des pauvres et des malades et fonda l&#x2019;Institut des S&#x153;urs de la Charit&#xE9; du Pr&#xE9;cieux Sang, dans le but de s&#x2019;adonner &#xE0; diverses &#x153;uvres sociales, en particulier aupr&#xE8;s des jeunes et des pauvres. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Espagne, en 1940, la bienheureuse Ascensi&#xF3;n del Coraz&#xF3;n de Jes&#xFA;s (1868-1940) co-fondatrice et premi&#xE8;re sup&#xE9;rieure g&#xE9;n&#xE9;rale des Missionnaires Dominicaines du Rosaire. (b&#xE9;atifi&#xE9;e le 14 mai 2005 par Beno&#xEE;t XVI)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>

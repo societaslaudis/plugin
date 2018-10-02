@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Blanc</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus paschale</la></tempus>
+<hebdomada><la>Hebdomada VI Paschae</la></hebdomada>
+<intitule><la/></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>2</hebdomada_psalterium>
+<phase_lunaire>0,96</phase_lunaire>
+<age_lunaire>28</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Christum_Dominum_qui</invitatoire>
+<HYMNUS_lectures>hy_Galli_cantu_mediante</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Adesto_rerum_conditor</HYMNUS_lec_jour>
+<antL1>AN_Ne_in_ira</antL1>
+<psL1>ps37I</psL1>
+<antL2>AN_Domine_ante_te</antL2>
+<psL2>ps37II</psL2>
+<antL3>AN_Iniquitatem_meam_annuntiabo</antL3>
+<psL3>ps37III</psL3>
+<LVers>VERS_Oculi_mei</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_pascha_66</Llec1>
+<Lrep1>R1_pascha_66</Lrep1>
+<Llec2>L2_pascha_66</Llec2>
+<Lrep2>R2_pascha_66</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Optatus_votis_omnium</HYMNUS_laudes>
+ <ant1>AN_Confide_fili_remittuntur</ant1>
+ <ps1>ps50</ps1>
+ <ant2>AN_Egressus_es_Domine</ant2>
+ <ps2>AT43</ps2>
+ <ant3>AN_Lauda_Deum_tuum</ant3>
+ <ps3>ps147</ps3>
+ <LB_matin>LB_Act_5_30-32</LB_matin> 
+ <RB_matin>RB_Surrexit_Dominus_de_sepulcro_Alleluia</RB_matin> 
+<benedictus>AN_Videmus_Iesum_propter</benedictus>
+<laudes_preces>perannum_26</laudes_preces><oratio_laudes>COL_Deus_qui_ad_aeternam_vitam_in</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+
+<ps4>ps118X</ps4>
+
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+
+<ps5>ps58</ps5>
+
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+
+<ps6>ps59</ps6>
+
+<LB_3>LB_Act_2_32._36</LB_3>
+
+<RB_3>VERS_Surrexit_Dominus_vere_alleluia</RB_3>
+
+<LB_6>LB_Gal_3_27-28</LB_6>
+
+<RB_6>VERS_Gavisi_sunt_discipuli_alleluia</RB_6>
+
+<LB_9>LB_1_Cor_5_7-8</LB_9>
+
+<RB_9>VERS_Mane_nobiscum_Domine_alleluia</RB_9>
+
+<oratio_3>COL_Deus_qui_ad_aeternam_vitam_in</oratio_3>
+
+<oratio_6>COL_Deus_qui_ad_aeternam_vitam_in </oratio_6>
+
+<oratio_9>COL_Deus_qui_ad_aeternam_vitam_in</oratio_9>
+
+<intitule_soir><la/></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Veni_creator_Spiritus</HYMNUS_vepres>
+
+<ant7>AN_De_angustiis_inferni</ant7>
+
+<ps7>ps114</ps7>
+
+<ant8>AN_Quasi_pupillam_oculi</ant8>
+
+<ps8>ps120</ps8>
+
+<ant9>AN_Fortitudo_mea_et</ant9>
+
+<ps9>NT11</ps9>
+
+<LB_soir>LB_Hebr_5_8-10</LB_soir>
+
+<RB_soir>RB_Spiritus_Paraclitus_Alleluia_alleluia</RB_soir>
+
+<magnificat>AN_Pater_vester_de</magnificat>
+
+<vepres_preces>perannum_26</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_ad_aeternam_vitam_in</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Christe_qui_splendor</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_In_die_clamavi</comp_ant1>
+
+<comp_ps1>ps87</comp_ps1>
+<comp_LB>LB_Cf._Ier._14_9</comp_LB>
+
+<comp_oratio>COL_Concede_nos_omnipotens_Deus</comp_oratio>
+
+<comp_AM>Regina_caeli</comp_AM><messe>
+	
+<IN>IN_Exaudivit</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL/>			
+	
+<LEC1>Ac18,9-18</LEC1>	
+	
+<PS1>AL_Confitemini_quoniam_bonus</PS1>
+	
+<LEC2/>
+	
+<PS2/>
+	
+<SEQ/>
+	
+<EV>Jn16,20-23</EV>
+	
+<OF>OF_Confitebor_Domino</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Non_vos_relinquam_orphanos</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>Bx Fran&#xE7;ois de Montmorency-Laval</intitule>
+ <biographiecourte>Premier &#xE9;v&#xEA;que du Canada, il &#xE9;vang&#xE9;lisa les Indiens et fonda le s&#xE9;minaire de Qu&#xE9;bec (universit&#xE9; Laval) (&#x2020;1708)</biographiecourte>
+ <canonisebeatifie>JP II</canonisebeatifie>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 6 mai</para><para>1. Comm&#xE9;moraison de saint Lucius de Cyr&#xE8;ne, qui, dans les Actes des Ap&#xF4;tres, est compt&#xE9; parmi les proph&#xE8;tes et les docteurs de l&#x2019;&#xC9;glise qui &#xE9;taient &#xE0; Antioche. </para><para>2. &#xC0; Lamb&#xE8;se en Numidie, l&#x2019;an&#xA0;259, les saints martyrs Marien, lecteur, et Jacques, diacre. Le premier avait d&#xE9;j&#xE0; triomph&#xE9; des rigueurs de la pers&#xE9;cution de D&#xE8;ce en confessant le Christ. Il fut pris une seconde fois avec son illustre coll&#xE8;gue, et tous deux, apr&#xE8;s des supplices cruels, mais fortifi&#xE9;s par la gr&#xE2;ce divine, p&#xE9;rirent enfin par l&#x2019;&#xE9;p&#xE9;e avec beaucoup d&#x2019;autres. </para><para>3. &#xC0; Milan, en 409, saint V&#xE9;n&#xE8;re, &#xE9;v&#xEA;que, qui avait &#xE9;t&#xE9; disciple et diacre de saint Ambroise. Il envoya des clercs de son &#xC9;glise aux &#xE9;v&#xEA;ques d&#x2019;Afrique pour leur venir en aide et s&#x2019;int&#xE9;ressa &#xE0; la cause de saint Jean Chrysostome envoy&#xE9; en exil. </para><para>4. &#xC0; Rome, au VIe si&#xE8;cle, sainte Beno&#xEE;te, vierge moniale, qui, au dire du pape saint Gr&#xE9;goire le Grand, reposa dans le Seigneur le trenti&#xE8;me jour apr&#xE8;s la mort de sainte Galle, qui l&#x2019;aimait entre toutes et avait souhait&#xE9; de mourir ensemble. </para><para>5. &#xC0; Lindisfarne, en Northumbrie d&#x2019;Angleterre, l&#x2019;an&#xA0;698, saint Edbert, &#xE9;v&#xEA;que, qui succ&#xE9;da &#xE0; saint Cuthbert et s&#x2019;illustra par sa connaissance des &#xC9;critures, l&#x2019;observance des pr&#xE9;ceptes divins et surtout la g&#xE9;n&#xE9;rosit&#xE9; de ses aum&#xF4;nes. </para><para>6. Saint Pierrre Nolasco, pr&#xEA;tre, Espagne</para><para>7*. &#xC0; Montepulciano en Toscane, l&#x2019;an&#xA0;1330, le bienheureux Barth&#xE9;lemy Pucci Franceschi, pr&#xEA;tre de l&#x2019;Ordre des Mineurs. D&#xE9;laissant pour l&#x2019;amour de Dieu femme, enfants et richesses, il se fit petit pauvre du Christ. </para><para>8*. &#xC0; Londres, en 1590, les bienheureux &#xC9;douard Jones et Antoine Middleton, pr&#xEA;tres et martyrs. Ordonn&#xE9;s &#xE0; Douai, ils rejoignirent la mission d&#x2019;Angleterre, mais espionn&#xE9;s, pourchass&#xE9;s et arr&#xEA;t&#xE9;s, ils furent condamn&#xE9;s &#xE0; mort sous le reine &#xC9;lisabeth I&#xE8;re, pour trahison et invasion &#xE9;trang&#xE8;re, en r&#xE9;alit&#xE9; parce qu&#x2019;ils &#xE9;taient pr&#xEA;tres, et furent pendus &#xE0; la potence et d&#xE9;pec&#xE9;s &#xE0; la porte des maisons qu&#x2019;ils occupaient. </para><para>9*. Dans la ville de Qu&#xE9;bec au Canada, en 1708, le bienheureux Fran&#xE7;ois de Montmorency-Laval, &#xE9;v&#xEA;que, qui &#xE9;tablit l&#xE0; son si&#xE8;ge &#xE9;piscopal et, durant pr&#xE8;s de cinquante ans, mit tout son c&#x153;ur &#xE0; confirmer et d&#xE9;velopper l&#x2019;&#xC9;glise dans une r&#xE9;gion d&#x2019;Am&#xE9;rique du Nord qui s&#x2019;&#xE9;tendait jusqu&#x2019;au golfe du Mexique. </para><para>10*. Au Caire, en 1887, la bienheureuse Marie-Catherine Troiani, vierge du Tiers-Ordre de Saint-Fran&#xE7;ois. Envoy&#xE9;e d&#x2019;Italie en &#xC9;gypte, elle fonda dans ce pays une nouvelle famille de S&#x153;urs franciscaines missionnaires. </para><para>11*. &#xC0; Rome, en 1900, la bienheureuse Anne-Rose Gattorno, religieuse. M&#xE8;re de famille devenue veuve, elle se consacra tout enti&#xE8;re au Seigneur et &#xE0; son prochain, fonda les Filles de Sainte-Anne, mettant toutes ses forces au service des malades, des infirmes et des enfants sans d&#xE9;fense, sur le visage de qui elle contemplait le Christ. </para><para>12*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, les bienheureux martyrs Henri Kaczorowski et Casimir Gotynski, pr&#xEA;tres, l&#x2019;un de Vladislas, l&#x2019;autre de Lublin, qui, sous l&#x2019;occupation nazie de la Pologne, furent d&#xE9;port&#xE9;s et moururent dans une chambre &#xE0; gaz. </para></martyrologe>
+
+<compendium/>
+
+</calendarium>

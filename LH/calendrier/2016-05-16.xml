@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<calendarium>
+<ordo id="RE">
+<lettre_annee>C</lettre_annee>
+<priorite>13</priorite>
+<couleur>Vert</couleur>
+<sanctoral><la/> </sanctoral>
+<tempus><la>Tempus per annum</la></tempus>
+<hebdomada><la>Hebdomada VII per annum</la></hebdomada>
+<intitule><la>Feria II post Pentecosten</la></intitule>
+<rang><la/></rang>
+<hebdomada_psalterium>3</hebdomada_psalterium>
+<phase_lunaire>71,81</phase_lunaire>
+<age_lunaire>9</age_lunaire>
+<selection/>
+
+<invitatoire>INV_Praeoccupemus_faciem_Domini</invitatoire>
+<HYMNUS_lectures>hy_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>hy_Aterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
+<LVers>VERS_Audi_popule</LVers>
+<osb_vig_ant_attente id=""/>
+<osb_vig_ps_attente id=""/>
+<Llec1>L1_Feria_II_post_Pentecosten</Llec1>
+<Lrep1>R1_Feria_II_post_Pentecosten</Lrep1>
+<Llec2>L2_Feria_II_post_Pentecosten</Llec2>
+<Lrep2>R2_Feria_II_post_Pentecosten</Lrep2>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1/>
+<Vps1/>
+<Vant2/>
+<Vps2/>
+<Vant3/>
+<Vps3/>
+<Vant4/>
+<Vps4/>
+<Vant5/>
+<Vps5/>
+<Vant6/>
+<Vps6/>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7/>
+ <Vps7/>
+ <Vant8/>
+ <Vps8/>
+ <Vant9/>
+ <Vps9/>
+ <Vant10/>
+ <Vps10/>
+ <Vant11/>
+ <Vps11/>
+ <Vant12/>
+ <Vps12/>
+ <Vver2 id=""/>
+ <Vlec5 id=""/>
+ <Vrep5 id=""/>
+ <Vlec6 id=""/>
+ <Vrep6 id=""/>
+ <Vlec7 id=""/>
+ <Vrep7 id=""/>
+ <Vlec8 id=""/>
+ <Vrep8 id=""/>
+ <Vant13/>
+ <Vcant1 id=""/>
+ <Vcant2 id=""/>
+ <Vcant3 id=""/>
+ <Vver3 id=""/>
+ <Vev_debut id=""/>
+ <Vlec9 id=""/>
+ <Vrep9 id=""/>
+ <Vlec10 id=""/>
+ <Vrep10 id=""/>
+ <Vlec11 id=""/>
+ <Vrep11 id=""/>
+ <Vlec12 id=""/>
+ <Vevangile id=""/>
+ <Voraison id=""/>
+ <HYMNUS_laudes>hy_Splendor_paternae_gloriae</HYMNUS_laudes>
+ <ant1>AN_Beati_qui_habitant</ant1>
+ <ps1>ps83</ps1>
+ <ant2>AN_Venite_et_ascendamus</ant2>
+ <ps2>AT17</ps2>
+ <ant3>AN_Cantate_Domino_benedicite</ant3>
+ <ps3>ps95</ps3>
+ <LB_matin>LB_Iac_2_12-13</LB_matin> 
+ <RB_matin>RB_Benedictus_Dominus_A</RB_matin> 
+<benedictus>AN_Benedictus_Dominus_Deus</benedictus>
+<laudes_preces>perannum_32</laudes_preces><oratio_laudes>COL_Dirigere_et_sanctificare_regere_et_gubernare</oratio_laudes>
+
+<osb_laudes_ex_intitule id=""/>
+
+<osb_laudes_ex_ps1 id=""/>
+
+<osb_laudes_ex_ps2 id=""/>
+
+<osb_laudes_ex_ps3 id=""/>
+
+<osb_laudes_ex_ps4 id=""/>
+
+<osb_laudes_ex_ps5 id=""/>
+
+<osb_laudes_ex_ant1 id=""/>
+
+<osb_laudes_ex_ant2 id=""/>
+
+<osb_laudes_ex_ant3 id=""/>
+
+<osb_laudes_ex_ant4 id=""/>
+
+<osb_laudes_ex_ant5 id=""/>
+
+<osb_laudes_ex_hymne id=""/>
+
+<osb_laudes_ex_vers id=""/>
+
+<osb_laudes_ex_LB id=""/>
+
+<osb_laudes_ex_RB id=""/>
+
+<osb_laudes_ex_benedictus id=""/>
+
+<osb_laudes_ex_oratio id=""/>
+
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+
+<osb_sexte_ant id=""/>
+
+<osb_none_ant id=""/>
+
+<osb_sexte_ps1 id=""/>
+
+<osb_sexte_ant2 id=""/>
+
+<osb_sexte_ant3 id=""/>
+
+<osb_none_ps1 id=""/>
+
+<osb_none_ant2 id=""/>
+
+<osb_none_ant3 id=""/>
+
+<ant4>AN_Mandata_tua_exquisivi</ant4>
+
+<ps4>ps118XII</ps4>
+
+<ant5>AN_Domine_spes_mea</ant5>
+
+<ps5>ps70I</ps5>
+
+<ant6>AN_Usque_in_senectam</ant6>
+
+<ps6>ps70II</ps6>
+
+<LB_3>LB_2_Cor_13_11</LB_3>
+
+<RB_3>VERS_Oculi_Domini</RB_3>
+
+<LB_6>LB_Rom_6_22</LB_6>
+
+<RB_6>VERS_Deus_tu</RB_6>
+
+<LB_9>LB_Col_1_21-22</LB_9>
+
+<RB_9>VERS_Psallite_Domino</RB_9>
+
+<oratio_3>COL_Deus_Pater_optime_qui_laborem_hominibus</oratio_3>
+
+<oratio_6>COL_Deus_qui_messis_ac_vineae_dominus </oratio_6>
+
+<oratio_9>COL_Deus_qui_nos_advocas_illa_hora</oratio_9>
+
+<intitule_soir><la>Feria II post Pentecosten</la></intitule_soir>
+
+<rang_soir><la/></rang_soir>
+
+<office_soir><la/></office_soir>
+
+<HYMNUS_vepres>hy_Immense_caeli_conditor</HYMNUS_vepres>
+
+<ant7>AN_Oculi_nostri_semper</ant7>
+
+<ps7>ps122</ps7>
+
+<ant8>AN_Adiutorium_nostrum_in</ant8>
+
+<ps8>ps123</ps8>
+
+<ant9>AN_In_Filio_suo</ant9>
+
+<ps9>NT4</ps9>
+
+<LB_soir>LB_Iac_4_11-12</LB_soir>
+
+<RB_soir>RB_Sana_animam_meam</RB_soir>
+
+<magnificat>AN_Magnificat_anima_mea</magnificat>
+
+<vepres_preces>perannum_32</vepres_preces>
+
+<oratio_vepres>COL_Deus_qui_lumen_indeficiens_merito_praedicaris</oratio_vepres>
+
+<osb_vepres_ps1 id=""/>
+
+<osb_vepres_ps2 id=""/>
+
+<osb_vepres_ps3 id=""/>
+
+<osb_vepres_ps4 id=""/>
+
+<osb_vepres_ant1 id=""/>
+
+<osb_vepres_ant2 id=""/>
+
+<osb_vepres_ant3 id=""/>
+
+<osb_vepres_ant4 id=""/>
+
+<osb_vepres_hymne id=""/>
+
+<osb_vepres_vers id=""/>
+
+<osb_vepres_LB id=""/>
+
+<osb_vepres_RB id=""/>
+
+<osb_vepres_magnificat id=""/>
+
+<osb_vepres_oratio id=""/>
+
+<osb_vepres_ex_intitule id=""/>
+
+<osb_vepres_ex_ps1 id=""/>
+
+<osb_vepres_ex_ps2 id=""/>
+
+<osb_vepres_ex_ps3 id=""/>
+
+<osb_vepres_ex_ps4 id=""/>
+
+<osb_vepres_ex_ant1 id=""/>
+
+<osb_vepres_ex_ant2 id=""/>
+
+<osb_vepres_ex_ant3 id=""/>
+
+<osb_vepres_ex_ant4 id=""/>
+
+<osb_vepres_ex_hymne id=""/>
+
+<osb_vepres_ex_vers id=""/>
+
+<osb_vepres_ex_LB id=""/>
+
+<osb_vepres_ex_RB id=""/>
+
+<osb_vepres_ex_magnificat id=""/>
+
+<osb_vepres_ex_oratio id=""/>
+		
+
+<HYMNUS_complies>hy_Te_lucis_ante_terminum</HYMNUS_complies>
+
+<comp_RB>RB_In_manus_tuas</comp_RB>
+
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+
+<comp_ps1>ps85</comp_ps1>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio>
+
+<comp_AM>Salve_regina</comp_AM><messe>
+	
+<IN>IN_Domine_in_tua_misericordia</IN>
+	
+<KY/>
+	
+<GLO/>
+<COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_semper</COL>			
+	
+<LEC1>Jc3,13-18</LEC1>	
+	
+<PS1>GR_Ego_dixi_Domine</PS1>
+	
+<LEC2/>
+	
+<PS2>AL_Verba_mea </PS2>
+	
+<SEQ/>
+	
+<EV>Mc9,14-29</EV>
+	
+<OF>OF_Intende_voci</OF>
+	
+<SO/>
+	
+<PREF/>
+	
+<SAN/>
+	
+<CAN/>
+	
+<AGN/>
+	
+<CO>CO_Narrabo</CO>
+	
+<PC/>
+	
+<ML_IN/>
+	
+<ML_PS/>
+	
+<ML_AL/>
+	
+<ML_CO/>
+	
+</messe>
+	
+</ordo>
+
+<viergemarie>
+ <intitule> </intitule></viergemarie>
+
+<jerusalem/>
+
+<piete>
+ <intitule/></piete>
+
+<calendriercivil>
+ <intitule/></calendriercivil>
+
+<journeesdediees>
+ <intitule/></journeesdediees>
+
+<biographie>
+ <intitule>St Andr&#xE9; Bobola</intitule>
+ <biographiecourte>Pr&#xEA;tre j&#xE9;suite &#xE0; Vilnius, le "ravisseur d'&#xE2;mes", oeuvra pour l'entente entre Rome et les Orthodoxes, Mort martyre en 1657</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie>
+
+<martyrologe><para>
+            Le 16 mai</para><para>1. &#xC0; Uzale en Afrique proconsulaire, comm&#xE9;moraison des saints martyrs F&#xE9;lix et Gennade. </para><para>2. &#xC0; Osime dans le Picenum, les saints martyrs Florent et Diocl&#xE9;tien. </para><para>3. En Perse, l&#x2019;an&#xA0;375 ou 376, les saints martyrs Abdas et &#xC9;bed-J&#xE9;sus, &#xE9;v&#xEA;ques, mis &#xE0; mort sous le roi Sapor II avec trente-huit compagnons. </para><para>4. &#xC0; Bouhy sur le territoire d&#x2019;Auxerre, peut-&#xEA;tre au IIIe si&#xE8;cle, la passion de saint P&#xE8;lerin, martyr, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;vang&#xE9;lisateur et &#xE9;v&#xEA;que de la cit&#xE9;. </para><para>5. Comm&#xE9;moraison de saint Possidius, &#xE9;v&#xEA;que de Calamo en Numidie, qui fut le disciple et l&#x2019;ami fid&#xE8;le de saint Augustin qu&#x2019;il assista &#xE0; sa mort et dont il &#xE9;crivit la vie remarquable. Chass&#xE9; de sa cit&#xE9; par le roi arien Gens&#xE9;ric, il mourut &#xE0; une date incertaine, apr&#xE8;s 437. </para><para>6. &#xC0; Troyes, vers&#xA0;540, saint Fale, ou Fidole, pr&#xEA;tre. Fait prisonnier de guerre en Auvergne, par le roi d&#x2019;Austrasie, Thierry, et emmen&#xE9; en Champagne, il fut rachet&#xE9; par l&#x2019;abb&#xE9; saint Aventin, qui le forma au service de Dieu et l&#x2019;&#xE9;tablit abb&#xE9; &#xE0; sa place. </para><para>7. En Irlande, vers 577, saint Brendan, abb&#xE9; de Clonfert et propagateur valeureux de la vie monastique, devenu le h&#xE9;ros d&#x2019;exploits fabuleux racont&#xE9;s dans la c&#xE9;l&#xE8;bre Navigation de saint Brendan. </para><para>8. &#xC0; Amiens, vers 600, saint Honor&#xE9;, &#xE9;v&#xEA;que.</para><para>9*. Au pays de Galles, vers le VIe si&#xE8;cle, saint Carantec, abb&#xE9; de Cardigan, c&#xE9;l&#xE9;br&#xE9; aussi en Irlande, en Cornouailles et en Bretagne.</para><para>10. En Palestine, l&#x2019;an&#xA0;616, la passion de quarante-quatre saints moines qui furent massacr&#xE9;s et mis en pi&#xE8;ces, sous le r&#xE8;gne de l&#x2019;empereur H&#xE9;raclius, par des Sarrasins qui firent irruption dans la laure de Saint-Sabas.</para><para>11. Saint Germain &#xE0; Toulouse, &#xE9;v&#xEA;que</para><para>12. &#xC0; Gubbio en Ombrie, l&#x2019;an&#xA0;1160, saint Ubald, &#xE9;v&#xEA;que, qui travailla &#xE0; restaurer la vie commune de ses clercs. </para><para>13*. &#xC0; Fermo dans les Marches, vers 1215, saint Adam, abb&#xE9; du monast&#xE8;re de Saint-Sabin. </para><para>14. &#xC0; Bordeaux, en 1215, le tr&#xE9;pas du bienheureux Simon Stock, pr&#xEA;tre. D&#x2019;abord ermite en Angleterre, il entra dans l&#x2019;ordre des Carmes, qu&#x2019;il dirigea admirablement. C&#xE9;l&#xE8;bre par sa d&#xE9;votion singuli&#xE8;re envers la Vierge Marie, il mourut en visitant les couvents de son Ordre en France. </para><para>15. &#xC0; Janov, pr&#xE8;s de Pinsk sur le Pripet, aux confins de la Pologne, en 1657, saint Andr&#xE9; Bobola, pr&#xEA;tre de la Compagnie de J&#xE9;sus et martyr. Il travailla avec &#xE9;nergie &#xE0; l&#x2019;union des chr&#xE9;tiens, mais il dut subir toutes sortes d&#x2019;injures et de coups et finalement, enlev&#xE9; par des soldats et horriblement mutil&#xE9;, il donna volontiers, avec son sang, le t&#xE9;moignage supr&#xEA;me de la foi. </para><para>16*. Au camp de concentration de Dachau en Bavi&#xE8;re, l&#x2019;an&#xA0;1942, le bienheureux Michel Wozniak, pr&#xEA;tre de Varsovie et martyr. Sous le r&#xE9;gime nazi que subit la Pologne pendant la Seconde guerre mondiale, il fut d&#xE9;port&#xE9; et mourut &#xE9;puis&#xE9; par les s&#xE9;vices qui lui furent inflig&#xE9;s. </para><para>17*. &#xC0; Drohobych en Ukraine, l&#x2019;an&#xA0;1946, le bienheureux Vital-Vladimir Bajrak, pr&#xEA;tre de l&#x2019;Ordre de Saint-Josaphat et martyr, qui fut d&#xE9;tenu dans la prison de cette ville &#xE0; cause de sa foi et y mourut. </para><para>**&#xA0; &#xA0; &#xA0; &#xA0; En Roumanie, en 1954 , le bienheureux Vladimir Ghika, martyr, prince roumain d'origine orthodoxe qui se convertit au catholicisme romain et fut ordonn&#xE9; pr&#xEA;tre. Diplomate du Saint-Si&#xE8;ge, fondateur d'hospices, adversaire du nazisme comme du communisme, il fut arr&#xEA;t&#xE9; &#xE0; pr&#xE8;s de 80 ans et mourut en prison. &#xA0;(b&#xE9;atifi&#xE9; le31 aout 2013 par le pape Fran&#xE7;ois)</para></martyrologe>
+
+<compendium/>
+
+</calendarium>
