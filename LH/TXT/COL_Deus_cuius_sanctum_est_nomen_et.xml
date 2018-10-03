@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<oratio id="COL_Deus_cuius_sanctum_est_nomen_et">
-
-<xml>LH1985</xml>
-<ligne><la>Deus, cuius sanctum est nomen et misericórdia a progénie in progénies celebrátur, pópulum tuum súscipe supplicántem, eíque tríbue perpétuo te magnificáre præcónio. Per Dóminum.</la><fr></fr></ligne></oratio>
+<liturgia><ligne id="0"><la>Deus, cuius sanctum est nomen et misericórdia a progénie in progénies celebrátur, pópulum tuum súscipe supplicántem, eíque tríbue perpétuo te magnificáre præcónio. Per Dóminum.</la><fr>Seigneur, dont le nom est saint, et la miséricorde s'étend d'âge en âge; reçois la supplication de Ton peuple et donne-lui de Te magnifier en une perpétuelle louange.</fr></ligne></liturgia>

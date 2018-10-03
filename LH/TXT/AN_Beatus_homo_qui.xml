@@ -1,4 +1,2 @@
-<?xml version="1.0"?>
-<liturgia id="AN_Beatus_homo_qui"> <ref>LH1985</ref><ligne id="0">
-<la>Be&#xE1;tus homo, qui corr&#xED;pitur a Deo: ipse v&#xFA;lnerat et med&#xE9;tur.</la><fr>Heureux l'homme que Dieu ch&#xE2;tie! Car il fait la blessure, et il la bande.</fr></ligne>
-</liturgia>
+<?xml version="1.0" encoding="UTF-8"?>
+<liturgia><ligne id="0"><la>Beátus homo, qui corrípitur a Deo: ipse vúlnerat et medétur.</la><fr>Heureux l'homme que Dieu châtie! Car Il fait la blessure, et Il la bande.</fr></ligne></liturgia>

@@ -1,19 +1,2 @@
-<?xml version="1.0"?>
-<liturgia> <ligne id="0">
-<fr>Graduel</fr><la>Graduale</la></ligne>
-<ligne id="1">
-<fr>&#xD;
-</fr><la>&#xD;
-Ps. 144, 15-16</la></ligne>
-<ligne id="2">
-<fr>&#xD;
-Les yeux de tous esp&#xE8;rent en Toi, Seigneur : et Tu leur donnes leur nourriture en son temps. V/. Tu ouvres Ta main : * et Tu combles de b&#xE9;n&#xE9;dictions tout ce qui a vie.</fr><la>&#xD;
-Oculi &#xF3;mnium in te sperant, D&#xF3;mine: et tu das illis escam in t&#xE9;mpore opport&#xFA;no. V/. Aperis tu manum tuam: et imples omne &#xE1;nimal benedicti&#xF3;ne.</la></ligne>
-<ligne id="3"><fr>&#xD;
-</fr><la>&#xD;
-</la></ligne><ligne id="4"><fr>&#xD;
-</fr><la>&#xD;
-</la></ligne><ligne id="5"><fr>&#xD;
-</fr><la>&#xD;
-</la></ligne><ligne id="6"><la>&#xD;
-</la></ligne></liturgia>
+<?xml version="1.0" encoding="UTF-8"?>
+<liturgia><ligne id="0"><la>Graduale</la><fr>Graduel</fr></ligne><ligne id="1"><la>Ps. 144, 15-16</la><fr/></ligne><ligne id="2"><la>R/. Oculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno. V/. Aperis tu manum tuam: et imples omne ánimal benedictióne.</la><fr>R/. Les yeux de tous espèrent en Toi, Seigneur : et Tu leur donnes leur nourriture en son temps. V/. Tu ouvres Ta main : * et Tu combles de bénédictions tout ce qui a vie.</fr></ligne><ligne id="3"><la/><fr/></ligne><ligne id="4"><la/><fr/></ligne><ligne id="5"><la/><fr/></ligne><ligne id="6"><la/><fr/></ligne></liturgia>
