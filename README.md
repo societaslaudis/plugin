@@ -1,5 +1,6 @@
 # plugin
-Ceci est un plugin wordpress destiné à afficher les textes de la liturgie du jour (office divin et messe). Le calendrier qui est utilisé est générable en ligne de commande PHP-CLI avec le code présent dans l'autre dépôt (societaslaudis/liturgia)
+Ceci est un plugin wordpress destiné à afficher les textes de la liturgie du jour (office divin et messe). Le calendrier qui est utilisé est générable en ligne de commande PHP-CLI avec le code présent dans l'autre dépôt https://github.com/societaslaudis/liturgia
+
 
 Installez-le donc classiquement comme un plugin wordpress standar dans [racine_de_votre_site_]/wp-contents/plugins/
 
