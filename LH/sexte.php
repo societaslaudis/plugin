@@ -99,7 +99,7 @@ $sexte.= antienne($arr,$lang,"3");
 $sexte.=psaume("ps124",$lang);
 
 
-return $sexte;
+return rougis_verset($sexte);
 }
 
 

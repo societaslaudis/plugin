@@ -1,9 +1,3 @@
-<?xml version="1.0"?>
-<liturgia> <ligne id="0">
-<la>Ad Hebraeos (2,9-11)
-</la></ligne>
-<ligne id="1">
-<la>Fratres: Eum autem, qui paulo minus ab &#xE1;ngelis minor&#xE1;tus est, vid&#xE9;mus I&#xE9;sum propter passi&#xF3;nem mortis gl&#xF3;ria et hon&#xF3;re coron&#xE1;tum, ut gr&#xE1;tia Dei pro &#xF3;mnibus gust&#xE1;verit mortem. Dec&#xE9;bat enim eum, propter quem &#xF3;mnia et per quem &#xF3;mnia, qui multos f&#xED;lios in gl&#xF3;riam add&#xFA;xit, ducem sal&#xFA;tis e&#xF3;rum per passi&#xF3;nes consumm&#xE1;re. Qui enim sanct&#xED;ficat et qui sanctific&#xE1;ntur, ex uno omnes; propter quam causam non erub&#xE9;scit fratres eos voc&#xE1;re.</la></ligne>
-<ligne id="2">
-<la>nt, in aures D&#xF3;mini S&#xE1;baoth introi&#xE9;runt. Epul&#xE1;ti estis super terram et in lux&#xFA;riis fu&#xED;stis, enutr&#xED;stis corda vestra in die occisi&#xF3;nis. Addix&#xED;stis, occid&#xED;stis i&#xFA;stum. Non res&#xED;stit vobis."</la></ligne>
-</liturgia>
+<?xml version="1.0" encoding="UTF-8"?>
+<liturgia><ligne id="0"><la>Ad Hebraeos (2,9-11)
+</la><fr/></ligne><ligne id="1"><la>Fratres: Eum qui paulo minus ab ángelis minorátus est, vidémus Iésum propter passiónem mortis glória et honóre coronátum, ut grátia Dei pro ómnibus gustáverit mortem. Decébat enim eum, propter quem ómnia et per quem ómnia, qui multos fílios in glóriam addúxit, ducem salútis eórum per passiónes consummáre. Qui enim sanctíficat et qui sanctificántur, ex uno omnes; propter quam causam non erubéscit fratres eos vocáre.</la><fr>Frères : celui qui avait été abaissé (pour) un peu (de temps) au-dessous des anges, c'est-à-dire Jésus, nous le voyons, à cause de ses souffrances et de sa mort, couronné de gloire et d'honneur, afin que, par la grâce de Dieu, il goûtât la mort pour tous. Car il convenait que celui pour lequel et par lequel sont toutes choses, qui voulait conduire à la gloire un grand nombre de fils, élevât à la perfection (de consommer) par les souffrances l'auteur de leur salut. Car celui qui sanctifie et ceux qui sont sanctifiés sont tous issus d'un seul (une seule nature). C'est pourquoi il ne rougit pas de les appeler frères.</fr></ligne><ligne id="2"><la/><fr/></ligne></liturgia>

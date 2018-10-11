@@ -91,7 +91,7 @@ $none.= antienne($arr,$lang,"3");
 $none.=psaume("ps127",$lang);
 
 
-return $none;
+return rougis_verset($none);
 }
 
 

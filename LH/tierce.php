@@ -90,6 +90,6 @@ $ar=$xml->xpath("ordo[@id='RE']/ant5");
 $arr=$ar[0];
 $tierce.= antienne($arr,$lang,"3");
 $tierce.=psaume("ps121",$lang);
-return $tierce;
+return rougis_verset($tierce);
 }
 ?>
